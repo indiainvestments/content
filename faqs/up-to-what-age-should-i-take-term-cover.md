@@ -12,7 +12,7 @@ That doesn't necessarily mean you'd need to actually buy a policy, that covers y
 
 A term cover is an _income replacement_ plan. That is, there are family members, who are financially dependent upon your income. In the event of your demise, the term cover payout is supposed to cover for that.
 
-By the time you're of retirement age say 60-65 year old, no one in your family should be dependent on your income. You should have amassed enough wealth through decades of investing & savings, that in the event of your demise, your nominess can just inherit those.
+By the time you're of retirement age say 60-65 year old, no one in your family should be dependent on your income. You should have amassed enough wealth through decades of investing & savings, that in the event of your demise, your nominees can just inherit those.
 
 Simpler analogy would be how you don't need an umbrella once you're under a roof, even if it's raining outside.
 
