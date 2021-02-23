@@ -18,7 +18,7 @@ The phrase _beating the market_ can mean different things for different people. 
 
 ### Beating the index
 
-It's easy to achieve average market performance, one simply needs to _buy the market_ through a low cost index or exchange trading fund - and there's nothing wrong with aiming to get what is known as market returns; between February 2000 to 2020, over a 20 year period, Nifty Total Return Index  returned a compounded annualized growth rate of 14.3% per year, comfortably beating inflation.
+It's easy to achieve average market performance, one simply needs to _buy the market_ through a low cost index or exchange trading fund - and there's nothing wrong with aiming to get what is known as market returns; between February 2000 to 2020, over a 20 year period, Nifty Total Return Index returned a compounded annualized growth rate of 14.3% per year, comfortably beating inflation.
 
 If **efficient market hypothesis** is to be believed, stock prices reflect consensus view of all publicly available information that can have a material impact on the price action of the stock. However, that doesn't render the exercise of finding mismatches between price and intrinsic value of a stock ineffectual. Instead, it involves finding instances where the consensus view of the market is itself inaccurate, thus creating an opportunity to make money from the divergence.
 

@@ -54,11 +54,11 @@ Jeffrey Gundlach – A [short intro](http://www.crossingwallstreet.com/archives/
 #### Finance Aggregators
 
 1. [Abnormal Returns](https://abnormalreturns.com)
-2. Indian Blogs -     
+2. Indian Blogs -
 
-     a. [Subramoney](http://www.subramoney.com)    
+   a. [Subramoney](http://www.subramoney.com)
 
-     b. [MF Critic](https://mfcritic.blogspot.com/)
+   b. [MF Critic](https://mfcritic.blogspot.com/)
 
-     c. [The Eighty Twenty Investor](https://eightytwentyinvestor.com/)
+   c. [The Eighty Twenty Investor](https://eightytwentyinvestor.com/)
 
