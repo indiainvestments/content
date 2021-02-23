@@ -15,5 +15,5 @@ If you want to discuss anything on this website with other people, please check 
 
 ## License
 
-All the content here is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+All the content here is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by/4.0/).
 
