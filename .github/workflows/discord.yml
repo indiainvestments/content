@@ -18,6 +18,6 @@ jobs:
           uses: indiainvestments/faq-to-discord-action@main
           with:
             faq_glob: "faqs/*.md"
-            website_base_url: "https://india-investments.gitbook.io/content"
+            website_base_url: ${{ secrets.GITBOOK_DOMAIN }}
             discord_token: ${{ secrets.DISCORD_TOKEN }}
             discord_channel: ${{ secrets.DISCORD_CHANNEL }}
