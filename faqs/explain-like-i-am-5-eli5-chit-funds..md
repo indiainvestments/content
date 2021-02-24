@@ -7,9 +7,9 @@ description: >-
 
 # What are chit funds? Should I invest?
 
-## **How does a chit fund work? ELI5 version**
+## **How does a chit fund work: ELI5 version**
 
-It is a savings plus credit/loan product. There is an organizer \(a.k.a foreman\) and there are a specified number of members, who agree to pool/pay/deposit a specified amount of money periodically for a pre-decided fixed duration.
+It is a savings plus credit / loan product. There is an _**organizer**_ \(a.k.a foreman\) and there are a specified number of members, who agree to pool/pay/deposit a specified amount of money periodically for a pre-decided fixed duration.
 
 E.g. there can be a chit fund with 20 members \(and a separate 21st organizer who conducts the whole show\), and they agree to pool Rs 1000 every month for 20 months. So, a fixed number of members, periodic deposit monthly, deposit amount of rs 1000 and fixed total period of 20 months. In the first month, the total amount of deposit would be 20,000.
 
@@ -39,9 +39,9 @@ The overall income is taxable as income from other sources.
 
 The overall loss can be claimed as business loss.
 
-\_Eg. if a member receives Rs. 22,000 instead of Rs. 20,000, then Rs. 2,000 would be taxable as Income from other sources.
+E.g. if a member receives Rs. 22,000 instead of Rs. 20,000, then Rs. 2,000 would be taxable as Income from other sources.
 
-\_While if a member receives Rs. 18,000 instead of Rs. 20,000, then the difference of Rs. 2,000 can be claimed as a business loss.
+While if a member receives Rs. 18,000 instead of Rs. 20,000, then the difference of Rs. 2,000 can be claimed as a business loss.
 
 ### Benefits of Chit Funds
 
