@@ -8,7 +8,7 @@
 * [Which date\(s\) is/are best for SIP in a month?](faqs/which-date-s-is-are-best-for-sip-in-a-month.md)
 * [Can you beat the market?](faqs/can-you-beat-the-market.md)
 * [Should I get a Demat Account to buy units in Mutual Funds?](faqs/should-i-get-a-demat-account-to-buy-units-in-mutual-funds.md)
-* [Explain Like I am 5 \(ELI5\) Chit funds.](faqs/explain-like-i-am-5-eli5-chit-funds..md)
+* [What are chit funds? Should I invest?](faqs/explain-like-i-am-5-eli5-chit-funds..md)
 * [I’ve to invest in ELSS for 80C tax saving. Which fund\(s\) should I pick?](faqs/ive-to-invest-in-elss-for-80c-tax-saving.-which-fund-s-should-i-pick.md)
 * [Should I invest in this LIC policy?](faqs/should-i-invest-in-this-lic-policy.md)
 * [Opinions on investing in smart wealth plan by bank?](faqs/opinions-on-investing-in-smart-wealth-plan-by-bank.md)

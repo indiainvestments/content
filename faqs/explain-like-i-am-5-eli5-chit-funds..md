@@ -5,9 +5,9 @@ description: >-
   called as chit, kitty, chitty, kuri, etc.
 ---
 
-# Explain Like I am 5 \(ELI5\) Chit funds.
+# What are chit funds? Should I invest?
 
-## **How does a chit fund work?**
+## **How does a chit fund work? ELI5 version**
 
 It is a savings plus credit/loan product. There is an organizer \(a.k.a foreman\) and there are a specified number of members, who agree to pool/pay/deposit a specified amount of money periodically for a pre-decided fixed duration.
 
