@@ -85,9 +85,9 @@ If you click on either the company's _Sector_ or _Industry_, you can look at the
 
 ![](https://i.imgur.com/57GKZ48.png)
 
-You can also use the _'Detailed comparison with'_ option to get a head to head comparison of the company with one of its peer if you have a paid subscription.
+You can also use the _'Detailed comparison with'_  option to get a head to head comparison of the company with one of its peer if you have a paid subscription.
 
-If you're unsure what to look for, don't worry! We've covered how to compare a company to its peer in _'Researching a sector'_ and _'Understanding a business'_ sections of this bundle.
+If you're unsure what to look for, don't worry! We've covered how to compare a company to its peer in _'_[_Researching a sector'_ ](https://indiainvestments.gitbook.io/content/wiki/researching-a-sector) and _'_[_Understanding a business'_ ](https://indiainvestments.gitbook.io/content/wiki/understanding-a-business) chapter of this series.
 
 #### Quarterly results section
 
@@ -204,7 +204,7 @@ More importantly, you can set up a custom template for excel sheets downloaded b
 
 ![](https://i.imgur.com/EC2JEW0.png)
 
-* Delete everything on this tab. This is now a blank slate to put everything you want to see in your custom template. Use the financial data from other tabs of this excel sheet for calculations done in this tab. For ideas, you can refer to _Financial statements_ and _Financial ratios_ section in this bundle and see what is missing on Screener by default. 
+* Delete everything on this tab. This is now a blank slate to put everything you want to see in your custom template. Use the financial data from other tabs of this excel sheet for calculations done in this tab. For ideas, you can refer to [_Financial statements_](https://indiainvestments.gitbook.io/content/wiki/financial-statements) and [_Financial ratios_](https://indiainvestments.gitbook.io/content/wiki/financial-ratios) chapters in this series and see what is missing on Screener by default. 
 * For illustration purposes, I've used this tab to find estimated free cash flows of a company over the past few years. Free cash flows are calculated as `FCF = Cash flows from Operations - Capital expenditure`. I've used `cash flow from operations` data from the cash-flows tab of this sheet, and calculated `capex` using `fixed assets` and `capital work in progress` from the balance sheet tab & using `depreciation` from the profit and loss \(P&L\) tab of this sheet.
 
 ![](https://i.imgur.com/PdJCFYY.png)
