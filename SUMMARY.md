@@ -23,9 +23,10 @@
 ## Wiki
 
 * [Are you a Stock or Bond?](wiki/are-you-a-stock-or-bond.md)
-* [Due Diligence \(DD\) checklist](wiki/due-diligence-dd-checklist.md)
 * [Critical Mass](wiki/critical-mass.md)
 * [Time Value of Money](wiki/time-value-of-money.md)
 * [US Investing](wiki/us-investing.md)
 * [Recommended Reading](wiki/recommended-reading.md)
+* [Due Diligence \(DD\) checklist](wiki/due-diligence-dd-checklist.md)
+* [Researching a Sector](wiki/researching-a-sector.md)
 
