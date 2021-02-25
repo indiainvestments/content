@@ -26,7 +26,7 @@ In India, there are many screeners available to you for free. Some of these scre
 * [Screener](https://www.screener.in/)'s interface/feature set is **mostly** neutral and thus doesn't introduce a lot of bias. The screening itself is more flexible/comprehensive than most other screeners \(maybe barring Tijori\), and allows exporting financial data to an excel sheet \(you can customize the sheet's template!\). However, the interface can be slightly overwhelming for beginners, and some data that is freely available in annual reports, or other screeners is behind a paywall.
 * [Trendlyne](https://trendlyne.com/stock-screeners/) aggregates research reports for a company, and you can usually find audio files of conference calls held by a company about a day after being conducted. However, the actual screening is limiting, and the interface is not the most intuitive of the bunch.
 
-## [Screener.in](http://screener.in/)
+## Screener.in
 
 The two primary reasons we chose Screener \(capital S will refer to [screener.in](http://screener.in/) subsequently\) for illustration purposes of this section are,
 
@@ -53,17 +53,17 @@ You can find quick access to frequently sought information here such as,
 
 You can check financial graphs for a company under different timeframes in this section. There are a few options,
 
-* Price line chart with volume and a couple of daily moving averages,
+* Price line chart with volume and a couple of daily moving averages.
 
-  ![https://i.imgur.com/u9P0lP7.png](https://i.imgur.com/u9P0lP7.png)
+![](https://i.imgur.com/u9P0lP7.png)
 
-* Price to Earnings \(P/E\) line chart with trailing twelve months \(TTM\) Earnings per share \(EPS\), and a line indicating the median P/E for the selected timeframe, and
+* Price to Earnings \(P/E\) line chart with trailing twelve months \(TTM\) Earnings per share \(EPS\), and a line indicating the median P/E for the selected timeframe.
 
-  ![https://i.imgur.com/NIk1sYR.png](https://i.imgur.com/NIk1sYR.png)
+![](https://i.imgur.com/NIk1sYR.png)
 
 * Quarterly sales chart with gross profit margins \(GPM\), operating margins \(OPM\), and net profit margins \(NPM\) for the respective quarters.
 
-  ![https://i.imgur.com/lccZyWH.png](https://i.imgur.com/lccZyWH.png)
+![](https://i.imgur.com/lccZyWH.png)
 
 Though the charts here are good enough to serve their purpose, they are not as customizable, or comprehensive compared to other tools available, such as [TradingView](https://in.tradingview.com/).
 
@@ -113,7 +113,7 @@ Below the P&L data table, this section shows you compounded sales, profit, & sto
 
 ![](https://i.imgur.com/YKg33iY.png)
 
-We've covered how to read a profit & loss \(P&L\) statement and related financial data under _Financial statements_ section of this bundle.
+We've covered how to read a profit & loss \(P&L\) statement and related financial data under our [_Financial statements_](https://indiainvestments.gitbook.io/content/wiki/financial-statements) chapter of this series.
 
 #### Balance Sheet section
 
@@ -131,13 +131,13 @@ This section gives you past ten years of financial data for cash flows of the co
 
 ![](https://i.imgur.com/boHayvT.png)
 
-Figures for Free Cash Flows \(est.\) are unfortunately missing here, but can be found under a company's Tijori page, or calculate it yourself as shown in _Financial statements_ section of this bundle.
+Figures for Free Cash Flows \(est.\) are unfortunately missing here, but can be found under a company's Tijori page, or calculate it yourself as shown in [_Financial statements_](https://indiainvestments.gitbook.io/content/wiki/financial-statements) chapter of this series.
 
 ![](https://i.imgur.com/w67dYDx.png)
 
 #### Ratios section
 
-You can find return on capital employed \(in %\), debtor days, and inventory turnover of the company for the past few years in this section. This section could be ignored, as it is recommended you calculate these and many other ratios yourself while conducting due diligence for company, as explained in _Financial ratios_ section of this bundle.
+You can find return on capital employed \(in %\), debtor days, and inventory turnover of the company for the past few years in this section. This section could be ignored, as it is recommended you calculate these and many other ratios yourself while conducting due diligence for company, as explained in [_Financial ratios_](https://indiainvestments.gitbook.io/content/wiki/financial-ratios) chapter of this series.
 
 ![](https://i.imgur.com/EQiaEvW.png)
 
@@ -165,17 +165,18 @@ As remarked earlier, there are thousands of companies listed on the Bombay Stock
 
 * To screen companies on Screener, click on screens page at the top. You can find your previously saved, and some popular screens here.
 
-  ![https://i.imgur.com/KJnTMUH.png](https://i.imgur.com/KJnTMUH.png)
+![](https://i.imgur.com/KJnTMUH.png)
 
-* Click on the _Create new screen_ button. Here, you want to start adding your constraints, with the keyword `AND` separating them.
+* Click on the _Create new screen_ button. Here, you want to start adding your constraints, with the keyword `AND` separating them.  
+
 
   Suppose you want to get a list of companies with fairly large market cap, decent growth in revenue and earnings in the past few years, consistently good return on capital, and low debt. _Syntax_ for this query would look something like this,
 
-  ![https://i.imgur.com/90a7xEh.png](https://i.imgur.com/90a7xEh.png)
+![](https://i.imgur.com/90a7xEh.png)
 
 * This query gives us a list of public companies and some ratios \(customizable using the _edit columns_ button\) that match the financial constraints we've put. You have the option to save a query for conveniently running it again \(it can be located at the screens page from the top\).
 
-  ![https://i.imgur.com/NaXtUmP.png](https://i.imgur.com/NaXtUmP.png)
+![](https://i.imgur.com/NaXtUmP.png)
 
 ### Building custom ratios
 
@@ -199,22 +200,22 @@ You can export a company's financial data to a spreadsheet using the _'Export to
 
 More importantly, you can set up a custom template for excel sheets downloaded by the _'Export to excel'_ option. To do this,
 
-* First use the _'Export to excel'_ option for **any** company -- it doesn't matter which one. Then, open the excel sheet and go to the _'Customization'_ tab. It should look something like this
+* First use the _'Export to excel'_ option for **any** company -- it doesn't matter which one. Then, open the excel sheet and go to the _'Customization'_ tab. It should look something like this.
 
-  ![https://i.imgur.com/EC2JEW0.png](https://i.imgur.com/EC2JEW0.png)
+![](https://i.imgur.com/EC2JEW0.png)
 
-* Delete everything on this tab. This is now a blank slate to put everything you want to see in your custom template. Use the financial data from other tabs of this excel sheet for calculations done in this tab. For ideas, you can refer to _Financial statements_ and _Financial ratios_ section in this bundle and see what is missing on Screener by default.
+* Delete everything on this tab. This is now a blank slate to put everything you want to see in your custom template. Use the financial data from other tabs of this excel sheet for calculations done in this tab. For ideas, you can refer to _Financial statements_ and _Financial ratios_ section in this bundle and see what is missing on Screener by default. 
 * For illustration purposes, I've used this tab to find estimated free cash flows of a company over the past few years. Free cash flows are calculated as `FCF = Cash flows from Operations - Capital expenditure`. I've used `cash flow from operations` data from the cash-flows tab of this sheet, and calculated `capex` using `fixed assets` and `capital work in progress` from the balance sheet tab & using `depreciation` from the profit and loss \(P&L\) tab of this sheet.
 
-  ![https://i.imgur.com/PdJCFYY.png](https://i.imgur.com/PdJCFYY.png)
+![](https://i.imgur.com/PdJCFYY.png)
 
 * Now, save this excel sheet, and upload it [here](https://www.screener.in/excel/). You can always upload an updated sheet with more customization done later using the same page.
 
-  ![https://i.imgur.com/3qI7rTx.png](https://i.imgur.com/3qI7rTx.png)
+![](https://i.imgur.com/3qI7rTx.png)
 
 * All done! Try using the _'Export to excel'_ option for a different company -- you will find your custom ratios for this company added in the customization tab automatically.
 
-  ![https://i.imgur.com/lx8c8ba.png](https://i.imgur.com/lx8c8ba.png)
+![](https://i.imgur.com/lx8c8ba.png)
 
 ## Popular screens & further reading
 
