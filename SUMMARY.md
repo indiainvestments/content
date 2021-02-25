@@ -6,7 +6,6 @@
 
 * [What’s the best mutual fund I can invest in?](faqs/whats-the-best-mutual-fund-i-can-invest-in.md)
 * [Which date\(s\) is/are best for SIP in a month?](faqs/which-date-s-is-are-best-for-sip-in-a-month.md)
-* [Can you beat the market?](faqs/can-you-beat-the-market.md)
 * [Should I get a Demat Account to buy units in Mutual Funds?](faqs/should-i-get-a-demat-account-to-buy-units-in-mutual-funds.md)
 * [What are chit funds? Should I invest?](faqs/explain-like-i-am-5-eli5-chit-funds..md)
 * [I’ve to invest in ELSS for 80C tax saving. Which fund\(s\) should I pick?](faqs/ive-to-invest-in-elss-for-80c-tax-saving.-which-fund-s-should-i-pick.md)
@@ -27,6 +26,9 @@
 * [Time Value of Money](wiki/time-value-of-money.md)
 * [US Investing](wiki/us-investing.md)
 * [Recommended Reading](wiki/recommended-reading.md)
-* [Due Diligence \(DD\) checklist](wiki/due-diligence-dd-checklist.md)
+* [Can you beat the market?](wiki/can-you-beat-the-market.md)
 * [Researching a Sector](wiki/researching-a-sector.md)
+* [Reading an Annual Report — In the Indian context](wiki/reading-an-annual-report-in-the-indian-context.md)
+* [Using a screener to simplify financial analysis of a company](wiki/using-a-screener-to-simplify-financial-analysis-of-a-company.md)
+* [Due Diligence \(DD\) checklist](wiki/due-diligence-dd-checklist.md)
 
