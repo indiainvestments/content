@@ -29,13 +29,13 @@ Apart from the stock exchanges and the company's website, annual reports can als
 
   Once you are on BSE's websites, you can search for the company on the search bar located at top right of the website &gt; scroll down to find _Financials_ toggle in the left sidebar &gt; and click on _Annual Reports_ to find the past ten years of annual reports of the company.
 
-  ![https://i.imgur.com/bvbA6Us.png](https://i.imgur.com/bvbA6Us.png)
+![](https://i.imgur.com/bvbA6Us.png)
 
 * The **National Stock Exchange of India**'s website can be found at [https://www.nseindia.com/](https://www.nseindia.com/)
 
   You can simply search for the company's name in corporate filings &gt; [annual reports page](https://www.notion.so/%5B%3Chttps://www.nseindia.com/companies-listing/corporate-filings-annual-reports%3E%5D%28%3Chttps://www.nseindia.com/companies-listing/corporate-filings-annual-reports%3E%29) on NSE's website.
 
-  ![https://i.imgur.com/EjZlhmo.png](https://i.imgur.com/EjZlhmo.png)
+![](https://i.imgur.com/EjZlhmo.png)
 
 #### Investor Relations page on Company's website
 
@@ -106,19 +106,19 @@ Unlike _Management's letters to shareholders_, this section is mandated[^2](http
 
 * Industry structure & developments
 
-  ![https://i.imgur.com/9XVKQbb.png](https://i.imgur.com/9XVKQbb.png)
+![](https://i.imgur.com/9XVKQbb.png)
 
 * Opportunities & threats
 
-  ![https://i.imgur.com/iPUB1AV.png](https://i.imgur.com/iPUB1AV.png)
+![](https://i.imgur.com/iPUB1AV.png)
 
 * Segment-wise, or product-wise performance
 
-  ![https://i.imgur.com/kOZY3cT.png](https://i.imgur.com/kOZY3cT.png)
+![](https://i.imgur.com/kOZY3cT.png)
 
 * Risks and concerns
 
-  ![https://i.imgur.com/z0DEzcT.png](https://i.imgur.com/z0DEzcT.png)
+![](https://i.imgur.com/z0DEzcT.png)
 
 Apart from these, SEBI regulations[^1](https://www.sebi.gov.in/legal/regulations/sep-2015/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-regulations-2015-last-amended-on-january-08-2021-_37269.html) also make the inclusion of following points mandatory in this section:
 
@@ -183,21 +183,21 @@ The financial statements section includes standalone and consolidated \(where ap
 
 * The Profit & Loss \(P&L\) statement deals with information about revenues received by the company, expenses incurred, and profits earned by the company in the year under review.
 
-  ![https://i.imgur.com/ckfJ3HF.png](https://i.imgur.com/ckfJ3HF.png)
+![](https://i.imgur.com/ckfJ3HF.png)
 
 * The Balance Sheet statement is essentially taken as a snapshot at any specific time, providing information about the assets, liabilities, and shareholder's equity held by the company. Since it is taken as a snapshot at the end of year and carried forward, it shows us this information as a resultant of operations of the company since its incorporation.
 
-  ![https://i.imgur.com/BTN1T0C.png](https://i.imgur.com/BTN1T0C.png)
+![](https://i.imgur.com/BTN1T0C.png)
 
 * The cash flow statement gives us transactional details of the cash collected / earnt by the company _\(inflows\)_ from its operational and investment activities, and cash spent _\(outflows\)_ on financial, operational, and investment activities by the company.
 
-  ![https://i.imgur.com/7oR3RDv.png](https://i.imgur.com/7oR3RDv.png)
+![](https://i.imgur.com/7oR3RDv.png)
 
 * The statement of change in equity deals with transactions related to shareholder's equity in the year under review.
 
-  ![https://i.imgur.com/GIyKexf.png](https://i.imgur.com/GIyKexf.png)
+![](https://i.imgur.com/GIyKexf.png)
 
-We've covered how to understand financial statement under the [_'Financial statements — How to read them & what to look for'_](https://indiainvestments.github.io/wiki/financial-statements-how-to-read) section of this bundle.
+We've covered how to understand financial statement under the [_'Financial statements — How to read them & what to look for'_](https://indiainvestments.gitbook.io/content/wiki/financial-statements)  chapter of this series.
 
 ### Notes to Financial Statements
 
@@ -221,7 +221,7 @@ Companies are required by law to disclose all transactions \(transfer of resourc
 
 ![](https://i.imgur.com/onY0odd.png)
 
-We have talked about understanding related party transactions under the [_'Evaluation of management of a company from an investing perspective'_](https://indiainvestments.github.io/wiki/evaluation-management) section of this bundle.
+We have talked about understanding related party transactions under the [_'Evaluation of management of a company from an investing perspective'_](https://indiainvestments.gitbook.io/content/wiki/evaluation-of-management)  chapter of this series. 
 
 ## Some Recommendations
 
@@ -231,5 +231,5 @@ We have talked about understanding related party transactions under the [_'Evalu
 
 ## Conclusion
 
-We've previously mentioned the importance of conducting thorough due diligence while researching a company in the section [_Can you beat the market?_](https://indiainvestments.github.io/faqs/can-you-beat-the-market#reading-it-all)  section of this bundle. Reading an annual report is essential to get a better understanding of the business a company is engaged in, but sometimes the technical terms used in an annual report may repel the uninitiated, and so we've tried to explain most sections found in an annual report.
+We've previously mentioned the importance of conducting thorough due diligence while researching a company in the section [_Can you beat the market?_](https://indiainvestments.gitbook.io/content/wiki/can-you-beat-the-market)  chapter of this series. Reading an annual report is essential to get a better understanding of the business a company is engaged in, but sometimes the technical terms used in an annual report may repel the uninitiated, and so we've tried to explain most sections found in an annual report.
 
