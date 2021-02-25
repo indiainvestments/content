@@ -1,5 +1,12 @@
 # Researching a Sector
 
+#### Disclaimer & Disclosures
+
+* The author of this section **DOES NOT** have any long or short position for companies used in this section for illustration purposes as of the date of being published. This may or may not change in the future.
+* The companies used as examples are mentioned solely for educational purposes, mention of any company is random and is certainly **NOT** an investment recommendation.
+
+## Introduction
+
 As individual investors, our primary focus is to,
 
 * find disparities between a company's market price _\(the price at which it trades\)_ and its intrinsic value _\(the underlying value of the company we find fair\)_.
