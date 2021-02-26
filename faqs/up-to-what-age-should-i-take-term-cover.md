@@ -6,15 +6,27 @@ description: >-
 
 # Up to what age should I take term cover?
 
-Insurance companies these days, commonly offer term cover up to age 70, or even age of 80. This is even highlighted in their sales brochures or marketing materials.
+#### What really is term cover?
 
-That doesn't necessarily mean you'd need to actually buy a policy, that covers you till age of 80.
+A term cover is an _**income replacement plan**_. It should be covering you, till you've dependents who're reliant on your income, and miss it if something were to happen to you.
 
-A term cover is an _income replacement_ plan. That is, there are family members, who are financially dependent upon your income. In the event of your demise, the term cover payout is supposed to cover for that.
+This money would never be yours. It's meant for your family, in the event of something highly unlikely.
 
-By the time you're of retirement age say 60-65 year old, no one in your family should be dependent on your income. You should have amassed enough wealth through decades of investing & savings, that in the event of your demise, your nominees can just inherit those.
+#### How does it matter?
 
-Simpler analogy would be how you don't need an umbrella once you're under a roof, even if it's raining outside.
+It matters because for most people with income from salary or contract work; it'd be hard to sustain their income after age of 55-60.
 
-Take term cover up to an age that you think your financial dependents would be dependent on your income. Going beyond that, only increases the premium, without any benefit to you or your family.
+At that point, they'd ideally have enough savings or investment corpus, or annuity or pension to take care of their day to day expenses , for the rest of their remaining life.
+
+It's hard to imagine one having to support their immediate family members financially, after an age of 60.
+
+While most term insurers offer insurance coverage up to age of 70-75, or even 80 years of age; it only serves to increase the premium.
+
+You shouldn't have to buy a cover for a scenario, and pay extra in premiums; when you don't even need it.
+
+**Optimally, a term cover up to age of 55-60 makes sense**.
+
+Ideally, if you reach a state where your savings + investments far exceed the cover amount \(for example, by more than 2x-3x\); then it makes sense to cancel the policy and stop paying further premiums. In the event of your demise, your nominee\(s\) would simply inherit your corpus.
+
+
 
