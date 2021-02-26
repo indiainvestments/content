@@ -86,15 +86,17 @@ A value chain analysis refers to evaluating various aspects involved in running 
 * Procuring required raw materials & machinery,
 * Recruitment of labor / workforce,
 * Conducting Research & Development \(R&D\),
-* Building the product,
+* Building, testing, and releasing the product,
 * Managing & storing inventory, and
-* Marketing, distribution, delivery and installation of the product.
+* Marketing, distribution, delivery, installation & post-installation services of the product.
 
 We evaluate value chain of a company to,
 
 * Understand the value created by a company in a marketplace,
-* Understand potential inefficiencies and bottlenecks faced by a company in building & selling its product, and
+* Understand potential inefficiencies and bottlenecks faced by a company in building & selling its product,
 * Take account of steps taken by a company to weed out such inefficiencies and bottlenecks.
+* Analyse the value chain to see where costs can be reduced, and thus profits can be maximised, and
+* Understand the differentiation of various players which offers them competitive advantage. 
 
 If you think about it, a company's intrinsic value is _some_ function of the **additional** value it exclusively creates in the marketplace, and the **relative** efficiency with which it conducts its business. I feel this is roughly what people mean when they're referring to a company's _competitive edge_, or what Warren Buffett calls _moat_, which Investopedia[^5](https://www.notion.so/%28%3Chttps://www.investopedia.com/terms/e/economicmoat.asp%3E%29) defines as,
 
@@ -121,8 +123,8 @@ Companies like to keep their raw material _landed_ costs as low / benign as poss
 A company has few avenues to keep raw material costs benign, such as,
 
 * Using raw materials efficiently by optimizing usage and minimizing wastage.
-* Having favorable long term contracts with suppliers to safeguard against volatility.
-* Minimizing the proximity of the company's production site to the supplier, since transportation of raw materials is generally borne by the procurer.
+* Having favorable long term contracts with suppliers to safeguard against volatility and achieve security of supply at favorable prices.
+* Minimizing the proximity of the company's production site to the supplier, since transportation of raw materials is generally borne by the procurer, directly or indirectly.
 * Vertically integrating supply of raw materials.
 
 For example, Tata Metalliks, a company that was initially engaged in producing and selling pig iron, has opportunistically pivoted to primarily selling ductile iron pipes in recent years. Note that one of the key raw materials needed for producing ductile iron pipes is pig iron, which the company has been producing for years.[^9](https://timesofindia.indiatimes.com/business/india-business/tata-metaliks-to-evaluate-and-finalise-growth-strategy-soon/articleshow/59786816.cms)
@@ -158,7 +160,7 @@ For example, the IT sector would consider software developers and project manage
 
 Research and Development \(R&D\) costs refer to expenses incurred in innovation & enhancements of products, services, and various activities of a company. Such investments are essential for a company to stay competitive in the market. Generally, sectors with higher rate of change in underlying technology have higher R&D costs, such as health care, telecommunications, and automobiles.
 
-#### **Building the product**
+#### **Building, testing, and releasing the product**
 
 While the various input costs we've discussed so far affect the margins _\(a measure of profitability\)_ of a company, the real value addition of a company in the marketplace comes from its manufacturing or production activities. In other words, a company purchases inputs _\(such as raw materials, power, etc\)_ from its suppliers, and transforms these inputs into finished and marketable goods.
 
@@ -186,7 +188,7 @@ An example of this is the rice sector. As you may know, some kinds of rice are _
 
 #### **Marketing, distribution, & delivery of the product**
 
-Marketing, distribution, delivery & installation \(if applicable\) of the product are all customer-facing activities, associated with the part of value chain that is carried out after the company produces its finished goods. Essentially, marketing refers to a company's ability in effectively promoting the value of its products & creating an image of the brand, distribution refers to the various paths a product takes in reaching the end-user, and delivery refers to _how_ the company hands over the product to the end-user.
+Marketing, distribution, delivery, installation \(if applicable\), & post-installation services \(if applicable\) of the product are all customer-facing activities, associated with the part of value chain that is carried out after the company produces its finished goods. Essentially, marketing refers to a company's ability in effectively promoting the value of its products & creating an image of the brand, distribution refers to the various paths a product takes in reaching the end-user, and delivery refers to _how_ the company hands over the product to the end-user.
 
 You'll often find companies with _moats_ create value in this part of the value chain.
 
