@@ -14,7 +14,7 @@ If you want to discuss anything on this website with other people, please check 
 [![](https://img.shields.io/reddit/subreddit-subscribers/indiainvestments?style=social)](https://reddit.com/r/indiainvestments) [![](https://img.shields.io/discord/546638391127572500)](https://discord.gg/hqBNg4u)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Acknowledgements
@@ -53,6 +53,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://reddit.com/r/IndiaInvestments"><img src="https://avatars.githubusercontent.com/u/36945608?v=4?s=100" width="100px;" alt=""/><br /><sub><b>r/IndiaInvestments</b></sub></a><br /><a href="https://github.com/indiainvestments/content/commits?author=indiainvestments" title="Documentation">📖</a> <a href="#infra-indiainvestments" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/indiainvestments/content/commits?author=indiainvestments" title="Code">💻</a> <a href="https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3Aindiainvestments" title="Reviewed Pull Requests">👀</a> <a href="#tutorial-indiainvestments" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/zulienthegreat"><img src="https://avatars.githubusercontent.com/u/78473984?v=4?s=100" width="100px;" alt=""/><br /><sub><b>zulienthegreat</b></sub></a><br /><a href="#infra-zulienthegreat" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/indiainvestments/content/commits?author=zulienthegreat" title="Code">💻</a> <a href="https://github.com/indiainvestments/content/commits?author=zulienthegreat" title="Documentation">📖</a> <a href="https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3Azulienthegreat" title="Reviewed Pull Requests">👀</a> <a href="#tutorial-zulienthegreat" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/Itsmarzil"><img src="https://avatars.githubusercontent.com/u/78316021?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Marz</b></sub></a><br /><a href="https://github.com/indiainvestments/content/commits?author=Itsmarzil" title="Documentation">📖</a> <a href="https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3AItsmarzil" title="Reviewed Pull Requests">👀</a> <a href="#tutorial-Itsmarzil" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://github.com/onedotfour"><img src="https://avatars.githubusercontent.com/u/78316140?v=4?s=100" width="100px;" alt=""/><br /><sub><b>onedotfour</b></sub></a><br /><a href="https://github.com/indiainvestments/content/commits?author=onedotfour" title="Code">💻</a> <a href="https://github.com/indiainvestments/content/commits?author=onedotfour" title="Documentation">📖</a> <a href="https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3Aonedotfour" title="Reviewed Pull Requests">👀</a> <a href="#tutorial-onedotfour" title="Tutorials">✅</a></td>
   </tr>
 </table>
 
