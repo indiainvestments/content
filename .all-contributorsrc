@@ -53,6 +53,18 @@
         "review",
         "tutorial"
       ]
+    },
+    {
+      "login": "Cephalopterus",
+      "name": "Cephalopterus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66165136?v=4",
+      "profile": "https://github.com/Cephalopterus",
+      "contributions": [
+        "code",
+        "doc",
+        "review",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
