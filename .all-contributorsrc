@@ -203,6 +203,18 @@
         "review",
         "question"
       ]
+    },
+    {
+      "login": "VineetRDiscord",
+      "name": "VineetRDiscord",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48187416?v=4",
+      "profile": "https://github.com/VineetRDiscord",
+      "contributions": [
+        "infra",
+        "business",
+        "review",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,
