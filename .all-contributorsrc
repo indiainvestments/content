@@ -191,6 +191,18 @@
         "review",
         "question"
       ]
+    },
+    {
+      "login": "jimWithoutJam",
+      "name": "jimWithoutJam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78673642?v=4",
+      "profile": "https://github.com/JimWithoutJam",
+      "contributions": [
+        "infra",
+        "code",
+        "review",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,
