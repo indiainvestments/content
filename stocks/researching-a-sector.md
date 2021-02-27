@@ -66,7 +66,7 @@ Most, if not all sectors can further be divided into different segments, and you
 
 #### **What is the market size?**
 
-Market size refers to the potential revenue / volume a company can attain if it had a 100 percent market share in the sector. Determining market size helps us perceive,
+Market sizing refers to the estimation of a variable with little or no data available. In general, market size referes the potential revenue / volume a company can attain if it had 100 percent of estimated market share in the sector. Determining market size helps us perceive,
 
 * the growth potential of companies operating within a sector, and
 * the growth potential of the sector itself under conducive macroeconomic factors.
