@@ -65,6 +65,20 @@
         "review",
         "tutorial"
       ]
+    },
+    {
+      "login": "crimelabs786",
+      "name": "crimelabs786",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56079307?v=4",
+      "profile": "https://github.com/crimelabs786",
+      "contributions": [
+        "infra",
+        "code",
+        "doc",
+        "review",
+        "tutorial",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,
