@@ -14,7 +14,7 @@ If you want to discuss anything on this website with other people, please check 
 [![](https://img.shields.io/reddit/subreddit-subscribers/indiainvestments?style=social)](https://reddit.com/r/indiainvestments) [![](https://img.shields.io/discord/546638391127572500)](https://discord.gg/hqBNg4u)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Acknowledgements
@@ -65,6 +65,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Tulip2MF"><img src="https://avatars.githubusercontent.com/u/78700380?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tulip2mf</b></sub></a><br /><a href="https://github.com/indiainvestments/content/commits?author=tulip2mf" title="Documentation">📖</a> <a href="#tutorial-tulip2mf" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/villageindian"><img src="https://avatars.githubusercontent.com/u/78730706?v=4?s=100" width="100px;" alt=""/><br /><sub><b>villageindian</b></sub></a><br /><a href="https://github.com/indiainvestments/content/commits?author=villageindian" title="Documentation">📖</a> <a href="#tutorial-villageindian" title="Tutorials">✅</a> <a href="https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3Avillageindian" title="Reviewed Pull Requests">👀</a> <a href="#question-villageindian" title="Answering Questions">💬</a></td>
     <td align="center"><a href="https://github.com/namasteOriginally"><img src="https://avatars.githubusercontent.com/u/78691162?v=4?s=100" width="100px;" alt=""/><br /><sub><b>namasteOriginally</b></sub></a><br /><a href="https://github.com/indiainvestments/content/commits?author=namasteOriginally" title="Code">💻</a> <a href="#tutorial-namasteOriginally" title="Tutorials">✅</a> <a href="https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3AnamasteOriginally" title="Reviewed Pull Requests">👀</a> <a href="#question-namasteOriginally" title="Answering Questions">💬</a></td>
+    <td align="center"><a href="https://github.com/shryzel"><img src="https://avatars.githubusercontent.com/u/49168010?v=4?s=100" width="100px;" alt=""/><br /><sub><b>shryzel</b></sub></a><br /><a href="https://github.com/indiainvestments/content/commits?author=shryzel" title="Documentation">📖</a> <a href="#tutorial-shryzel" title="Tutorials">✅</a> <a href="https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3Ashryzel" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
