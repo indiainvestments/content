@@ -124,6 +124,16 @@
         "doc",
         "tutorial"
       ]
+    },
+    {
+      "login": "tulip2mf",
+      "name": "tulip2mf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78700380?v=4",
+      "profile": "https://github.com/Tulip2MF",
+      "contributions": [
+        "doc",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
