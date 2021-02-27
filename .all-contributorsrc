@@ -79,6 +79,19 @@
         "tutorial",
         "question"
       ]
+    },
+    {
+      "login": "reo-sam",
+      "name": "reo-sam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36949552?v=4",
+      "profile": "https://github.com/reo-sam",
+      "contributions": [
+        "code",
+        "doc",
+        "review",
+        "tutorial",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,
