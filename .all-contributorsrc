@@ -114,6 +114,16 @@
         "tutorial",
         "question"
       ]
+    },
+    {
+      "login": "I-am-Optimistic",
+      "name": "I-am-Optimistic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67626554?v=4",
+      "profile": "https://github.com/I-am-Optimistic",
+      "contributions": [
+        "doc",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
