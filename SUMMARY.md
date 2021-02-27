@@ -21,15 +21,17 @@
 
 ## STOCKS
 
-* [Section 1: Can you beat the market?](stocks/can-you-beat-the-market.md)
-* [Section 2: Reading an Annual Report](stocks/reading-an-annual-report-in-the-indian-context.md)
-* [Section 3: Researching a Sector](stocks/researching-a-sector.md)
+* [Can you beat the market?](stocks/can-you-beat-the-market.md)
+* [Reading an Annual Report](stocks/reading-an-annual-report-in-the-indian-context.md)
+* [Researching a Sector](stocks/researching-a-sector.md)
+* [Using screeners](stocks/using-a-screener-to-simplify-financial-analysis-of-a-company.md)
+* [Due-diligence Checklist](stocks/due-diligence-dd-checklist.md)
 
 ## BONDS
 
-* [Section 1: Bond Basics](bonds/bond-basics.md)
-* [Section 2: Government Securities](bonds/section-2-government-securities.md)
-* [Section 3: Corporate Bonds](bonds/corporate-bonds.md)
+* [Bond Basics](bonds/bond-basics.md)
+* [Government Securities](bonds/section-2-government-securities.md)
+* [Corporate Bonds](bonds/corporate-bonds.md)
 
 ## Wiki - Miscellaneous <a id="wiki"></a>
 
@@ -38,8 +40,6 @@
 * [Time Value of Money](wiki/time-value-of-money.md)
 * [US Investing](wiki/us-investing.md)
 * [Recommended Reading](wiki/recommended-reading.md)
-* [Using a screener to simplify financial analysis of a company](wiki/using-a-screener-to-simplify-financial-analysis-of-a-company.md)
-* [Due Diligence \(DD\) checklist](wiki/due-diligence-dd-checklist.md)
 
 ## Contributors Section <a id="contributors"></a>
 

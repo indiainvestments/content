@@ -2,7 +2,7 @@
 description: Reading an Annual Report — In the Indian context
 ---
 
-# Section 2: Reading an Annual Report
+# Reading an Annual Report
 
 #### Disclaimer & Disclosures
 

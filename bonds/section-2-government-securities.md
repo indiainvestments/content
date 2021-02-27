@@ -4,7 +4,7 @@ description: >-
   the State Governments
 ---
 
-# Section 2: Government Securities
+# Government Securities
 
 A government security is a type of bond issued by the Central Government or the State Governments. They are broadly classified into two main categories based on the duration.
 
