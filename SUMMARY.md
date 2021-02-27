@@ -28,6 +28,7 @@
 ## BONDS
 
 * [Section 1: Bond Basics](bonds/bond-basics.md)
+* [Section 2: Government Securities](bonds/section-2-government-securities.md)
 * [Section 3: Corporate Bonds](bonds/corporate-bonds.md)
 
 ## Wiki - Miscellaneous <a id="wiki"></a>
