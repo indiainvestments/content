@@ -28,6 +28,8 @@
 ## Wiki - Miscellaneous <a id="wiki"></a>
 
 * [Are you a Stock or Bond?](wiki/are-you-a-stock-or-bond.md)
+* [Bond Basics](wiki/bond-basics.md)
+* [Corporate Bonds](wiki/corporate-bonds.md)
 * [Critical Mass](wiki/critical-mass.md)
 * [Time Value of Money](wiki/time-value-of-money.md)
 * [US Investing](wiki/us-investing.md)
