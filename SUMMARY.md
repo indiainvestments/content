@@ -25,11 +25,14 @@
 * [Section 2: Reading an Annual Report](stocks/reading-an-annual-report-in-the-indian-context.md)
 * [Section 3: Researching a Sector](stocks/researching-a-sector.md)
 
+## BONDS
+
+* [Section 1: Bond Basics](bonds/bond-basics.md)
+* [Section 3: Corporate Bonds](bonds/corporate-bonds.md)
+
 ## Wiki - Miscellaneous <a id="wiki"></a>
 
 * [Are you a Stock or Bond?](wiki/are-you-a-stock-or-bond.md)
-* [Bond Basics](wiki/bond-basics.md)
-* [Corporate Bonds](wiki/corporate-bonds.md)
 * [Critical Mass](wiki/critical-mass.md)
 * [Time Value of Money](wiki/time-value-of-money.md)
 * [US Investing](wiki/us-investing.md)
@@ -40,10 +43,6 @@
 ## Contributors Section <a id="contributors"></a>
 
 * [How can I start contributing?](contributors/how-can-i-start-contributing.md)
-
-## BONDS
-
-* [Untitled](bonds/untitled.md)
 
 ## EXCEL
 
