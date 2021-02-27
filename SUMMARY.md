@@ -19,20 +19,31 @@
 * [I cannot send messages to stocks-fundamentals channel on Discord. Why?](faqs/i-cannot-send-messages-to-stocks-fundamentals-channel-on-discord.-why.md)
 * [Up to what age should I take term cover?](faqs/up-to-what-age-should-i-take-term-cover.md)
 
-## Wiki
+## STOCKS
+
+* [Section 1: Can you beat the market?](stocks/can-you-beat-the-market.md)
+* [Section 2: Reading an Annual Report](stocks/reading-an-annual-report-in-the-indian-context.md)
+* [Section 3: Researching a Sector](stocks/researching-a-sector.md)
+
+## Wiki - Miscellaneous <a id="wiki"></a>
 
 * [Are you a Stock or Bond?](wiki/are-you-a-stock-or-bond.md)
 * [Critical Mass](wiki/critical-mass.md)
 * [Time Value of Money](wiki/time-value-of-money.md)
 * [US Investing](wiki/us-investing.md)
 * [Recommended Reading](wiki/recommended-reading.md)
-* [Can you beat the market?](wiki/can-you-beat-the-market.md)
-* [Researching a Sector](wiki/researching-a-sector.md)
-* [Reading an Annual Report — In the Indian context](wiki/reading-an-annual-report-in-the-indian-context.md)
 * [Using a screener to simplify financial analysis of a company](wiki/using-a-screener-to-simplify-financial-analysis-of-a-company.md)
 * [Due Diligence \(DD\) checklist](wiki/due-diligence-dd-checklist.md)
 
 ## Contributors Section <a id="contributors"></a>
 
 * [How can I start contributing?](contributors/how-can-i-start-contributing.md)
+
+## BONDS
+
+* [Untitled](bonds/untitled.md)
+
+## EXCEL
+
+* [Untitled](excel/untitled.md)
 
