@@ -17,6 +17,19 @@
         "review",
         "tutorial"
       ]
+    },
+    {
+      "login": "zulienthegreat",
+      "name": "zulienthegreat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78473984?v=4",
+      "profile": "https://github.com/zulienthegreat",
+      "contributions": [
+        "infra",
+        "code",
+        "doc",
+        "review",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
