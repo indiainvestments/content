@@ -14,7 +14,7 @@ If you want to discuss anything on this website with other people, please check 
 [![](https://img.shields.io/reddit/subreddit-subscribers/indiainvestments?style=social)](https://reddit.com/r/indiainvestments) [![](https://img.shields.io/discord/546638391127572500)](https://discord.gg/hqBNg4u)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Acknowledgements
@@ -57,6 +57,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Cephalopterus"><img src="https://avatars.githubusercontent.com/u/66165136?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cephalopterus</b></sub></a><br /><a href="https://github.com/indiainvestments/content/commits?author=Cephalopterus" title="Code">💻</a> <a href="https://github.com/indiainvestments/content/commits?author=Cephalopterus" title="Documentation">📖</a> <a href="https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3ACephalopterus" title="Reviewed Pull Requests">👀</a> <a href="#tutorial-Cephalopterus" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/crimelabs786"><img src="https://avatars.githubusercontent.com/u/56079307?v=4?s=100" width="100px;" alt=""/><br /><sub><b>crimelabs786</b></sub></a><br /><a href="#infra-crimelabs786" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/indiainvestments/content/commits?author=crimelabs786" title="Code">💻</a> <a href="https://github.com/indiainvestments/content/commits?author=crimelabs786" title="Documentation">📖</a> <a href="https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3Acrimelabs786" title="Reviewed Pull Requests">👀</a> <a href="#tutorial-crimelabs786" title="Tutorials">✅</a> <a href="#question-crimelabs786" title="Answering Questions">💬</a></td>
     <td align="center"><a href="https://github.com/reo-sam"><img src="https://avatars.githubusercontent.com/u/36949552?v=4?s=100" width="100px;" alt=""/><br /><sub><b>reo-sam</b></sub></a><br /><a href="https://github.com/indiainvestments/content/commits?author=reo-sam" title="Code">💻</a> <a href="https://github.com/indiainvestments/content/commits?author=reo-sam" title="Documentation">📖</a> <a href="https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3Areo-sam" title="Reviewed Pull Requests">👀</a> <a href="#tutorial-reo-sam" title="Tutorials">✅</a> <a href="#question-reo-sam" title="Answering Questions">💬</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/try2tame"><img src="https://avatars.githubusercontent.com/u/78716242?v=4?s=100" width="100px;" alt=""/><br /><sub><b>try2tame</b></sub></a><br /><a href="https://github.com/indiainvestments/content/commits?author=try2tame" title="Documentation">📖</a> <a href="https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3Atry2tame" title="Reviewed Pull Requests">👀</a> <a href="#tutorial-try2tame" title="Tutorials">✅</a> <a href="#question-try2tame" title="Answering Questions">💬</a></td>
   </tr>
 </table>
 
