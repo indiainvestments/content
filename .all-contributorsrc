@@ -104,6 +104,16 @@
         "tutorial",
         "question"
       ]
+    },
+    {
+      "login": "LingeringDeep",
+      "name": "LingeringDeep",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78742827?v=4",
+      "profile": "https://github.com/LingeringDeep",
+      "contributions": [
+        "tutorial",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,

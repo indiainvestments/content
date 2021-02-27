@@ -14,7 +14,7 @@ If you want to discuss anything on this website with other people, please check 
 [![](https://img.shields.io/reddit/subreddit-subscribers/indiainvestments?style=social)](https://reddit.com/r/indiainvestments) [![](https://img.shields.io/discord/546638391127572500)](https://discord.gg/hqBNg4u)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Acknowledgements
@@ -60,6 +60,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/try2tame"><img src="https://avatars.githubusercontent.com/u/78716242?v=4?s=100" width="100px;" alt=""/><br /><sub><b>try2tame</b></sub></a><br /><a href="https://github.com/indiainvestments/content/commits?author=try2tame" title="Documentation">📖</a> <a href="https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3Atry2tame" title="Reviewed Pull Requests">👀</a> <a href="#tutorial-try2tame" title="Tutorials">✅</a> <a href="#question-try2tame" title="Answering Questions">💬</a></td>
+    <td align="center"><a href="https://github.com/LingeringDeep"><img src="https://avatars.githubusercontent.com/u/78742827?v=4?s=100" width="100px;" alt=""/><br /><sub><b>LingeringDeep</b></sub></a><br /><a href="#tutorial-LingeringDeep" title="Tutorials">✅</a> <a href="#question-LingeringDeep" title="Answering Questions">💬</a></td>
   </tr>
 </table>
 
