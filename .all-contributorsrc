@@ -1,0 +1,28 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "indiainvestments",
+      "name": "r/IndiaInvestments",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36945608?v=4",
+      "profile": "https://reddit.com/r/IndiaInvestments",
+      "contributions": [
+        "doc",
+        "infra",
+        "code",
+        "review",
+        "tutorial"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "content",
+  "projectOwner": "indiainvestments",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
