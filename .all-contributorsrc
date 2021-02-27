@@ -92,6 +92,18 @@
         "tutorial",
         "question"
       ]
+    },
+    {
+      "login": "try2tame",
+      "name": "try2tame",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78716242?v=4",
+      "profile": "https://github.com/try2tame",
+      "contributions": [
+        "doc",
+        "review",
+        "tutorial",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,
