@@ -2,7 +2,7 @@
 description: 'How to research a sector, in Indian context'
 ---
 
-# Section 3: Researching a Sector
+# Researching a Sector
 
 #### Disclaimer & Disclosures
 
