@@ -14,7 +14,7 @@ If you want to discuss anything on this website with other people, please check 
 [![](https://img.shields.io/reddit/subreddit-subscribers/indiainvestments?style=social)](https://reddit.com/r/indiainvestments) [![](https://img.shields.io/discord/546638391127572500)](https://discord.gg/hqBNg4u)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Acknowledgements
@@ -71,6 +71,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/rajatdhoot123"><img src="https://avatars.githubusercontent.com/u/18528826?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rajat</b></sub></a><br /><a href="https://github.com/indiainvestments/content/commits?author=rajatdhoot123" title="Code">💻</a> <a href="https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3Arajatdhoot123" title="Reviewed Pull Requests">👀</a> <a href="#question-rajatdhoot123" title="Answering Questions">💬</a></td>
     <td align="center"><a href="https://infilimits.com"><img src="https://avatars.githubusercontent.com/u/12628996?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shaswat Saxena</b></sub></a><br /><a href="https://github.com/indiainvestments/content/commits?author=shaswatsaxena" title="Code">💻</a> <a href="https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3Ashaswatsaxena" title="Reviewed Pull Requests">👀</a> <a href="#question-shaswatsaxena" title="Answering Questions">💬</a></td>
     <td align="center"><a href="https://github.com/JimWithoutJam"><img src="https://avatars.githubusercontent.com/u/78673642?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jimWithoutJam</b></sub></a><br /><a href="#infra-jimWithoutJam" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/indiainvestments/content/commits?author=jimWithoutJam" title="Code">💻</a> <a href="https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3AjimWithoutJam" title="Reviewed Pull Requests">👀</a> <a href="#question-jimWithoutJam" title="Answering Questions">💬</a></td>
+    <td align="center"><a href="https://github.com/VineetRDiscord"><img src="https://avatars.githubusercontent.com/u/48187416?v=4?s=100" width="100px;" alt=""/><br /><sub><b>VineetRDiscord</b></sub></a><br /><a href="#infra-VineetRDiscord" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#business-VineetRDiscord" title="Business development">💼</a> <a href="https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3AVineetRDiscord" title="Reviewed Pull Requests">👀</a> <a href="#question-VineetRDiscord" title="Answering Questions">💬</a></td>
   </tr>
 </table>
 
