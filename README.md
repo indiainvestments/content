@@ -13,6 +13,10 @@ If you want to discuss anything on this website with other people, please check 
 
 [![](https://img.shields.io/reddit/subreddit-subscribers/indiainvestments?style=social)](https://reddit.com/r/indiainvestments) [![](https://img.shields.io/discord/546638391127572500)](https://discord.gg/hqBNg4u)
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 ## Acknowledgements
 
 Special thanks to [Gitbook](https://www.gitbook.com/) for accommodating us in their premium tier, free-of-cost.  
@@ -36,3 +40,23 @@ Contributors to this project cannot be held liable if you follow instructions pr
 
 
 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://reddit.com/r/IndiaInvestments"><img src="https://avatars.githubusercontent.com/u/36945608?v=4?s=100" width="100px;" alt=""/><br /><sub><b>r/IndiaInvestments</b></sub></a><br /><a href="https://github.com/indiainvestments/content/commits?author=indiainvestments" title="Documentation">📖</a> <a href="#infra-indiainvestments" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/indiainvestments/content/commits?author=indiainvestments" title="Code">💻</a> <a href="https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3Aindiainvestments" title="Reviewed Pull Requests">👀</a> <a href="#tutorial-indiainvestments" title="Tutorials">✅</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
