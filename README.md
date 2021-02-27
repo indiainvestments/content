@@ -13,6 +13,14 @@ If you want to discuss anything on this website with other people, please check 
 
 [![](https://img.shields.io/reddit/subreddit-subscribers/indiainvestments?style=social)](https://reddit.com/r/indiainvestments) [![](https://img.shields.io/discord/546638391127572500)](https://discord.gg/hqBNg4u)
 
+## Acknowledgements
+
+Special thanks to [Gitbook](https://www.gitbook.com/) for accommodating us in their premium tier, free-of-cost.  
+  
+It's been fantastic working with the great folks over at Gitbook team. They've helped us out every step of the way whenever we've asked for it.   
+  
+Wishing them all the best in continued success of this amazing product.
+
 ## License
 
 All the content here is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by/4.0/).
