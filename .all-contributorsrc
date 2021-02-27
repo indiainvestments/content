@@ -30,6 +30,17 @@
         "review",
         "tutorial"
       ]
+    },
+    {
+      "login": "Itsmarzil",
+      "name": "Marz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78316021?v=4",
+      "profile": "https://github.com/Itsmarzil",
+      "contributions": [
+        "doc",
+        "review",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
