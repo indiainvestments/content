@@ -146,6 +146,18 @@
         "review",
         "question"
       ]
+    },
+    {
+      "login": "namasteOriginally",
+      "name": "namasteOriginally",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78691162?v=4",
+      "profile": "https://github.com/namasteOriginally",
+      "contributions": [
+        "code",
+        "tutorial",
+        "review",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,
