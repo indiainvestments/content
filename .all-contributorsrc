@@ -169,6 +169,17 @@
         "tutorial",
         "review"
       ]
+    },
+    {
+      "login": "rajatdhoot123",
+      "name": "Rajat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18528826?v=4",
+      "profile": "https://github.com/rajatdhoot123",
+      "contributions": [
+        "code",
+        "review",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,
