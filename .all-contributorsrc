@@ -146,6 +146,17 @@
         "review",
         "question"
       ]
+    },
+    {
+      "login": "shryzel",
+      "name": "shryzel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49168010?v=4",
+      "profile": "https://github.com/shryzel",
+      "contributions": [
+        "doc",
+        "tutorial",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
