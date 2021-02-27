@@ -41,5 +41,7 @@ These are few things to note:
 
 Finally, keep in mind that past returns are not indicative of future returns; and asset returns can be very different from portfolio returns. Just because a smallcase has CAGR of 40%, does NOT mean \(and almost certainly the case\), that investors in same smallcase, over same time period, has 40% p.a. return on their portfolio.
 
+lol line added!
+
 **TL;DR: use the product if you like it; but not because you think their advice alone would make you great returns.**
 
