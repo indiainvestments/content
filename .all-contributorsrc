@@ -215,6 +215,17 @@
         "review",
         "question"
       ]
+    },
+    {
+      "login": "M-e-r-c-u-r-y",
+      "name": "M-e-r-c-u-r-y",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37909009?v=4",
+      "profile": "https://github.com/M-e-r-c-u-r-y",
+      "contributions": [
+        "review",
+        "question",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
