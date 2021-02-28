@@ -226,6 +226,17 @@
         "question",
         "doc"
       ]
+    },
+    {
+      "login": "Jtnydv",
+      "name": "Jatin Yadav",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14368729?v=4",
+      "profile": "http://jtnydv.gitbook.io",
+      "contributions": [
+        "infra",
+        "code",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,
