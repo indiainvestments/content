@@ -33,6 +33,10 @@
 * [Government Securities](bonds/section-2-government-securities.md)
 * [Corporate Bonds](bonds/corporate-bonds.md)
 
+## EXCEL
+
+* [Excel for Fun and Profit](excel/untitled.md)
+
 ## Wiki - Miscellaneous <a id="wiki"></a>
 
 * [Are you a Stock or Bond?](wiki/are-you-a-stock-or-bond.md)
@@ -44,8 +48,4 @@
 ## Contributors Section <a id="contributors"></a>
 
 * [How can I start contributing?](contributors/how-can-i-start-contributing.md)
-
-## EXCEL
-
-* [Excel for Fun and Profit](excel/untitled.md)
 
