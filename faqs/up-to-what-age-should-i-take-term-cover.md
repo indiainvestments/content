@@ -6,13 +6,13 @@ description: >-
 
 # Up to what age should I take term cover?
 
-#### What really is term cover?
+## What really is term cover?
 
 A term cover is an _**income replacement plan**_. It should be covering you, till you've dependents who're reliant on your income, and miss it if something were to happen to you.
 
 This money would never be yours. It's meant for your family, in the event of something highly unlikely.
 
-#### How does it matter?
+## How does it matter?
 
 It matters because for most people with income from salary or contract work; it'd be hard to sustain their income after age of 55-60.
 
@@ -31,6 +31,4 @@ Ideally, if you reach a state where your savings + investments far exceed the co
 **If you plan well, you would actually make the term cover moot well before your retirement**
 
 In a well run plan, you would start creating assets soon enough. Even if you have a few years of earning/investing left, your corpus may be sufficient to take care of all the financial goals that outlive you. When you reach this state, you don't require term covers. Example: Say you have two financial dependents and are building a retirement corpus for the three of you. There may be a few more years required to build the corpus for all three, but you would have built the corpus for the two dependents earlier. You can then cancel the policy.
-
-
 
