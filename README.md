@@ -17,7 +17,7 @@ If you want to discuss anything on this website with other people, please check 
 
 Special thanks to [Gitbook](https://www.gitbook.com/) for accommodating us in their premium tier, free-of-cost.
 
-It's been fantastic working with the great folks over at Gitbook team. They've helped us out every step of the way whenever we've asked for it.
+It's been a fantastic journey working with the great folks over at Gitbook team. They've helped us out every step of the way whenever we've asked for it.
 
 Wishing them all the best in continued success of this amazing product.
 
