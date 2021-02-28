@@ -2,7 +2,7 @@
 description: 'Reactive UI : Data Chaining and Updates in Excel with Formula and Functions'
 ---
 
-# React UI & Updates
+# Reactive UI & Updates
 
 ## Intro ![:maple\_leaf:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/maple_leaf.png)
 
