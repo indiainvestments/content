@@ -35,7 +35,7 @@
 
 ## EXCEL
 
-* [Excel for Fun and Profit](excel/untitled.md)
+* [Excel for Fun and Profit](excel/intro.md)
 
 ## Wiki - Miscellaneous <a id="wiki"></a>
 
