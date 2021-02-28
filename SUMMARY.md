@@ -36,6 +36,7 @@
 ## EXCEL
 
 * [Excel for Fun and Profit](excel/intro.md)
+* [React UI & Updates](excel/reactivity.md)
 
 ## Wiki - Miscellaneous <a id="wiki"></a>
 
