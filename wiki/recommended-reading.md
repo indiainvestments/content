@@ -25,7 +25,7 @@ Recommended Reading List:
 13. John C Bogle – Common Sense on Mutual Funds.
 14. Charles Ellis – Winning the Loser’s Game.
 
-### Other Good Books
+### Other Popular Books
 
 1. David Dremen - Contrarian Investment Strategies The Next Generation.
 2. Robert Shiller – Irrational Exuberance
@@ -39,7 +39,7 @@ Recommended Reading List:
 10. James Montier – The Little Book of Behavioral Investing. His [work](http://eurosharelab.com/james-montier-resource-page/).
 11. Michael Mauboussin – More than You Know.
 12. Daniel Kahneman – Thinking Fast and Slow.
-13. For some concepts, not all: Rich Dad Poor Dad - Robert Kiyosaki.
+13. For some interesting concepts: Rich Dad Poor Dad - Robert Kiyosaki.
 
 ### Statistics
 
