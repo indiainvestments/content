@@ -28,9 +28,9 @@ You shouldn't have to buy a cover for a scenario, and pay extra in premiums; whe
 
 Ideally, if you reach a state where your savings + investments far exceed the cover amount \(for example, by more than 2x-3x\); then it makes sense to cancel the policy and stop paying further premiums. In the event of your demise, your nominee\(s\) would simply inherit your corpus.
 
-**If you plan well, you would actually make the term cover moot well before your retirement
+**If you plan well, you would actually make the term cover moot well before your retirement**
 
-In a well run plan, you would start creating assets soon enough. Even if you have a few years of earning/investing left, your corpus may be sufficient to take care of all the financial goals that outlive you. When you reach this state, you don't require term covers. Example: Say you hav two financial dependents and are building a retirement corpus for the three of you. There may be a few more years required to build the corpus for all three, but you would have built the corpus for the two dependents earlier. You can then cancel the policy.
+In a well run plan, you would start creating assets soon enough. Even if you have a few years of earning/investing left, your corpus may be sufficient to take care of all the financial goals that outlive you. When you reach this state, you don't require term covers. Example: Say you have two financial dependents and are building a retirement corpus for the three of you. There may be a few more years required to build the corpus for all three, but you would have built the corpus for the two dependents earlier. You can then cancel the policy.
 
 
 
