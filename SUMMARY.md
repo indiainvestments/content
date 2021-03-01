@@ -49,4 +49,5 @@
 ## Contributors Section <a id="contributors"></a>
 
 * [How can I start contributing?](contributors/how-can-i-start-contributing.md)
+* [FAQ Style Guide](contributors/faq-style-guide.md)
 
