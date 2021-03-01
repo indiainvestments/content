@@ -44,6 +44,12 @@ Eg 1: if you put ₹10,000 per year @ 8% interest rate compounded yearly for 35 
 
 The excel function PV would be helpful in this. A [weblink](http://www.calculatorsoup.com/calculators/financial/present-value-annuity-calculator.php)
 
+**Putting these together - thumb rule of 72**
+
+To quickly estimate the future value of a single investment, the thumb rule of 72 can be used. This rule lets you estimate the time taken for a compounging amount to double - 72/compounding rate. For the example above, the sum of Rs 1,000 would become Rs 2,000 in 72/4 = 18 years. A particularly useful rate in India is 7.2 - at this rate, the amount would double in about 10 years. This rate is quite close to the interest rate in some of the small savings schemes. 
+
+The reverse can be applied to estimate the current value of a future amount. An amount of 2 lac after 10 years is worth about 1 lac now, using the discounting rate of 7.2%. Mnay endowment products promise you an amount of, say, 12 lacs after 30 years.The current value of that is 1.5 lac. 
+
 ## **Important Points to Remember:**
 
 • The value of money changes with time because it can be invested and earn an interest.
