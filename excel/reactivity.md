@@ -34,9 +34,9 @@ In this chapter, you'd see images / videos in both dark and light theme. Based o
 
 * Enter these numbers, as you see in the images below.
 
-![Numbers in Excel : Dark theme](https://i.imgur.com/S2oX7Eb.png)
+![Numbers in Excel : Dark Theme](../.gitbook/assets/numbers-in-excel.dark.png)
 
-![Numbers in Excel: Light theme](https://i.imgur.com/hJnm5oQ.png)
+![Numbers in Excel : Light Theme](../.gitbook/assets/numbers-in-excel.light.png)
 
 {% hint style="info" %}
 No need to manually enter these data points one after another. You could simply select the above table with your trackpad / mouse; copy it with `Ctrl + C` / `Cmd + C`, and paste it in your sheet.
@@ -121,7 +121,7 @@ Follow these steps to validate each price computation row:
 * Go to the bottom right end of this newly created cell, there’s a small square.  
 
 
-  ![](https://i.imgur.com/bFMjUZR.png)![](https://i.imgur.com/SXQGGoA.png)
+  ![](../.gitbook/assets/excel-drag.dark.png)![](../.gitbook/assets/excel-drag.light.png)
 
 
 
@@ -188,9 +188,9 @@ Here’s a video to help guide you along \(available in both dark & light themes
 
 If you’ve done everything as instructed, up to this point, it should look as shown below
 
-![Excel SUM function result : Dark theme](https://i.imgur.com/geU5bV6.png)
+![Excel SUM Function Result : Dark Theme](../.gitbook/assets/excel-sum-function.dark.png)
 
-![Excel SUM function result: Light theme](https://i.imgur.com/bXfXkKV.png)
+![Excel SUM function result: Light theme](../.gitbook/assets/excel-sum-function.light.png)
 
 ## Reactive UI ![:heavy\_check\_mark:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/heavy_check_mark.png)
 
