@@ -4,7 +4,7 @@ description: >-
   investors quantify financial performance, health, and efficiency of a company.
 ---
 
-# Financial Metrics and Ratios: Profitability Ratios
+# Financial Ratios: Profitability Ratios
 
 Financial ratios are numbers which can help investors interpret the financial performance, health, and efficiency of a company.
 
