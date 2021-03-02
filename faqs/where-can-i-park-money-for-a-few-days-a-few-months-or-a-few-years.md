@@ -28,7 +28,9 @@ You can also park your money in certain debt mutual funds. This includes **overn
 
 Here are the NAV graphs of HDFC Liquid fund, the biggest liquid fund in India in terms of AUM, and Parag Parikh Liquid fund during the covid crisis.
 
-![](https://i.imgur.com/T9OktS0.png) ![](https://i.imgur.com/G6ey8hB.png)
+![HDFC Liquid Fund&apos;s NAV graph during the Covid crisis](../.gitbook/assets/hdfc-liquid-navgraph.png)
+
+![Parag Parikh Liquid Fund&apos;s NAV graph during the Covid crisis](../.gitbook/assets/pp-liquid-navgraph.png)
 
 That being said, investments in debt funds don’t incur TDS or taxes until you redeem money from them. Many liquid funds also offer instant redemption up to ₹50,000 at any time of the day although the reliability of the instant redemption depends on the AMC website.
 
