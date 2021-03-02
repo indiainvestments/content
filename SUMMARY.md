@@ -26,7 +26,7 @@
 * [Researching a Sector](stocks/researching-a-sector.md)
 * [Using screeners](stocks/using-a-screener-to-simplify-financial-analysis-of-a-company.md)
 * [Due-diligence Checklist](stocks/due-diligence-dd-checklist.md)
-* [Financial Ratios: Profitability Ratios](stocks/financial-metrics-and-ratios-profitability-ratios.md)
+* [Financial Ratios: Profitability](stocks/financial-ratios-profitability.md)
 
 ## BONDS
 
