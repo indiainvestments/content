@@ -10,7 +10,7 @@ What’s the most popular programming / coding language in the world? ![:muscle:
 
 Hint: It’s not Java or Python or JavaScript or C or C++ or whatever Tiobe index has it on top these days. Nor is it HTML, nor CSS, for that matter.
 
-It’s Excel _formaulae_ ! Or simply, just excel. Per estimate, 99% of automation out there, have been written in Excel’s inbuilt programming paradigm.
+It’s Excel _formula_! Or simply, just excel. Per estimate, 99% of automation out there, have been written in Excel’s inbuilt programming paradigm.
 
 Excel as a language gives you powerful primitives, that are easy to pick up, and one can start using on real world datasets, to address real needs every type of businesses face.
 
