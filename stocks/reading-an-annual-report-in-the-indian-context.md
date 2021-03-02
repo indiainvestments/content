@@ -33,13 +33,13 @@ Apart from the stock exchanges and the company's website, annual reports can als
 
   Once you are on BSE's websites, you can search for the company on the search bar located at top right of the website &gt; scroll down to find _Financials_ toggle in the left sidebar &gt; and click on _Annual Reports_ to find the past ten years of annual reports of the company.
 
-![](https://i.imgur.com/bvbA6Us.png)
+![Bombay Stock Exchange \(BSE\)&apos;s website](../.gitbook/assets/bvba6us-1-.png)
 
 * The **National Stock Exchange of India**'s website can be found at [https://www.nseindia.com/](https://www.nseindia.com/)
 
   You can simply search for the company's name in corporate filings &gt; [annual reports page](https://www.notion.so/%5B%3Chttps://www.nseindia.com/companies-listing/corporate-filings-annual-reports%3E%5D%28%3Chttps://www.nseindia.com/companies-listing/corporate-filings-annual-reports%3E%29) on NSE's website.
 
-![](https://i.imgur.com/EjZlhmo.png)
+![Annual Reports page on Natinal Stock Exchange of India \(NSE\)&apos;s website](../.gitbook/assets/ejzlhmo%20%281%29.png)
 
 #### Investor Relations page on Company's website
 
@@ -47,7 +47,7 @@ As mentioned earlier, companies must upload their annual reports on their offici
 
 For instance, Bajaj Auto's annual report can be found [here](https://www.bajajauto.com/investors/annual-reports). A screenshot is shown below as an example.
 
-![](https://i.imgur.com/acQUA9b.png)
+![Investor Relations page on Bajaj Auto Ltd&apos;s website](../.gitbook/assets/acqua9b-1-.png)
 
 #### Screeners & Aggregators
 
@@ -55,7 +55,7 @@ You can also find annual reports of companies on various screener and financial 
 
 For instance, on [Screener.in](http://screener.in/), you can find annual reports of past few years under the documents section of a company's page. [Screener.in](http://screener.in/) generally links this to BSE's repository of filings.
 
-![](https://i.imgur.com/MZW4ILD.png)
+![Eicher Motor&apos;s company page on Screener.in](../.gitbook/assets/mzw4ild-1-.png)
 
 ## Contents of an Annual Report
 
@@ -65,11 +65,11 @@ More often than not, an annual report will begin with information about the comp
 
 This section gives a brief overview of the financial performance of the company in the form of slick visual representations designed to market the prospects of the company to the reader. It is important that you ensure to judge the data for what its worth, not for how it has been shaped to woo you over.
 
-![](https://i.imgur.com/jGyQG2I.png)
+![Tata Consultancy Services Ltd&apos;s Annual Report \(FY20\)](../.gitbook/assets/jgyqg2i.png)
 
 Oftentimes, the company also showcases their portfolio of products under this section \(sometimes, a company will only showcase new additions to their product portfolio\).
 
-![](https://i.imgur.com/ta1a34H.png)
+![Ruchira Paper&apos;s Annual Report \(FY20\) \[Note: This screenshot doesn&apos;t capture the full page\]](../.gitbook/assets/ta1a34h-1-1-.png)
 
 ### Management's Letters to the Shareholders
 
@@ -84,11 +84,11 @@ Though it is not mandated by law, companies usually take the opportunity to comm
 * Updates to the projects, or investments announced in the past years
 * Any other key event that took place in relation to the company
 
-![](https://i.imgur.com/VWblJvJ.png)
+![Tata Consultancy Services Ltd&apos;s Annual Report \(FY20\)](../.gitbook/assets/vwbljvj%20%281%29.png)
 
 You may find this section sometimes containing two letters, one from the Managing Director \(representing the board of directors\) and the other from Chief Executive Officer \(representing the management team\) of the company.
 
-![](https://i.imgur.com/QQByRqu.png)
+![Tata Consultancy Services Ltd&apos;s Annual Report \(FY20\)](../.gitbook/assets/qqbyrqu-1-.png)
 
 ### Board of Directors Report
 
@@ -96,13 +96,13 @@ The directors' report comes from the perspective of representatives of the share
 
 **You will often come across the same phrases or coverage of points used in multiple sections of the annual report.** Essentially, the directors report elaborates and sets some context for the same points found under _Management's letter to the shareholders_ section, but with further explanation and data points to support their claims, that is, this section expands on the company's operational activities, financial performance, position in the market, capital allocation policy, dividends distribution policy & dividends proposed for the year, capital expenditure plans, updates regarding the capital expenditure taken up by the company in the past, and the economic conditions under which the company is conducting its business.
 
-![](https://i.imgur.com/MS1NG5M.png)
+![Tata Consultancy Services Ltd&apos;s Annual Report \(FY20\)](../.gitbook/assets/ms1ng5m.png)
 
-![](https://i.imgur.com/tAf65UA.png)
+![\(continued\) Tata Consultancy Services Ltd&apos;s Annual Report \(FY20\)](../.gitbook/assets/taf65ua.png)
 
 You can, and should check whether the management is able to deliver on commitments made previously by comparing the operational or financial activities conducted in the year in review to plans announced in the past few year's annual reports.
 
-![](https://i.imgur.com/XGbW0yr.png)
+![APL Apollo Tubes Ltd&apos;s Annual Report \(FY19 &amp; FY20\)](../.gitbook/assets/xgbw0yr.png)
 
 #### Management Discussion & Analysis
 
@@ -110,19 +110,19 @@ Unlike _Management's letters to shareholders_, this section is mandated[^2](http
 
 * Industry structure & developments
 
-![](https://i.imgur.com/9XVKQbb.png)
+![Ruchira Papers Ltd&apos;s Annual Report \(FY20\)](../.gitbook/assets/9xvkqbb.png)
 
 * Opportunities & threats
 
-![](https://i.imgur.com/iPUB1AV.png)
+![Ruchira Papers Ltd&apos;s Annual Report \(FY20\)](../.gitbook/assets/ipub1av.png)
 
 * Segment-wise, or product-wise performance
 
-![](https://i.imgur.com/kOZY3cT.png)
+![Reliance Industries Ltd&apos;s Annual Report \(FY20\)](../.gitbook/assets/kozy3ct.png)
 
 * Risks and concerns
 
-![](https://i.imgur.com/z0DEzcT.png)
+![Ruchira Papers Ltd&apos;s Annual Report \(FY20\)](../.gitbook/assets/z0dezct.png)
 
 Apart from these, SEBI regulations[^1](https://www.sebi.gov.in/legal/regulations/sep-2015/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-regulations-2015-last-amended-on-january-08-2021-_37269.html) also make the inclusion of following points mandatory in this section:
 
@@ -137,7 +137,7 @@ Apart from these, SEBI regulations[^1](https://www.sebi.gov.in/legal/regulations
 
 This section explains the company's governance philosophy and the workings of governance structure, provides some details of the upcoming Annual General Meeting, and gives information about the key management personnel & the board of directors. Corporate governance refers to a structure that regulates and manages companies, encompassing the complete dynamics of its functioning. Good corporate governance practices are a _sine qua non_ that helps to create long-term value for both its shareholders and other stakeholders.
 
-![](https://i.imgur.com/WGnfw4D.png)
+![Tata Consultancy Services Ltd&apos;s Annual Report \(FY20\)](../.gitbook/assets/wgnfw4d.png)
 
 The corporate governance report includes,
 
@@ -152,7 +152,7 @@ The corporate governance report includes,
 
 Corporate Social Responsibility activities refer to investments made by a company to responsibly handle the social, environmental and economic consequences of its activities. These expenditures incurred are mandatory by law[^3](https://www.mca.gov.in/Ministry/pdf/CompaniesAct2013.pdf) for companies having net worth of at least 500 crores, or turnover of at least 1000 crores, or a net profit of at least 5 crores, as a result of the obligation on the companies operating in a social environment.
 
-![](https://i.imgur.com/NnpvO3H.png)
+![Tata Consultancy Services Ltd&apos;s Annual Report \(FY20\)](../.gitbook/assets/nnpvo3h.png)
 
 * If the company doesn't spend the required minimum of 2 percent of average net profits for the past 3 years, this section contains an explanation, and mentions how it will proceed with the unspent amount.
 * If the company spends more than the required minimum amount mandated by the law, you may appreciate that the company is willing to spend more on social development, or shudder at the decision of increasing CSR expenditure at the cost of decreasing shareholder value.
@@ -165,9 +165,9 @@ This section notifies the shareholders of the company of all relevant details re
 * the agendas to be discussed in the meeting, and
 * information regarding shareholders voting process
 
-![](https://i.imgur.com/LsEHmkT.png)
+![Tata Consultancy Services Ltd&apos;s Annual Report \(FY20\)](../.gitbook/assets/lsehmkt.png)
 
-Notice of the AGM can also come as a separate email, notice to the investor or as a newspaper ad in an English and local language publication as mandated by SEBI.
+Notice of the AGM can also come as a separate email, notice to the investor, or as a newspaper ad in an English and a local language publication, as mandated by SEBI.
 
 With this, the non-financial half of an annual report concludes.
 
@@ -179,7 +179,7 @@ The financial part of annual report begins with an Auditor's report, which conta
 * any fraudulent accounting observed
 * **alignment and agreement with the company on the compliance and reporting of numbers**
 
-![](https://i.imgur.com/6KBg1Mt.png)
+![Tata Consultancy Services Ltd&apos;s Annual Report \(FY20\)](../.gitbook/assets/6kbg1mt.png)
 
 ### Financial Statements
 
@@ -187,19 +187,19 @@ The financial statements section includes standalone and consolidated \(where ap
 
 * The Profit & Loss \(P&L\) statement deals with information about revenues received by the company, expenses incurred, and profits earned by the company in the year under review.
 
-![](https://i.imgur.com/ckfJ3HF.png)
+![Tata Consultancy Services Ltd&apos;s Annual Report \(FY20\) \[Note: This screenshot doesn&apos;t capture the full P&amp;L statement\]](../.gitbook/assets/ckfj3hf.png)
 
 * The Balance Sheet statement is essentially taken as a snapshot at any specific time, providing information about the assets, liabilities, and shareholder's equity held by the company. Since it is taken as a snapshot at the end of year and carried forward, it shows us this information as a resultant of operations of the company since its incorporation.
 
-![](https://i.imgur.com/BTN1T0C.png)
+![Tata Consultancy Services Ltd&apos;s Annual Report \(FY20\) \[Note: This screenshot doesn&apos;t capture the full balance sheet statement\]](../.gitbook/assets/btn1t0c.png)
 
 * The cash flow statement gives us transactional details of the cash collected / earnt by the company _\(inflows\)_ from its operational and investment activities, and cash spent _\(outflows\)_ on financial, operational, and investment activities by the company.
 
-![](https://i.imgur.com/7oR3RDv.png)
+![Tata Consultancy Services Ltd&apos;s Annual Report \(FY20\) \[Note: This screenshot doesn&apos;t capture the full cash flow statement\]](../.gitbook/assets/7or3rdv.png)
 
 * The statement of change in equity deals with transactions related to shareholder's equity in the year under review.
 
-![](https://i.imgur.com/GIyKexf.png)
+![Tata Consultancy Services Ltd&apos;s Annual Report \(FY20\)](../.gitbook/assets/giykexf.png)
 
 We've covered how to understand financial statement under the [_'Financial statements — How to read them & what to look for'_](https://indiainvestments.gitbook.io/content/wiki/financial-statements)  chapter of this series.
 
@@ -207,15 +207,11 @@ We've covered how to understand financial statement under the [_'Financial state
 
 You can refer to detailed calculation or breakup of figures reported in financial statements of the company under the _Notes to Financial Statement_ section to get a better understanding of the business. For instance, you can often find the interest rates at which the company has taken up a loan under the note elaborating borrowings of a company. Figures in financial statements are accompanied by an index consisting of the serial number of the note interlinked with a specific figure. Take this screenshot taken from Tata Consulatancy Services' profit and loss statement.
 
-![](https://i.imgur.com/vHreQvm.png)
+![Tata Consultancy Services Ltd&apos;s Annual Report \(FY20\)](../.gitbook/assets/vhreqvm.png)
 
-Suppose you want to investigate about the finance costs reported, you simply have to check the note number in front of the heading, and look for note 16 under the
+Suppose you want to investigate about the finance costs reported, you simply have to check the note number in front of the heading, and look for note 16 under the _Notes to financial statements_ section. You'll find the breakup of finance costs given under the note.
 
-_Notes to financial statements_
-
-section. You'll find the breakup of finance costs given under the note.
-
-![](https://i.imgur.com/lfypkoe.png)
+![Tata Consultancy Services Ltd&apos;s Annual Report \(FY20\)](../.gitbook/assets/lfypkoe.png)
 
 Apart from calculation / breakup of figures, this section also provides information about accounting policies followed by the company in preparing the financial statements, and specifically mentions any change to the policy introduced in the year under review.
 
@@ -223,7 +219,7 @@ Apart from calculation / breakup of figures, this section also provides informat
 
 Companies are required by law to disclose all transactions \(transfer of resources/services/obligations\) taken up by the company with entities controlled or significantly influenced by the company's promoters, directors, key management personnel, and their family members. These disclosures can be found under the _Related Party Transactions_ section of an annual report. Often, this section is under _Notes to Financial Statements_
 
-![](https://i.imgur.com/onY0odd.png)
+![Tata Consultancy Services Ltd&apos;s Annual Report \(FY20\)](../.gitbook/assets/ony0odd.png)
 
 We have talked about understanding related party transactions under the [_'Evaluation of management of a company from an investing perspective'_](https://indiainvestments.gitbook.io/content/wiki/evaluation-of-management)  chapter of this series. 
 
