@@ -51,4 +51,5 @@
 
 * [How can I start contributing?](contributors/how-can-i-start-contributing.md)
 * [FAQ Style Guide](contributors/faq-style-guide.md)
+* [How To Style Guide](contributors/how-to-style-guide.md)
 

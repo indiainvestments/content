@@ -52,6 +52,35 @@ But it's not okay to phrase it as _equity is the only asset that'd perform bette
 
 No one can predict that.
 
+## Linking to external resources ![:globe\_with\_meridians:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/globe_with_meridians.png)
+
+In course of creating a content, you’d be tempted to link to an external resource - some blog post, news articles, videos, other community posts from Reddit / Valuepickr / TradingQnA etc.
+
+**Don’t**.
+
+At least not directly to that resource.
+
+Links can be taken down / removed / made inaccessible. As much as possible, from the beginning, we’ve taken steps to not let that happen.
+
+Ideally, we’d want to link to Internet Archive’s archived version of that link.
+
+Here’s how a sample link to CNN’s coverage of Buffet’s Annual Shareholder letter of 2021 might look like:
+
+[Real Link](https://edition.cnn.com/2021/02/27/investing/warren-buffett-annual-letter/index.html) \| [archive.org link](https://web.archive.org/web/20210301184753/https://edition.cnn.com/2021/02/27/investing/warren-buffett-annual-letter/index.html) \| [archive.is link](https://archive.is/nnPAV).  
+  
+Take this tweet from NSE India official twitter handle: [https://twitter.com/NSEIndia/status/1366251518999977984](https://twitter.com/NSEIndia/status/1366251518999977984). This is a status update communication regarding system downtime at NSE.  
+  
+We can reasonably expect for this link to stay up. However, just to be safe, add these links as well.  
+  
+[Link to actual tweet](https://twitter.com/NSEIndia/status/1366251518999977984) \| [archive.org link](https://web.archive.org/web/20210301045907/https://twitter.com/NSEIndia/status/1366251518999977984) \| [archive.is link](https://archive.is/9ceKG)
+
+You could use Internet Archive’s Wayback machine to search for a latest archived version yourself.
+
+Alternatively, you could use these extensions / plugins in your browsers, to get the archived versions:
+
+* [Firefox Web Archive](https://addons.mozilla.org/en-US/firefox/addon/view-page-archive/)
+* [Chrome Web Archives](https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao)
+
 ## Miscellaneous 🦋
 
 * Keep the question in mind, when "answering" the FAQ.
