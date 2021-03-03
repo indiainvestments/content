@@ -4,7 +4,7 @@ description: A style guide for How To section of our wiki
 
 # How To Style Guide
 
-## Style Guide : How To Section ![:vertical\_traffic\_light:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/vertical_traffic_light.png)
+## Intro 👋
 
 We’ll soon have lot of process-oriented, step-by-step guides on various common tasks an investor needs to execute from time-to-time. These would form our How To section.
 
@@ -16,7 +16,7 @@ It could also be outdated simply because that process itself isn’t needed any 
 
 This document is for you, if you’re planning to warm-up with some contribution in the How-to section - either by writing, or by reviewing / guiding others.
 
-## Tone ![:musical\_note:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/musical_note.png)
+## Tone 🎵
 
 It should have a balanced tone. No need to be overly aggressive / abusive / cocky / snarky. Simultaneously, avoid being overly cute or too nice. Basically, avoid emotional hot-takes, or controversial flame-baits.
 
@@ -44,7 +44,7 @@ A _how-to_ document is not the place to start churning out academic dissertation
 
 Most importantly, the general structure of a _how-to_ document is a list of tasks to execute; which easily lends itself to avoiding long running paragraphs.
 
-## Be unbiased and factual ![:yin\_yang:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/yin_yang.png)
+## Be unbiased and factual ☯️
 
 _How to_ articles can get out of date, but that’s ok.
 
@@ -56,7 +56,7 @@ For example, if the question is _how to open a bank account in India_, don’t s
 
 It’s ok to clearly call that out in your writing. That you’re writing the process, for a subset of users, and what defines that subset of users.
 
-## Linking to external resources ![:globe\_with\_meridians:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/globe_with_meridians.png)
+## Linking to external resources 🌏
 
 In course of creating a content, you’d be tempted to link to an external resource - some blog post, news articles, videos, other community posts from Reddit / Valuepickr / TradingQnA etc.
 
@@ -89,7 +89,7 @@ Alternatively, you could use these extensions / plugins in your browsers, to get
 
 **NOTE**: However, in case of a _how-to_ around a particular product \(for instance, _how to sign up on Upstox_\), it's best to refer to the product's own knowledge base / user guide. These would always remain up to date. Archive links are not necessary.
 
-## Miscellaneous ![:butterfly:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/butterfly.png)
+## Miscellaneous 🦋
 
 * Don’t write detailed stuff like a research paper or a due diligence. Some reasoning is ok, but _how to_ is not a chapter in wiki. Brevity is desired.  
 
