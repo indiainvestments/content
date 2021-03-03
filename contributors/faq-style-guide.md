@@ -62,7 +62,7 @@ At least not directly to that resource.
 
 Links can be taken down / removed / made inaccessible. As much as possible, from the beginning, we’ve taken steps to not let that happen.
 
-Ideally, we’d want to link to Internet Archive’s archived version of that link.
+Ideally, we’d want to link to Internet Archive’s archived version of that link. [Wikipedia was able to restore nearly 9 million dead links with this](https://blog.archive.org/2018/10/01/more-than-9-million-broken-links-on-wikipedia-are-now-rescued/)
 
 Here’s how a sample link to CNN’s coverage of Buffet’s Annual Shareholder letter of 2021 might look like:
 
@@ -80,6 +80,18 @@ Alternatively, you could use these extensions / plugins in your browsers, to get
 
 * [Firefox Web Archive](https://addons.mozilla.org/en-US/firefox/addon/view-page-archive/)
 * [Chrome Web Archives](https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao)
+
+### Reddit links
+
+When it comes to Reddit links, especially links to a comment or post; we've decided to provide four links, instead of three.  
+  
+Reddit is a social platform, with multiple clients and readers out there, which aid users across the world consume its content. Aside from the _new.reddit_ and _old.reddit_ web platforms; Reddit also have plethora of mobile clients - Joey, Apollo, and many others; aside from the official Reddit app.  
+  
+To allow users to continue consuming the content from Reddit on their choice of client / reader service, we need to provide these four links:  
+  
+[www.reddit link](https://www.reddit.com/r/IndiaInvestments/comments/dnemrb/norway_pension_fund_a_1t_fund_for_people_of_norway/) \| [old.reddit link](https://old.reddit.com/r/IndiaInvestments/comments/dnemrb/norway_pension_fund_a_1t_fund_for_people_of_norway/) \|  [archive.is link](https://archive.is/GXPB1)  
+  
+The first link with `www` subdomain, allows readers to open it in their favorite Reddit clients. Second link allows good number of Redditors, who still prefer the older UI \(because it renders all comments in a simple HTML, and not just top comments in a thread\), easily consume the content.
 
 ## Miscellaneous 🦋
 
