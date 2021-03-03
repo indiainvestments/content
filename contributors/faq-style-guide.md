@@ -52,7 +52,7 @@ But it's not okay to phrase it as _equity is the only asset that'd perform bette
 
 No one can predict that.
 
-## Linking to external resources ![:globe\_with\_meridians:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/globe_with_meridians.png)
+## Linking to external resources 🌏
 
 In course of creating a content, you’d be tempted to link to an external resource - some blog post, news articles, videos, other community posts from Reddit / Valuepickr / TradingQnA etc.
 
