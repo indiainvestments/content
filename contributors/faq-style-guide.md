@@ -62,7 +62,7 @@ At least not directly to that resource.
 
 Links can be taken down / removed / made inaccessible. As much as possible, from the beginning, we’ve taken steps to not let that happen.
 
-Ideally, we’d want to link to Internet Archive’s archived version of that link. [Wikipedia was able to restore nearly 9 million dead links with this](https://blog.archive.org/2018/10/01/more-than-9-million-broken-links-on-wikipedia-are-now-rescued/)
+Ideally, we’d want to link to Internet Archive’s archived version of that link. [Wikipedia was able to restore nearly 9 million dead links with this](https://blog.archive.org/2018/10/01/more-than-9-million-broken-links-on-wikipedia-are-now-rescued/).
 
 Here’s how a sample link to CNN’s coverage of Buffet’s Annual Shareholder letter of 2021 might look like:
 
