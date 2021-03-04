@@ -7,6 +7,10 @@
 * The watchlists in the screenshot of this section are **NOT** the author\(s\) actual watchlist. They are just resultants of arbitrary screens run for illustration and educational purposes. Stocks under these screenshots are **NOT** stock recommendations.
 * The author\(s\) of this section did not get incentivised for recommending or not recommending any websites/tools/products mentioned in this section.
 
+{% hint style="info" %}
+Don't trust numbers reported on any screener at their face value, always verify the numbers shown. Since calculations are done based on one-size-fits-all formulaes, factoring in nuances in input values is not possible. **The methods of calculating these numbers may vary between different websites. Sometimes, the numbers can even be absurd and the methods used in calculating them can differ from generally accepted definitions.** Making investment decisions solely based on the reported idea can be extremely risky.
+{% endhint %}
+
 ## Introduction
 
 As of December 2020, the number of actively traded listed companies are nearly 4200 on the Bombay Stock Exchange \(BSE\)[^1](https://www.bseindia.com/corporates/List_Scrips.aspx), and nearly 1800 on the National Stock Exchange of India \(NSE\)[^2](https://www.nseindia.com/regulations/listing-compliance/nse-market-capitalisation-all-companies). This absolute abundance of companies to choose from makes the task of creating a watchlist challenging.
