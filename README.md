@@ -15,8 +15,6 @@ If you want to discuss anything on this website with other people, please check 
 
 ## Series
 
-Our wiki is a work-in-progress, constantly being reviewed and updated.
-
 {% hint style="info" %}
 Our wiki is a work-in-progress, constantly being edited, reviewed, and updated. We've done our best to review these, but if you notice spelling errors, or other discrepancies, kindly reach out to us so we can fix these.
 {% endhint %}
