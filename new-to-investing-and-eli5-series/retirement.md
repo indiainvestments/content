@@ -334,13 +334,13 @@ _Why US equity market data?_ Since that data is long and reasonably good and sin
 
 ## **Do-It-Yourself Retirement Plan**
 
-Using concepts outlined in [this](https://www.reddit.com/r/IndiaInvestments/wiki/strategy#wiki_basics_of_investment_strategy_plan) and [this](https://www.reddit.com/r/IndiaInvestments/wiki/strategy#wiki_a_simple_financial_planning_roadmap).
+Using concepts outlined in [this](https://indiainvestments.gitbook.io/content/new-to-investing-and-eli5-series/investment-philosophy-and-strategy#basics-of-investment-strategy-plan) and [this](https://indiainvestments.gitbook.io/content/new-to-investing-and-eli5-series/investment-philosophy-and-strategy#a-simple-financial-planning-roadmap).
 
 **Basket 1**. First ascertain, how much money you need in next 2 years \(2 years expense including discretionary and non-discretionary\). Put this amount partly in Bank account \(obviously with an ATM/debit card\), and rest in short-term / ultra-short term debt mutual funds.
 
 **Basket 2**. Now ascertain an approximate amount of money needed in next 3-4 years \(This is just an approximation again\). Keep this amount into a dynamic bond or income fund.
 
-**Basket 3**: The rest of the money, [keep in different assets](https://redd.it/3snc1j). For simplicity sake, use a 50:50 equity / debt allocation and keep money in a single debt income fund and a single well-managed conservative equity fund.
+**Basket 3**: The rest of the money, keep in different assets. For simplicity sake, use a 50:50 equity / debt allocation and keep money in a single debt income fund and a single well-managed conservative equity fund.
 
 **Methodology:**
 
