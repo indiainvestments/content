@@ -55,5 +55,8 @@
 
 ## New to Investing and ELI5 series
 
+* [Insurance](new-to-investing-and-eli5-series/insurance.md)
 * [Zero to Investing Post](new-to-investing-and-eli5-series/zero-to-investing.md)
+* [Investment Philosophy and Strategy](new-to-investing-and-eli5-series/investment-philosophy-and-strategy.md)
+* [Retirement](new-to-investing-and-eli5-series/retirement.md)
 

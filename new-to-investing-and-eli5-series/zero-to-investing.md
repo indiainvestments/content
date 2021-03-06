@@ -10,17 +10,29 @@ Level zero means no idea about bank accounts, some idea about FD, something hear
 
 Otherwise, the person is a well-earning professional, protected by parents (who are also likely to have not so great ideas about money management, otherwise they would have educated him. The ideas of ‘buy your house first’, ‘real estate is the best investment’, ‘FDs are the best, particularly when you buy them in your parents’ name because it saves tax’, ‘gold is best’, etc.).
 
+<<<<<<< HEAD
 Let’s start with the most basic question. Why do you earn money? Why have you studies so much (12+3+2 or 12+4+/-2, I have added MBA level to a graduate or engg graduate). In short, 17-18 years of studies. Plus add 2/3 years of working. And yet, there are not equal minutes to have really read and understand how to manage all that money that has been earned and will be earned in the future.
 
 We earn money as professionals, because that is what our parents, peers, society, etc have trained us to do. That is what has been passively shaped by everyone around us, but not by us internally. They give us ideas about how to get a good earning career, how to have a good CV to get to a good company, how to shape our personality, etc. And then how to save or invest, etc. Everything passive, bombarded by messages from all around us. The result is if someone asks us anything about it, we even feel proud that we don’t know anything about money management.
 
 Secondly, since we don’t know anything about it, and when we are starting to dip our toes in this ocean of information about money management, it's scary. **It becomes, since I don’t know what to do, I will do nothing.** I will keep kicking the can of doing something down the road, till either someone comes and shows me carrots and gets me to put my money somewhere and be done with it or more kicking or I see one of my friends who is financially savvy to get expensive things (car, house, vacation, whatever). Till this time, the money earned remains in the salary account (personally, I have seen 6 years worth of earnings in the savings account – amount 24L).
+=======
+Let’s start with the most basic question. Why do you earn money? Why have you studies so much \(12+3+2 or 12+4+/-2, I have added MBA level to a graduate or engg graduate\). In short, 17-18 years of studies. Plus add 2/3 years of working. And yet, there are not equal minutes to have really read and understand how to manage all that money that has been earned and will be earned in the future.
+
+We earn money as professionals, because that is what our parents, peers, society, etc have trained us to do. That is what has been passively shaped by everyone around us, but not by us internally. They give us ideas about how to get a good earning career, how to have a good CV to get to a good company, how to shape our personality, etc. And then how to save or invest, etc. Everything passive, bombarded by messages from all around us. The result is if someone asks us anything about it, we even feel proud that we don’t know anything about money management.
+
+Secondly, since we don’t know anything about it, and when we are starting to dip our toes in this ocean of information about money management, it's scary. **It becomes, since I don’t know what to do, I will do nothing.** I will keep kicking the can of doing something down the road, till either someone comes and shows me carrots and gets me to put my money somewhere and be done with it or more kicking or I see one of my friends who is financially savvy to get expensive things \(car, house, vacation, whatever\). Till this time, the money earned remains in the salary account \(personally, I have seen 6 years worth of earnings in the savings account – amount 24L\).
+>>>>>>> upstream/main
 
 **“If you want to buy things you want, you have to save”.** This was my first lesson in savings and investment, after I had studied and worked for a total of 22 years!
 
 In this writeup, I will be _writing about someone who has got some amount but don’t know how to start managing it._ Rather than someone who is about to start.
 
+<<<<<<< HEAD
 **Bank Account:** The earned money is sitting in the savings account and earning a measly 3.5% (tax free up to 10-15,000 – whatever govt has limited, as such the amount is small). The money is relatively safe. Relatively, because in today’s world of online banking and debit cards, the risk is non-zero.
+=======
+**Bank Account:** The earned money is sitting in the savings account and earning a measly 3.5% \(tax free up to 10-15,000 – whatever govt has limited, as such the amount is small\). The money is relatively safe. Relatively, because in today’s world of online banking and debit cards, the risk is non-zero.
+>>>>>>> upstream/main
 
 So where to start?
 
@@ -32,7 +44,11 @@ All these are called **Debt instruments.** Basically, you give your money (calle
 
 An example of FD: you give the bank 10,000 today. And the bank promises to give you 10,000 and 7% (700) after 1 year.
 
+<<<<<<< HEAD
 An example of RD: you give the bank 1,000 every month, and the bank promises to give you 12,000 (1,000 x 12 months) and around 400 additionally as interest. This is back of the envelop calculation.
+=======
+An example of RD: you give the bank 1,000 every month, and the bank promises to give you 12,000 \(1,000 x 12 months\) and around 400 additionally as interest. This is back of the envelop calculation.
+>>>>>>> upstream/main
 
 Moreover, you have to pay income tax on those 700 and 400 rs. Just try to understand how difficult it is to earn money on the savings amounts and which when subjected to tax, comes out to how little. In this case, if you are in 30% bracket, then you are getting only 490 and 280 rs finally, after you have saved that amount of money for 1 year.
 
@@ -46,7 +62,11 @@ Why that thing? Because they are:
 
 · Diversified – basically, they keep money into a large number of different areas, so that if one area goes bad (recent news IL&FS), then all your money is not in jeopardy. The more diversified the money is kept, better is the protection (a general rule).
 
+<<<<<<< HEAD
 · In general, you earn more than FD, both as amount of interest as well as with less tax, if you keep the money in there for >3 years.
+=======
+· In general, you earn more than FD, both as amount of interest as well as with less tax, if you keep the money in there for &gt;3 years.
+>>>>>>> upstream/main
 
 · Third and most important, the money withdrawal is flexible. You want to remove 5,000 you can. You want to remove 1 lakh, you can (of course, you should have more than 1 lakh invested). You want to remove everything, you can.
 
@@ -66,7 +86,11 @@ Now that we want to park the money into a more flexible instrument, we can proce
 
 ### **Part 2A is Health Insurance**.
 
+<<<<<<< HEAD
 Take a decent amount of health insurance (more correctly called Sickness Insurance, since what it means is that when you get sick and get admitted in a hospital, then you get part or all of the medical expenditure you did).
+=======
+Take a decent amount of health insurance \(more correctly called Sickness Insurance, since what it means is that when you get sick and get admitted in a hospital, then you get part or all of the medical expenditure you did\).
+>>>>>>> upstream/main
 
 To shortlist the options, I checked coverfox.com with the following options:
 
@@ -89,7 +113,11 @@ Sidenote: Yes, in today’s world, both husband and wife earn and are equal/uneq
 
 Buy pure term insurance. In simple words, this plan/policy means that the company will pay you an amount X (called Cover amount), if the policy holder dies within a defined term (10-40 years), and for that it will ask you to pay the insurance amount (called Premium) every year. Typically, the amounts range from 500-1000x.
 
+<<<<<<< HEAD
 Eg. If you are a 30 year old male, non-smoker, and you want a 1 crore life cover for 30 years, then you would need to pay around 10,000 a year. This makes to an amount of 3,00,000 over 30 years to be paid if the person does not die. While you die anytime from the start of the policy, then the family gets paid 1,00,00,000 (= 1 crore). If you don’t die, then those 3 lakhs have gone to the insurance company and it is your loss. Please ignore this loss. Let this loss occur, since I am pretty sure, no one wants to die!
+=======
+Eg. If you are a 30 year old male, non-smoker, and you want a 1 crore life cover for 30 years, then you would need to pay around 10,000 a year. This makes to an amount of 3,00,000 over 30 years to be paid if the person does not die. While you die anytime from the start of the policy, then the family gets paid 1,00,00,000 \(= 1 crore\). If you don’t die, then those 3 lakhs have gone to the insurance company and it is your loss. Please ignore this loss. Let this loss occur, since I am pretty sure, no one wants to die!
+>>>>>>> upstream/main
 
 Any other option than pure term insurance is more expensive. And ignore all such options like life return of premium, money-back, step up, step down, investment-insurance, etc. With the kind of marketing prowess of the insurance companies, there are so many terms that it is much easier to ignore all those things.
 
@@ -200,12 +228,20 @@ Aim: money which is needed at least after 7 years.
 
 What to use: Now this is a little more complicated, so we will go **step-by-step**.
 
+<<<<<<< HEAD
 
 #### Part A: Some terms explanation needed first (The whole post is [Here](https://www.reddit.com/r/IndiaInvestments/comments/2umjqg/investing_reframed_eli5_series/)). I have put it here again, because I fear that a link may be distracting.
 
 **Cash** - The money is with you physically. The closest equivalent is a Current / Savings account in a bank.
 
 **Bonds -** You are giving your cash to someone who will provide you regular payouts at fixed intervals and give you back a predecided lumpsum at the end of the period. Sometimes, you can skip the payouts and ask for them to be given at the end of the period (eg, compounded growth option of fixed deposits or bonds). When you invest Rs 1000 in a 9% FD for 1 year , you are basically giving 1000 now with the promise that the bank will give you 1090 at the end of 1 year.
+=======
+#### Part A: Some terms explanation needed first \(The whole post is [Here](https://www.reddit.com/r/IndiaInvestments/comments/2umjqg/investing_reframed_eli5_series/)\). I have put it here again, because I fear that a link may be distracting.
+
+**Cash** - The money is with you physically. The closest equivalent is a Current / Savings account in a bank.
+
+**Bonds -** You are giving your cash to someone who will provide you regular payouts at fixed intervals and give you back a predecided lumpsum at the end of the period. Sometimes, you can skip the payouts and ask for them to be given at the end of the period \(eg, compounded growth option of fixed deposits or bonds\). When you invest Rs 1000 in a 9% FD for 1 year , you are basically giving 1000 now with the promise that the bank will give you 1090 at the end of 1 year.
+>>>>>>> upstream/main
 
 Depending upon the quality and return-back capability of that someone, the net lumpsum and payouts vary. A govt backed bank / agency will give you a lower lumpsum with a higher degree of probability that it will return you the money than a small private business.
 
@@ -269,3 +305,7 @@ Why such a plan combination? This is for those who want to know more intricacies
 
 1. We have got 3 debt funds and 1 equity fund, across 1/2 AMCs. Much easier to start and manage. Eventually, when there will need for switches between these funds, then it remains easy.
 2. Till 1-2 crores of amounts, I don’t see any real need to have more funds than these.
+<<<<<<< HEAD
+=======
+
+>>>>>>> upstream/main
