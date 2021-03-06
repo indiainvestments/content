@@ -12,7 +12,7 @@ Otherwise, the person is a well-earning professional, protected by parents \(who
 
 So, let’s start with the most basic question. Why do you earn money? Why have you studies so much \(12+3+2 or 12+4+/-2, I have added MBA level to a graduate or engg graduate\). In short, 17-18 years of studies. Plus add 2/3 years of working. And yet, there are not equal minutes to have real read and understand how to manage all that money that is being earned and will be earned.
 
-We earn money as professionals, because that is what we have been trained to do by our parents, peers, society, etc. That is what has been passively shaped by everyone around us, but not really by us internally. So, they give us ideas about how to get a good earning career, how to have a good CV to get to a good company, how to shape our personality, etc. And then how to save or invest, etc. Everything passive, bombarded by messages from all around us. The result is if someone asks us anything about it, we even feel proud that we don’t know anything about money management. 
+We earn money as professionals, because that is what we have been trained to do by our parents, peers, society, etc. That is what has been passively shaped by everyone around us, but not really by us internally. So, they give us ideas about how to get a good earning career, how to have a good CV to get to a good company, how to shape our personality, etc. And then how to save or invest, etc. Everything passive, bombarded by messages from all around us. The result is if someone asks us anything about it, we even feel proud that we don’t know anything about money management.
 
 Secondly, since we don’t know anything about it, and when we are starting to really dip our toes in this vast ocean of information about money management, it is scary. **It becomes, since I don’t know what to do, I will do nothing.** I will keep kicking the can of doing something down the road, till either someone comes and shows me carrots and gets me to put my money somewhere and be done with it or more kicking or I see one of my friends who is financially savvy to get expensive things \(car, house, vacation, whatever\). Till this time, the money earned remains in the salary account \(personally, I have seen 6 years worth of earnings in the savings account – amount 24L\).
 
@@ -55,8 +55,6 @@ Why that thing? Because they are:
 **Solution:** so, for that 24L person, I advised him to keep 3 L in savings account \(he had been seeing that huge amount in his account statement, so just could not ask him to remove everything. It would have been a shock to him\), keep three 1L FDs of similar maturity and rest 18L in _Franklin Templeton’s liquid fund_. \(I am giving the name here, because there are so many options in that category, that it again causes action paralysis of which one to choose\). Other one which I can recommend is Parag Parikh liquid fund \(because I like their other offering of equity fund and because they have put their money mostly in the RBI papers\).
 
 From freefincal’s Plumbline \(I trust his analyses\), Quantum’s liquid fund is a good idea.
-
-
 
 1. For PPFAS AMC, the [site](https://selfinvest.ppfas.com/investor/new) should help you get there.
 
@@ -170,8 +168,6 @@ Now that we have curtailed spending and have easy setup for investing, the basic
 
 **The basic idea is Save as much as you Reasonably can**. If that is 60-70%, good \(Pattu does that, I do that\). If it is 30%, well and good. If it is 10%, again decent, since it is better than 0%. Once you start seeing results of your savings, you will get better. With better incomes, and lesser spendings and more focus, the rate of savings will increase. Don't get limited on to 10%, since that is what I have seen most recommended - that amount is seriously insufficient.
 
-
-
 ## Part 4 - How to Invest
 
 How to go about putting the money which has been allocated for savings/investing?
@@ -271,6 +267,4 @@ Why such a plan combination? This is for those who want to know more intricacies
 1. We have got 3 debt funds and 1 equity fund, across 1/2 AMCs. Much easier to start and manage. Eventually, when there will need for switches between these funds, then it remains easy.
 2. They can be either 3 Franklin funds and 1 PPFAS fund or 2 Franklin funds and 2 PPFAS funds. The ethics of both the AMCs is top notch. There are other funds who may have funds with better returns, but I don’t trust them \(read ICICI and HDFC\) as much as I do these 2 AMCs.
 3. Till 1-2 crores of amounts, I don’t see any real need to have more funds than these.
-
-
 
