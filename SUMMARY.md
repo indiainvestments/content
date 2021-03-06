@@ -55,6 +55,8 @@
 
 ## New to Investing and ELI5 series
 
+* [All About Mutual Funds](new-to-investing-and-eli5-series/all-about-mutual-funds.md)
+* [FAQs for Mutual Funds](new-to-investing-and-eli5-series/faqs-for-mutual-funds.md)
 * [Insurance](new-to-investing-and-eli5-series/insurance.md)
 * [Zero to Investing Post](new-to-investing-and-eli5-series/zero-to-investing.md)
 * [Investment Philosophy and Strategy](new-to-investing-and-eli5-series/investment-philosophy-and-strategy.md)
