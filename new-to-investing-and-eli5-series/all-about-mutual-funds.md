@@ -1,61 +1,95 @@
+---
+description: Beginner-oriented simple guide for all things mutual funds
+---
+
 # All About Mutual Funds
 
 ## What is a Mutual Fund?
 
-A mutual fund is an instrument / vehicle by which a company \(called Asset Management Company or AMC\) collects money from investors by selling units / shares and using that money to make investments. Depending upon the aim, a mutual fund can invest in equities, bonds, a mix of both, gold, international equities, other funds, etc. So, mutual fund automatically does not mean equity mutual fund. There are some 4000 odd funds presently.
+A mutual fund is an instrument / vehicle by which a company \(called Asset Management Company or AMC\) collects money from investors by selling units / shares and using that money to make investments.   
+  
+Depending upon the mandate; a mutual fund can invest in equities, bonds, a mix of both, gold, international equities, other mutual funds etc. So, mutual fund automatically does not mean equity mutual fund. Equity mutual funds are a subset of all mutual funds.  
+  
+There are some 4000 odd funds presently in the Indian markets.
 
-### **Portfolio:**
+### **Portfolio**
 
-The combined list of different securities of the fund is called the Portfolio. Because of transparency requirements, the companies have to tell their portfolios on their sites. Different sites like Morningstar.in, moneycontrol.com, and valueresearchonline.com also show these details along with other characteristics.
+The combined list of different securities of the fund is called the Portfolio. Because of transparency requirements, the companies have to periodically update their funds' portfolios on their websites.  
+  
+For Debt mutual funds that invest in various IOUs, bonds etc.; it's required to disclose portfolio every 2 weeks.  
+  
+Different portals like Morningstar.in, Moneycontrol.com, and Valueresearchonline.com also show these details along with other characteristics.
 
 ### **Net Asset Value \(NAV\)**
 
-This is the price of 1 unit of the particular mutual fund. It is calculated by adding the market value of all the securities \(equities, bonds, gold, etc\), subtracting the market value of the liabilities and then dividing this value by the total number of shares / units.
+This is the price of 1 unit of the particular mutual fund. It's calculated by adding the market value of all the securities \(equities, bonds, gold, etc\), subtracting the market value of the liabilities, and then dividing this value by the total number of outstanding units.
 
 Mathematically, NAV = \(Total market value of Assets – Total market value of liabilities\) _divided by_ \(number of units / shares\)
 
-_Features:_
+Features:
 
-* It is calculated daily at the end of the trading sessions and should be available at 7pm. Some funds, like those which have securities of foreign assets, can have delayed announcements of their NAVs.
-* If the underlying market value of the securities \(shares, bonds, gold\) increases on that day, the NAV will increase and vice versa.
-* One can purchase / sell the mutual fund at the announced NAV of the day. Usually, the selling and purchasing NAV are similar, but in some cases that can be different. 
-* Most funds allow buying / selling of fractional shares also. Since, everything is mathematical. A fund can collect ₹1,00,000 and issue 1000 units with NAV of 100. Other one can collect the same ₹1,00,000 and issue 10,000 units at NAV of 10. The underlying net value of the fund is same, only the NAV value is different because of different number of units. **This is why when somebody tells you that a fund with NAV of 10 is better than a fund with NAV of 300, you should not agree to it.** The total fund value depends upon the securities and not the NAV. Better to run away from that guy for investing advice. 
+* It is calculated daily at the end of the trading sessions and should be available on AMFI website by 11 p.m. Some funds, like those which have securities of foreign assets, can have delayed announcements of their NAVs. 
+* If the underlying market value of the securities \(shares, bonds, gold\) increases on that day, the NAV will increase \(unless there are other reasons\) and vice versa. 
+* One can purchase / sell the mutual fund at the announced NAV of the day. Usually, the selling and purchasing NAV are similar, but in some cases that can be different.  
+* Mutual funds can issue fractional units, up to 3 decimal places.  A fund can collect ₹1,00,000 and issue 1000 units with NAV of 100. Other one can collect the same ₹1,00,000 and issue 10,000 units at NAV of 10. The underlying net value of the fund is same, only the NAV value is different because of different number of units.  **This is why when somebody tells you that a fund with NAV of 10 is better than a fund with NAV of 300, you should not agree to it.** The total fund value depends upon the securities and not the NAV. Better to avoid such advice. 
 
 ### **Dividend Income**
 
-When a mutual fund announces dividend, it pays out that dividend money from the net assets and gives it back to the investors. There is no additional money generated. If the NAV is 100 and the company announces a dividend of 5, you will get 5 in your account and the NAV would fall to 95. Your own money is given back to you. It is not like you will get 5 in your account _and the NAV would continue to be 100._
+When a mutual fund announces dividend, it pays out that dividend money from the net assets and gives it back to the investors. There is no additional money generated, in the same way companies distribute part of their profits to shareholders as dividends.  
+  
+If the NAV is 100 and the AMC announces a dividend of 5, you will get 5 in your account for every unit you hold, and the NAV would fall to 95. **Your own money is being given back to you**. It is not like you will get 5 in your account _and the NAV would continue to be 100._  
+  
+Instead of relying on mutual fund dividends for cashflow tricks, it's easier to just withdraw it yourself, periodically; from growth scheme of same mutual fund.
 
 ### **NFO \(New Fund Offer\)**
 
-Companies come up with new portfolio guidelines or asset balancing, etc and create a particular mutual fund for that purpose. One can read about the details of the NFO on their site or SEBI’s. Usually, they are sold at NAV of 10 \(but it is just an arbitrary number\). The underlying philosophy of the fund is what is important and before buying a NFO, one should see whether that philosophy fits into the overall requirement. Any NFO requires lot of advertisement \(online, offline\), seminars, selling, etc – all these expenses are deducted from the net assets \(in the liabilities section specifically\) and gets reflected in the NAV. For 99% cases, don’t invest in NFO.
+Companies come up with new portfolio guidelines or asset balancing, etc and create a particular mutual fund for that purpose. One can read about the details of the NFO on their site or SEBI’s. Usually, these are sold at NAV of 10 \(but it is just an arbitrary number\).  
+  
+The underlying philosophy of the fund is more important and before buying a NFO, one should see whether that philosophy fits into the overall requirement. Any NFO requires lot of advertisement \(online, offline\), seminars, selling, etc – all these expenses are deducted from the net assets \(in the liabilities section specifically\) and gets reflected in the NAV. For 99% cases, don’t invest in NFO.  
+  
+It's also a misconception that fund's NAV cannot be smaller than 10. JM Core 11 Growth plan, was opened to public in early 2008. Its NAV stayed below that NFO NAV for ~13 years, before reaching same value again in Jan 2021.
 
 ### **Expense Ratio**
 
-The funds charge a specific amount of money for using the services. In most cases, this charge is applied on a daily basis and comes under the Liabilities head in the calculations. If a fund charges 2.5% expense ratio, then it would cut about 0.01% on each working day \(5 days a week for 52 weeks\) from the net assets and give you the final NAV. For lower expense ratio funds, this value will be lesser. Presently, each of the mutual fund have 2 types – a regular / retail plan and a direct plan. In the direct plan, if you invest directly with the AMC through their office / website AND you opt for Direct plan, you will get a lower expense ratio plan \(by about 0.5-0.6%\). All other methods of investing, namely agents, demat account, banks, investment accounts, etc can only use Retail / Regular plan.
+The funds charge a specific amount of money for using the services. This charge is applied on a daily basis and comes under the Liabilities head in the calculations.  
+  
+If a fund charges 2.5% expense ratio, then it would deduct about 0.01% on each working day \(5 days a week, for 52 weeks\) from the net assets and give you the final NAV. For lower expense ratio funds, this value will be lesser.  
+  
+Presently, each of the mutual fund have two different types based on expenses – a regular / retail plan and a direct plan. In the direct plan, if you invest directly with the AMC through their office / website AND you opt for Direct plan, you will get a lower expense ratio plan \(by about 0.5-0.6%\). All other methods of investing, namely agents, demat account, banks, investment accounts, etc can only use Retail / Regular plan.  
+  
+You could also invest through various new-gen free direct plan apps, including but not limited to, Coin / Groww / INDMoney / Kuvera / MFUtility / PayTM Money etc.   
+  
+Make sure you're investing only in Direct plan of the fund, in growth scheme \(not dividend\).
 
 ### **Types of Mutual Fund**
 
-_Open-ended Mutual Fund_ – The buying and selling of the units from the AMC is open. If you buy, they create more units at the day’s NAV and if you sell, they remove those units.
+**Open-ended Mutual Fund** – The buying and selling of the units from the AMC is open. If you buy, they create more units \(if needed\) at the day’s NAV and if you sell, they can remove those units.
 
-_Closed-ended Mutual Fund_ – For a 3 year closed fund, the AMC does not allow creation / deletion of units for that period of 3 years. After 3 years, it can either convert it into an open ended fund or pay back the money and close it. During the 3 year period, the investor can buy/sell the units on the exchange \(NSE/BSE\) from other unit holders. Sometimes, the buying / selling price can be different from the NAV of the fund because of supply and demand forces. And sometimes, one may not be able to sell it if there are no other buyers. There can be 5 year funds too. FMPs \(Fixed Maturity Plans\) are a type of closed-ended funds.
+**Closed-ended Mutual Fund** – For a 3 year closed fund, the AMC does not allow creation / deletion of units for that period of 3 years.   
+  
+After 3 years, it can either convert it into an open ended fund or pay back the money and close it.   
+  
+During the 3 year period, the investor can buy/sell the units on the exchange \(NSE/BSE\) from other unit holders. Sometimes, the buying / selling price can be different from the NAV of the fund because of supply and demand forces. And sometimes, one may not be able to sell it if there are no other buyers. There can be 5 year funds too. FMPs \(Fixed Maturity Plans\) are a type of closed-ended funds.
 
 ### **Advantages of Mutual Fund**
 
-1. **Diversification:** Most funds have a number of different securities in their portfolio. Some can have stocks of 25 companies, while others can have stocks of 100 companies. There are guidelines which prevent the companies to invest in only 3-4 companies. This prevents severe loss in case 1 company does a fraud and its stock price collapses. Same is the case with the bond funds. They can have bonds of different companies and even if 1 or 2 companies default, the overall NAV does not go down to zero. 
-2. **Affordable:** With ₹500 / 5000, you can go and buy a mutual fund and get that diversified portfolio. If you want to replicate that kind of diversified portfolio on your own, you will have to have a big amount.
-3. **Professional Management:** The management team employed by the AMC use their expertise, research and analyses to manage the portfolios. This is better than most of the investors. The main point is that the aim of the management is _same_ as that of the investor – to maximize the NAV \(investment value\).
-4. **Liquidity:** By definition, the open-ended mutual funds can be sold back to the AMC and the money can be received in the bank account. Depending upon the type of fund \(this will be mentioned in the scheme document\), it can take 1 to 10 days for the amount to get transferred.
-5. **Convenience:** Most of the things like buying, selling \(partial/full\), statements, tax statements, etc. can be done online. Except for the KYC \(know your customer\) norms which has to be done in person \(called In Person Verification\). And everything can be done by going to the AMC office or common services like of CAMS / Karvy. Automated investment plans can be done in the form of SIP \(Systematic Investment Plan\) or SWP \(systematic withdrawal plan\) and their variations. 
+1. **Diversification:**   Most funds have a number of different securities in their portfolio. Some can have stocks of 25 companies, while others can have stocks of 100 companies. There are guidelines which prevent the companies to invest in only 3-4 companies.   This prevents severe loss in case one company is involved in a fraud and its stock price collapses. Same is the case with the bond funds. They can have bonds of different companies and even if 1 or 2 companies default, the overall NAV does not go down to zero.  
+2. **Affordable:** With ₹500 / 5000, you can go and buy units in a mutual fund and get that diversified portfolio. If you want to replicate that kind of diversified portfolio on your own, you will have to have a big amount. 
+3. **Professional Management:** The management team employed by the AMC use their expertise, research and analyses to manage the portfolios.  This is better than most of the investors. The main point is that the aim of the management is _same_ as that of the investor – to maximize the NAV \(investment value\). 
+4. **Liquidity:** By definition, the open-ended mutual funds can be sold back to the AMC and the money can be received in the bank account. Depending upon the type of fund \(this will be mentioned in the scheme document\), it can take 1 to 10 days for the amount to get transferred. 
+5. **Convenience:** Most of the things like buying, selling \(partial/full\), statements, tax statements, etc. can be done online.  Except for the KYC \(know your customer\) norms which has to be done in person \(called In Person Verification\).  However, these days, KYC done over video call is also accepted.  And everything can be done by going to the AMC office or common services like of CAMS / Karvy. Automated investment plans can be done in the form of SIP \(Systematic Investment Plan\) or SWP \(systematic withdrawal plan\) and their variations. 
 
 ## Types of Mutual Funds
 
-### INCOME OBJECTIVE
+### Income Objective
 
 You have to opt for dividend option if you want to get the dividend declared to come to your account. Alternatively, you can opt for growth option and ask for a specific amount of money as per needs to get the actual income. This can be automated with SWP or it can be done as per your request.
 
 ### Liquid Funds
 
-These are also called Money-market funds. These types of mutual funds invest in highly liquid and high credit rated securities with very short maturity time frames \(usually less than 1 year\) like CD \(certificate of deposit which is a big FD\), government securities, commercial papers, and corporate bonds \(AA+ and above, mostly\). They usually pay higher interest rates than corresponding FD or savings account rates and are extremely safe. The last 1 year average return is around 8.9% and the forward yield is around 8.7%. The 5- year return has been 8.1%. \(Time-End Nov 2014\). Source – Morningstar.in. Reliance MF has an ATM card which you can associate with their funds. [Link](https://www.reliancemutual.com/investor-services/innovative-products/reliance-any-time-money-card). I don’t have personal experience with it.
+These are a type of Money-market funds. These types of mutual funds invest in highly liquid and high credit rated securities with very short maturity time frames \(usually less than 91 days\) like CD \(certificate of deposit which is a big FD\), government securities, commercial papers, and corporate bonds \(AA+ and above, mostly\).  
+  
+They usually pay higher interest rates than corresponding FD or savings account rates and are extremely safe. The last 1 year average return is around 8.9% and the forward yield is around 8.7%. The 5- year return has been 8.1%. \(Time-End Nov 2014\). Source – Morningstar.in. Reliance MF has an ATM card which you can associate with their funds. [Link](https://www.reliancemutual.com/investor-services/innovative-products/reliance-any-time-money-card). I don’t have personal experience with it.
 
 ### Bond Funds \(Debt Funds\)
 
@@ -75,15 +109,15 @@ These use bonds for up to 3-6 months in most cases. They can invest in governmen
 
 These use government \(gilt\) bonds, which have longer maturities. Currently, some of the funds have average maturities of 20-25 years.
 
-### GROWTH OBJECTIVE
+### Growth Objective
 
 These funds have the objective of increasing the value of the fund. The equity funds will come under this group.
 
 **Large cap funds** These funds invest in equities / stocks of the top 30/50/100 companies. Cap is for capitalization, which refers to the total stock market value of the company.
 
-**Mid and Small cap funds** These funds invest in stocks of companies which are not Large-cap. They do so by having a mandate of not investing in companies which are in the top 50 or top 100 by market capitalization size.
+**Mid cap funds** These funds invest in stocks of companies which are not Large-cap. They do so by having a mandate of not investing in companies which are in the top 50 or top 100 by market capitalization size.
 
-**Micro cap funds** These funds invest in companies which are not in the top 200 or top 300 companies.
+**Small cap funds** These funds invest in companies which are not in the top 200 or top 300 companies.
 
 **Flexi cap or Multi-cap funds**
 
@@ -117,12 +151,12 @@ Exchange traded funds are a separate type of mutual fund. These funds can be bou
 
 AKA **Mutual Fund Rankings do not make Sense! Or Do They?**
 
-You will find lot of media \(print, TV, blogosphere, sites\) screaming their heads off about 5 star funds. Friends swearing about some sites about 5 star funds. I will try and dissect the methodology of this, and then the disadvantages.
+You will find lot of media \(print, TV, blogosphere, sites\) screaming their heads off about 5 star funds. Friends swearing about some sites about 5 star funds. We will try and dissect the methodology of this, and then the disadvantages.
 
-1. The major sites \(valueresearchonline, morningstar, moneycontrol\) first categorise different funds in different categories, according to their own whims and fancies \(if you will check, they will tell you they have definite criteria but all those criteria are based on relatively short-term periods of recent past, eg. 1 year or 3 year\). Few years back, VRO had a group of Diversified Equity, which later got divided into Large, Large-midcap, Multicap, Mid-Small cap. In future, it can happen with the higher number of funds, that there will be a Large-Medium-Mid and a Medium-Mid group too \(who knows!\). 
-2. Plus, according to their current portfolio, different funds are kept in different groups at different times. Eg, a flexi-cap fund like HDFC Equity will be placed in Large-mid cap fund group at one time, while at other times it will be put in multi-cap group \(which is actually its group\). So, the place of individual funds can change over time. Which means, if you categorise HDFC Equity as a 5 star fund in the large-mid cap fund group and later on, its group changes to multi-cap, then the rating of 5 star of large-mid cap is just junk for this particular fund. \(For clarity sake, HDFC Equity can invest in any company, will prefer to get mid and large companies, and since its benchmark is CNX 500 \(major 500 companies, so it is best characterised as a multi-cap\).
-3. The method of Rating. A Risk adjusted Return is followed which includes a lot of maths, usage of exotic terminology like 'downside risk', 'utility function theory','risk aversion', etc. Then they compare monthly/weekly returns with a riskfree return \(savings bank account rate or short term FD\), and assign downside risk and excess returns, do some more jugglary in terms of percentages allocated to various parameters. Then all the funds of a category are separated into different star groups, the top 10% are awarded 5star rating, next 22.5% 4 star \(so the top third are 4/5 star\). 
-4. All these ratings are purely Quantitative without any subjective component. So, if the main catalyst of all fund selection – eg the fund manager, leaves, there will be no change in the rating. Even, the complete change of the entire management team like Fidelity leaving lock-stock-and-barrel does not change the rating of their funds which have been taken over by L&T with a new team. Amazing, if you really look at it.
+1. The major sites \(Valueresearchonline, Morningstar, Moneycontrol\) first categorise different funds in different categories, according to their own whims and fancies \(if you will check, they will tell you they have definite criteria but all those criteria are based on relatively short-term periods of recent past, eg. 1 year or 3 year\).   Few years back, VRO had a group of Diversified Equity, which later got divided into Large, Large-midcap, Multicap, Mid-Small cap. In future, it can happen with the higher number of funds, that there will be a Large-Medium-Mid and a Medium-Mid group too \(who knows!\).  
+2. According to their current portfolio, different funds are kept in different groups at different times. Eg, a flexi-cap fund like HDFC Equity will be placed in Large-mid cap fund group at one time, while at other times it will be put in multi-cap group \(which is actually its group\).   So, the place of individual funds can change over time. Which means, if you categorise HDFC Equity as a 5 star fund in the large-mid cap fund group and later on, its group changes to multi-cap, then the rating of 5 star of large-mid cap is just junk for this particular fund. \(For clarity sake, HDFC Equity can invest in any company, will prefer to get mid and large companies, and since its benchmark is CNX 500 \(major 500 companies, so it is best characterised as a multi-cap\). 
+3. The method of Rating. A Risk adjusted Return is followed which includes a lot of maths, usage of exotic terminology like 'downside risk', 'utility function theory','risk aversion', etc.  Then they compare monthly/weekly returns with a risk-free return \(savings bank account rate or short term FD\), and assign downside risk and excess returns, do some more jugglery in terms of percentages allocated to various parameters. Then all the funds of a category are separated into different star groups, the top 10% are awarded 5star rating, next 22.5% 4 star \(so the top third are 4/5 star\).  
+4. All these ratings are purely quantitative without any subjective component. If the main catalyst of all fund selection – eg the fund manager, leaves, there will be no change in the rating. Even, the complete change of the entire management team like Fidelity leaving lock-stock-and-barrel does not change the rating of their funds which have been taken over by L&T with a new team. Amazing, if you really look at it. 
 5. Then these ratings are disseminated to people in various forms and adverts. And people flock to the 4 and 5 star funds. 
 
 What are the problems in this way? Is it not better to use 4/5 star funds than to use the lower performing funds \(the 1 and 2 star funds\)?. Yes, selecting funds on basis of stars can be a good start, since most of the long term decent funds are 3 or 4 or 5 funds. But the problems are:
@@ -133,7 +167,7 @@ What are the problems in this way? Is it not better to use 4/5 star funds than t
 4. Comparison of a different style of fund like Value funds \(Eg are Templeton India Growth / Templeton India Equity Income and ICICI Discovery\) with Growth funds does not work since they are not comparable at all, even if their benchmarks and portfolio capitalizations are similar.
 5. Then, if the top 10% of a group are 5 star out of say 20 \(which means top 2 will be 5 star\). Now let us say, there are 200 funds, then the top 20 funds will be 5 star. So, even though the relative ranking of a fund has dropped from say 2 to 20, it will retain its 5 star ranking - it just needs a constant increase in the number of funds and relative good performance. 
 
-So how to cope?
+So how to proceed?
 
 1. Look behind the Quantitative performances of funds. You can start with the Qualitative Analyses provided by [Morningstar](http://www.morningstar.in/featured-reports.aspx) for a start. Understand the Fund Company behind the fund. Have they been stable in retaining their management teams? Are they able to generate profits for themselves? If they are not, then it will be difficult for them to retain their teams for longer periods of time or sustain themselves, both of which can prove to be harmful for you.
 2. Is the fund manager\(s\) been with this fund for the last 3-5 years \(over which the ratings have been generated and which has attracted you to it\)?
