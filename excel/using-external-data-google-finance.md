@@ -22,6 +22,10 @@ There are even dedicated tools and services, like IFTTT, RapiAPI, Mixpanel etc.,
 
 In this section, we’d keep ourselves limited to `GOOGLEFINANCE` function, that fetches financial data from [Google Finance](https://www.google.com/finance). And preferably, use [Google Sheets](https://docs.google.com/spreadsheets); because most likely, your MS Excel application doesn't come with this in-built function.
 
+{% hint style="info" %}
+©️ 🔒 Do go through usage restriction section in `GOOGLEFINANCE()` [documentation by Google](https://support.google.com/docs/answer/3093281?hl=en), to make sure you using this in your spreadsheets, is compliant with Google's terms of usage.
+{% endhint %}
+
 ## Problem Statement 🤔
 
 Plenty of economists point out how NASDAQ has stayed below its _all time high_ \(aka ATH\) of 2000s, for the next ~15 years, before reaching the same high around 2015-16.
