@@ -8,7 +8,7 @@ description: A checklist to reference while performing due diligence on a compan
 
 * **The Product**
   * [ ] What is the sector primarily selling?
-  * [ ] How is the sector sub-classified based on product segments? _\(for example, FMCG can be categorised into home care, personal care, food products, etc\)_
+  * [ ] How is the sector sub-classified based on product segments? _\(for example, FMCG can be categorized into home care, personal care, food products, etc\)_
   * [ ] What is the market size for the product?
   * [ ] Is the product prone to disruption from an alternate solution?
 * **Brief History / Key Events**
@@ -24,8 +24,8 @@ description: A checklist to reference while performing due diligence on a compan
   * [ ] How capital intensive is the production, marketing, distribution, delivery & installation of the product?
 * **Market Overview**
   * [ ] How mature is the sector domestically? Is the sector expecting a turnaround from the current trend?
-  * [ ] How is the market for the product split between organised & unorganised players? Which way is the market leaning now?
-  * [ ] How is the market for the product split between domestic & international players? Which way is the market leaning now?
+  * [ ] How is the product's market share split between organized & unorganized players? Which way is the market leaning now?
+  * [ ] How is the product's market share split between domestic & international players? Which way is the market leaning now?
   * [ ] Who are the key players that set the trend for the sector? _\(in terms of pricing power, product innovation, market practices\)_
   * [ ] Who are the emerging players that could have material impact on the trend for the sector?
   * [ ] What entry to barrier does the sector enjoy?
@@ -45,9 +45,9 @@ description: A checklist to reference while performing due diligence on a compan
   * [ ] What product segment is the company catering to?
   * [ ] Where does the product fit in the market? Is there something that differentiates the product against competitors?
   * [ ] What is the _addressable_ market size for the product?
-  * [ ] What is the product's market share, mindshare, or position in the market?
+  * [ ] What is the product's market share, mind share, or position in the market?
 * **Business Model**
-  * [ ] A brief overview of business model of the company.
+  * [ ] A brief overview of the business model of the company.
   * [ ] What are the growth avenues for the company?
   * [ ] How does the company market its product?
   * [ ] What is the capital allocation policy of the company?
@@ -62,7 +62,7 @@ description: A checklist to reference while performing due diligence on a compan
   * [ ] What has been the revenue growth for the past 3, 5 & 10 years?
   * [ ] What has been the EBIT \(_earnings before financial costs & taxes\)_ growth for the past 3, 5 & 10 years?
   * [ ] What has been the net earnings \*\*growth for the past 3, 5 & 10 years?
-  * [ ] Is the revenue of the company overly concentrated within few clients?
+  * [ ] Is the revenue of the company overly concentrated within a few clients?
 * **Balanced Sheet Statement**
   * [ ] Is the balance sheet clean/strong?
   * [ ] How does equity dilution look like in the past few years for the company?
@@ -75,7 +75,7 @@ description: A checklist to reference while performing due diligence on a compan
 * **Cash Flow Statement**
   * [ ] Are cash flows from operations comparable to net earnings?
     * [ ] If CFO &gt; Earnings, cash is not translating to earnings in the P&L statement
-    * [ ] If CFO &lt; Earnings, there may be early revenue recognition without realising/collecting it
+    * [ ] If CFO &lt; Earnings, there may be early revenue recognition without realizing/collecting it
   * [ ] How much cash is being left after tending to operational expenses and capex _\(free cash flows\)_
   * [ ] Are there any anomalies/red flags in the cash flows of the company?
 * **Profitability Ratios**
@@ -90,7 +90,7 @@ description: A checklist to reference while performing due diligence on a compan
   * [ ] How much time does it take for the company to convert its investments into cash? _\(in terms of cash conversion cycle\)_
   * [ ] How much time does it take for the company to convert its inventory into sales? _\(in terms of inventory days/inventory turnover\)_
 * **Industry Benchmarks**
-  * [ ] How does the company stack up against peers in terms of industry benchmarks _\(like capacity utilisation, average revenue per user, revenue per room, gross merchandise value etc\)_
+  * [ ] How does the company stack up against peers in terms of industry benchmarks _\(like capacity utilization, average revenue per user, revenue per room, gross merchandise value etc\)_
 
 ## Management
 
@@ -126,7 +126,7 @@ description: A checklist to reference while performing due diligence on a compan
   * [ ] Have you used any valuation models _\(such as_ _Discounted Cash Flow or Discounted Dividend or Sum of parts\)_ to evaluate the company?
   * [ ] If a valuation model has been used, what is the _approximate_ _intrinsic value_ of the stock as per the model? What discount does the stock price enjoy with intrinsic value in context?
 * **Valuation Philosophy**
-  * [ ] Would you characterise buying of the stock as value investing, or growth investing?
+  * [ ] Would you characterize buying of the stock as value investing, or growth investing?
   * [ ] Is there adequate margin of safety in an investment in the stock? What constitutes it?
 
 ## Investment Thesis
@@ -137,7 +137,7 @@ description: A checklist to reference while performing due diligence on a compan
   * [ ] What are the quantitative factors that could invalidate this investment thesis?
   * [ ] What are the risks or threats that could cause invalidations to this investment thesis?
   * [ ] What would conclude your investment in the company if everything goes according to the thesis? What is the exit plan?
-  * [ ] Is your investment thesis in consensus with other participants of investing forums such as r/IndiaInvestments subreddit/discord or ValuePickr? Does this classify as a contrarian bet?
+  * [ ] Is your investment thesis in consensus with other participants of investing forums such as r/IndiaInvestments Subreddit/discord or ValuePickr? Does this classify as a contrarian bet?
   * [ ] Is your investment thesis based on a corporate action or a key event that would have material impact on the stock price? Does it therefore qualify as a workout investment?
 * **Should this transaction be avoided?**
   * [ ] Where does the primary thesis for this investment come from? Was it peddled on a news channel/social media post or did it come into your radar as a consequence of independent research?
