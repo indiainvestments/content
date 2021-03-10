@@ -38,6 +38,7 @@
 
 * [Excel for Fun and Profit](excel/intro.md)
 * [Reactive UI & Updates](excel/reactivity.md)
+* [Using External Data : Google Finance](excel/using-external-data-google-finance.md)
 
 ## Wiki - Miscellaneous <a id="wiki"></a>
 
