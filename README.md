@@ -21,17 +21,25 @@ Our wiki is a work-in-progress, constantly being edited, reviewed, and updated. 
 
 Here are some of the topics we presently cover in our wiki
 
-## Acknowledgements
-
-Special thanks to [Gitbook](https://www.gitbook.com/) for accommodating us in their premium tier, free-of-cost.
-
-It's been a fantastic journey working with the great folks over at Gitbook team. They've helped us out every step of the way whenever we've asked for it.
-
-Wishing them all the best in continued success of this amazing product.
-
 ## License
 
-All the content here is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by/4.0/).
+All the content here is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
+
+You are free to:
+
+**Share** — copy and redistribute the material in any medium or format
+
+**Adapt** — remix, transform, and build upon the material
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+Under the following terms:
+
+**Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+**NonCommercial** — You may not use the material for commercial purposes.
+
+**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 ## Disclaimer
 
@@ -40,6 +48,14 @@ Content on this website is meant only to be educational. It is not meant to be f
 If you're an Indian reading this, please consult a SEBI-registered, fee-only financial advisor.
 
 Contributors to this project cannot be held liable if you follow instructions presented here, and incur financial losses in the securities markets.
+
+## Acknowledgements
+
+Special thanks to [Gitbook](https://www.gitbook.com/) for accommodating us in their premium tier, free-of-cost.
+
+It's been a fantastic journey working with the great folks over at Gitbook team. They've helped us out every step of the way whenever we've asked for it.
+
+Wishing them all the best in continued success of this amazing product.
 
 ## Contributors ✨
 
