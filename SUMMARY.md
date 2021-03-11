@@ -49,12 +49,6 @@
 * [US Investing](wiki/us-investing.md)
 * [Recommended Reading](wiki/recommended-reading.md)
 
-## Contributors Section <a id="contributors"></a>
-
-* [How can I start contributing?](contributors/how-can-i-start-contributing.md)
-* [FAQ Style Guide](contributors/faq-style-guide.md)
-* [How To Style Guide](contributors/how-to-style-guide.md)
-
 ## New to Investing and ELI5 series
 
 * [Zero to Investing Post](new-to-investing-and-eli5-series/zero-to-investing.md)
@@ -68,4 +62,10 @@
   * [6. FAQs for Mutual Funds](new-to-investing-and-eli5-series/all-about-mutual-funds/faqs-for-mutual-funds.md)
 * [Insurance](new-to-investing-and-eli5-series/insurance.md)
 * [Retirement](new-to-investing-and-eli5-series/retirement.md)
+
+## Contributors Section <a id="contributors"></a>
+
+* [How can I start contributing?](contributors/how-can-i-start-contributing.md)
+* [FAQ Style Guide](contributors/faq-style-guide.md)
+* [How To Style Guide](contributors/how-to-style-guide.md)
 
