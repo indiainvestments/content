@@ -63,7 +63,7 @@
   * [3. What and Why of Mutual Fund Ratings](new-to-investing-and-eli5-series/all-about-mutual-funds/3.-what-and-why-of-mutual-fund-ratings.md)
   * [4. SIP and Mandates](new-to-investing-and-eli5-series/all-about-mutual-funds/4.-sip-and-mandates.md)
   * [5. Some analysis using long term equity and debt funds in India](new-to-investing-and-eli5-series/all-about-mutual-funds/5.-some-analysis-using-long-term-equity-and-debt-funds-in-india.md)
-* [FAQs for Mutual Funds](new-to-investing-and-eli5-series/faqs-for-mutual-funds.md)
+  * [6. FAQs for Mutual Funds](new-to-investing-and-eli5-series/all-about-mutual-funds/faqs-for-mutual-funds.md)
 * [Insurance](new-to-investing-and-eli5-series/insurance.md)
 * [Zero to Investing Post](new-to-investing-and-eli5-series/zero-to-investing.md)
 * [Investment Philosophy and Strategy](new-to-investing-and-eli5-series/investment-philosophy-and-strategy.md)

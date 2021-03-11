@@ -1,4 +1,4 @@
-# FAQs for Mutual Funds
+# 6. FAQs for Mutual Funds
 
 ### **Can I buy MFs directly? Or I need a broker like Karvy or it depends on MF/AMCs?**
 
