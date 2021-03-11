@@ -20,6 +20,10 @@
 * [Up to what age should I take term cover?](faqs/up-to-what-age-should-i-take-term-cover.md)
 * [Do I need my own health insurance? Employer already has group policy](faqs/do-i-need-my-own-health-insurance-employer-already-has-group-policy.md)
 
+## How To
+
+* [How to Update Nominee Details?](how-to/how-to-update-nominee-details.md)
+
 ## STOCKS
 
 * [Can you beat the market?](stocks/can-you-beat-the-market.md)
