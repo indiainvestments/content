@@ -1,8 +1,8 @@
 ---
 description: >-
-  Yes, you should. Employer provided group policy might have lower covers, or
-  co-pay, or cap room-rent. You should get one on your own, to decouple your
-  insurance from your employer
+  Yes, you should. Employer provided group policy might have lower cover, or
+  co-pay, or a cap on room-rent. You should get one on your own, to decouple
+  your insurance from your employer
 ---
 
 # Do I need my own health insurance? Employer already has group policy
