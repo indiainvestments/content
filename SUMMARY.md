@@ -57,6 +57,8 @@
 
 ## New to Investing and ELI5 series
 
+* [Zero to Investing Post](new-to-investing-and-eli5-series/zero-to-investing.md)
+* [Investment Philosophy and Strategy](new-to-investing-and-eli5-series/investment-philosophy-and-strategy.md)
 * [All About Mutual Funds](new-to-investing-and-eli5-series/all-about-mutual-funds/README.md)
   * [1. What is a Mutual Fund?](new-to-investing-and-eli5-series/all-about-mutual-funds/1.-what-is-a-mutual-fund.md)
   * [2. Types of Mutual Funds](new-to-investing-and-eli5-series/all-about-mutual-funds/2.-types-of-mutual-funds.md)
@@ -65,7 +67,5 @@
   * [5. Some analysis using long term equity and debt funds in India](new-to-investing-and-eli5-series/all-about-mutual-funds/5.-some-analysis-using-long-term-equity-and-debt-funds-in-india.md)
   * [6. FAQs for Mutual Funds](new-to-investing-and-eli5-series/all-about-mutual-funds/faqs-for-mutual-funds.md)
 * [Insurance](new-to-investing-and-eli5-series/insurance.md)
-* [Zero to Investing Post](new-to-investing-and-eli5-series/zero-to-investing.md)
-* [Investment Philosophy and Strategy](new-to-investing-and-eli5-series/investment-philosophy-and-strategy.md)
 * [Retirement](new-to-investing-and-eli5-series/retirement.md)
 
