@@ -7,7 +7,7 @@ description: >-
 
 # Introduction
 
-r/IndiaInvestments is a community to discuss investments, insurance, finance, economy, and markets in India. This website is a collection of advice and information we have organized as a community.
+IndiaInvestments is a community to discuss investments, insurance, finance, economy, and markets in India. This website is a collection of advice and information we have organized as a community.
 
 If you want to discuss anything on this website with other people, please check out our sub-reddit and discord below.
 
