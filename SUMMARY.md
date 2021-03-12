@@ -30,7 +30,10 @@
 * [Can you beat the market?](stocks/can-you-beat-the-market.md)
 * [Reading an Annual Report](stocks/reading-an-annual-report-in-the-indian-context.md)
 * [Researching a Sector](stocks/researching-a-sector.md)
-* [Financial Ratios: Profitability](stocks/financial-ratios-profitability.md)
+* [Financial Metrics and Ratios](stocks/financial-metrics-and-ratios/README.md)
+  * [Profitability](stocks/financial-metrics-and-ratios/profitability.md)
+  * [Operations](stocks/financial-metrics-and-ratios/operations.md)
+  * [Liquidity and Solvency](stocks/financial-metrics-and-ratios/liquidity-and-solvency.md)
 * [Using screeners](stocks/using-a-screener-to-simplify-financial-analysis-of-a-company.md)
 * [Due-diligence Checklist](stocks/due-diligence-dd-checklist.md)
 
