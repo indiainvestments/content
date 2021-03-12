@@ -14,7 +14,7 @@
 * [Is Gold a good investment now? It has gone up ~50% this year.](faqs/is-gold-a-good-investment-now-it-has-gone-up-50-this-year..md)
 * [Is smallcase a good investment? Returns look good.](faqs/is-smallcase-a-good-investment-returns-look-good..md)
 * [I don't have any tax to pay. Do I still have to file ITR?](faqs/i-dont-have-any-tax-to-pay.-do-i-still-have-to-file-itr.md)
-* [Lumpsum investment vs SIP/DCA](faqs/lumpsum-investment-vs-sip-dca..md)
+* [Lumpsum investment vs SIP/DCA](faqs/lumpsum-investment-vs-sip-dca.md)
 * [Where can I park money for a few days, a few months, or a few years?](faqs/where-can-i-park-money-for-a-few-days-a-few-months-or-a-few-years.md)
 * [I cannot send messages to stocks-fundamentals channel on Discord. Why?](faqs/i-cannot-send-messages-to-stocks-fundamentals-channel-on-discord.-why.md)
 * [Up to what age should I take term cover?](faqs/up-to-what-age-should-i-take-term-cover.md)
