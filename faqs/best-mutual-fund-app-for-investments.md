@@ -5,7 +5,7 @@ description: >-
   won't affect your returns.
 ---
 
-# Best mutual fund app for investments?
+# What is the best mutual fund app for investments?
 
 ## Intro 💫
 

@@ -19,7 +19,7 @@
 * [I cannot send messages to stocks-fundamentals channel on Discord. Why?](faqs/i-cannot-send-messages-to-stocks-fundamentals-channel-on-discord.-why.md)
 * [Up to what age should I take term cover?](faqs/up-to-what-age-should-i-take-term-cover.md)
 * [Do I need my own health insurance? Employer already has group policy](faqs/do-i-need-my-own-health-insurance-employer-already-has-group-policy.md)
-* [Best mutual fund app for investments?](faqs/best-mutual-fund-app-for-investments.md)
+* [What is the best mutual fund app for investments?](faqs/best-mutual-fund-app-for-investments.md)
 
 ## How To
 
