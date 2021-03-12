@@ -5,7 +5,7 @@ description: >-
   Invest regularly if don't have lumpsum.
 ---
 
-# Lumpsum investment vs SIP/DCA.
+# Lumpsum investment vs SIP/DCA
 
 This is quite confusing to many people, since the finance world touts SIP \(Dollar Cost Averaging in foreign terms\) as the best way to invest.
 
