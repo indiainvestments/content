@@ -32,11 +32,9 @@ Each of them are significant in their own way.
 
 How do we define COGS though and what do _directly associated_ costs mean? Interestingly, the answer can vary depending upon the company we're looking at. Let's look at some examples.
 
-Here's an image from the 2020 annual report of Motherson Sumi, an auto ancillary company.
+![The Profit and Loss statement of Motherson Sumi for the year 2020](../.gitbook/assets/motherson-pnl.png)
 
-![The 2020 annual report of Motherson Sumi](../.gitbook/assets/motherson-pnl.png)
-
-For a capital intensive company like Motherson Sumi which deals with a lot of tangible raw materials, it should be expected that the _cost of materials consumed_ would be relatively high. _Purchase of stock-in-trade_ measures the expenses incurred in buying products used as intermediates to create the finished product sold by the company. _Change in inventories of finished goods, work-in-progress, and stock-in-trade_, as the name implies, are the expenses incurred on creating the products left in the inventory of Motherson Sumi at the end of the financial year 2020.
+For a capital intensive company like Motherson Sumi which deals with a lot of tangible raw materials, it should be expected that the _cost of materials consumed_ would be relatively high. _Purchase of stock-in-trade_ measures the expenses incurred in buying products used as intermediates to create the finished products sold by the company. _Change in inventories of finished goods, work-in-progress, and stock-in-trade_, as the name implies, are the expenses incurred on creating the products left in the inventory of Motherson Sumi at the end of the financial year 2020.
 
 These costs can be considered directly associated with creating the end product. Expenses like the _finance costs_ or _depreciation & amortization_ aren't directly related to the creation of the end product. We can ask the following question to think whether an expense qualifies as COGS — **would this expense have emerged even if no sales were generated?** If yes, then it probably shouldn't be included in COGS.
 
@@ -66,7 +64,15 @@ Now that we know how to calculate COGS, we can calculate the gross profit.
 Gross Profit = Revenue from Operations - COGS
 ```
 
-Motherson Sumi's gross profit for the financial year 2020 was `₹63,536.8 - ₹36,271.5 = ₹27,265.3 crores`.
+Motherson Sumi's gross profit for the financial year 2020 was`₹63,536.8 - ₹36,271.5 = ₹27,265.3 crores`. Similarly, TCS' gross profit for the year 2020 was `₹1,56,949 - ₹87,857 = ₹69,092 crores`.
+
+The **Gross Profit Margin** of Motherson Sumi and TCS for the year 2020 are as follows
+
+```text
+Gross Profit Margin = Gross Profit / Revenue from Operations
+₹27,265.3 / ₹63,536.8 = 42.9%
+₹69,092 / ₹1,56,949 = 44%
+```
 
 ### Earnings Before Interest, Taxes, \(Depreciation and Amortization\) \(EBIT/EBITDA\)
 
@@ -94,7 +100,7 @@ Why is the EBIT and EBITDA of a company relevant?
 
 EBIT and EBITDA present us with an ideal view of the companies' core operational performance by excluding non-operational expenses like interests and taxes. While the net profit might be skewed by variables like taxes, EBIT and EBITDA will present the true picture of how much the company actually earned from its operations.
 
-EBIT and EBITDA are influenced by the ability of the company to earn revenue and the operational expenses it incurs. The EBIT margin \(EBIT in terms of % of revenue\) of Abbott India for the financial year 2020 was `17.02%` while that of Pfizer India for the same period was `21.81%`. Using these numbers, we can infer that Pfizer India was operationally more profitable than Abbott India during the financial year 2020. Again, keep in mind that this is just one of many data points.
+EBIT and EBITDA are influenced by the ability of the company to earn revenue and the operational expenses it incurs. The **EBIT margin** \(EBIT in terms of % of revenue\) or the **Operating Profit Margin** of Abbott India for the financial year 2020 was `17.02%` while that of Pfizer India for the same period was `21.81%`. Using these numbers, we can infer that Pfizer India was operationally more profitable than Abbott India during the financial year 2020. Again, keep in mind that this is just one of many data points.
 
 Like most financial ratios and metrics, EBIT and EBITDA are best used for comparison of companies in the same sector. Comparing the EBIT margin of a MNC pharmaceutical company with that of a capital intensive auto ancillary company doesn't make sense.
 
@@ -120,7 +126,7 @@ Like PBT, you should be able to find PAT in the profit and loss statement in an 
 
 ![Profit After Taxes, as shown in the Profit &amp; Loss statement of Abbott India&apos;s 2020 annual report](../.gitbook/assets/pat.png)
 
-The PAT margin, also called _net profit margin_, is a widely used metric to calculate and compare the ability of companies to generate profit.
+The **PAT margin**, also called **net profit margin**, is a widely used metric to calculate and compare the ability of companies to generate profit.
 
 For the financial year 2020, Abbott India has a PAT margin of `₹592.93/₹4207.52 = 14.09%` and Pfizer India has a PAT margin of `₹509.13/₹2335.67 = 21.79%`.
 
