@@ -75,6 +75,9 @@
 
 * [How can I start contributing?](contributors/how-can-i-start-contributing.md)
 * [How to link FAQ via bot in Discord](contributors/how-to-link-faq-via-bot-in-discord.md)
-* [FAQ Style Guide](contributors/faq-style-guide.md)
-* [How To Style Guide](contributors/how-to-style-guide.md)
+* [Style guides](contributors/style-guides/README.md)
+  * [General Style Guide](contributors/style-guides/faq-style-guide.md)
+  * [FAQ Style Guide](contributors/style-guides/faq-style-guide-1.md)
+  * [How To Style Guide](contributors/style-guides/how-to-style-guide.md)
+  * [Excel Series Style Guide](contributors/style-guides/excel-series-style-guide.md)
 
