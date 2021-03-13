@@ -1,8 +1,10 @@
 # 6. FAQs for Mutual Funds
 
-### **Can I buy MFs directly? Or I need a broker like Karvy or it depends on MF/AMCs?**
+### **Can I buy mutual funds directly? Or do I need a broker like Zerodha? Or does it depends on MF/AMCs?**
 
-You can buy them directly through the AMCs \(as Direct options of all MFs\). Or you can go through a distributor, who can be a neighborhood person, a bank, online platforms like fundsindia / fundsmart or your broker \(all these have Retail options of the same MFs.\) Karvy and CAMS are backend processing agents \(and not distributors\) and if you go through them, you can opt for the direct plans there too.
+Refer to our FAQ on Best platform / app for buying mutual funds.
+
+{% page-ref page="../../faqs/best-mutual-fund-app-for-investments.md" %}
 
 ### **Are MFs also stored in demat?**
 
