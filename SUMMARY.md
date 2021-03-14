@@ -52,23 +52,30 @@
 
 ## Wiki - Miscellaneous <a id="wiki"></a>
 
-* [Are you a Stock or Bond?](wiki/are-you-a-stock-or-bond.md)
-* [Critical Mass](wiki/critical-mass.md)
-* [Time Value of Money](wiki/time-value-of-money.md)
 * [US Investing](wiki/us-investing.md)
 * [Recommended Reading](wiki/recommended-reading.md)
 
 ## New to Investing and ELI5 series
 
+* [ELI5 Series](new-to-investing-and-eli5-series/eli5-series/README.md)
+  * [Time Value of Money](new-to-investing-and-eli5-series/eli5-series/time-value-of-money.md)
+  * [Inflation](new-to-investing-and-eli5-series/eli5-series/inflation.md)
+  * [Life Insurance](new-to-investing-and-eli5-series/eli5-series/life-insurance.md)
+  * [ELI5 guide to Selecting an Equity Mutual Fund](new-to-investing-and-eli5-series/eli5-series/eli5-guide-to-selecting-an-equity-mutual-fund.md)
+  * [How do I start investing in mutual funds \[ELI5 series\]](new-to-investing-and-eli5-series/eli5-series/how-do-i-start-investing-in-mutual-funds-eli5-series.md)
+  * [Mis-selling of Insurance Products](new-to-investing-and-eli5-series/eli5-series/mis-selling-of-insurance-products.md)
 * [Zero to Investing Post](new-to-investing-and-eli5-series/zero-to-investing/README.md)
   * [Part Two - Defensive Setup](new-to-investing-and-eli5-series/zero-to-investing/part-two-defensive-setup.md)
   * [Part Three - Spending Pattern](new-to-investing-and-eli5-series/zero-to-investing/part-three-spending-pattern.md)
   * [Part Four - How to Invest](new-to-investing-and-eli5-series/zero-to-investing/part-four-how-to-invest.md)
 * [Behavioral Biases](new-to-investing-and-eli5-series/behavioral-biases.md)
 * [Investment Philosophy and Strategy](new-to-investing-and-eli5-series/investment-philosophy-and-strategy/README.md)
+  * [Assets and Asset Allocation](new-to-investing-and-eli5-series/investment-philosophy-and-strategy/assets-and-asset-allocation.md)
   * [Basics of Investment Strategy Plan](new-to-investing-and-eli5-series/investment-philosophy-and-strategy/basics-of-investment-strategy-plan.md)
   * [A simple Financial Planning Roadmap](new-to-investing-and-eli5-series/investment-philosophy-and-strategy/a-simple-financial-planning-roadmap.md)
   * [Various types of Risks in Investments](new-to-investing-and-eli5-series/investment-philosophy-and-strategy/various-types-of-risks-in-investments.md)
+  * [Critical Mass](new-to-investing-and-eli5-series/investment-philosophy-and-strategy/critical-mass.md)
+  * [Are you a Stock or Bond?](new-to-investing-and-eli5-series/investment-philosophy-and-strategy/are-you-a-stock-or-bond.md)
   * [Asset Rebalancing](new-to-investing-and-eli5-series/investment-philosophy-and-strategy/asset-rebalancing.md)
   * [Lumpsum or SIP/STP](new-to-investing-and-eli5-series/investment-philosophy-and-strategy/lumpsum-or-sip-stp.md)
 * [All About Mutual Funds](new-to-investing-and-eli5-series/all-about-mutual-funds/README.md)
