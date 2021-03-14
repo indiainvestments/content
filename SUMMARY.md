@@ -77,17 +77,21 @@
   * [4. SIP and Mandates](new-to-investing-and-eli5-series/all-about-mutual-funds/4.-sip-and-mandates.md)
   * [5. Some analysis using long term equity and debt funds in India](new-to-investing-and-eli5-series/all-about-mutual-funds/5.-some-analysis-using-long-term-equity-and-debt-funds-in-india.md)
   * [6. FAQs for Mutual Funds](new-to-investing-and-eli5-series/all-about-mutual-funds/faqs-for-mutual-funds.md)
-* [ULIP \(unit linked insurance plan\)](new-to-investing-and-eli5-series/ulip-unit-linked-insurance-plan.md)
 * [Insurance](new-to-investing-and-eli5-series/insurance/README.md)
   * [Life](new-to-investing-and-eli5-series/insurance/life/README.md)
     * [Life Insurance: What it is exactly?](new-to-investing-and-eli5-series/insurance/life/life-insurance-what-it-is-exactly.md)
     * [How to Evaluate Life Insurance Needs](new-to-investing-and-eli5-series/insurance/life/how-to-evaluate-life-insurance-needs.md)
+    * [ULIP \(unit linked insurance plan\)](new-to-investing-and-eli5-series/insurance/life/ulip-unit-linked-insurance-plan.md)
     * [Some FAQs on Life Insurance](new-to-investing-and-eli5-series/insurance/life/some-faqs-on-life-insurance.md)
     * [Links to Answers related to Life Insurance](new-to-investing-and-eli5-series/insurance/life/links-to-answers-related-to-life-insurance.md)
   * [Health](new-to-investing-and-eli5-series/insurance/health.md)
   * [Others: Disability / Home](new-to-investing-and-eli5-series/insurance/others-disability-home.md)
   * [Child Plan](new-to-investing-and-eli5-series/insurance/child-plan.md)
-* [Retirement](new-to-investing-and-eli5-series/retirement.md)
+* [Retirement](new-to-investing-and-eli5-series/retirement/README.md)
+  * [Primer on Retirement Planning](new-to-investing-and-eli5-series/retirement/primer-on-retirement-planning.md)
+  * [Why You should not Opt for a Readymade Pension Plan](new-to-investing-and-eli5-series/retirement/why-you-should-not-opt-for-a-readymade-pension-plan.md)
+  * [Studies of Long Term Portfolios and Retirement Withdrawal Rate Suggestions](new-to-investing-and-eli5-series/retirement/studies-of-long-term-portfolios-and-retirement-withdrawal-rate-suggestions.md)
+  * [Do-It-Yourself Retirement Plan](new-to-investing-and-eli5-series/retirement/do-it-yourself-retirement-plan.md)
 
 ## Contributors Section <a id="contributors"></a>
 
