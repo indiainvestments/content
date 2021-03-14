@@ -60,7 +60,10 @@
 
 ## New to Investing and ELI5 series
 
-* [Zero to Investing Post](new-to-investing-and-eli5-series/zero-to-investing.md)
+* [Zero to Investing Post](new-to-investing-and-eli5-series/zero-to-investing/README.md)
+  * [Part Two - Defensive Setup](new-to-investing-and-eli5-series/zero-to-investing/part-two-defensive-setup.md)
+  * [Part Three - Spending Pattern](new-to-investing-and-eli5-series/zero-to-investing/part-three-spending-pattern.md)
+  * [Part Four - How to Invest](new-to-investing-and-eli5-series/zero-to-investing/part-four-how-to-invest.md)
 * [Investment Philosophy and Strategy](new-to-investing-and-eli5-series/investment-philosophy-and-strategy.md)
 * [All About Mutual Funds](new-to-investing-and-eli5-series/all-about-mutual-funds/README.md)
   * [1. What is a Mutual Fund?](new-to-investing-and-eli5-series/all-about-mutual-funds/1.-what-is-a-mutual-fund.md)
