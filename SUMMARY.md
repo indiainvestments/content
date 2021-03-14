@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Disclaimers and Disclosures](disclaimers-and-disclosures.md)
 
 ## FAQs
 

@@ -41,13 +41,19 @@ Under the following terms:
 
 **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-## Disclaimer
+## Disclaimers and Disclosures
 
 Content on this website is meant only to be educational. It is not meant to be financial advice. If you need help with your finances, or if you have any query regarding what you read on this website; you should consult a registered financial advisor in your jurisdiction.
 
 If you're an Indian reading this, please consult a SEBI-registered, fee-only financial advisor.
 
-Contributors to this project cannot be held liable if you follow instructions presented here, and incur financial losses in the securities markets.
+Contributors to this project cannot be held liable if you follow instructions presented here, and incur financial losses in the securities markets.  
+  
+For detailed list of comprehensive set of disclaimers & disclosures, refer to this page below
+
+{% page-ref page="disclaimers-and-disclosures.md" %}
+
+We encourage you to take the time, and read through the content in above link at least once.
 
 ## Acknowledgements
 
