@@ -1,0 +1,6 @@
+---
+description: Insurance details
+---
+
+# Insurance
+
