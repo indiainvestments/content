@@ -50,10 +50,10 @@
 * [Reactive UI & Updates](excel/reactivity.md)
 * [Using External Data : Google Finance](excel/using-external-data-google-finance.md)
 
-## Wiki - Miscellaneous <a id="wiki"></a>
+## MISCELLANEOUS <a id="misc"></a>
 
-* [US Investing](wiki/us-investing.md)
-* [Recommended Reading](wiki/recommended-reading.md)
+* [US Investing](misc/us-investing.md)
+* [Recommended Reading](misc/recommended-reading.md)
 
 ## Old Wiki <a id="new-to-investing-and-eli5-series"></a>
 
