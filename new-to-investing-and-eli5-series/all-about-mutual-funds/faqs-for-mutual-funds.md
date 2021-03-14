@@ -1,4 +1,4 @@
-# 6. FAQs for Mutual Funds
+# 5. FAQs for Mutual Funds
 
 ### **Can I buy mutual funds directly? Or do I need a broker like Zerodha? Or does it depends on MF/AMCs?**
 
