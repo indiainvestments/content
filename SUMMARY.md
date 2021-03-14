@@ -58,8 +58,8 @@
 ## New to Investing <a id="start-here"></a>
 
 * [Zero to Investing](start-here/zero-to-investing/README.md)
-  * [Part Four - How to Invest](start-here/zero-to-investing/part-four-how-to-invest.md)
   * [Getting Started](start-here/zero-to-investing/getting-started.md)
+  * [Part Four - How to Invest](start-here/zero-to-investing/part-four-how-to-invest.md)
   * [Part Two - Defensive Setup](start-here/zero-to-investing/part-two-defensive-setup.md)
   * [Part Three - Spending Pattern](start-here/zero-to-investing/part-three-spending-pattern.md)
 * [Investment Philosophy and Strategy](start-here/investment-philosophy-and-strategy/README.md)
