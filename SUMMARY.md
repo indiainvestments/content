@@ -55,8 +55,9 @@
 * [US Investing](wiki/us-investing.md)
 * [Recommended Reading](wiki/recommended-reading.md)
 
-## New to Investing and ELI5 series
+## Old Wiki <a id="new-to-investing-and-eli5-series"></a>
 
+* [Personal Finance](new-to-investing-and-eli5-series/personal-finance.md)
 * [ELI5 Series](new-to-investing-and-eli5-series/eli5-series/README.md)
   * [Time Value of Money](new-to-investing-and-eli5-series/eli5-series/time-value-of-money.md)
   * [Inflation](new-to-investing-and-eli5-series/eli5-series/inflation.md)
