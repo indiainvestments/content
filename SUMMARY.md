@@ -59,9 +59,9 @@
 
 * [Zero to Investing](start-here/zero-to-investing/README.md)
   * [Getting Started](start-here/zero-to-investing/getting-started.md)
-  * [Part Four - How to Invest](start-here/zero-to-investing/part-four-how-to-invest.md)
   * [Part Two - Defensive Setup](start-here/zero-to-investing/part-two-defensive-setup.md)
   * [Part Three - Spending Pattern](start-here/zero-to-investing/part-three-spending-pattern.md)
+  * [Part Four - How to Invest](start-here/zero-to-investing/part-four-how-to-invest.md)
 * [Investment Philosophy and Strategy](start-here/investment-philosophy-and-strategy/README.md)
   * [Basics of Investment Strategy Plan](start-here/investment-philosophy-and-strategy/basics-of-investment-strategy-plan.md)
   * [A simple Financial Planning Roadmap](start-here/investment-philosophy-and-strategy/a-simple-financial-planning-roadmap.md)
