@@ -25,7 +25,7 @@ In 2020, Canara Robeco ELSS fund looked like a great fund, doing much better tha
 
 The harsh truth is, you can pick an ELSS fund, and at best hope for it to do well-enough. We've discussed in these FAQs how picking the right fund isn't exactly a big requirement - if you pick something that does ok enough, and give it time, that's fine.
 
-ELSS investment is already capped at 1.5L per year. On top of this, most salaried workers have PF, insurance etc., limiting ELSS investments to much lower value. If the investment principal is small, return difference isn't that important.
+ELSS investment which would be countable under 80C deductions is capped at 1.5L per year \(though you can invest more than that amount in one/multiple ELSS schemes, the amount available for 80C will remain at 1.5L as per the current IT laws\). On top of this, most salaried workers have PF, insurance etc., limiting ELSS investments to much lower value. If the investment principal is small, return difference isn't that important.
 
 Just pick one, you're as likely to be wrong as you could be lucky.
 
