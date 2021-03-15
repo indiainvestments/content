@@ -12,5 +12,7 @@ Content in these pages are being worked upon, and not yet ready for publishing. 
 
 {% page-ref page="understanding-the-business-of-a-company.md" %}
 
+{% page-ref page="efficiency.md" %}
 
+{% page-ref page="liquidity-and-solvency.md" %}
 
