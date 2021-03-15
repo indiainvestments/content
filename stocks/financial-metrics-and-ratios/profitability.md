@@ -7,8 +7,6 @@ description: >-
 
 # Profitability
 
-## Profitability Ratios
-
 ### Gross Profit
 
 There are three major types of profits -
