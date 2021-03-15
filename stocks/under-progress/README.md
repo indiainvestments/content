@@ -4,7 +4,7 @@ description: >-
   caution.
 ---
 
-# Chapters under progress
+# Work in Progress
 
 {% hint style="danger" %}
 Content in these pages are being worked upon, and not yet ready for publishing. If you are reading these, expect grammatical and spelling errors, incomplete thoughts, and messed-up text in general.

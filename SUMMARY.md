@@ -37,7 +37,7 @@
   * [Liquidity and Solvency](stocks/financial-metrics-and-ratios/liquidity-and-solvency.md)
 * [Using screeners](stocks/using-a-screener-to-simplify-financial-analysis-of-a-company.md)
 * [Due-diligence Checklist](stocks/due-diligence-dd-checklist.md)
-* [Chapters under progress](stocks/under-progress/README.md)
+* [Work in Progress](stocks/under-progress/README.md)
   * [Diving Deeper into Businesses](stocks/under-progress/understanding-the-business-of-a-company.md)
 
 ## BONDS
