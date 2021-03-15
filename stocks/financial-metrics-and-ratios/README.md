@@ -18,7 +18,7 @@ In the following sections, we'll take a look at various financial ratios, their 
 
 {% page-ref page="profitability.md" %}
 
-{% page-ref page="operations.md" %}
+{% page-ref page="efficiency.md" %}
 
 {% page-ref page="liquidity-and-solvency.md" %}
 
