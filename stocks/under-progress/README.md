@@ -10,3 +10,7 @@ description: >-
 Content in these pages are being worked upon, and not yet ready for publishing. If you are reading these, expect grammatical and spelling errors, incomplete thoughts, and messed-up text in general.
 {% endhint %}
 
+{% page-ref page="understanding-the-business-of-a-company.md" %}
+
+
+
