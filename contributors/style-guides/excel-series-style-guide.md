@@ -18,7 +18,7 @@ Keep these in mind when building a chapter / section of excel.
 
 Start with the general style guide section
 
-{% page-ref page="faq-style-guide.md" %}
+{% page-ref page="general-style-guide.md" %}
 
 Other than these, you should keep these in mind
 

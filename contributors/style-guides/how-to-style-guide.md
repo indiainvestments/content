@@ -20,7 +20,7 @@ This document is for you, if you’re planning to warm-up with some contribution
 
 Start with our general content guidelines, which also apply to _How to_ section
 
-{% page-ref page="faq-style-guide.md" %}
+{% page-ref page="general-style-guide.md" %}
 
 Other than these, refer to following guidelines  
 

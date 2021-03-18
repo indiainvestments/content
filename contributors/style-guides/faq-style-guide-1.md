@@ -16,7 +16,7 @@ Given how ingrained FAQs are, there are clear needs for FAQs to be well-structur
 
 Start by reading the general content guidelines. FAQ entries must follow all guidelines present in this following write up
 
-{% page-ref page="faq-style-guide.md" %}
+{% page-ref page="general-style-guide.md" %}
 
 In addition to these, we've a few specific guidelines for FAQs.
 
