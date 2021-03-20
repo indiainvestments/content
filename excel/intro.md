@@ -53,7 +53,7 @@ You’ll feel empowered to build these on your own, from scratch; and maintain o
   [LibreOffice](https://www.libreoffice.org/) and [OpenOffice](https://www.openoffice.org/) have their own implementations, called _Calc_. Most likely these would work as well; though we cannot say we’ve tried.  
 
 
-  On Mac OSX and iPhone / iPad, [Apple Numbers app](https://www.apple.com/in/numbers/) should be fine too 🏁  
+  On Mac OS X and iPhone / iPad, [Apple Numbers app](https://www.apple.com/in/numbers/) should be fine too 🏁  
   
   In this series on excel, we'd stick to using Google Sheets. There'd be some chapters were we'd explicitly call out how to do something specific, in MS Excel. But most of the series would focus on using one single tool - Google Sheets.  
 
