@@ -90,13 +90,13 @@ Let us compare Debt to Equity \(D/E\) of Larsen & Toubro Ltd to one of its compe
 
 We have,
 
-`Total Debt = 11758.86 + 2541.37 + 2765.28 + (273.31 + 2206.92) + 13.98 + 67.61 = 19627.33 crores`
+`Total Debt = 11758.86 + 2541.37 + 2765.28 + (272.31 + 2206.92) + 13.98 + 67.61 = 19626.33 crores`
 
 `Shareholder's Equity = 263.03 + 9529.34 = 9792.37 crores`
 
 Putting these in our general formula for Debt to Equity, we get
 
-`Debt to Equity (D/E) = Total Debt / Shareholder's Equity = 19627.33/9792.37 = 2.00` 
+`Debt to Equity (D/E) = Total Debt / Shareholder's Equity = 19626.33/9792.37 = 2.00` 
 
 We observe that Larsen & Toubro Ltd has a higher Debt to Equity ratio of `2.14` than that of Reliance Infrastructures Ltd with a Debt to Equity ratio of `2.00`, and infer that Larsen & Toubro Ltd is more leveraged than Reliance Infrastructures Ltd in terms of having more debt against equity in their respective capital structures.
 
