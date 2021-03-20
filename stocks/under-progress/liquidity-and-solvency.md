@@ -4,7 +4,7 @@ Solvency ratios give us a measure of a company's competence in meeting its fixed
 
 From a company's point of view, measuring solvency help them make prudent financial strategies relating to raising monies to fuel growth. A company with high debt relative to its equity may reconsider raising more debt for expansion.
 
-#### Debt to Equity \(D/E\)
+#### Debt to Equity \(D/E\) <a id="debt-to-equity"></a>
 
 Debt to Equity ratio tells us how a company's debt weighs against its shareholder's equity. It gives us an overview on a company's capital structure by measuring how much debt has been taken up versus equity to fuel growth.
 
