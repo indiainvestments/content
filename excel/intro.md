@@ -4,9 +4,9 @@ description: Intro to excel calculators
 
 # Excel for Fun and Profit
 
-## Prelude ![:beginner:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/beginner.png)
+## Prelude 🐱‍👓
 
-What’s the most popular programming / coding language in the world? ![:muscle:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/muscle.png)
+What’s the most popular programming / coding language in the world? 💪
 
 Hint: It’s not Java or Python or JavaScript or C or C++ or whatever Tiobe index has it on top these days. Nor is it HTML, nor CSS, for that matter.
 
@@ -18,17 +18,17 @@ Most of you’ve guessed it already, but for the sake of clarity, we should expl
 
 But there happens to be other applications as well, which offer _Excel_ functionalities - [Google Sheets](https://docs.google.com/spreadsheets/), for instance.
 
-In this series, we cover how you could harness this power for yourself. ![:sunglasses:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/sunglasses.png)  
+In this series, we cover how you could harness this power for yourself. 😎  
   
-Before you hope to be a DIY investor, you need to be comfortable as a DIY excel user. ![:crossed\_swords:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/crossed_swords.png)
+Before you hope to be a DIY investor, you need to be comfortable as a DIY excel user. ⚔️
 
 No more asking others to share their pre-built excel calculator templates, to track your monthly budget or compute XIRR of your stock portfolio.
 
 You’ll feel empowered to build these on your own, from scratch; and maintain or update the same.
 
-## Pre-requisites ![:100:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/100.png)
+## Pre-requisites 💯
 
-* ![:heavy\_plus\_sign:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/heavy_plus_sign.png) ![:heavy\_minus\_sign:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/heavy_minus_sign.png) ![:heavy\_multiplication\_x:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/heavy_multiplication_x.png) ![:heavy\_division\_sign:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/heavy_division_sign.png)  
+* ➕➖ ✖️➗  
 
 
   You don’t need to be a programmer or software developer in your day job.  
@@ -39,7 +39,7 @@ You’ll feel empowered to build these on your own, from scratch; and maintain o
 * Access to Google Sheets or MS Excel  
 
 
-  Excel as a language is fantastic, and if you can afford an Office 365 license, great for you ![:tada:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/tada.png)  
+  Excel as a language is fantastic, and if you can afford an Office 365 license, great for you 🎉  
 
 
   But most of us cannot or wouldn’t want to. Google Sheet supports most Excel functionalities as is, that we’d cover here.  
@@ -51,7 +51,7 @@ You’ll feel empowered to build these on your own, from scratch; and maintain o
   [LibreOffice](https://www.libreoffice.org/) and [OpenOffice](https://www.openoffice.org/) have their own implementations, called _Calc_. Most likely these would work as well; though we cannot say we’ve tried.  
 
 
-  On Mac OSX and iPhone / iPad, [Apple Numbers app](https://www.apple.com/in/numbers/) should be fine too ![:waving\_white\_flag:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/waving_white_flag.png).  
+  On Mac OSX and iPhone / iPad, [Apple Numbers app](https://www.apple.com/in/numbers/) should be fine too 🏁  
   
   In this series on excel, we'd stick to using Google Sheets. There'd be some chapters were we'd explicitly call out how to do something specific, in MS Excel. But most of the series would focus on using one single tool - Google Sheets.  
 
@@ -61,14 +61,54 @@ You’ll feel empowered to build these on your own, from scratch; and maintain o
   It’s not a hard requirement; that without it, you won’t be able to proceed at all.  
 
 
-  But given this is a bit programmable in nature, having access to more real-estate on your screen is desirable. ![:scroll:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/scroll.png)  
+  But given this is a bit programmable in nature, having access to more real-estate on your screen is desirable. 📜  
 
 
   It isn’t as if you cannot do without it, but you’d have a better time if you could get your hands on a laptop or desktop or even a workstation.
 
-## Disclaimer ![:warning:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/warning.png)
+## How to make the most of it 😇
 
-To be abundantly clear, this is **not a guided tutorial on MS Excel or Google Sheets**. There are plenty of those available, that have much more depth; if you just google or search in YouTube. ![:diamond\_shape\_with\_a\_dot\_inside:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/diamond_shape_with_a_dot_inside.png)
+This corner of our wiki is bit different. It's much more hands-on, than other series and topics on our wiki.
 
-This series is all about _learning enough excel to be dangerous_, and applying it to your finances. ![:fencer:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/fencer.png)
+It requires your active involvement and practice. Just like you cannot learn swimming reading a book on swimming, if you don't pause and practice, this series would be of no use to you.
+
+Reading passively is comfortable consumption. Practicing and exploring is active assimilation.
+
+We expect you to read small bits of text, and try that out in the excel sheet or spreadsheet at the same time. In fact most of your time should be spent playing around with formula and functions, compared to reading content from this series.
+
+However, we're also mindful of the fact that it'd involve context switch. It's no mean task having to read, then switch to a spreadsheet, then come back again to read next paragraph or section.
+
+Hence we recommend this setup as shown below
+
+![Recommended Setup - Dark Mode](../.gitbook/assets/excel-setup.dark.png)
+
+![Recommended Setup - Light Mode](../.gitbook/assets/excel-setup.light.png)
+
+That is, split your screen in a way that the wiki is on your left, and your spreadsheet or excel window is on your right - both visible and accessible at the same time.
+
+If you've a multi-monitor setup with external displays, even better.
+
+You don't have to follow this exact setup. Maybe you've other preferences. But we do recommend giving it some thought, that you remove the constant frustration of switching between tabs.
+
+## Disclaimer ⚠️ 
+
+To be abundantly clear, this is **not a guided tutorial on MS Excel or Google Sheets**. There are plenty of those available, that have much more depth; if you just google or search in YouTube. 
+
+This series is all about _learning enough excel to be dangerous_, and applying it to your finances. 
+
+In addition to these, **we won't be providing ready-made excel sheets or spreadsheets**.
+
+Why?! 😱
+
+To understand this, you must first understand how Egyptian pyramids look like to humans of this era.
+
+We know when these were built, where these stand etc.
+
+However, we don't know _how_ these were built many thousand years ago \(to put it in perspective, mammoths still roamed the earth when some of these were being built\).
+
+Not knowing how something was built, only makes the end product feel more magical and complex. It'd feel daunting if we had to build one like that. And our immediate knee-jerk reaction would be to accept it's beyond us to achieve the same feat.
+
+Some might even skip the lesson and just reach for the ready-made ones.
+
+To avoid this exact problem, we'd strive our best to not provide ready-made excel sheets or spreadsheets. We're more interested in demonstrating with step-by-step guide how to build a useful spreadsheet or excel sheet yourself.
 
