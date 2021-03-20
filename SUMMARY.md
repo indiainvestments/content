@@ -21,6 +21,7 @@
 * [Up to what age should I take term cover?](faqs/up-to-what-age-should-i-take-term-cover.md)
 * [Do I need my own health insurance? Employer already has group policy](faqs/do-i-need-my-own-health-insurance-employer-already-has-group-policy.md)
 * [What is the best mutual fund app for investments?](faqs/best-mutual-fund-app-for-investments.md)
+* [What is the best app for buying or trading stocks?](faqs/what-is-the-best-app-for-buying-or-trading-stocks.md)
 
 ## How To
 
