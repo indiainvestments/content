@@ -1,5 +1,7 @@
 ---
-description: Intro to excel calculators
+description: >-
+  Intro to excel calculators and spreadsheets, and how to use them for your
+  finances
 ---
 
 # Excel for Fun and Profit
