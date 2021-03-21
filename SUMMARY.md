@@ -120,4 +120,5 @@
   * [FAQ Style Guide](contributors/style-guides/faq-style-guide-1.md)
   * [How To Style Guide](contributors/style-guides/how-to-style-guide.md)
   * [Excel Series Style Guide](contributors/style-guides/excel-series-style-guide.md)
+  * [Stocks Style Guide](contributors/style-guides/stocks-style-guide.md)
 
