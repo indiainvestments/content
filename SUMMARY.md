@@ -115,7 +115,7 @@
 
 * [How can I start contributing?](contributors/how-can-i-start-contributing.md)
 * [How to link FAQ via bot in Discord](contributors/how-to-link-faq-via-bot-in-discord.md)
-* [Style guides](contributors/style-guides/README.md)
+* [Style Guides](contributors/style-guides/README.md)
   * [General Style Guide](contributors/style-guides/general-style-guide.md)
   * [FAQ Style Guide](contributors/style-guides/faq-style-guide-1.md)
   * [How To Style Guide](contributors/style-guides/how-to-style-guide.md)
