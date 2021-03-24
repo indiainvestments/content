@@ -5,7 +5,7 @@ description: >-
   of recent returns.
 ---
 
-# Is Gold a good investment now? It has gone up ~50% this year.
+# Is Gold a good investment now? It has gone up ~50% this year
 
 Past performance is not indicative of future returns. If you pick assets after they have performed well, you'd most likely miss out on assets that performs well after you have invested in it.
 
