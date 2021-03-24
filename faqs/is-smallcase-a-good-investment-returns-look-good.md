@@ -5,7 +5,7 @@ description: >-
   smallcase because the CAGR looks great.
 ---
 
-# Is smallcase a good investment? Returns look good.
+# Is smallcase a good investment? Returns look good
 
 There are two parts to investing via smallcase:
 
