@@ -1,106 +1,61 @@
+---
+description: >-
+  Solvency Ratios help investors evaluate the competence of a company to meet
+  its long term debt obligations. Liquidity Ratios are used to evaluate the
+  ability to pay off short term debt obligations.
+---
+
 # Liquidity and Solvency
 
-Solvency ratios give us a measure of a company's competence in meeting its fixed financial obligations. In other words, these ratios tell us whether a company has adequate cash flows to cover for its interest payments and other fixed obligations such as lease/rental payments. On a higher level, solvency ratios help us understand how a company's debt/fixed payment obligations stack up in its capital structure.
+### Debt to Equity Ratio
 
-From a company's point of view, measuring solvency help them make prudent financial strategies relating to raising monies to fuel growth. A company with high debt relative to its equity may reconsider raising more debt for expansion.
+The Debt to Equity ratio tells us how much a company’s debt weighs against its shareholders equity. It gives us an overview of a company’s capital structure by measuring the amount of employed debt against equity.
 
-#### Debt to Equity \(D/E\) <a id="debt-to-equity"></a>
-
-Debt to Equity ratio tells us how a company's debt weighs against its shareholder's equity. It gives us an overview on a company's capital structure by measuring how much debt has been taken up versus equity to fuel growth.
-
-By this, we can consider the formula for debt to equity as,
+The Debt to Equity ratio can be defined as
 
 ```text
-D/E = Total Debt / Shareholder's Equity
+Debt to Equity Ratio = Total Debt / Shareholders Equity
 ```
 
-The total debt component in the numerator sums up the fixed financial obligations of a company to its creditors. We're using the terms 'debt' and 'creditors' as blanket terms for ease of discussion, which includes liabilities relating to current \(short-term\) & non-current \(long-term\) borrowings\(inclusive of bonds issued\), liabilities that bear interest, and other fixed financial obligations such as lease payments. These are payments that are owed that needs to be paid regardless of whether the company can turn up a profit.
-
-Trade payables, provisions, and deferred tax liabilities are **NOT** included in the numerator.
-
-So, we can expand total debt as,
+We’ll consider total debt as the sum of financial obligations which bear interest and lease liabilities. This includes current and non-current borrowings, lease liabilities, current maturities of long term debt and lease obligations, and any other liabilities that can bear interest. We will **NOT** consider trade payables, provisions, and deferred tax liabilities for calculating the total debt. Keeping this in mind, we can define total debt as,
 
 ```text
-Total Debt = Current Borrowings + Non-current Borrowings + Lease Liabilities + Other Fixed Payments
+Total Debt = Current Borrowings + Non-current Borrowings + Lease Liabilities + Current Maturities of Long Term Debt and Lease Liabilities + Other Interest Bearing Obligations
 ```
 
-Note that various versions of debt to equity are used for different purposes. Notably, some people consider only using long-term liabilities when calculating Debt to Equity, while some people consider long-term and short-term liabilities in separate calculations. Also, the inclusion of lease liabilities is not set in stone, and can be skipped on a case-by-case basis.
+We can also restrict total debt to non-current borrowings and other interest bearing non-current financial obligations only depending upon the company we’re analyzing. In such cases, we’re primarily concerned with the non-current financial obligations of the company in comparison to the shareholders equity.
 
-The shareholder's equity component in the denominator is straightforward. It is the claim on assets that equity holders have after debt obligations have been serviced in a liquidation event. In other words, it is the amount raised by a company through equity. We calculate shareholder's equity as,
+We’ve already defined shareholders equity before as total assets minus total liabilities. It can also be found on the balance sheet in an annual report.
 
-```text
-Shareholders Equity = Total Assets - Total Liabilities
-```
+![Part 2 of the Balance Sheet of Larsen &amp; Toubro Ltd for the year 2020](../../.gitbook/assets/lt-balance-sheet.png)
 
-Alternative, shareholder's equity can also be calculated as,
+Let’s consider the balance sheet of Larsen & Toubro, one of the biggest construction companies in the world.
 
-```text
-Shareholder's Equity = Share Capital + Reserves
-```
+The total debt can be calculated as `₹35,021.02 + ₹23,654.77 + ₹82,331.33 + ₹1,741.6 + ₹424.95 = ₹1,43,173 crores`. The Shareholders Equity is `₹280.78 + ₹66,442.44 + ₹9,520.83 = ₹76,244.05 crores`. This gives us a debt to equity ratio of `₹1,43,173 / ₹76,244.05 = 1.87`.
 
-We now have a general formula for calculating debt to equity using input values that can easily be found on the balance sheet of a company. Balance sheets can be found in a company's annual reports. This formula can be given by,
+{% hint style="info" %}
+Although we’ve included lease liabilities in our calculation, not being able to pay lease obligations may not have the same impact as not paying loan obligations. We can exclude lease obligations from the numerator to get a debt to equity ratio of `1.84`.
+{% endhint %}
 
-```text
-D/E = (Current Borrowings + Non-current Borrowings + Lease Liabilities + Other Fixed Payments) / (Share Capital + Reserves)
-```
+A debt to equity ratio of `1.87` tells us that for every ₹1 in shareholders equity, Larsen & Toubro has `₹1.87` in debt.
 
-Let us take Larsen & Toubro Ltd, an infrastructure company, as an example. The [balance sheet](https://stockdiscovery.s3.amazonaws.com/insight/india/348/Annual%20Report/AR-20.pdf#page=473) from annual report FY20 has been attached below for your reference,
+Usually, a higher value of debt to equity ratio indicates higher insolvency risk compared to another company with a lower value. Although this may be correct but the assumption that comes attached — a company with a higher debt to equity ratio is unequivocally not going to stay solvent - isn’t always true. This is because a company’s financial ability to cater to its debt obligations needn’t be stuck solely in shareholder’s equity.
 
-![Larsen &amp; Toubro Ltd&apos;s balance sheet from the company&apos;s FY20 Annual Report. ](../../.gitbook/assets/lt-balance-sheet.png)
+As we’ve said before, ratios are meaningless when looked at in isolation. Let’s calculate the debt to equity ratio of another construction company, Reliance Infrastructure Ltd.
 
-With the formula mentioned above, we have total debt as
+![Part 2 of the Balance Sheet of Reliance Infrastructure Ltd for the year 2020](../../.gitbook/assets/reliance-infra-balance-sheet.png)
 
-```text
-Total Debt = Current Borrowings + Non-current Borrowings + Lease Liabilities + Other Fixed Payments
-```
+![Note 11\(d\) of the financial statements of Reliance Infrastructure for the year 2020](../../.gitbook/assets/reliance-infra-other-financial-liabilities.png)
 
-Taking these values from L&T's FY20 balance sheet, we have
+We’ve showcased Note 11\(d\) from Reliance Infra’s financial statements because it contains figures for the premium payable to National Highways Authority of India \(NHAI\). NHAI premiums are payments made by construction companies to NHAI in build, operate, and transfer \(BOT\) projects. We’re considering NHAI premiums as a component of total debt. 
 
-`Total Debt = 35021.02 + 23654.77 + 82331.33 + 1741.6 + 424.95 = 143173.67 crores`
+The total debt can be calculated as
 
-For shareholder's equity, we had mentioned,
+`₹11,758.86 + ₹2,541.37 + ₹2,765.28 + (₹272.31 + ₹2,206.92) + ₹13.98 + ₹67.61 = ₹19,626.33`
 
-```text
-Shareholder's equity = Share Capital + Reserves
-```
+and the shareholders equity is `₹11,621.82 crores` which gives us a debt to equity ratio of `1.68`.
 
-Taking these values from L&T's FY20 balance sheet, we have
+Note that comparing the debt to equity ratio of companies from different sectors or industries isn’t helpful and often misleading. Simply put, different sectors, or industries, have different operational and financial aspects. IT companies are generally cash rich and don’t require a lot of capital compared to construction companies so it makes sense that the debt to equity ratio of IT companies would be lower than that of banks & non-banking financial companies \(NBFCs\) whose business model depends entirely on borrowing money from one entity and loaning it to another.
 
-`Shareholder's Equity = 280.78 + 66442.44 = 66723.22 crores`
-
-Putting these values in our Debt to Equity formula, we get
-
-`Debt To Equity (D/E) = 143173.67 / 66723.22 = 2.14`
-
-_Note that we've included lease liabilities in our calculation. An argument can be made, that defaulting on a lease does not have the same impact as defaulting on debt. So, some people prefer skipping its inclusion. If lease liabilities are subtracted, Debt to Equity comes out to be about `2.11`._
-
-So, Debt to Equity comes out to be `2.14` for Larsen & Toubro Ltd. This tell us that for every ₹1 in shareholder's equity, the company has taken about ₹2.14 in debt.
-
-A general connotation to read the ratio is, a higher value indicates higher insolvency risk compared to another company with a lower value. While this is correct, the assumption that comes attached - that a company with high Debt to Equity \(D/E\) value is unequivocally not going to stay solvent - is not always true. This is because a company's financial ability to cater to its debt obligations needn't be stuck solely in shareholder's equity.
-
-While viewing Debt to Equity \(D/E\) in isolation gives us a valuable measure of debt stacking up against equity in a company's capital structure, we can also compare it against Debt to Equity \(D/E\) of its peers.
-
-Let us compare Debt to Equity \(D/E\) of Larsen & Toubro Ltd to one of its competitors - Reliance Infrastructure Ltd. The company's [balance sheet](https://stockdiscovery.s3.amazonaws.com/insight/india/287/Annual%20Report/AR-20.pdf#page=145) can be found in its FY20 Annual report, part of which is shown below,
-
-![Reliance Infrastructure Ltd&apos;s balance sheet from the company&apos;s FY20 Annual Report. ](../../.gitbook/assets/reliance-infra-balance-sheet.png)
-
- Note 11\(d\) of the Notes to Financial Statements section of the Annual report expands on Other financial liabilities, which may be relevant to our calculations. For example, we add current maturities of long-term debt, lease liabilities, and NHAI premium payable. NHAI premiums are payments made by the developer to NHAI in build, operate, and transfer \(BOT\) projects as per an Economic Times [article](https://economictimes.indiatimes.com/news/economy/infrastructure/national-highways-authority-of-india-allows-premium-rejig-for-9-highway-developers/articleshow/35520738.cms). Since we've considered this as a fixed financial liability, we've added it to our numerator. The note 11\(d\) is shown below,
-
-![Reliance Infrastructure Ltd&apos;s Note 11\(d\) to the financial statements in the company&apos;s FY20 Annual Report ](../../.gitbook/assets/reliance-infra-other-financial-liabilities.png)
-
-We have,
-
-`Total Debt = 11758.86 + 2541.37 + 2765.28 + (272.31 + 2206.92) + 13.98 + 67.61 = 19626.33 crores`
-
-`Shareholder's Equity = 263.03 + 9529.34 = 9792.37 crores`
-
-Putting these in our general formula for Debt to Equity, we get
-
-`Debt to Equity (D/E) = Total Debt / Shareholder's Equity = 19626.33/9792.37 = 2.00` 
-
-We observe that Larsen & Toubro Ltd has a higher Debt to Equity ratio of `2.14` than that of Reliance Infrastructures Ltd with a Debt to Equity ratio of `2.00`, and infer that Larsen & Toubro Ltd is more leveraged than Reliance Infrastructures Ltd in terms of having more debt against equity in their respective capital structures.
-
-Note that comparing Debt to Equity \(D/E\) of companies from different sectors, or industries is not helpful, and often misleading. Simply put, different sectors, or industries have different operational and financial aspects - IT companies are generally cash rich and relatively don't require a lot of capital, so it makes sense that Debt to Equity \(D/E\) of IT companies would be lower than that of Banks & NBFCs \(non-banking financial companies\), whose business model depends entirely on borrowing money from one entity, and loaning it to another.
-
-Another thing to observe is that companies at different stages of their business cycle may have varied Debt to Equity, so comparing their values may not be perfectly intuitive; one company may be in its expansion stage, while another may be focusing on winding down its debt. Companies of different scale may also yield varied Debt to Equity values; this is because cost of debt is often dependent on a company's size, and can affect a company's decision to take on more or less debt.
+Another thing to keep in mind is that companies at different stages of their business cycle may have varied debt to equity ratios, so comparing their values may not be perfectly intuitive. One company may be in its expansion stage while another may be focusing on winding down its debt. Companies of different scales may also yield varied debt to equity ratios. This is because cost of debt is often dependent on a company’s size and can affect a company’s decision to take on more or less debt.
 
