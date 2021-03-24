@@ -59,3 +59,5 @@ Note that comparing the debt to equity ratio of companies from different sectors
 
 Another thing to keep in mind is that companies at different stages of their business cycle may have varied debt to equity ratios, so comparing their values may not be perfectly intuitive. One company may be in its expansion stage while another may be focusing on winding down its debt. Companies of different scales may also yield varied debt to equity ratios. This is because cost of debt is often dependent on a company’s size and can affect a company’s decision to take on more or less debt.
 
+1: [National National Highways Authority of India allows premium rejig for 9 highway developers](https://economictimes.indiatimes.com/news/economy/infrastructure/national-highways-authority-of-india-allows-premium-rejig-for-9-highway-developers/articleshow/35520738.cms) \| [archive.org link](https://web.archive.org/web/20210322162109/https://economictimes.indiatimes.com/news/economy/infrastructure/national-highways-authority-of-india-allows-premium-rejig-for-9-highway-developers/articleshow/35520738.cms) \| [archive.is link](https://archive.is/pxnrO)
+
