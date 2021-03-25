@@ -21,7 +21,7 @@ Each of them are significant in their own way.
 
 How do we define COGS though and what do _directly associated_ costs mean? Interestingly, the answer can vary depending upon the company we're looking at. Let's look at some examples.
 
-![The Profit and Loss statement of Motherson Sumi for the year 2020](../../.gitbook/assets/motherson-pnl.png)
+![The Profit and Loss statement of Motherson Sumi for the financial year 2020](../../.gitbook/assets/motherson-pnl.png)
 
 For a capital intensive company like Motherson Sumi which deals with a lot of tangible raw materials, it should be expected that the _cost of materials consumed_ would be relatively high. _Purchase of stock-in-trade_ measures the expenses incurred in buying products used as intermediates to create the finished products sold by the company. _Change in inventories of finished goods, work-in-progress, and stock-in-trade_, as the name implies, are the expenses incurred on creating the products left in the inventory of Motherson Sumi at the end of the financial year 2020.
 
@@ -29,7 +29,7 @@ These costs can be considered directly associated with creating the end product.
 
 The labor costs incurred to produce the end product are also direct costs eligible for inclusion in COGS. However, this should only include actual labor costs paid to employees responsible for creating the product, not employees in marketing or HR, for example. This is a conundrum because the notes for _employee benefit expenses_ looks like this
 
-![Note 29 of the financial statements of Motherson Sumi for the year 2020](../../.gitbook/assets/motherson-employee-costs.png)
+![Note 29 of the financial statements of Motherson Sumi for the financial year 2020](../../.gitbook/assets/motherson-employee-costs.png)
 
 We don't know the details of how much of the _salary, wages, & bonus_ are direct costs. The details are not mentioned possibly due to competitive and logistical reasons.
 
@@ -43,7 +43,7 @@ COGS = Cost of Materials Consumed + Purchase of Stock-in-Trade + Changes in Inve
 
 This gives us `₹35,547 + ₹710 + ₹14.5 = ₹36,271.5 crores`.
 
-![A section of the Profit &amp; Loss Statement from TCS&apos; 2020 annual report](../../.gitbook/assets/tcs-pnl.png)
+![A section of the Profit &amp; Loss Statement of TCS for the financial year 2020](../../.gitbook/assets/tcs-pnl.png)
 
 Since TCS is a services company, it doesn't deal with or manufacture any raw materials or tangible goods. TCS' tangible material is its software licenses and employees who provide services worldwide. In this case, the COGS would be `₹85,952 + ₹1,905 = ₹87,857 crores`.
 
@@ -67,7 +67,7 @@ Gross Profit Margin = Gross Profit / Revenue from Operations
 
 **EBIT**, as the name implies, is the amount of profit a company earns **before** interest and tax expenses have been subtracted. It is also known as the **Operating Profit**. We can also strip out depreciation costs of tangible assets and amortization costs of intangible assets from the expenses to obtain the **EBITDA**.
 
-![The Profit &amp; Loss statement of Abbott India for the year 2020](../../.gitbook/assets/abbott-pnl.png)
+![The Profit &amp; Loss statement of Abbott India for the financial year 2020](../../.gitbook/assets/abbott-pnl.png)
 
 The revenue from operations for the year ended March 2020 was `₹4,093.14 crores`. We won't consider other income here because it isn't generated from operations. The total expenses excluding taxes are `₹3,404.83 crores`. If we exclude finance costs \(interest\) of `₹8.53 crores` from the total expenses, it gives us operational expenses of `₹3,396.3 crores`. Thus, the EBIT in this case turns out to be `₹4,093.14 - ₹3,396.3 = ₹696.84 crores`.
 
@@ -139,13 +139,13 @@ You can calculate average shareholders equity by calculating the average of the 
 
 One might ask — why consider the average of shareholders equity and not the total shareholders equity for a specific financial year?
 
-![The Profit &amp; Loss statement of Avenue Supermarts for the year 2020](../../.gitbook/assets/dmart-pnl.png)
+![The Profit &amp; Loss statement of Avenue Supermarts for the financial year 2020](../../.gitbook/assets/dmart-pnl.png)
 
-![Part 1 of the Balance Sheet of Avenue Supermarts for the year 2020](../../.gitbook/assets/dmart-bs.png)
+![Part 1 of the Balance Sheet of Avenue Supermarts for the financial year 2020](../../.gitbook/assets/dmart-bs.png)
 
-![Part 2 of the Balance Sheet of Avenue Supermarts for the year 2020](../../.gitbook/assets/dmart-bs-2.png)
+![Part 2 of the Balance Sheet of Avenue Supermarts for the financial year 2020](../../.gitbook/assets/dmart-bs-2.png)
 
-![Note 17 of the financial statements of Avenue Supermarts for the year 2020](../../.gitbook/assets/dmart-note-17.png)
+![Note 17 of the financial statements of Avenue Supermarts for the financial year 2020](../../.gitbook/assets/dmart-note-17.png)
 
 Avenue Supermarts issued additional shares in the financial year 2020 to comply with SEBI regulations of bringing down the promoter holding below 75% within 3 years of IPO. This is a one-off event which won't happen regularly. To avoid presenting skewed ROE numbers, we'll consider the _average_ shareholders equity rather than the total shareholders equity. This gives us `(₹11,080.20 + ₹5,588.01) / 2 = ₹8,334.10 crores`. The PAT for the year 2020 was `₹1,300.98`. This gives us an ROE of `₹1,300.98 / ₹8,334.10 = 15.61%`.
 
@@ -173,11 +173,11 @@ Return on Equity = Profitability Ratio x Efficiency Ratio x Leverage Ratio
 
 Profitability Ratio is the PAT margin we've seen before. The Efficiency Ratio is `Total Income / Average Assets` and the Leverage Ratio is `Average Assets / Average Shareholders Equity`. If you observe closely, the DuPont Identity gives back the original definition we shared if we cancel out the relevant numerators and denominators from the above formula. However, by breaking up ROE into 3 different ratios, we can now know how the ROE figures of Bombay Dyeing ended up getting inflated.
 
-![Part 1 of the Balance Sheet of Bombay Dyeing for the year 2020](../../.gitbook/assets/bombay-balance.png)
+![Part 1 of the Balance Sheet of Bombay Dyeing for the financial year 2020](../../.gitbook/assets/bombay-balance.png)
 
-![Part 2 of the Balance Sheet of Bombay Dyeing for the year 2020](../../.gitbook/assets/bombay-balance-2.png)
+![Part 2 of the Balance Sheet of Bombay Dyeing for the financial year 2020](../../.gitbook/assets/bombay-balance-2.png)
 
-![The Profit &amp; Loss statement of Bombay Dyeing for the year 2020](../../.gitbook/assets/bombay-pnl.png)
+![The Profit &amp; Loss statement of Bombay Dyeing for the financial year 2020](../../.gitbook/assets/bombay-pnl.png)
 
 Let's start with the year 2019. We can break down Bombay Dyeing's ROE as
 
@@ -250,7 +250,7 @@ It should be apparent that ROCE is a "better" profitability ratio to use compare
 
 However, ROCE isn't free from limitations. Even though retained earnings is being counted as part of capital employed, it may not be employed for any financial activities. A company with high amounts of cash reserves would be negatively affected when calculating ROCE. This should be apparent in the case of Abbott India. If we exclude the retained earnings, we'll get a ROCE of `113%` for the year 2020.
 
-![Note 16 of the financial statements of Abbott India for the year 2020](../../.gitbook/assets/abbott-note-16.png)
+![Note 16 of the financial statements of Abbott India for the financial year 2020](../../.gitbook/assets/abbott-note-16.png)
 
 ### Return on Invested Capital \(ROIC\)
 
@@ -300,7 +300,7 @@ Let's start with Abbott India. The EBIT for the year 2020 was `₹696.8 crores`.
 NOPAT = ₹696.8 x (1 - 25.17%) = ₹521.4 crores
 ```
 
-![Note 18 of the financial statements of Abbott India for the year 2020](../../.gitbook/assets/abbott-note-18.png)
+![Note 18 of the financial statements of Abbott India for the financial year 2020](../../.gitbook/assets/abbott-note-18.png)
 
 The capital invested of Abbott India for the year 2019 is
 
@@ -312,13 +312,13 @@ Non-operational Assets = ₹137 + ₹1,542.07 + ₹27.13 = ₹1,706.2
 Capital Invested = ₹2,940.91 - ₹856.89 - ₹1,706.2 = ₹377.82
 ```
 
-![Notes 10, 11, and 13 for the financial statements of Abbott India for the year 2020](../../.gitbook/assets/abbott-note-10-11-13.png)
+![Notes 10, 11, and 13 for the financial statements of Abbott India for the financial year 2020](../../.gitbook/assets/abbott-note-10-11-13.png)
 
 This gives us a ROIC of `₹521.4 / ₹377.8 = 138%`. The ROIC of Pfizer India for the year 2020 is `₹351.1 / ₹603.8 = 58.1%`.
 
 Motherson Sumi, an auto ancillary company which is significantly more capital intensive, has a ROIC of `9.82%` for the year 2020. Of course, this doesn't mean we can compare Motherson's ROIC with Abbott's. An appropriate comparison would be with a company like Minda Corporation which is also a capital intensive auto ancillary company. It's ROIC for the year 2020 was `₹98.7 / ₹761.7 = 12.9%`. One may notice that although Minda Corporation had a negative PAT for the year 2020, its operational profit was positive. The reason for the negative PAT seems to an exceptional event which is not considered when calculating ROIC.
 
-![The Profit &amp; Loss statement of Minda Corporation for the year 2020](../../.gitbook/assets/minda-pnl.png)
+![The Profit &amp; Loss statement of Minda Corporation for the financial year 2020](../../.gitbook/assets/minda-pnl.png)
 
 Of course, like any other ratio, ROIC has its limitations.
 
