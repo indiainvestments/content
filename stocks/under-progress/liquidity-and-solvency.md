@@ -29,7 +29,7 @@ We’ve already defined shareholders equity before as total assets minus total l
 
 ![Part 2 of the Balance Sheet of Larsen &amp; Toubro Ltd for the financial year 2020](../../.gitbook/assets/lt-balance-sheet.png)
 
-Let’s consider the balance sheet of Larsen & Toubro, one of the biggest construction companies in the world.
+Let’s consider the balance sheet of an infrastructure and construction company — Larsen & Toubro.
 
 The total debt can be calculated as `₹35,021.02 + ₹23,654.77 + ₹82,331.33 + ₹1,741.6 + ₹424.95 = ₹1,43,173 crores`. The Shareholders Equity is `₹280.78 + ₹66,442.44 + ₹9,520.83 = ₹76,244.05 crores`. This gives us a debt to equity ratio of `₹1,43,173 / ₹76,244.05 = 1.87`.
 
@@ -47,7 +47,7 @@ As we’ve said before, ratios are meaningless when looked at in isolation. Let�
 
 ![Note 11\(d\) of the financial statements of Reliance Infrastructure for the financial year 2020](../../.gitbook/assets/reliance-infra-other-financial-liabilities.png)
 
-We’ve showcased Note 11\(d\) from Reliance Infra’s financial statements because it contains figures for the premium payable to National Highways Authority of India \(NHAI\). NHAI premiums are payments made by construction companies to NHAI in build, operate, and transfer \(BOT\) projects. We’re considering NHAI premiums as a component of total debt. 
+We’ve showcased Note 11\(d\) from Reliance Infra’s financial statements because it contains figures for the premium payable to National Highways Authority of India \(NHAI\). According to [this](https://economictimes.indiatimes.com/news/economy/infrastructure/national-highways-authority-of-india-allows-premium-rejig-for-9-highway-developers/articleshow/35520738.cms) ET article, NHAI premiums are payments made by construction companies to NHAI in build, operate, and transfer \(BOT\) projects. We’re considering NHAI premiums as a component of total debt.
 
 The total debt can be calculated as
 
@@ -59,5 +59,5 @@ Note that comparing the debt to equity ratio of companies from different sectors
 
 Another thing to keep in mind is that companies at different stages of their business cycle may have varied debt to equity ratios, so comparing their values may not be perfectly intuitive. One company may be in its expansion stage while another may be focusing on winding down its debt. Companies of different scales may also yield varied debt to equity ratios. This is because cost of debt is often dependent on a company’s size and can affect a company’s decision to take on more or less debt.
 
-1: [National National Highways Authority of India allows premium rejig for 9 highway developers](https://economictimes.indiatimes.com/news/economy/infrastructure/national-highways-authority-of-india-allows-premium-rejig-for-9-highway-developers/articleshow/35520738.cms) \| [archive.org link](https://web.archive.org/web/20210322162109/https://economictimes.indiatimes.com/news/economy/infrastructure/national-highways-authority-of-india-allows-premium-rejig-for-9-highway-developers/articleshow/35520738.cms) \| [archive.is link](https://archive.is/pxnrO)
+* [National National Highways Authority of India allows premium rejig for 9 highway developers](https://economictimes.indiatimes.com/news/economy/infrastructure/national-highways-authority-of-india-allows-premium-rejig-for-9-highway-developers/articleshow/35520738.cms) \| [archive.org link](https://web.archive.org/web/20210322162109/https://economictimes.indiatimes.com/news/economy/infrastructure/national-highways-authority-of-india-allows-premium-rejig-for-9-highway-developers/articleshow/35520738.cms) \| [archive.is link](https://archive.is/pxnrO)
 
