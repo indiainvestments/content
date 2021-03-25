@@ -91,7 +91,7 @@ Days Sales of Inventory = 365 / Inventory Turnover Ratio
 
 For Avenue Supermarts, the DSI turns out to be `365 / 11.8 = 30 days`. For V-Mart Retail, DSI is `365 / 2.8 = 129 days`.
 
-Generally speaking, lower the DSI, the more efficient a company is in translating inventory to sales. However, this may not always be the case. Sometimes, companies need to pile up inventory due to seasonal effects or take advantage of product shortage and selling the inventory at a higher price later.
+Generally speaking, lower the DSI, the more efficient a company is in translating inventory to sales. However, this may not always be the case. Sometimes, companies need to pile up inventory due to seasonal effects or to take advantage of product shortage and sell the inventory at a higher price later.
 
 ### Receivables Turnover and Days Sales Outstanding
 
