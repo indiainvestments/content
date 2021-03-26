@@ -22,7 +22,7 @@
 * [Do I need my own health insurance? Employer already has group policy](faqs/do-i-need-my-own-health-insurance-employer-already-has-group-policy.md)
 * [What is the best mutual fund app for investments?](faqs/best-mutual-fund-app-for-investments.md)
 * [What is the best app for buying or trading stocks?](faqs/what-is-the-best-app-for-buying-or-trading-stocks.md)
-* [Do I need to also invest in the US markets?](faqs/do-i-need-to-also-invest-in-the-us-markets.md)
+* [Why should I invest in the US markets?](faqs/why-should-i-invest-in-the-us-markets.md)
 * [How should I invest in US equity?](faqs/how-should-i-invest-in-us-equity.md)
 
 ## How To
