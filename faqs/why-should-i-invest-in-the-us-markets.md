@@ -33,7 +33,9 @@ As of 2018, U.S. equities accounted for ~44% of the global equity market, far gr
 
 Why is size important?
 
-Due to its vast size, most of the retail and institutional investors all over world, would always be chasing US equities, and be willing to take position in this. Its size makes it so that it remains efficient, and provide cues to other markets globally.
+Due to its vast size, most of the retail and institutional investors all over world, would always be chasing US equities, and be willing to take position in this. Its size makes it so that it remains efficient, and provide cues to other markets globally.  
+  
+Being the biggest market it also attracts companies from around the world to be listed here as getting investing capital is easier in this market. Eg: Spotify \(NYSE: SPOT\), Makemytrip \(NASDAQ: MMYT\), Alibaba \(NYSE: BABA\)
 
 The liquidity and quality of top US stocks are simply unmatched anywhere else in the world.
 
@@ -66,9 +68,9 @@ As expected, Indian equity and US equity benchmarks have close to 1 as correlati
 
 Some of the biggest and most famous brands and companies are listed in the US. 
 
-Think Apple \(NYSE:AAPL\), Microsoft \(NYSE:MSFT\), Google \(NYSE:GOOG\), Amazon \(NYSE:AMZN\), Facebook \(NYSE:FB\), Tesla \(NYSE:TSLA\), and many others.  
+Think Apple \(NASDAQ: AAPL\), Microsoft \(NASDAQ: MSFT\), Google \(NASDAQ: GOOGL\), Amazon \(NASDAQ: AMZN\), Facebook \(NASDAQ: FB\), Tesla \(NASDAQ: TSLA\), and many other similar ones.  
   
-Many of these companies are also MNCs and have internationally diversified businesses and revenue streams.  
+Most of these companies are also MNCs \(**M**ulti **N**ational **C**orporation\) and have internationally diversified businesses and revenue streams.  
   
 In that sense, taking exposure to US equities can be viewed as getting access to equities growth of companies with global revenue and user-base.
 
