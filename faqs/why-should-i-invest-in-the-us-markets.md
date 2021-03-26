@@ -23,7 +23,7 @@ Investing in overseas or foreign equity can provide some geographic diversificat
 
 The rationale for diversification is clear — domestic equities tend to be more exposed to the narrower economic and market forces of their home market, while stocks outside an investor’s home market tend to offer exposure to a wider array of economic and market forces.
 
-In other words, unless there's a big global driver, most of the times India and US equities won't move up and down, in same direction, simultaneously.
+In other words, unless there's a big global driver, most of the times, India and US equities won't move up and down, won't move up and down, in same direction nor necessarily with the same pace, simultaneously. Hence moderating the swings based on _percentage allocations_ one takes in US equities.
 
 ### Size
 
