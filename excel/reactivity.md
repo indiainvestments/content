@@ -4,7 +4,7 @@ description: 'Reactive UI : Data Chaining and Updates in Excel with Formula and 
 
 # Reactive UI & Updates
 
-## Intro ![:maple\_leaf:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/maple_leaf.png)
+## Intro 
 
 Consider a sample receipt from your local _kirana_ store, that looks like this
 
@@ -26,7 +26,7 @@ We can use Excel for this.
 In this chapter, you'd see images / videos in both dark and light theme. Based on your comfort and preference, pick one of these in each case : either dark theme, or light theme.
 {% endhint %}
 
-## Entering the numbers ![:1234:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/1234.png)
+## Entering the numbers 
 
 * Take your favorite Excel app \(MS Excel or Google Sheets\), and create a new sheet in it.
 
@@ -46,7 +46,7 @@ But wait, this is just text in a bunch of grids and cells! Where’s the _magic_
 
 Hold your horses, we’re getting there.
 
-## Formula in Excel ![:clipboard:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/clipboard.png)
+## Formula in Excel 
 
 Now comes the part, where we sit back and let Excel formulas operate on the numbers, then cross-check the results for us.
 
@@ -93,9 +93,9 @@ Here’s a video to guide you along \(both in dark and light theme\)
 
 If you’ve done everything as demonstrated / instructed above, you should have same exact value of 60 in that cell, as you’d earlier.
 
-This validates the number was correct, your local _kirana_ store didn’t have a broken calculator or tried to stiff you ![:slightly\_smiling\_face:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/slightly_smiling_face.png) .
+This validates the number was correct, your local _kirana_ store didn’t have a broken calculator or tried to stiff you.
 
-## Collections and Lists ![:rocket:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/rocket.png)
+## Collections and Lists 
 
 So far, you’ve validated that **only one number entry was correct**.
 
@@ -142,7 +142,7 @@ Here’s a video to help guide you alone with the above steps:
 
 Assuming you’ve done everything right up to this point; the numbers in the newly created column, for a given row, should be exactly same as the penultimate \(last but one\) column.
 
-## In-built formulas ![:gear:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/gear.png)
+## In-built formulas 
 
 If you notice, we still haven’t validated the final total - summing up all totals from each of the rows.
 
@@ -192,7 +192,7 @@ If you’ve done everything as instructed, up to this point, it should look as s
 
 ![Excel SUM function result: Light theme](../.gitbook/assets/excel-sum-function.light.png)
 
-## Reactive UI ![:heavy\_check\_mark:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/heavy_check_mark.png)
+## Reactive UI 
 
 We started this note with a fancy title, _**Reactive UI**_**.**
 
@@ -229,7 +229,7 @@ Here’s a video to help demonstrate this:
 
 {% embed url="https://www.youtube.com/watch?v=zdLOMk6VCd0&feature=emb\_logo" caption="Excel Reactiveness: Light theme" %}
 
-## Recap ![:rotating\_light:](https://assets.hackmd.io/build/emojify.js/dist/images/basic/rotating_light.png)
+## Recap 
 
 Let’s reflect on what we’ve learned so far, and how to practice more!
 
