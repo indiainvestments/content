@@ -54,6 +54,10 @@
 * [Excel for Fun and Profit](excel/intro.md)
 * [Reactive UI & Updates](excel/reactivity.md)
 * [Using External Data : Google Finance](excel/using-external-data-google-finance.md)
+* [Using External Data : Working with CSV Format](excel/using-external-data-working-with-csv-format/README.md)
+  * [CSV Format](excel/using-external-data-working-with-csv-format/csv-format.md)
+  * [Computing LTCG Eligible Equity Units](excel/using-external-data-working-with-csv-format/computing-ltcg-eligible-equity-units.md)
+  * [Process for Estimating Tax](excel/using-external-data-working-with-csv-format/process-for-estimating-tax.md)
 
 ## MISCELLANEOUS <a id="misc"></a>
 
