@@ -6,7 +6,7 @@ description: >-
 
 # Using External Data : Working with CSV Format
 
-## Intro
+## Prelude
 
 In the previous chapter, we've seen how to get historical market data from Google Finance API.
 
