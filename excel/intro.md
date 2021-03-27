@@ -6,9 +6,9 @@ description: >-
 
 # Excel for Fun and Profit
 
-## Prelude 🐱‍👓
+## Prelude 
 
-What’s the most popular programming / coding language in the world? 💪
+What’s the most popular programming / coding language in the world? 
 
 Hint: It’s not Java or Python or JavaScript or C or C++ or whatever Tiobe index has it on top these days. Nor is it HTML, nor CSS, for that matter.
 
@@ -20,15 +20,15 @@ Most of you’ve guessed it already, but for the sake of clarity, we should expl
 
 But there happens to be other applications as well, which offer _Excel_ functionalities - [Google Sheets](https://docs.google.com/spreadsheets/), for instance.
 
-In this series, we cover how you could harness this power for yourself. 😎  
+In this series, we cover how you could harness this power for yourself.   
   
-Before you hope to be a DIY investor, you need to be comfortable as a DIY excel user. ⚔️
+Before you hope to be a DIY investor, you need to be comfortable as a DIY excel user. 
 
 No more asking others to share their pre-built excel calculator templates, to track your monthly budget or compute XIRR of your stock portfolio.
 
 You’ll feel empowered to build these on your own, from scratch; and maintain or update the same.
 
-## Pre-requisites 💯
+## Pre-requisites 
 
 * ➕➖ ✖️➗  
 
@@ -41,19 +41,19 @@ You’ll feel empowered to build these on your own, from scratch; and maintain o
 * Access to Google Sheets or MS Excel  
 
 
-  Excel as a language is fantastic, and if you can afford an Office 365 license, great for you 🎉  
+  Excel as a language is fantastic, and if you can afford an Office 365 license, great for you.  
 
 
   But most of us cannot or wouldn’t want to. Google Sheet supports most Excel functionalities as is, that we’d cover here.  
 
 
-  If you’ve a Google account or G-Suite account; you can use [Google Sheets for free](https://docs.google.com/spreadsheets)  
+  If you’ve a Google account or G-Suite account; you can use [Google Sheets for free](https://docs.google.com/spreadsheets).  
 
 
   [LibreOffice](https://www.libreoffice.org/) and [OpenOffice](https://www.openoffice.org/) have their own implementations, called _Calc_. Most likely these would work as well; though we cannot say we’ve tried.  
 
 
-  On Mac OS X and iPhone / iPad, [Apple Numbers app](https://www.apple.com/in/numbers/) should be fine too 🏁  
+  On Mac OS X and iPhone / iPad, [Apple Numbers app](https://www.apple.com/in/numbers/) should be fine too.  
   
   In this series on excel, we'd stick to using Google Sheets. There'd be some chapters were we'd explicitly call out how to do something specific, in MS Excel. But most of the series would focus on using one single tool - Google Sheets.  
 
@@ -63,12 +63,12 @@ You’ll feel empowered to build these on your own, from scratch; and maintain o
   It’s not a hard requirement; that without it, you won’t be able to proceed at all.  
 
 
-  But given this is a bit programmable in nature, having access to more real-estate on your screen is desirable. 📜  
+  But given this is a bit programmable in nature, having access to more real-estate on your screen is desirable.   
 
 
   It isn’t as if you cannot do without it, but you’d have a better time if you could get your hands on a laptop or desktop or even a workstation.
 
-## How to make the most of it 😇
+## How to make the most of it 
 
 This corner of our wiki is bit different. It's much more hands-on, than other series and topics on our wiki.
 
@@ -92,7 +92,7 @@ If you've a multi-monitor setup with external displays, even better.
 
 You don't have to follow this exact setup. Maybe you've other preferences. But we do recommend giving it some thought, that you remove the constant frustration of switching between tabs.
 
-## Disclaimer ⚠️ 
+## Disclaimer 
 
 To be abundantly clear, this is **not a guided tutorial on MS Excel or Google Sheets**. There are plenty of those available, that have much more depth; if you just google or search in YouTube. 
 
@@ -100,7 +100,7 @@ This series is all about _learning enough excel to be dangerous_, and applying i
 
 In addition to these, **we won't be providing ready-made excel sheets or spreadsheets**.
 
-Why?! 😱
+Why?!
 
 To understand this, you must first understand how Egyptian pyramids look like to humans of this era.
 
