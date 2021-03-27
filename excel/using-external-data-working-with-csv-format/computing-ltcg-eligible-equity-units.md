@@ -754,7 +754,3 @@ Over the years, investor has switched their corpus into these above funds.
 
 For the other funds in their portfolio, they’ve completely sold these off, more than a year ago. We can easily verify this, going through the redemption transactions, and see that those were before 21/03/2020, i.e. more than one year ago.
 
-
-
-
-
