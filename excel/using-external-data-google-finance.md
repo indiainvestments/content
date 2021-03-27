@@ -6,7 +6,7 @@ description: >-
 
 # Using External Data : Google Finance
 
-## Intro 🍁
+## Intro
 
 Almost all popular Excel-compatible applications, such as MS Excel or Google Sheets etc., allow _programmatically_ fetching data from external sources.
 
@@ -22,11 +22,11 @@ There are even dedicated tools and services, like IFTTT, RapiAPI, Mixpanel etc.,
 
 In this section, we’d keep ourselves limited to `GOOGLEFINANCE` function, that fetches financial data from [Google Finance](https://www.google.com/finance). And preferably, use [Google Sheets](https://docs.google.com/spreadsheets); because most likely, your MS Excel application doesn't come with this in-built function.
 
-{% hint style="info" %}
+{% hint style="danger" %}
 ©️ 🔒 Do go through usage restriction section in `GOOGLEFINANCE()` [documentation by Google](https://support.google.com/docs/answer/3093281?hl=en), to make sure you using this in your spreadsheets, is compliant with Google's terms of usage.
 {% endhint %}
 
-## Problem Statement 🤔
+## Problem Statement
 
 Plenty of economists point out how NASDAQ has stayed below its _all time high_ \(aka ATH\) of 2000s, for the next ~15 years, before reaching the same high around 2015-16.
 
@@ -55,7 +55,7 @@ For the purpose of this exercise, we’d assume the following:
 
 Our goal is to estimate if investor would've been in losses, or if they had made gains. And if so, how much in losses or gains.
 
-## Planning 📚
+## Planning
 
 It is instructive to plan a bit ahead, before we start modeling this problem with a spreadsheet. Whenever you find yourself in a position having to create an excel sheet, start with planning first.
 
@@ -99,7 +99,7 @@ Our approach:
 
 ![Planned Table \(light mode\)](../.gitbook/assets/screen-shot-2021-03-09-at-10.56.58-pm.png)
 
-## Implementation 🚀
+## Implementation
 
 Follow these steps, to execute the plan that we've just made above.
 
@@ -118,7 +118,7 @@ Follow these steps, to execute the plan that we've just made above.
 
 ![Table Columns \(light mode\)](../.gitbook/assets/table-columns.light.png)
 
-### Date Formatting 📅
+### Date Formatting
 
 Before we proceed any further, we’d like to figure out how date formatting works in Google Sheet, and get a taste of what fetched data from `GOOGLEFINANCE` looks like.
 
@@ -139,7 +139,7 @@ Use `Format` -&gt; `Number` -&gt; `Date` for that. If `DD/MM/YYYY` is not listed
 
 Alternatively, you can use the calendar pop-up widget to select April 1st, 2000. It might not be in desired format, but we can easily work around that.
 
-### Using GOOGLEFINANCE\(\) 📈
+### Using GOOGLEFINANCE\(\)
 
 Once we’ve entered a valid date and it’s been recognized by Excel to be a valid calendar date, we can invoke in-built `GOOGLEFINANCE` function.
 
@@ -152,7 +152,7 @@ Once we’ve entered a valid date and it’s been recognized by Excel to be a va
 Here, `<date>` means referring to the cell which has the date in. Since we’ve made sure it’s by system as a valid date, the Google Finance API would be able to use it.
 
 {% hint style="info" %}
-Notice the usage of `""` to wrap various texts inside the function.
+Notice the usage of `""` to wrap various texts inside the function. We could have also used single quotes \(`''`\) to wrap these texts.
 {% endhint %}
 
 The last argument, `1` , is interesting, and takes care of our issue from earlier, about knowing working date on or after 1st of month.
@@ -173,7 +173,7 @@ Once you enter these in a cell, link to the date from the other cell; and hit `E
 
 {% embed url="https://youtu.be/ZGNNt4KZGOM" %}
 
-### Using INDEX\(\) 📇
+### Using INDEX\(\)
 
 Since `GOOGLEFINANCE` returns a table, and not just a single data, we need to find a way to extract right data from these and put these in two cells.
 
@@ -226,7 +226,7 @@ Also refer to following video
 
 {% embed url="https://youtu.be/dB0Pn9Vek60" %}
 
-### Repeating Patterns 🔁
+### Repeating Patterns
 
 Now that we’ve figured out how to get the necessary data for one single row, we can get the same for all our other rows / dates.
 
@@ -259,7 +259,7 @@ We can add one more entry in the first column, below current row.
 
 {% embed url="https://youtu.be/DoHIGMBXlFM" %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 ⚠️ 🚨 Some cells might have `#NA` and say that there’s an error in getting data from Google Finance. This is a quirk of the `GOOGLEFINANCE()` query. This can be fixed easily, but would require some manual intervention.
 {% endhint %}
 
@@ -303,7 +303,7 @@ For example, this following _stackoverflow_ answer suggests using `IFERROR()` fu
 
 [Original StackOverflow discussion ](https://stackoverflow.com/questions/59860596/googlefinance-often-returns-n-a-and-internal-error-messages-while-getting-stock)\| [archive.org link](https://web.archive.org/web/20210310154252/https://stackoverflow.com/questions/59860596/googlefinance-often-returns-n-a-and-internal-error-messages-while-getting-stock) \| [archive.is link](https://archive.is/yILjU)
 
-### Adding Cashflow Values 💵
+### Adding Cashflow Values
 
 In the `Cashflow` column, enter `1000` in first row. Enter same `1000` again in second row.
 
@@ -327,7 +327,7 @@ This is how the table should look like now \(a small section from the sheet\)
 We've avoided using any units for currency, such as `$`. Just plain 1000, with no units.
 {% endhint %}
 
-### Units Column 🍰
+### Units Column
 
 Now we just need to fill out the last column
 
@@ -353,7 +353,7 @@ After dragging and filling all cells against each date, this is how the table sh
 
 At this point, all five columns should be filled, for all 182 rows
 
-### Final Tally [✨](https://emojipedia.org/sparkles/)
+### Final Tally
 
 Finally, we need to tally the values as on 22nd May 2015
 
@@ -392,7 +392,7 @@ Overall, total invested amount would’ve been **182,000 USD**. And the valuatio
 
 Investor would've made ~1.2x of original invested corpus in gain [😊](https://emojipedia.org/smiling-face-with-smiling-eyes/)
 
-## Wrapping Up 🎁
+## Wrapping Up
 
 * We had _hardcoded_ `".IXIC"` ticker everywhere in the `GOOGLEFINANCE` call.
 
