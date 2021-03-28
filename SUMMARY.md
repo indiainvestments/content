@@ -120,6 +120,7 @@
 ## Contributors Section <a id="contributors"></a>
 
 * [How can I start contributing?](contributors/how-can-i-start-contributing.md)
+* [Contributor License Agreement](contributors/contributor-license-agreement.md)
 * [How to link FAQ via bot in Discord](contributors/how-to-link-faq-via-bot-in-discord.md)
 * [Style Guides](contributors/style-guides/README.md)
   * [General Style Guide](contributors/style-guides/general-style-guide.md)
