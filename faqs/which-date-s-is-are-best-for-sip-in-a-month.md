@@ -11,7 +11,7 @@ There's no such thing.
 
 It's rare for markets to move up / down so much in a single month, that a single SIP instalment being on a different date would make a sizeable difference in your long term corpus.
 
-If you start investing today via SIP, and analyse 10 years later, you'd find that, say for example, 23rd of the month was the best day to invest for your funds. That's something you can know only if you've NAV history of next 10 years, which no one does.
+If you start investing today via SIP, and analyse 10 years later, you'd find that, say for example, 23rd of the month was the best day to invest for your funds. That's something you can know only if you know the NAV history of next 10 years, which no one does.
 
 What about the apps that show you best date of SIP?
 
