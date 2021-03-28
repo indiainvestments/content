@@ -14,7 +14,7 @@ Because \_returns\_ also happens to be commonly misunderstood, and often erroneo
 
 This chapter's child pages are meant to enhance our knowledge, so we can have higher-level discussions about returns. At the same time, we aim to empower ourselves, so we can compute these values independently on our own using spreadsheets, and make better financial decisions.
 
+What is CAGR and how to compute it
 
-
-
+{% page-ref page="cagr.md" %}
 
