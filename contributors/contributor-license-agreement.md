@@ -1,3 +1,9 @@
+---
+description: >-
+  Agreement between contributors to the wiki and how their content would be used
+  by India Investments
+---
+
 # Contributor License Agreement
 
 In order to clarify the intellectual property license granted with Contributions from any person or entity, India Investments \(“IndiaInvestments”, “We” or “Us”\) must have a Contributor License Agreement \(“CLA”\) on file that has been agreed upon by each Contributor, indicating agreement to the license terms below. This license does not change your rights to use your own Contributions for any other purpose.
@@ -16,7 +22,7 @@ You accept and agree to the following terms and conditions for Your past, presen
 
 **"Submit"** means any act by which a Contribution is transferred to Us by You by means of tangible or intangible media, including but not limited to electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, Us, but excluding any transfer that is conspicuously marked or otherwise designated in writing by You as “Not a Contribution.”
 
-**"Documentation"** means the collection of Contributions hosted on platforms used by India Investments including, but not limited to, Reddit, Discord, Trello, HackMD, and GitBook.
+**"Documentation"** means the collection of Contributions hosted on platforms used by India Investments including, but not limited to, Reddit, Discord, Trello, HackMD, GitHub, and GitBook.
 
 #### 2. Grant of Copyright License. <a id="2-Grant-of-Copyright-License"></a>
 
