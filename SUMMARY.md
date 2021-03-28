@@ -58,6 +58,8 @@
   * [CSV Format](excel/using-external-data-working-with-csv-format/csv-format.md)
   * [Computing LTCG Eligible Equity Units](excel/using-external-data-working-with-csv-format/computing-ltcg-eligible-equity-units.md)
   * [Process for Estimating Tax](excel/using-external-data-working-with-csv-format/process-for-estimating-tax.md)
+* [Quantifying Returns: CAGR & XIRR](excel/quantifying-returns-cagr-and-xirr/README.md)
+  * [CAGR : Point-to-point Annualized Returns](excel/quantifying-returns-cagr-and-xirr/cagr.md)
 
 ## MISCELLANEOUS <a id="misc"></a>
 
