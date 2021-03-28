@@ -36,6 +36,40 @@ Strive to not have paragraphs **more than 1-2 sentences long**. If you're writin
 
 We're not looking for dense academic dissertations.
 
+## Acronyms and Short-form Abbreviations
+
+We'd often be referring to terms that are used in short-form or as acronyms.  
+  
+If you introduce a new acronym in a chapter that's not covered before, feel free to expand on that in a sentence. At the very least, provide the full-form once \(and only once\), before using the acronym everywhere else.
+
+This is one example of how **not** to do acronyms in the wiki:
+
+_CDSL is one of the depositories that would send you a CAS every month_
+
+**CDSL**, **CAS** - these two terms would alienate the reader. Because they might not know what these are, if you've not introduced these in context.  
+  
+We fall back to our guiding principle - you shouldn't make assumptions about what the reader already knows. Instead, accept it upfront that they probably don't know, err on the side of repetition.  
+  
+This is a better way of writing the same sentence from above:
+
+_CDSL \(**C**entral **D**epository **S**ervices **L**imited\) is one of the depositories that would send you a CAS \(**C**onsolidated **A**ccount **S**tatement\) every month_.
+
+Once you introduce an acronym or abbreviation with its full-form, you can use the acronym in that document / page etc.; without having to repeat the full-form again. 
+
+Above is one example. One could have the acronym in the parenthesis instead, and full-form preceding that.  
+  
+_**C**entral **D**epository **S**ervices **L**imited  \(CDSL\) is one of the depositories that would send you a **C**onsolidated **A**ccount **S**tatement \(CAS\) every month._
+
+But it should be present. At least once, and exactly once.
+
+**Do not** provide full-form of obvious and well-known acronyms, only the ones that are specific to investing / finance / economics domain.
+
+For example, there's no need to write it like this:
+
+_US \(**U**nited **S**tates\) equities are less correlated with Indian equities, than Indian equity mutual funds_.
+
+It isn't unreasonable to expect that a reader would be familiar with the acronym `US`.
+
 ## Be unbiased ☯️ 
 
 A good rule of thumb is to ask yourself this: _if someone reads this 5 years from now, how much change would this text need to remain relevant?_
