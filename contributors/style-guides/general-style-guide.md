@@ -36,7 +36,7 @@ Strive to not have paragraphs **more than 1-2 sentences long**. If you're writin
 
 We're not looking for dense academic dissertations.
 
-## Acronyms and Short-form Abbreviations
+## Acronyms and Short-form Abbreviations 🔹
 
 We'd often be referring to terms that are used in short-form or as acronyms.  
   
@@ -117,7 +117,7 @@ Alternatively, you could use these extensions / plugins in your browsers, to get
 * [Firefox Web Archive](https://addons.mozilla.org/en-US/firefox/addon/view-page-archive/)
 * [Chrome Web Archives](https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao)
 
-### Reddit links
+### Reddit links ⚓
 
 When it comes to Reddit links, especially links to a comment or post; we've decided to provide four links, instead of three.  
   
