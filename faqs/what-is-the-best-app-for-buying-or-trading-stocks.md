@@ -8,7 +8,7 @@ description: >-
 
 ## Intro 💫
 
-In India, there are plenty of small and big brokerage platforms available to you, that let you open trading and demat accounts for equity, bonds, ETFs, commodities etc. Read this to get a glimpse of features / functionality of popular brokerage services, and the costs you'd be incurring if you were to go with one of these. 
+In India, there are plenty of small and big brokerage platforms available to you, that let you open trading and demat accounts for equity, bonds, ETFs \(Exchange-traded fund\), commodities etc. Read this to get a glimpse of features / functionality of popular brokerage services, and the costs you'd be incurring if you were to go with one of these. 
 
 Broadly speaking, there are two types of brokerage services
 
@@ -106,6 +106,8 @@ This is why it's important to go with a broker that has been around for past few
 It doesn't just end at choosing a broker with decent fees and nice UI / UX. You've to keep track of your holdings outside of the brokerage app. Check your monthly CDSL or NSDL CAS, to confirm your holdings are as shown in the portfolio section of your broker's app.
 
 {% hint style="info" %}
-As per SEBI stipulation of BSDA \(**B**asic **S**ervice **D**emat **A**ccount\), there will not be any annual maintenance charges if your portfolio value is less than ₹50,000, and ₹100. if the value is less than ₹200,000.
+As per SEBI stipulation of BSDA \(**B**asic **S**ervice **D**emat **A**ccount\), there will not be any annual maintenance charges if your portfolio value is less than ₹50,000. However, if it is greater than ₹50,000 but less than ₹2,00,000, a charge of ₹100 will be levied. If the portfolio value exceeds ₹2,00,000, charges will be levied as applicable to regular non-BSDA demat account.
 {% endhint %}
+
+
 
