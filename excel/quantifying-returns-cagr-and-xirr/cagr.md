@@ -164,17 +164,17 @@ Therefore, over any given period of time
 
 These have nothing special to do with Nifty itself. If you’d instead picked an S&P500 index fund, or a NASDAQ index fund - similar observations would’ve held true.
 
-We can satisfy our curiosity, by comparing against Nifty Total Return Index CAGR.
+We can satisfy our curiosity, by comparing against Nifty TRI CAGR.
 
-### Nifty Total Return Index 3Y CAGR
+### Nifty TRI 3Y CAGR
 
 Similar to last two computations, we just have to switch the ticker.
 
-Except, to the best of our knowledge, Google Finance has **no ticker for Nifty Total Return Index**.
+Except, to the best of our knowledge, Google Finance has **no ticker for Nifty TRI**.
 
 In other words, we’ve to manually find and enter these values in our sheet, to compute CAGR.
 
-We can obtain these from official NSE India website for historic data on total return index: [https://www1.nseindia.com/products/content/equities/indices/historical\_total\_return.htm](https://www1.nseindia.com/products/content/equities/indices/historical_total_return.htm)
+We can obtain these from official NSE India website for historic data on TRI: [https://www1.nseindia.com/products/content/equities/indices/historical\_total\_return.htm](https://www1.nseindia.com/products/content/equities/indices/historical_total_return.htm)
 
 Plugging in values for the two dates manually, and computing as earlier, we get this
 
@@ -188,11 +188,11 @@ This is much closer to the CAGR of UTI Nifty Index - Direct Growth.
 
 However, the CAGR is slightly higher.
 
-An index fund is _supposed to_ mimic the total return index, but there can be inefficiencies. Hence, CAGR over a given period can be somewhat different in practice, with some _**tracking error**_.
+An index fund is _supposed to_ mimic and replicate the TRI, but there can be inefficiencies. Hence, CAGR over a given period can be somewhat different in practice, with some _**tracking error**_.
 
 We won’t discuss tracking error in detail here. But we’d emphasize tracking error can be both positive and negative in value.
 
-In other words, due to inefficiencies in tracking the index, the CAGR of the index fund can be both higher or lower than CAGR of the total return index, over any given period.
+In other words, due to inefficiencies in tracking the index, the CAGR of the index fund can be both higher or lower than CAGR of the TRI, over any given period.
 
 ## Visualization
 
