@@ -322,7 +322,7 @@ For instance, the computation above might have painted a rosy picture, that one 
 
 **This is wrong, and dangerous to assume**.
 
-The actual journey of Nifty 50 index between those two dates, can be viewed as this \(plotted using real Nifty price data, which can be obtained from Google Finance\). This is also a semi-log plot, where the price axis \(Y-axis\) is consisted of log values.
+The actual journey of Nifty 50 index between those two dates, can be viewed as this \(plotted using real Nifty price data, which can be obtained from Google Finance\). This is also a semi-log plot, where the price axis \(Y-axis\) is consisted of log values of actual asset prices.
 
 ![Nifty actual price movement 3Y period - Dark Mode](../../.gitbook/assets/nifty-price-3y-movement.dark.png)
 
