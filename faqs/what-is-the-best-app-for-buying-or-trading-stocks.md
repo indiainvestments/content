@@ -106,7 +106,7 @@ This is why it's important to go with a broker that has been around for past few
 It doesn't just end at choosing a broker with decent fees and nice UI / UX. You've to keep track of your holdings outside of the brokerage app. Check your monthly CDSL or NSDL CAS, to confirm your holdings are as shown in the portfolio section of your broker's app.
 
 {% hint style="info" %}
-As per SEBI stipulation of BSDA \(**B**asic **S**ervice **D**emat **A**ccount\), there will not be any annual maintenance charges if your portfolio value is less than ₹50,000. However, if it is greater than ₹50,000 but less than ₹2,00,000, a charge of ₹100 will be levied. If the portfolio value exceeds ₹2,00,000, charges will be levied as applicable to regular non-BSDA demat account.
+As per SEBI stipulation of BSDA \(**B**asic **S**ervice **D**emat **A**ccount\), there will not be any annual maintenance charges if your portfolio value is less than ₹50,000. However, if it is greater than ₹50,000 but less than ₹2,00,000, a charge of ₹100 will be levied. If the portfolio value exceeds ₹2,00,000, charges will be levied as applicable to a regular non-BSDA demat account.
 {% endhint %}
 
 
