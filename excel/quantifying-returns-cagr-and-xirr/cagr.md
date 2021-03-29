@@ -225,6 +225,8 @@ However, in the above graph, we’ve no way of visualizing or placing $$r$$, the
 
 It’s a power-law formula.
 
+### Semi-log Plots
+
 Instead of plotting value vs time, we can plot **logarithm of value** against time.
 
 {% hint style="info" %}
@@ -298,6 +300,40 @@ It should intuitively make it clear that absolute value of an underlying asset's
 An asset whose price moves between 10 and 20, is not that different from an asset whose price moves between 10,000 and 20,000.
 
 The downside of such visualization is unless the difference is stark, or a larger time periods are chosen; most such semi-log plots would result in near-parallel lines in a line graph.
+
+### Maximum and Minimum Limits of CAGR
+
+We can use our visualization of CAGR as slope of semi-log plot, to understand maximum and minimum limits of CAGR.
+
+![Various possible tilted lines for different CAGR - Dark Mode](../../.gitbook/assets/limits-of-cagr.dark.png)
+
+![Various possible tilted lines for different CAGR - Light Mode](../../.gitbook/assets/limits-of-cagr.light.png)
+
+In the above image\(s\), the final value can be any one of $$B1$$, $$B2$$, $$...$$, $$B6$$. There are more possibilities - in fact, there are infinite possibilities between that semi-circle.
+
+Can it go backwards? No. As in, the $$B$$point cannot have a lower X-axis value than $$A$$, since X-axis is time, and we cannot go back in time for final value of the asset.  
+  
+**Best case scenario** is depicted by the line starting at $$A$$and ending at $$B1$$. This line has a slope or tilt of $$\infty$$\(positive infinity\).
+
+Plugging this in our formula, we get $$\log{(1 + \frac{r}{100})} = \infty $$. Which resolves to $$r$$ being an infinitely large positive value.
+
+**Worst case scenario** is depicted by the line starting at $$A$$ and ending at $$B6$$. This line has a slope or tilt of $$-\infty$$\(negative infinity\). Similarly, plugging this in the equation, we get $$r$$ to be a very large negative value, approaching negative infinity.
+
+Theoretical limits of CAGR can be any value between $$-\infty$$and $$\infty$$. Most of us wrongly assume, that annual compounded growth rate cannot be higher than 100%  p.a. or -100% p.a. As we just saw, it can be any real number.
+
+What if the slope of the line is zero? A straight line in the semi-log plot, that's parallel to X-axis or the axis of time. In this case, $$r$$ would also be zero. In other words, if there's no net growth over a certain period of time \(starting and final value in Y-axis is same\), then CAGR of that asset price is zero over that period of time.
+
+We can build on this.
+
+A 100% p.a. return denotes price doubling every year. What would slope of this line even look like for a 100% p.a. CAGR? Plugging $$r = 100$$ in our above formula, we get slope to be $$\log{2}$$.
+
+If the logarithm base is 10, then the angle of slope is effectively $$\tan^{-1}({\log_{10} 2})$$, or $$16^{\circ}$$. If the base of logarithm is $$e$$, then angle of slope is $$\tan^{-1}(\ln{2})$$, or $$34^{\circ}$$.
+
+![CAGR Realistic Expectation Zone - Dark Mode](../../.gitbook/assets/cagr-semilog-realistic-expectation.dark.png)
+
+![CAGR Realistic Expectation Zone - Light Mode](../../.gitbook/assets/cagr-semilog-realistic-expectation.light.png)
+
+In a semi-log plot where prices are logarithm of base-10, the realistic expectation would look like this. Most start and end points would be between the angular area $$A$$ to $$B$$or  $$A$$ to $$B'$$, while other areas outside of this region would remain largely unreachable for most common assets.
 
 ## Recap and Wrapping Up
 
