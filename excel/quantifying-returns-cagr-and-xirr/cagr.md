@@ -1,10 +1,10 @@
 ---
 description: >-
-  We take a look at what CAGR is, how it works, and how we can compute CAGR of
-  various listed assets
+  We'll take a look at what CAGR is, how it works, and how we can compute CAGR
+  of various listed assets.
 ---
 
-# CAGR : Point-to-point Annualized Returns
+# CAGR: Point-to-Point Annualized Returns
 
 ## Intro <a id="Intro"></a>
 
@@ -26,80 +26,17 @@ $$V_{final} = V_{initial}(1 + r/100)^t$$
 
 Where, $$r$$ is the **annualized rate of growth** or CAGR.
 
-This is well known formula of compounding, from your school days!
+This is a well known formula for calculating compound interest and we've been taught this back in school.
 
 Rearranging this equation for $$r$$, we get
 
 $$r = 100((\frac{V_{final}}{V_{initial}})^{1/t} - 1)$$
 
 {% hint style="info" %}
-In the above formula, $$r$$is greater than 1. Is we want value of $$r$$ to be within 0 and 1 \(and not 0 and 100\), we can remove multiplication by 100 from the formula. Either is fine.
+In the above formula, $$r$$is greater than 1. If we want the value of $$r$$ to be between 0 and 1 \(and not 0 and 100 as is usually expressed in percentage notation\), we can remove multiplication by 100 from the formula. Either choice is fine.
 {% endhint %}
 
-To build a mental model of what this formula means, in below diagram, we plot value against time
-
-![Compounded Growth and CAGR - Dark Mode](../../.gitbook/assets/compounded-growth.dark.png)
-
-![Compounded Growth and CAGR - Light Mode](../../.gitbook/assets/compounded-growth.light.png)
-
-Value can be price of an asset, based on our context and use-case.
-
-Notice that the growth doesn’t have to _look like_ compounded growth. It's the other way around - we can _model_ it or _think of it_ as compounded growth.
-
-This mathematical formula, just needs two values:
-
-* $$V_{final}$$
-* $$V_{initial}$$
-
-And on top of that, time it took to go from $$V_{initial}$$ to $$V_{final}$$
-
-In fact, either of these two points in the Y-axis could be smaller / bigger than one another, or even be negative.
-
-**The mathematical formula above poses no restrictions on that front**.
-
-However, in the above graph, we’ve no way of visualizing or placing $$r$$, the rate of growth \(CAGR\).
-
-It’s a power-law formula.
-
-Instead of plotting value vs time, we can plot **logarithm of value** against time.
-
-{% hint style="info" %}
-Discussing logarithm in detail, is out of scope for our wiki. However, if you'd like to brush up on basic logarithms, we highly recommend checking out this [YouTube video by 3Blue1Brown](https://www.youtube.com/watch?v=cEvgcoyZvB4)
-{% endhint %}
-
-Let's go back to original formula
-
-$$V_{final} = V_{initial}(1 + \frac{r}{100})^t$$
-
-We can take $$\log$$ of both sides of the equation, **only if both sides are positive numbers**.
-
-{% hint style="danger" %}
-Logarithm, or $$\log$$ for short, cannot be used on negative numbers - it results in _complex numbers_, which we don't want to deal with in context of investments and finance.
-{% endhint %}
-
-In the above equation, taking $$\log$$ on both sides, we get
-
-$$
-\log(V_{final}) = \log(V_{initial}(1 + \frac{r}{100})^t)
-$$
-
-We can apply formula of logarithms \(left to reader as an exercise, we won't show detail computation for that here\), to finally arrive at this:
-
-$$
-t \log{(1 + \frac{r}{100})}  = [\log {V_{final}} - \log {V_{initial}}]
-$$
-
-This is effectively the straight line equation, similar to $$y = mx + c$$. In this scenario, $$t$$is effectively the X-axis, while Y-axis is $$\log{V}$$.
-
-We can now update our diagram's Y-axis
-
-![Logarithm of value vs time - Dark Mode](../../.gitbook/assets/log-compounded-growth.dark.png)
-
-![Logarithm of value vs time - Light Mode](../../.gitbook/assets/log-compounded-growth.light.png)
-
-We have plotted $$\log$$ of values \(Y-axis\) versus time \(X-axis\). Then we've joined the start point and end point with a dotted straight-line.
-
-The slope of a straight line joining those two points $$A$$ and $$B$$, is $$\log{(1 + \frac{r}{100})}$$, and can be used to compute $$r$$.
+Let's see how we can use this in the real world of investments.
 
 ## 3Y Return CAGR
 
@@ -117,7 +54,7 @@ Returns above 1 year, are reported as _annualized rate of growth_, often appende
 
 We know that index funds track the index. In rest of this chapter, we'd compute and compare CAGR of Nifty, and that of a Nifty index fund over an arbitrary period of time.
 
-From Valueresearch Online, [UTI Nifty Index Fund Direct Growth](https://www.valueresearchonline.com/funds/15830/uti-nifty-index-fund-direct-plan) \([archive.org link](https://web.archive.org/web/20210122010723/https://www.valueresearchonline.com/funds/15830/uti-nifty-index-fund-direct-plan) \| [archive.is link](https://archive.is/zSHxj)\) has 3Y return of **13.72% p.a.**, as on **26th Mar 2021**. Exact date is important, since this 3Y return value would change with date.
+From ValueResearch Online, [UTI Nifty Index Fund Direct Growth](https://www.valueresearchonline.com/funds/15830/uti-nifty-index-fund-direct-plan) \([archive.org link](https://web.archive.org/web/20210122010723/https://www.valueresearchonline.com/funds/15830/uti-nifty-index-fund-direct-plan) \| [archive.is link](https://archive.is/zSHxj)\) has 3Y return of **13.72% p.a.**, as on **26th Mar 2021**. Exact date is important, since this 3Y return value would change with date.
 
 ![VRO UTI Nifty Index Direct Growth Returns Table - Dark Mode](../../.gitbook/assets/vro-uti-nifty-index-return.dark.png)
 
@@ -173,10 +110,10 @@ However, the number of days between any two arbitrary dates cannot always be exp
 
 We see that computed value of **13.58%** is quite close to **13.72%** as reported, but we are not quite there yet.
 
-On the other hand, growth rate computed using in-built formula is close to the reported value of 3Y return on Valueresarch Online portal.
+On the other hand, growth rate computed using in-built formula is close to the reported value of 3Y return on ValueResearch Online portal.
 
 {% hint style="info" %}
- Based on today's date, you might get a different value of latest NAV. You should use 3Y return as on today, and search for NAV as on dates near today's date, or dates from 3 years ago.
+Based on today's date, you might get a different value of latest NAV. You should use 3Y return as on today, and search for NAV as on dates near today's date, or dates from 3 years ago.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -191,7 +128,7 @@ We've used `GOOGLEFINANCE()` to prepare this video for guidance
 
 ### Cross-checking Nifty 3Y CAGR
 
-Now that we've verified CAGR of the index fund over 3 years, independently, and matched with reported CAGR on an aggregator portal; it's time to compare with Nifty CAGR over same period.
+Now that we've verified CAGR of the index fund over 3 years, independently, and matched with reported CAGR on an aggregator portal, it's time to compare with Nifty CAGR over same period.
 
 Once again, we can use `GOOGLEFINANCE()` for getting historic Nifty price data. The ticker for Nifty can be `"NIFTY_50"` or `"INDEXNSE:NIFTY_50"`.
 
@@ -205,22 +142,24 @@ Final results as it can be
 
 ![Nifty 3Y CAGR vs UTI Nifty Index Direct Growth 3Y CAGR - Light Mode](../../.gitbook/assets/nifty-cagr-vs-uti-nifty-cagr-3y.light.png)
 
-As you can see from this computation, or above image\(s\); the CAGR numbers of UTI Nifty Index Fund - Direct Growth, and CAGR numbers for Nifty itself; **do not match**.
+As you can see from this computation, the CAGR numbers of UTI Nifty Index Fund Direct Growth and the CAGR numbers for Nifty itself **do not match**.
 
-In fact, this has nothing to do with the dates. You could select a different set of dates, 3 year apart; and the return from Nifty Index fund would be slightly higher than Nifty 3Y CAGR.
+In fact, this has nothing to do with the dates. You could select a different set of dates, 3 year apart and the return from Nifty Index fund would be slightly higher than Nifty 3Y CAGR.
 
-In this case, 3Y CAGR as on 26th March 2021 is 13.73% p.a. for UTI Nifty Index Direct Growth. While, for Nifty itself, it’s slightly lower, 12.52% p.a.
+In this case, 3Y CAGR as on 26th March 2021 is 13.73% p.a. for UTI Nifty Index Direct Growth. However, for Nifty itself, it’s slightly lower — 12.52% p.a.
 
 This is expected!
 
 An index fund tracks the TRI \(**T**otal **R**eturn **I**ndex\), and not the vanilla price index.
 
-TRI is price index + dividends.
+TRI is price index + dividends. When a listed business announces dividends, it has to subtract the _dividend per share_ from its share price. This is a reduction in fair market price of a share, that has nothing to do with the market forces.  
+  
+Nifty TRI can be thought of as an answer to this query: _what if we added the dividend-per-share values back to Nifty companies, and recomputed Nifty?_
 
 Therefore, over any given period of time
 
 * Nifty index funds can have slightly higher return than Nifty itself.
-* If no dividends were announced in that time period, it can be expected that Nifty index fund CAGR are close to that of Nifty CAGR itself.
+* If no dividends were announced by any of the companies in Nifty index, in that time period, it can be expected that Nifty index fund CAGR would be close to that of Nifty CAGR itself.
 * As time periods get longer \(10Y / 15Y / 20Y\), this difference becomes more and more stark between CAGR of Nifty and a Nifty index fund.
 
 These have nothing special to do with Nifty itself. If you’d instead picked an S&P500 index fund, or a NASDAQ index fund - similar observations would’ve held true.
@@ -257,7 +196,74 @@ In other words, due to inefficiencies in tracking the index, the CAGR of the ind
 
 ## Visualization
 
-We had mentioned earlier how CAGR relates to slope of a straight line joining two points, in a log-plot of asset prices.
+Let's recall the original mathematical equation that we'd written above
+
+$$V_{final} = V_{initial}(1 + r/100)^t$$
+
+To build a mental model of what this formula means, in below diagram, we can plot value against time. Value can be price of an asset, based on our context and use-case.
+
+![Compounded Growth and CAGR - Dark Mode](../../.gitbook/assets/compounded-growth.dark.png)
+
+![Compounded Growth and CAGR - Light Mode](../../.gitbook/assets/compounded-growth.light.png)
+
+Value can be price of an asset, based on our context and use-case.
+
+Notice that the growth doesn’t have to _look like_ compounded growth. It's the other way around - we can _model_ it or _think of it_ as compounded growth.
+
+This mathematical formula, just needs two values:
+
+* $$V_{final}$$
+* $$V_{initial}$$
+
+And on top of that, time it took to go from $$V_{initial}$$ to $$V_{final}$$
+
+In fact, either of these two points in the Y-axis could be smaller / bigger than one another, or even be negative.
+
+**The mathematical formula above poses no restrictions on that front**.
+
+However, in the above graph, we’ve no way of visualizing or placing $$r$$, the rate of growth \(CAGR\).
+
+It’s a power-law formula.
+
+Instead of plotting value vs time, we can plot **logarithm of value** against time.
+
+{% hint style="info" %}
+Discussing logarithm in detail, is out of scope for our wiki. However, if you'd like to brush up on basic logarithms, we highly recommend checking out this [YouTube video by 3Blue1Brown](https://youtu.be/cEvgcoyZvB4?t=326)
+{% endhint %}
+
+Note that we can take $$\log$$ of expressions on both sides of the equation **only if both sides are positive numbers**.
+
+{% hint style="danger" %}
+Logarithm, or $$\log$$ for short, cannot be used on negative numbers — it results in _complex numbers_, which we don't need to deal with in context of investments and finance.
+{% endhint %}
+
+In the above equation, taking $$\log$$ on both sides, we get
+
+$$
+\log(V_{final}) = \log(V_{initial}(1 + \frac{r}{100})^t)
+$$
+
+We can use logarithmic identities \(left to reader as an exercise, we won't show detail computation for that here\) to arrive at the following formula
+
+$$
+t \log{(1 + \frac{r}{100})}  = [\log {V_{final}} - \log {V_{initial}}]
+$$
+
+This is effectively the straight line equation, similar to $$y = mx + c$$. In this scenario, $$t$$is effectively the X-axis, while Y-axis is $$\log{V}$$.
+
+We can now update our diagram's Y-axis.
+
+![Logarithm of value vs time - Dark Mode](../../.gitbook/assets/log-compounded-growth.dark.png)
+
+![Logarithm of value vs time - Light Mode](../../.gitbook/assets/log-compounded-growth.light.png)
+
+We have plotted $$\log$$ of values \(Y-axis\) versus time \(X-axis\). Then we've joined the start point and end point with a dotted straight-line.
+
+The _slope_ of a straight line joining those two points $$A$$ and $$B$$, is $$\log{(1 + \frac{r}{100})}$$, and can be used to compute $$r$$.
+
+CAGR directly relates to slope or tilt of a straight line joining two points, in a semi-log plot of asset prices. If slope is known, $$r$$can be computed; and vice-versa.  
+  
+Also, higher and lower slope of the joining straight line correspond to higher and lower values of $$r$$, respectively.
 
 We shall now plot these price points in a graph where price values are logarithmic, and try to validate that our visual idea about CAGR holds true.
 
@@ -281,9 +287,9 @@ We see from the videos / images above, that once we switch the Y-axis to logarit
 
 Parallel lines have same slope, and since slope of these lines relate to CAGR of the underlying data set, through a logarithmic relationship; it stands to reason that these would seem parallel to the naked eye.
 
-Notice that right up until the moment we converted Y-axis values to logarithmic scale, the line for UTI Nifty Index fund was nearly flatlining, kissing the X-axis closely.
+Notice that right up until the moment we converted Y-axis values to logarithmic scale, the line for UTI Nifty Index fund was nearly flat-lining, kissing the X-axis closely.
 
-This was because compared to absolute values of Nifty or Nifty TRI, which are above 10k in this dataset; NAV of this fund was barely even 100. It’d practically be dwarfed in a vanilla line graph.
+This was because compared to absolute values of Nifty or Nifty TRI, which are above 10k in this dataset, the NAV of this fund was barely even 100. It’d practically be dwarfed in a vanilla line graph.
 
 However, once we switched to semi-log mode, all three lines started reflecting real growth over time in their _tilt_ \(or slope\).
 
@@ -298,15 +304,15 @@ The downside of such visualization is unless the difference is stark, or a large
 When it comes to spreadsheet / excel functionalities, in this chapter, we learned
 
 * how to draw semi-log plots
-*  how to use `RRI()`
+* how to use `RRI()`
 
 We have also gained new insights into a demystified process of _return calculation_.
 
-Next time we see CAGR reported on any portal such as MoneyControl, Valueresearch Online, Morningstar, CRISIL, BSE India, Kuvera, Coin, PayTM Money, INDMoney, Piggy, ETMoney, or even Smallcase etc.; we’d know how to compute and validate these numbers ourselves.  
+The next time we see CAGR reported on any portal such as MoneyControl, ValueResearch Online, Morningstar, CRISIL, BSE India, Kuvera, Coin, PayTM Money, INDMoney, Piggy, ETMoney, or even Smallcase, we’d know how to compute and validate these numbers ourselves.  
   
-These platforms and portals are computing these numbers from historic NAV data they have obtained; and now we can compute the same as well.
+These platforms and portals are computing these numbers from historic NAV data they have obtained and now we can compute the same as well.
 
-#### A word of caution <a id="A-word-of-caution"></a>
+#### A word of caution! <a id="A-word-of-caution"></a>
 
 CAGR is a point-to-point metric. Given any two points in a plane, a straight line can always be drawn to connect those two points. This is one of the fundamental axioms of geometry, known as one of the core axiom of _Axioms of Euclidean Plane Geometry._
 
@@ -322,15 +328,15 @@ The actual journey of Nifty 50 index between those two dates, can be viewed as t
 
 ![Nifty actual price movement 3Y period - Light Mode](../../.gitbook/assets/nifty-price-3y-movement.light.png)
 
-As Nifty TRI and Nifty index fund move closely with Nifty 50 itself; plotting these would lead to similar looking graphs, with lot of volatility.
+As Nifty TRI and Nifty index fund move closely with Nifty 50 itself, plotting these would lead to similar looking graphs, with lot of volatility.
 
 What we’re doing when we compute CAGR, is to connect the starting point and last point on the graph with a straight line, then compute slope of that line.
 
-Since two points on a plane can be connected with so many different lines and line segments \(can be curves\); there are infinite possibilities of the _journey within that time period_, which CAGR computation won’t capture.
+Since two points on a plane can be connected with so many different lines and line segments \(can even be curves\), there are infinite possibilities of the _journey within that time period_, which CAGR computation won’t capture.
 
-We’ve alluded to this in one of our previous chapters, where we had computed NASDAQ-based portfolio’s final value. And we’ve shown that NASDAQ’s point-to-point return of near zero, didn’t show up exactly as that in a DCA / SIP portfolio in NASDAQ.
+We’ve alluded to this in one of our previous chapters, where we had computed NASDAQ-based portfolio’s final value. Although the point-to-point return of NASDAQ was near zero in that case, the actual returns in a DCA / SIP portfolio were different and didn’t show up as one would expect looking at point-to-point returns.
 
-Similarly, CAGR alone cannot produce any information, on the price movement of an asset within a time period.
+Similarly, CAGR alone cannot produce any information on the price movement of an asset within a time period.
 
 In next chapter, we’d be introduced to a more generalized measure, that captures more relevant information.
 
