@@ -152,7 +152,7 @@ This is expected!
 
 An index fund tracks the TRI \(**T**otal **R**eturn **I**ndex\), and not the vanilla price index.
 
-TRI is price index + dividends. When a listed business announces dividends, the market discounts the price of its stock equivalent to the value of dividend per share announced.   
+TRI is price index + dividends reinvested back to buy the index stocks.  
   
 Nifty TRI can be thought of as an answer to this query: _what if we added the dividend-per-share values back to the share prices of respective Nifty companies, and recomputed Nifty?_
 
@@ -188,7 +188,9 @@ This is much closer to the CAGR of UTI Nifty Index - Direct Growth.
 
 However, the CAGR is slightly higher.
 
-An index fund is _supposed to_ mimic and replicate the TRI, but there can be inefficiencies. Hence, CAGR over a given period can be somewhat different in practice, with some _**tracking error**_.
+An index fund is supposed to mimic and replicate the TRI, but there are fees associated with managing an index fund, fees associated with purchasing and selling equities, and various logistical inefficiencies trying to replicate the index in real time during market hours.
+
+Hence, CAGR over a given period for an index can be somewhat different in practice, there will be some _**tracking error**_ with respect to the TRI.
 
 We won’t discuss tracking error in detail here. But we’d emphasize tracking error can be both positive and negative in value.
 
