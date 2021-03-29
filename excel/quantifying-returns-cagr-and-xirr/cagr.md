@@ -154,7 +154,7 @@ An index fund tracks the TRI \(**T**otal **R**eturn **I**ndex\), and not the van
 
 TRI is price index + dividends. When a listed business announces dividends, it has to subtract the _dividend per share_ from its share price. This is a reduction in fair market price of a share, that has nothing to do with the market forces.  
   
-Nifty TRI can be thought of as an answer to this query: _what if we added the dividend-per-share values back to Nifty companies, and recomputed Nifty?_
+Nifty TRI can be thought of as an answer to this query: _what if we added the dividend-per-share values back to the share prices of respective Nifty companies, and recomputed Nifty?_
 
 Therefore, over any given period of time
 
