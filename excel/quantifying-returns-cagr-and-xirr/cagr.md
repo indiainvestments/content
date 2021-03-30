@@ -150,15 +150,19 @@ In this case, 3Y CAGR as on 26th March 2021 is 13.73% p.a. for UTI Nifty Index D
 
 This is expected!
 
-An index fund tracks the TRI \(**T**otal **R**eturn **I**ndex\), and not the vanilla price index.
+An index fund tracks the TRI \(**T**otal **R**eturn **I**ndex\), and not the vanilla price index, which is Nifty 50 in this case.
 
 TRI is price index + dividends reinvested back to buy the index stocks.  
   
-Nifty TRI can be thought of as an answer to this query: _what if we added the dividend-per-share values back to the share prices of respective Nifty companies, and recomputed Nifty?_
+Nifty TRI can be thought of as an answer to this query: _what if we added a normalized version of dividend-per-share values back to the share prices of respective Nifty companies, and recomputed Nifty?_
+
+For more information on exactly how Nifty TRI is computed, you can refer to details on NSE India official website: [Official link](https://www1.nseindia.com/products/content/equities/indices/total_returns_index.htm) \| [archive.org link](https://web.archive.org/web/20160506230325/https://www1.nseindia.com/products/content/equities/indices/total_returns_index.htm) \| [archive.is link](https://archive.is/UTrwo)
+
+A Nifty index fund achieves this by reinvesting the dividends received from corporate actions, into buying more of Nifty stocks, in same proportion as these are in Nifty.
 
 Therefore, over any given period of time
 
-* Nifty index funds can have slightly higher return than Nifty itself.
+* Nifty index funds can have slightly higher CAGR than Nifty itself.
 * If no dividends were announced by any of the companies in Nifty index, in that time period, it can be expected that Nifty index fund CAGR would be close to that of Nifty CAGR itself.
 * As time periods get longer \(10Y / 15Y / 20Y\), this difference becomes more and more stark between CAGR of Nifty and a Nifty index fund.
 
