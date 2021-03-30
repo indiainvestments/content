@@ -60,6 +60,7 @@
   * [Process for Estimating Tax](excel/using-external-data-working-with-csv-format/process-for-estimating-tax.md)
 * [Quantifying Returns: CAGR and XIRR](excel/quantifying-returns-cagr-and-xirr/README.md)
   * [CAGR: Point-to-Point Annualized Returns](excel/quantifying-returns-cagr-and-xirr/cagr.md)
+  * [A Gentle Introduction to XIRR](excel/quantifying-returns-cagr-and-xirr/xirr.md)
 
 ## MISCELLANEOUS <a id="misc"></a>
 
