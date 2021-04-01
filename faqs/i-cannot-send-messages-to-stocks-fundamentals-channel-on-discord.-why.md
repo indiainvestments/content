@@ -19,3 +19,10 @@ We evaluate these from time to time, and if your comments here on the server mee
 
 This is a privilege, and you've to earn it.
 
+{% hint style="success" %}
+**NOTE**: As of 1st April, 2021; we've opened this channel up for everyone on our Discord. It's our belief that the community now has enough guard-rails and helpful material to fall back on, should anyone need help with discussing how to pick stocks.
+{% endhint %}
+
+  
+For more information on how to analyze businesses or sectors, check our this corner of our wiki
+
