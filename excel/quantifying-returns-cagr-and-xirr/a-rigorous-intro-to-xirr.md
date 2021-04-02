@@ -2,7 +2,7 @@
 description: 'Mathematical formulation of XIRR, discounted cashflows, NPV, and decay.'
 ---
 
-# A Rigorous Intro to XIRR
+# A Rigorous Introduction to XIRR
 
 ## Intro <a id="Intro"></a>
 
