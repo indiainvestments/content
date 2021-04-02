@@ -43,12 +43,6 @@
   * [Efficiency](stocks/under-progress/efficiency.md)
   * [Liquidity and Solvency](stocks/under-progress/liquidity-and-solvency.md)
 
-## BONDS
-
-* [Bond Basics](bonds/bond-basics.md)
-* [Government Securities](bonds/section-2-government-securities.md)
-* [Corporate Bonds](bonds/corporate-bonds.md)
-
 ## EXCEL
 
 * [Excel for Fun and Profit](excel/intro.md)
@@ -61,6 +55,13 @@
 * [Quantifying Returns: CAGR and XIRR](excel/quantifying-returns-cagr-and-xirr/README.md)
   * [CAGR: Point-to-Point Annualized Returns](excel/quantifying-returns-cagr-and-xirr/cagr.md)
   * [A Gentle Introduction to XIRR](excel/quantifying-returns-cagr-and-xirr/xirr.md)
+  * [A Rigorous Intro to XIRR](excel/quantifying-returns-cagr-and-xirr/a-rigorous-intro-to-xirr.md)
+
+## BONDS
+
+* [Bond Basics](bonds/bond-basics.md)
+* [Government Securities](bonds/section-2-government-securities.md)
+* [Corporate Bonds](bonds/corporate-bonds.md)
 
 ## MISCELLANEOUS <a id="misc"></a>
 
