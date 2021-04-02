@@ -18,9 +18,7 @@ Popularly, compounding formula is written as $$P\times(1+r)^t$$.
 
 Instead of $$P\times(1+r)^t$$, where $$(1+r)^t$$ is being multiplied with the value of $$P$$; in _discounting_, we’d do the opposite, to denote **decay over time**.
 
-Discounted value of PP after a time duration $$t$$, can be written as
-
-$$\frac{P}{(1 + r)^t}$$
+Discounted value of PP after a time duration $$t$$, can be written as $$\frac{P}{(1 + r)^t}$$
 
 In case of compounding, with time, the final value increases.
 
@@ -31,7 +29,7 @@ With discounting, as expected from the above formula, the decayed value gets low
 Assume that we’ve a cashflow series, written like this:
 
 | Date | Cashflow |
-| :--- | :--- |
+| :---: | :---: |
 | $$t_0$$ | $$P_0$$ |
 | $$t_1$$ | $$P_1$$ |
 | $$t_2$$ | $$P_2$$ |
@@ -66,9 +64,7 @@ Notice the first row of the above table, it’s just $$P_0$$. Because every disc
 Remember from your school days, that _anything raised to the power of zero, is 1 in value_.
 {% endhint %}
 
-Mathematically,
-
-$$\frac{P_0}{(1 + r)^{[\frac{(t_0 - t_0)}{\Delta T}]}} = P_0$$
+Mathematically, $$\frac{P_0}{(1 + r)^{[\frac{(t_0 - t_0)}{\Delta T}]}} = P_0$$
 
 ### Net Present Value
 
