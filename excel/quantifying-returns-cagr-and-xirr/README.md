@@ -14,3 +14,7 @@ This chapter's child pages are meant to enhance our knowledge, so we can have hi
 
 {% page-ref page="cagr.md" %}
 
+{% page-ref page="xirr.md" %}
+
+{% page-ref page="xirr-math.md" %}
+
