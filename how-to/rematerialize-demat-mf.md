@@ -14,6 +14,12 @@ Some of these are
 2. Vendor lock-in, where you are locked to the brokerage platform and its subset of functionalities. 
 3. You will have to pay various charges like annual charges, depository charges etc.
 
+{% hint style="info" %}
+Often, you might find it more cost effective to sell your demat holdings through your broker, and re-buy units in non-demat mode in same fund's direct plan; than going through this process.  
+  
+You should consider the alternative course of action and estimate your costs for both these processes.
+{% endhint %}
+
 Below steps will help you to understand how to convert your mutual funds in demat form.
 
 ### Steps to re-materialize 👩🏽‍🏫 <a id="Steps-to-rematerialise"></a>
