@@ -9,37 +9,113 @@ description: >-
 
 There are two parts to investing via smallcase:
 
-* The tooling, around managing a watchlist of stocks, executing transactions at portfolio level rather than at scrip level
-* The selection process, which constructs a stock portfolio, based on some parameters or subjective quality-based factors
+* The tooling, around managing a watchlist of stocks, executing transactions at portfolio level rather at scrip level.
+* The selection process, which helps one maintain a portfolio of securities \(stocks / bonds / ETFs / mutual funds / commodities etc.\), based on some parameters.
 
 No doubt, the usability of smallcase as a tool to manage a stock portfolio is quite good.
 
 If you already have a plan to invest in a stock portfolio, you can create that watchlist and place orders using smallcase.
 
-The second aspect, requires smallcase having a proven track record, and people responsible for maintaining that particular portfolio have pedigree when it comes stock selection / rejection.
+The second aspect, requires smallcase having a proven track record and people responsible for maintaining that particular portfolio have pedigree of stock selection.
+
+### What doesn’t make it a good investment at present <a id="What-doesn&#x2019;t-make-it-a-good-investment-at-present"></a>
 
 These are few things to note:
 
-* Depending on the churn there can be significant tax drag for you since you will be buying and selling units regularly. Smallcase is known to rebalance most of their portfolios every 90 days.
-* Lack of proven track record that can be independently verified.
+* Depending on the churn there can be significant tax drag for you since you will be buying and selling units regularly.  
 
-  AMCs are legally required to publish their daily NAVs, and their portfolios every month. Which means an AMC can't give you random numbers, they are forced to keep everything in the public's eyes. This is not true for smallcases.
 
-  1Y return of Axis Bluechip fund \(not a recommendation, using as an illustration\) would be same on every platform - Morningstar, Moneycontrol, Valuereasearch, Kuvera, Groww, PayTM Money, Piggy, INDMoney etc. Because these platforms know the NAV of this fund from both a year ago, and today; and 1 year return can be computed from that. You can compute it too, to verify independently, from historic NAV on AMC's website or AMFI.
+  Smallcase is typically known for rebalancing their portfolios once every 90 days, for most of the portfolios.  
 
-  It isn't feasible for anyone who's not working at Smallcase to extract portfolio of a particular smallcase from 2 years ago, as on that date. There's no public record.
 
-* Smallcase loves selling "Backtested Models".
+  Rebalancing could result in selling a few scrips from your smallcase portfolio, which would also attract various charges associated with selling a scrip.  
 
-  Backtesting needs to be free from various biases, such as, _look-ahead bias_. Strategy derived from a backtest, would always show great results when simulated over the same time period.
 
-  It's possible for anyone who's basic interest in markets, to say what stocks would have done great for a decade, if purchased in 2010. A poorly executed "backtest" is a fancy version of looking back and picking winners.
+  Since these are all negative cashflow transactions in your portfolio, your portfolio XIRR would only fall behind the CAGR of same smallcase, over same time period.  
 
-* There are also some concerns around smallcase not being upfront with their numbers
+* Lack of proven track record that can be independently verified.  
 
-  They include backtested portfolio in computing returns of the smallcase, which is not at all how any asset management services report their returns. Start dates of the same portfolio also fluctuate, when checked at different dates.
 
-Finally, keep in mind that past returns are not indicative of future returns; and asset returns can be very different from portfolio returns. Just because a smallcase has CAGR of 40%, does NOT mean \(and almost certainly the case\), that investors in same smallcase, over same time period, has 40% p.a. return on their portfolio.
+  AMCs are legally required to publish their daily NAVs, and their portfolios every month. Which means an AMC can’t give you random numbers, they are forced to keep everything in the public’s eye. This is not true for smallcases.  
 
-**TL;DR: use the product if you like it; but not because you think their advice alone would make you great returns.**
+* Smallcase is selling _Backtested Models_.  
+
+
+  Backtesting needs to be free from various biases, such as, look-ahead bias. Strategy derived from a backtest, would always show great results when simulated over the same time period.  
+
+
+  It’s hard to say if that’s what’s happening here; but since the disclosure around their modeling & backtesting is not present in the public domain, it makes sense not to just take them at their words.  
+
+* There used to also be some concerns around smallcase not being upfront with some of their numbers. They include backtested portfolio in computing returns of the smallcase, which is not at all how any asset management services report their returns.  
+
+
+  According to their recent blog update, they’ve updated some of their reporting to exclude such misleading data that could have potentially enticed curious investors to invest in hopes of high gains.  
+
+
+  [Link to smallcase blogpost](https://blog.smallcase.com/a-step-towards-making-smallcases-more-transparent/) \| [archive.org link](https://web.archive.org/web/20210323061717/https://blog.smallcase.com/a-step-towards-making-smallcases-more-transparent/) \| [archive.is link](https://archive.is/ar6pb)
+
+Finally, keep in mind that past returns are not indicative of future returns; and asset returns can be very different from portfolio returns.
+
+### What would make smallcase portfolios good investments? <a id="What-would-make-smallcase-portfolios-good-investments"></a>
+
+A good investment is outcome of a fact-based logical process. It should be rooted in better reasoning that just reported past performance of the asset.
+
+Here are a few bars smallcase have to meet, for it to be an investment worth considering:
+
+* **Disclosure on Insider holdings**  
+
+
+  It’s easy to trust an asset if the entity offering it themselves believe in the same, and invest in it.  
+
+
+  Smallcase ideally should indicate net insider holdings against each smallcase offered by the platform itself.  
+
+
+  Since creating a watchlist of stocks can, in theory, be done quite easily; it’d set smallcase offered by the platform apart and engender more trust that people working at smallcase have significant holdings in these.  
+
+
+  AMCs have to disclose insider holdings in their funds, as a percentage of net AUM; to show how _key insiders_ are invested in those.  
+
+
+  A commonly accepted qualitative metric of mutual fund selection, is to look at key insider holdings - after all, why would someone else invest in a basket of stocks, if the entity offering it cannot get their own employees to invest in those?  
+
+
+  This clarity is need of the hour.  
+
+* **Disclosure on Portfolio XIRR**  
+
+
+  Smallcase, by design, is a product where return difference due to both _behavior gap_ and costs can be very high. Not a standard _buy and forget_ product.  
+
+
+  Behavior gap is a well-defined term. In short, it denotes the difference between underlying asset’s returns, and returns as investors see in their portfolio; due to behavioral reasons.  
+
+
+  This is a well-known phenomena in investment, and various firms over the years have published studies on anonymized bulk data, that even when assets perform decently, most investors who invested in those assets, over same period of time, wouldn’t see those returns in their portfolio. It’d be significantly lower.  
+
+
+  A mutual fund is structured as a trust, so rebalancing doesn’t create any tax events for end investors who are invested in the same mutual fund. As for costs of STT, brokerage, and other fees associated with selling; all covered under expense ratio of the fund, which would be minuscule on a per-investor basis.  
+
+
+  As discussed above, mutual fund NAVs are already post-cost, therefore so are the returns.
+
+  In addition to reporting CAGR of the portfolio, one should also expect to see on an average, how a typical investor’s portfolio has performed, **after costs**, in that smallcase.
+
+  Adding these numbers, would only make it easier to trust smallcase that they’ve best interest of investors in mind.  
+
+* **Disclosure on Portfolio History**  
+
+
+  Due to periodic rebalancing, latest version of stock portfolio of a smallcase won’t be how the same portfolio looked sometime back. And could be wildly different from how it’d have looked few years back.  
+
+
+  If they were to publish stock portfolio history of their own smallcase independently, it gives an investor an opportunity to validate:
+
+  * whether the smallcase has stayed true to their mandate or not, as the theme of the smallcase dictates
+  * if the smallcase portfolio CAGR computed from historic disclosures, matches reported CAGR
+
+**TL;DR: use the product if you like its usability; but not because you think their investment advice alone would make you great returns.**
+
+When inve**s**ting in a smallcase, you should use that as a tool to narrow down a watchlist of stocks, and do your own due diligence into underlying companies before investing in those.  
+
 
