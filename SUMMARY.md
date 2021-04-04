@@ -17,11 +17,6 @@
   * [Opinions on investing in smart wealth plan by bank?](faqs/insurance/opinions-on-investing-in-smart-wealth-plan-by-bank.md)
   * [Up to what age should I take term cover?](faqs/insurance/up-to-what-age-should-i-take-term-cover.md)
   * [Do I need my own health insurance? Employer already has group policy](faqs/insurance/do-i-need-my-own-health-insurance-employer-already-has-group-policy.md)
-* [Miscellaneous](faqs/misc/README.md)
-  * [Where can I park money for a few days, a few months, or a few years?](faqs/misc/where-can-i-park-money-for-a-few-days-a-few-months-or-a-few-years.md)
-  * [What are chit funds? Should I invest?](faqs/misc/explain-like-i-am-5-eli5-chit-funds.md)
-  * [Is Gold a good investment now? It has gone up ~50% this year](faqs/misc/is-gold-a-good-investment-now-it-has-gone-up-50-this-year.md)
-  * [I cannot send messages to stocks-fundamentals channel on Discord. Why?](faqs/misc/i-cannot-send-messages-to-stocks-fundamentals-channel-on-discord.-why.md)
 * [Stocks](faqs/stocks/README.md)
   * [Is smallcase a good investment? Returns look good](faqs/stocks/is-smallcase-a-good-investment-returns-look-good.md)
   * [What is the best app for buying or trading stocks?](faqs/stocks/what-is-the-best-app-for-buying-or-trading-stocks.md)
@@ -30,6 +25,11 @@
   * [How should I invest in US equity?](faqs/us/how-should-i-invest-in-us-equity.md)
 * [Tax](faqs/tax/README.md)
   * [I don't have any tax to pay. Do I still have to file ITR?](faqs/tax/i-dont-have-any-tax-to-pay.-do-i-still-have-to-file-itr.md)
+* [Miscellaneous](faqs/misc/README.md)
+  * [Where can I park money for a few days, a few months, or a few years?](faqs/misc/where-can-i-park-money-for-a-few-days-a-few-months-or-a-few-years.md)
+  * [What are chit funds? Should I invest?](faqs/misc/explain-like-i-am-5-eli5-chit-funds.md)
+  * [Is Gold a good investment now? It has gone up ~50% this year](faqs/misc/is-gold-a-good-investment-now-it-has-gone-up-50-this-year.md)
+  * [I cannot send messages to stocks-fundamentals channel on Discord. Why?](faqs/misc/i-cannot-send-messages-to-stocks-fundamentals-channel-on-discord.-why.md)
 
 ## How To
 
