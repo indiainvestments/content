@@ -1,7 +1,7 @@
 ---
 description: >-
   Super top-up is better, as the limit is reset on every claim. While for
-  top-up, it's
+  top-up, it's per policy year
 ---
 
 # Should I take top-up policy or super top-up?
