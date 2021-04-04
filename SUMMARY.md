@@ -34,7 +34,8 @@
 
 ## How To
 
-* [How to Update Nominee Details?](how-to/how-to-update-nominee-details.md)
+* [How to Update Nominee Details?](how-to/update-nominee-details.md)
+* [How to rematerialize mutual fund from demat form](how-to/rematerialize-demat-mf.md)
 
 ## STOCKS
 
