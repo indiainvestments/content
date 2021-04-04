@@ -17,6 +17,7 @@
   * [Opinions on investing in smart wealth plan by bank?](faqs/insurance/opinions-on-investing-in-smart-wealth-plan-by-bank.md)
   * [Up to what age should I take term cover?](faqs/insurance/up-to-what-age-should-i-take-term-cover.md)
   * [Do I need my own health insurance? Employer already has group policy](faqs/insurance/do-i-need-my-own-health-insurance-employer-already-has-group-policy.md)
+  * [Should I take top-up policy or super top-up?](faqs/insurance/top-up-vs-super-top-up.md)
 * [Stocks](faqs/stocks/README.md)
   * [Is smallcase a good investment? Returns look good](faqs/stocks/is-smallcase-a-good-investment-returns-look-good.md)
   * [What is the best app for buying or trading stocks?](faqs/stocks/what-is-the-best-app-for-buying-or-trading-stocks.md)
