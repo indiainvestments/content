@@ -708,7 +708,7 @@ Final result should match these
 
 ![Units Purchased more than 1Y Ago - Dark Mode](../../.gitbook/assets/units-purchased-one-year-ago.dark.png)
 
-![Units Purchased more than 1Y Ago - Light Mode](../../.gitbook/assets/units-purchased-one-year-ago.light%20%281%29%20%281%29.png)
+![Units Purchased more than 1Y Ago - Light Mode](../../.gitbook/assets/units-purchased-one-year-ago.light%20%281%29%20%281%29%20%281%29.png)
 
 {% hint style="warning" %}
 The numbers might not exactly match, because depending on today's date, you might have a higher value. Above computation is as on 21st March 2021.
@@ -732,7 +732,7 @@ A sample final result can look like this
 
 ![Units outside of STCG Taxation - Dark Mode](../../.gitbook/assets/units-outside-stcg.dark.png)
 
-![Units outside of STCG Taxation - Light Mode](../../.gitbook/assets/units-purchased-one-year-ago.light%20%281%29.png)
+![Units outside of STCG Taxation - Light Mode](../../.gitbook/assets/units-purchased-one-year-ago.light%20%281%29%20%281%29.png)
 
 ## Wrapping up
 
