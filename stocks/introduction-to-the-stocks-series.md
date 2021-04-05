@@ -13,7 +13,7 @@ As on April 2021, there are 3,947 companies available for trade on BSE, the olde
 
 Considering that there are approximately four thousands listed companies in the stock market in India, how does one go about deciding which companies to invest in? Where do we even begin? Which companies are "better" than their peer companies also listed on a stock exchange? Which parameters should we employ to judge companies and their stock? Perhaps we should also be asking ourselves — can we beat the market, benchmark indices like S&P BSE SENSEX TRI and Nifty 50 TRI, if we invest in stocks? If one isn't able to consistently beat easily investable indices after dabbling in stocks for several years, is stock investing even worth it?
 
-We'll attempt to answer these questions in the following articles.
+We'll attempt to answer these questions in this series.
 
 {% page-ref page="can-you-beat-the-market.md" %}
 
