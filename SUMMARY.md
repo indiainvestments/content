@@ -39,13 +39,14 @@
 
 ## STOCKS
 
-* [Can you beat the market?](stocks/can-you-beat-the-market.md)
-* [Reading an Annual Report](stocks/reading-an-annual-report-in-the-indian-context.md)
+* [Introduction to the Stocks Series](stocks/introduction-to-the-stocks-series.md)
+* [Can You Beat the Market?](stocks/can-you-beat-the-market.md)
+* [Reading an Annual Report](stocks/reading-an-annual-report.md)
 * [Researching a Sector](stocks/researching-a-sector.md)
 * [Financial Metrics and Ratios](stocks/financial-metrics-and-ratios/README.md)
   * [Profitability](stocks/financial-metrics-and-ratios/profitability.md)
-* [Using screeners](stocks/using-a-screener-to-simplify-financial-analysis-of-a-company.md)
-* [Due-diligence Checklist](stocks/due-diligence-dd-checklist.md)
+* [Using Screeners](stocks/using-screeners.md)
+* [Due-Diligence Checklist](stocks/due-diligence-checklist.md)
 * [Work in Progress](stocks/under-progress/README.md)
   * [Diving Deeper into Businesses](stocks/under-progress/understanding-the-business-of-a-company.md)
   * [Efficiency](stocks/under-progress/efficiency.md)

@@ -5,7 +5,7 @@ description: >-
   dynamics, and have patience and conviction.
 ---
 
-# Can you beat the market?
+# Can You Beat the Market?
 
 Here you'll find,
 

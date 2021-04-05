@@ -1,3 +1,7 @@
+---
+description: We'll learn how to dive deep and analyze businesses
+---
+
 # Diving Deeper into Businesses
 
 In the [previous chapter](../researching-a-sector.md), we noted that as individual investors, our job is to find and exploit disparities between market and intrinsic values of businesses. Further, we explored a way to build a universe of companies to study and track based on sectoral categorization.

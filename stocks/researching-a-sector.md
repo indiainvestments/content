@@ -1,5 +1,5 @@
 ---
-description: 'How to research a sector, in Indian context'
+description: How do we research a sector — in the Indian context
 ---
 
 # Researching a Sector
