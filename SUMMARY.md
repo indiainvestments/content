@@ -19,7 +19,7 @@
   * [Do I need my own health insurance? Employer already has group policy](faqs/insurance/do-i-need-my-own-health-insurance-employer-already-has-group-policy.md)
   * [Should I take top-up policy or super top-up?](faqs/insurance/top-up-vs-super-top-up.md)
 * [Stocks](faqs/stocks/README.md)
-  * [Is smallcase a good investment? Returns look good](faqs/stocks/is-smallcase-a-good-investment-returns-look-good.md)
+  * [Should I invest in smallcase?](faqs/stocks/is-smallcase-a-good-investment-returns-look-good.md)
   * [What is the best app for buying or trading stocks?](faqs/stocks/what-is-the-best-app-for-buying-or-trading-stocks.md)
 * [Foreign Investing](faqs/foreign-invest/README.md)
   * [Why should I invest in the US markets?](faqs/foreign-invest/why-should-i-invest-in-the-us-markets.md)
