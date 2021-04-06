@@ -54,7 +54,7 @@ Available functionalities or missing features of these platforms are captured be
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Direct Mutual Fund | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Fees | Demat & AMC fees | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Goal Setting | By tagging | Yes | No | Yes | Yes | No | No | Yes | Yes |
+| Goal Setting | By tagging | Yes | No | Yes | Yes | Yes | No | Yes | Yes |
 | Family Account | For HUF | No | Yes | Yes | Yes | Limited | No | No | No |
 | Assets other than MF | No | Yes | Yes | Yes | Yes | No | Yes | Yes | Yes |
 | TAX Statements | Yes | Yes | No | For Prime members | Yes | No | No | Yes | Yes |
