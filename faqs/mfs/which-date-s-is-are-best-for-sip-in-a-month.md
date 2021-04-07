@@ -37,7 +37,7 @@ But that's not all! Imagine someone investing on 28th of a month, instead of 1st
 
 A proper analysis on best date for SIP would also have to involve the interest income from this and tax paid on these gains, which again, have varied greatly over any meaningful period.
 
-As you can see, there are too many variables; and that's just with one single fund. India have more than a two thousand mutual funds, as of now.
+As you can see, there are too many variables; and that's just with one single fund. India has more than a two thousand mutual funds, as of now.
 
 Finally, consider that people don't invest the same amount via SIP over a ten year period. Some people increase the amount of SIP that they do every year as their salary increases. Some of them pause their SIPs from time to time, or skip a few instalments here and there.
 
