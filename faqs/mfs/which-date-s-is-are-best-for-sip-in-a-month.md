@@ -29,9 +29,9 @@ For instance, some people believe that the last Thursday of the month coinciding
 
 What does a sound analysis here look like?
 
-You might find articles on the interweb that draws some conclusions.
+You might find articles on the internet that draws some conclusions.
 
-Take the 2010-2020 period. It's a 10 year period, with 120 months. That's 120 transactions. Assuming each month to be of 28 days \(to account for February\); this would require comparing across 28 timeseries data with each having 120 entries; for every fund.
+Take the 2010-2020 period. It's a 10 year period, with 120 months. That's 120 transactions. Assuming each month to be of 28 days \(to account for February\); this would require comparing across 28 time-series data sets, with each having 120 entries; for every fund.
 
 But that's not all! Imagine someone investing on 28th of a month, instead of 1st of a month after salary credit \(assume this person gets paid by employer on last day of previous month\). Then these 28 days, this amount has been parked in savings account or overnight fund or even short term FD.
 
@@ -39,7 +39,7 @@ A proper analysis on best date for SIP would also have to involve the interest i
 
 As you can see, there are too many variables; and that's just with one single fund. India has more than a two thousand mutual funds, as of now.
 
-Finally, consider that people don't invest the same amount via SIP over a ten year period. Some people increase the amount of SIP that they do every year as their salary increases. Some of them pause their SIPs from time to time, or skip a few instalments here and there.
+Finally, consider that people don't invest the same amount via SIP over a ten year period. Some people increase the amount of SIP that they do every year as their salary increases. Some of them pause their SIPs from time to time, or skip a few installments here and there.
 
 To sum it all up; there might be a best date for SIP in a month, and it depends on lot of factors that one cannot easily simulate with past data. But even if they did and found one, that date might not be best for your investment pattern for next 1-2 decades.
 
