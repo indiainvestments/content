@@ -145,17 +145,23 @@ A discussion on costs of mutual funds cannot be done without delving into what T
   
 Expense ratio of a fund denotes _the percentage of total assets, a fund house deducts every year, for expenses_.
 
-Case in point, as on 31st March 2021, Kotak Standard Flexi Cap fund has total asset size \(AUM, or asset under management\) is $$₹34,744$$ Crore. Its direct plan has an expense ratio of $$0.61\%$$. Meaning, in a year, the AMC would deduct about $$34,744 \times 0.61\% \approx 212$$Cr. in Indian currency for its operations.  
+Case in point, as on 31st March 2021, Kotak Standard Flexi Cap fund has average total asset size \(AAUM, or **A**verage **A**sset **U**nder **M**anagement\) is $$₹35,114.71$$ Crore. Its direct plan has an expense ratio of $$0.61\%$$. Meaning, in a year, the AMC would deduct about $$35,114.71 \times 0.61\% = 214.20$$Cr. in Indian currency for its operations.  
   
-AMC would take care of all costs of running the fund, generating revenue, pay registrars, brokerage fees etc. out of that $$212$$ Cr.  
+AMC would take care of all costs of running the fund, generating revenue, pay registrars, brokerage fees etc. out of that $$214.20$$ Cr.  
   
-Similarly, Kotak AMC has been running other funds too, from which it's been collecting expenses, commensurate with their expense ratios.   
+Similarly, Kotak AMC has been running other funds too, from which it's been collecting expenses, commensurate with those funds' expense ratios.   
   
 Where it gets interesting, is that regular plan of the fund has a different, higher expense ratio. In this case, it's $$1.62\%$$.  
   
-Out of that AUM of $$₹34,744$$ Cr., assume that $$X$$Cr. is in Direct plan mode \(investors have not purchased via middlemen distributors\). While rest of it, is in regular mode.  
+Out of that AUM of $$₹35,114.71$$ Cr., note that $$9215.61$$Cr. is in Direct plan mode \(investors have not purchased via middlemen distributors who take commission on these\). While rest of it, about $$25,899.10$$Cr., is in regular mode, invested through associated and non-associated distributors.  
   
-Then on that regular plan AUM of $$(34,744 - X)$$ Cr., the higher expense ratio would apply. As a result, NAV  \(**N**et **A**sset **V**alue, or per unit price\) of regular plan would be lower, than NAV of direct plan of same fund.
+Then on that regular plan AUM of $$25,899.10$$ Cr., the higher expense ratio would apply. As a result, NAV  \(**N**et **A**sset **V**alue, or per unit price\) of regular plan would be lower, than NAV of direct plan of same fund.
+
+Total expense deduction in a year can be thought of as akin to:
+
+$$35,114.71 \times 0.61\% + 25,899.10 \times (1.62\% - 1.01\%) = 214.20 + 261.58$$Cr.
+
+Out of this, $$214.20$$Cr. stays with AMC, which AMC can spend on other items as outlined above. While the $$261.58$$Cr. gets distributed among distributors, proportionate to portfolio size of each client.
 
 {% hint style="info" %}
 In mutual fund, TER is yearly average expense deduction. Expenses are deducted everyday, before publishing new NAV of the fund. All returns reported on mutual funds, are after costs have been deducted.
@@ -163,7 +169,7 @@ In mutual fund, TER is yearly average expense deduction. Expenses are deducted e
 
 The difference in TER, or $$\Delta$$TER, between regular plan and direct plan, is the trail commission that goes to distributors, who have enrolled clients in regular plans.
 
-In this case, $$\Delta$$TER $$= 1.62\% - 0.61\% = 1.01\%$$. This means every year, $$1.01\%$$of asset valuation in regular plans, are sent to distributors as commissions.
+In this case, $$\Delta$$TER $$= 1.62\% - 0.61\% = 1.01\%$$. This means every year, if rates remain the same, $$1.01\%$$of asset valuation in regular plans, are sent to distributors as commissions from this fund.
 
 ### SIP for 8+ Years
 
