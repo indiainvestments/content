@@ -151,20 +151,23 @@ AMC would take care of all costs of running the fund, generating revenue, pay re
   
 Similarly, Kotak AMC has been running other funds too, from which it's been collecting expenses, commensurate with those funds' expense ratios.   
   
-Where it gets interesting, is that regular plan of the fund has a different, higher expense ratio. In this case, it's $$1.62\%$$.  
-  
-Out of that AUM of $$₹35,114.71$$ Cr., note that $$₹9215.61$$Cr. is in Direct plan mode \(investors have not purchased via middlemen distributors who take commission on these\). While rest of it, about $$₹25,899.10$$Cr., is in regular mode, invested through associated and non-associated distributors.  
-  
-Then on that regular plan AUM of $$₹25,899.10$$ Cr., the higher expense ratio would apply. As a result, NAV  \(**N**et **A**sset **V**alue, or per unit price\) of regular plan would be lower, than NAV of direct plan of same fund.
+Where it gets interesting, is that regular plan of the fund has a different, higher expense ratio. In this case, it's $$1.62\%$$.
 
-Total expense deduction in a year can be thought of as akin to:
+{% hint style="info" %}
+We obtain this data from monthly portfolio and AAUM disclosure by AMC. In this case, [we've used this link on Kotak AMC's website](https://assetmanagement.kotak.com/aaum) \([archive.org link](https://web.archive.org/web/20201125090257/https://assetmanagement.kotak.com/aaum) \| [archive.is link](https://archive.is/zugrU)\).  
+Similarly, one has to find relevant link on respective AMC's website for latest monthly disclosures, to carry out similar estimates.
+{% endhint %}
+
+Total expense deduction in a year, for this fund, can be thought of as akin to:
 
 $$₹35,114.71 \times 0.61\% + ₹25,899.10 \times (1.62\% - 1.01\%) = (₹214.20 + ₹261.58)$$Cr.
 
 Out of this, $$₹214.20$$Cr. stays with AMC, which AMC can spend on other items as outlined above. While the $$₹261.58$$Cr. gets distributed among distributors, proportionate to portfolio size of each client.
 
 {% hint style="info" %}
-In mutual fund, TER is yearly average expense deduction. Expenses are deducted everyday, before publishing new NAV of the fund. All returns reported on mutual funds, are after costs have been deducted.
+In mutual fund, TER is yearly average expense deduction. Expenses are deducted everyday, before publishing new NAV of the fund. All returns reported on mutual funds, are after costs have been deducted.  
+  
+No need to subtract TER from final returns or NAV, as it's been already factored in.
 {% endhint %}
 
 The difference in TER, or $$\Delta$$TER, between regular plan and direct plan, is the trail commission that goes to distributors, who have enrolled clients in regular plans.
@@ -175,7 +178,7 @@ In this case, $$\Delta$$TER $$= 1.62\% - 0.61\% = 1.01\%$$. This means every yea
 
 Direct plans of all funds have been around, since January 2013. At the time of writing this, these funds have had more than 8 years of history.  
   
-We simulate SIP of ₹10,000 \(10k INR\) per month, in direct plan and regular plan of same fund, from 2nd January 2013 onward, in some popular mutual funds.
+We simulate SIP of $$₹10,000$$ \(10k INR\) per month, in direct plan and regular plan of same fund, from 2nd January 2013 onward, in some popular mutual funds.
 
 {% hint style="info" %}
 We are considering some large-cap funds, that have mostly stayed true to their large-cap stock selection mandate, i.e., mostly having bluechip stocks in portfolio of the fund.  
