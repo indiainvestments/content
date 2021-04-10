@@ -145,23 +145,23 @@ A discussion on costs of mutual funds cannot be done without delving into what T
   
 Expense ratio of a fund denotes _the percentage of total assets, a fund house deducts every year, for expenses_.
 
-Case in point, as on 31st March 2021, Kotak Standard Flexi Cap fund has average total asset size \(AAUM, or **A**verage **A**sset **U**nder **M**anagement\) is $$₹35,114.71$$ Crore. Its direct plan has an expense ratio of $$0.61\%$$. Meaning, in a year, the AMC would deduct about $$35,114.71 \times 0.61\% = 214.20$$Cr. in Indian currency for its operations.  
+Case in point, as on 31st March 2021, Kotak Standard Flexi Cap fund has average total asset size \(AAUM, or **A**verage **A**sset **U**nder **M**anagement\) is $$₹35,114.71$$ Crore. Its direct plan has an expense ratio of $$0.61\%$$. Meaning, in a year, the AMC would deduct about $$₹35,114.71 \times 0.61\% = ₹214.20$$Cr. in Indian currency for its operations.  
   
-AMC would take care of all costs of running the fund, generating revenue, pay registrars, brokerage fees etc. out of that $$214.20$$ Cr.  
+AMC would take care of all costs of running the fund, generating revenue, pay registrars, brokerage fees etc. out of that $$₹214.20$$ Cr.  
   
 Similarly, Kotak AMC has been running other funds too, from which it's been collecting expenses, commensurate with those funds' expense ratios.   
   
 Where it gets interesting, is that regular plan of the fund has a different, higher expense ratio. In this case, it's $$1.62\%$$.  
   
-Out of that AUM of $$₹35,114.71$$ Cr., note that $$9215.61$$Cr. is in Direct plan mode \(investors have not purchased via middlemen distributors who take commission on these\). While rest of it, about $$25,899.10$$Cr., is in regular mode, invested through associated and non-associated distributors.  
+Out of that AUM of $$₹35,114.71$$ Cr., note that $$₹9215.61$$Cr. is in Direct plan mode \(investors have not purchased via middlemen distributors who take commission on these\). While rest of it, about $$₹25,899.10$$Cr., is in regular mode, invested through associated and non-associated distributors.  
   
-Then on that regular plan AUM of $$25,899.10$$ Cr., the higher expense ratio would apply. As a result, NAV  \(**N**et **A**sset **V**alue, or per unit price\) of regular plan would be lower, than NAV of direct plan of same fund.
+Then on that regular plan AUM of $$₹25,899.10$$ Cr., the higher expense ratio would apply. As a result, NAV  \(**N**et **A**sset **V**alue, or per unit price\) of regular plan would be lower, than NAV of direct plan of same fund.
 
 Total expense deduction in a year can be thought of as akin to:
 
-$$35,114.71 \times 0.61\% + 25,899.10 \times (1.62\% - 1.01\%) = 214.20 + 261.58$$Cr.
+$$₹35,114.71 \times 0.61\% + ₹25,899.10 \times (1.62\% - 1.01\%) = (₹214.20 + ₹261.58)$$Cr.
 
-Out of this, $$214.20$$Cr. stays with AMC, which AMC can spend on other items as outlined above. While the $$261.58$$Cr. gets distributed among distributors, proportionate to portfolio size of each client.
+Out of this, $$₹214.20$$Cr. stays with AMC, which AMC can spend on other items as outlined above. While the $$₹261.58$$Cr. gets distributed among distributors, proportionate to portfolio size of each client.
 
 {% hint style="info" %}
 In mutual fund, TER is yearly average expense deduction. Expenses are deducted everyday, before publishing new NAV of the fund. All returns reported on mutual funds, are after costs have been deducted.
@@ -180,50 +180,66 @@ We simulate SIP of ₹10,000 \(10k INR\) per month, in direct plan and regular p
 {% hint style="info" %}
 We are considering some large-cap funds, that have mostly stayed true to their large-cap stock selection mandate, i.e., mostly having bluechip stocks in portfolio of the fund.  
   
-Mirae Asset Large Cap fund has been excluded, as it's operated as a multi-cap fund throughout most of this time period \(2013-2018\).
+Mirae Asset Large Cap fund has been excluded, as it's operated as a multi-cap fund throughout most of this time period \(2013-2018\) that's being considered.
 {% endhint %}
+
+Below, we've presented results of running SIP installments \(100 installments $$\times$$10k INR / month\) in different funds' direct and regular plan variants.
 
 #### HDFC Top 100
 
-![HDFC Top 100 8Y SIP in Regular and Direct Plan - Dark Mode](../../.gitbook/assets/hdfc-top-100-8y-sip.dark.png)
-
-![HDFC Top 100 8Y SIP in Regular and Direct Plan - Light Mode](../../.gitbook/assets/hdfc-top-100-8y-sip.light.png)
+| Fund Type | Invested Amount  | Current Value  | Total Gain | Return \(p.a.\) |
+| :--- | :--- | :--- | :--- | :--- |
+| Direct Plan | $$₹10,00,000$$ | $$₹16,94,408$$ | $$₹6,94,408$$ | $$12.5\%$$ |
+| Regular Plan | $$₹10,00,000$$ | $$₹16,42,630$$ | $$₹6,42,630$$ | $$11.8\%$$  |
 
 #### Franklin Bluechip
 
-![Franklin Bluechip 8Y SIP in Regular and Direct Plan - Dark Mode](../../.gitbook/assets/franklin-bluechip-8y-sip.dark.png)
-
-![Franklin Bluechip 8Y SIP in Regular and Direct Plan - Light Mode](../../.gitbook/assets/franklin-bluechip-8y-sip.light.png)
+| Fund Type | Invested Amount  | Current Value  | Total Gain | Return \(p.a.\) |
+| :--- | :--- | :--- | :--- | :--- |
+| Direct Plan | $$₹10,00,000$$ | $$₹17,33,671$$ | $$₹7,33,671$$ | $$13.0\%$$ |
+| Regular Plan | $$₹10,00,000$$ | $$₹16,68,038$$ | $$₹6,68,038$$ | $$12.1\%$$ |
 
 #### UTI Nifty Index
 
-![UTI Nifty Index 8Y SIP in Regular and Direct Plan - Dark Mode](../../.gitbook/assets/uti-nifty-index-8y-sip.dark.png)
-
-![UTI Nifty Index 8Y SIP in Regular and Direct Plan - Light Mode](../../.gitbook/assets/uti-nifty-index-8y-sip.light.png)
+| Fund Type | Invested Amount  | Current Value  | Total Gain | Return \(p.a.\) |
+| :--- | :--- | :--- | :--- | :--- |
+| Direct Plan | $$₹10,00,000$$ | $$₹17,71,612$$ | $$₹7,71,612$$ | $$13.5\%$$ |
+| Regular Plan | $$₹10,00,000$$ | $$₹17,64,606$$ | $$₹7,64,606$$ | $$13.4\%$$ |
 
 #### ABSL Frontline Equity
 
-![Aditya Birla Frontline Equity 8Y SIP in Regular and Direct Plan - Dark Mode](../../.gitbook/assets/aditya-birla-front-line-8y-sip.dark.png)
-
-![Aditya Birla Frontline Equity 8Y SIP in Regular and Direct Plan - Light Mode](../../.gitbook/assets/aditya-birla-frontline-8y-sip.light.png)
+| Fund Type | Invested Amount  | Current Value  | Total Gain | Return \(p.a.\) |
+| :--- | :--- | :--- | :--- | :--- |
+| Direct Plan | $$₹10,00,000$$ | $$₹17,86,176$$ | $$₹7,86,176$$ | $$13.7\%$$ |
+| Regular Plan | $$₹10,00,000$$ | $$₹17,14,436$$ | $$₹7,14,436$$ | $$12.8\%$$ |
 
 #### SBI Bluechip
 
-![SBI Bluechip 8Y SIP in Regular and Direct Plan - Dark Mode](../../.gitbook/assets/sbi-bluechip-8y-sip.dark.png)
-
-![SBI Bluechip 8Y SIP in Regular and Direct Plan - Light Mode](../../.gitbook/assets/sbi-bluechip-8y-sip.light.png)
+| Fund Type | Invested Amount  | Current Value  | Total Gain | Return \(p.a.\) |
+| :--- | :--- | :--- | :--- | :--- |
+| Direct Plan | $$₹10,00,000$$ | $$₹19,05,761$$ | $$₹9,05,761$$ | $$15.2\%$$ |
+| Regular Plan | $$₹10,00,000$$ | $$₹18,23,117$$ | $$₹8,23,117$$ | $$14.2\%$$ |
 
 #### DSP Top 100
 
-![DSP Top 100 8Y SIP in Regular and Direct Plan - Dark Mode](../../.gitbook/assets/dsp-top-100-8y-sip.dark.png)
-
-![DSP Top 100 8Y SIP in Direct and Regular Plan - Light Mode](../../.gitbook/assets/dsp-top-100-8y-sip.light.png)
+| Fund Type | Invested Amount  | Current Value  | Total Gain | Return \(p.a.\) |
+| :--- | :--- | :--- | :--- | :--- |
+| Direct Plan | $$₹10,00,000$$ | $$₹16,40,187$$ | $$₹6,40,187$$ | $$11.7\%$$ |
+| Regular Plan | $$₹10,00,000$$ | $$₹15,87,479$$ | $$₹5,87,479$$ | $$11.0\%$$ |
 
 #### ICICI Prudential Bluechip
 
-![ICICI Prudential Bluechip 8Y SIP in Direct and Regular Plan - Dark Mode](../../.gitbook/assets/icici-pru-bluechip-8y-sip.dark.png)
+| Fund Type | Invested Amount  | Current Value  | Total Gain | Return \(p.a.\) |
+| :--- | :--- | :--- | :--- | :--- |
+| Direct Plan | $$₹10,00,000$$ | $$₹18,34,300$$ | $$₹8,34,300$$ | $$14.3\%$$ |
+| Regular Plan | $$₹10,00,000$$ | $$₹17,63,591$$ | $$₹7,63,591$$ | $$13.4\%$$ |
 
-![ICICI Prudential Bluechip 8Y SIP in Direct and Regular Plan - Light Mode](../../.gitbook/assets/icici-pru-bluechip-8y-sip.light.png)
+#### Nippon Large Cap
+
+| Fund Type | Invested Amount  | Current Value  | Total Gain | Return \(p.a.\) |
+| :--- | :--- | :--- | :--- | :--- |
+| Direct Plan | $$₹10,00,000$$ | $$₹17,83,845$$ | $$₹7,83,845$$ | $$13.7\%$$ |
+| Regular Plan | $$₹10,00,000$$ | $$₹17,05,182$$ | $$₹7,05,182$$ | $$12.6\%$$ |
 
 #### Commission Losses
 
@@ -233,13 +249,14 @@ Now, let's look at the above data, in a table, comparing TER differences between
 
 | Fund Name | TER \(Regular\) | TER \(Direct\) | $$\Delta$$ TER  | Commission Losses \(₹\) | Commission \(% of total investment\) |
 | :--- | :---: | :---: | :---: | ---: | :--- |
-| HDFC Top 100 | $$1.85\%$$ | $$1.23\%$$ | $$0.62\%$$ | $$51,778$$ | $$5.17\%$$ |
-| Franklin Bluechip | $$1.91\%$$ | $$1.18\%$$ | $$0.73\%$$ | $$65,633$$ | $$6.56\%$$ |
-| UTI Nifty Index | $$0.14\%$$ | $$0.10%$$ | $$0.04\%$$ | $$7,006$$ | $$0.7\%$$ |
-| ABSL Frontline | $$1.70\%$$ | $$1.08\%$$ | $$0.62\%$$ | $$71,740$$ | $$7.17\%$$ |
-| SBI Bluechip | $$1.75\%$$ | $$1.00\%$$ | $$0.75\%$$ | $$82,644$$ | $$8.26\%$$ |
-| DSP Top 100 | $$2.09\%$$ | $$1.32\%$$ |  $$0.77\%$$ | $$52.708$$ | $$5.27\%$$ |
-| ICICI Pru Bluechip | $$1.72\%$$ | $$1.21\%$$ | $$0.51\%$$ | $$70,709$$ | $$7.07\%$$ |
+| HDFC Top 100 | $$1.85\%$$ | $$1.23\%$$ | $$0.62\%$$ | $$₹51,778$$ | $$5.17\%$$ |
+| Franklin Bluechip | $$1.91\%$$ | $$1.18\%$$ | $$0.73\%$$ | $$₹65,633$$ | $$6.56\%$$ |
+| UTI Nifty Index | $$0.14\%$$ | $$0.10%$$ | $$0.04\%$$ | $$₹7,006$$ | $$0.7\%$$ |
+| ABSL Frontline | $$1.70\%$$ | $$1.08\%$$ | $$0.62\%$$ | $$₹71,740$$ | $$7.17\%$$ |
+| SBI Bluechip | $$1.75\%$$ | $$1.00\%$$ | $$0.75\%$$ | $$₹82,644$$ | $$8.26\%$$ |
+| DSP Top 100 | $$2.09\%$$ | $$1.32\%$$ |  $$0.77\%$$ | $$₹52.708$$ | $$5.27\%$$ |
+| ICICI Pru Bluechip | $$1.72\%$$ | $$1.21\%$$ | $$0.51\%$$ | $$₹70,709$$ | $$7.07\%$$ |
+| Nippon Large Cap | $$1.88\%$$ | $$1.18\%$$ | $$0.70\%$$ | $$₹78,663$$ | $$7.86\%$$ |
 
 {% hint style="info" %}
 In the above table, we are using latest TER data. TER changes from time to time, and latest TER differences won't reveal how it's been historically.
@@ -250,6 +267,78 @@ Based on above screenshots, and summary table; we see that for a distributor, re
 Except for SBI Bluechip's regular plan, no large-cap fund from our above list, has managed to generate higher corpus in regular plan; as much as UTI Nifty Index fund direct growth plan has done over last ~8+ years for a vanilla 10k / month SIP.
 
 As you can imagine, no popular distributor was publicly recommending UTI Nifty Index fund's direct plan, back in 2013-14.
+
+{% hint style="info" %}
+We have run the above simulations, with [Valueresearch](https://www.valueresearchonline.com/) portfolio section. Below we have added screenshots, in both dark mode and light mode.
+
+Depending on your preference, you might want to click and zoom on right variant of these images that's more comfortable for your eyes.
+{% endhint %}
+
+#### Dark Mode Images
+
+![HDFC Top 100 8Y SIP \(Direct and Regular\) - Dark Mode](../../.gitbook/assets/hdfc-top-100-8y-sip.dark.png)
+
+![Franklin Bluechip 100 8Y SIP \(Direct and Regular\) - Dark Mode](../../.gitbook/assets/franklin-bluechip-8y-sip.dark.png)
+
+![UTI Nifty 8Y SIP \(Direct and Regular\) - Dark Mode](../../.gitbook/assets/uti-nifty-index-8y-sip.dark.png)
+
+![ABSL Frontline 100 8Y SIP \(Direct and Regular\) - Dark Mode](../../.gitbook/assets/aditya-birla-front-line-8y-sip.dark.png)
+
+![SBI Bluechip 100 8Y SIP \(Direct and Regular\) - Dark Mode](../../.gitbook/assets/sbi-bluechip-8y-sip.dark.png)
+
+![DSP Top 100 8Y SIP \(Direct and Regular\) - Dark Mode](../../.gitbook/assets/dsp-top-100-8y-sip.dark.png)
+
+![ICICI Prudential Bluechip Top 100 8Y SIP \(Direct and Regular\) - Dark Mode](../../.gitbook/assets/icici-pru-bluechip-8y-sip.dark.png)
+
+![Nippon Large Cap 8Y SIP \(Direct and Regular\) - Dark Mode](../../.gitbook/assets/nippon-large-cap-8y-sip.dark.png)
+
+#### Light Mode Images
+
+![HDFC Top 100 8Y SIP \(Direct and Regular\) - Light Mode](../../.gitbook/assets/hdfc-top-100-8y-sip.light.png)
+
+![Franklin Bluechip 8Y SIP \(Direct and Regular\) - Light Mode](../../.gitbook/assets/franklin-bluechip-8y-sip.light.png)
+
+![UTI Nifty Index 8Y SIP \(Direct and Regular\) - Light Mode](../../.gitbook/assets/uti-nifty-index-8y-sip.light.png)
+
+![ABSL Frontline Equity 8Y SIP \(Direct and Regular\) - Light Mode](../../.gitbook/assets/aditya-birla-frontline-8y-sip.light.png)
+
+![SBI Bluechip 8Y SIP \(Direct and Regular\) - Light Mode](../../.gitbook/assets/sbi-bluechip-8y-sip.light.png)
+
+![DSP Top 100 8Y SIP \(Direct and Regular\) - Light Mode](../../.gitbook/assets/dsp-top-100-8y-sip.light.png)
+
+![ICICI Prudential Bluechip 8Y SIP \(Direct and Regular\) - Light Mode](../../.gitbook/assets/icici-pru-bluechip-8y-sip.light.png)
+
+![Nippon Large Cap 8Y SIP \(Direct and Regular\) - Light Mode](../../.gitbook/assets/nippon-large-cap-8y-sip.light.png)
+
+## How Bad it will be?
+
+Unfortunately, this is only the beginning.
+
+As more and more time passes by, staying invested in regular plan, would only erode your portfolio further.
+
+As Jack Bogle said:
+
+> The miracle of compounding returns has been overwhelmed by the tyranny of compounding costs.
+
+Regular plan's recurring cost model can unleash this mythical tyranny right on your portfolio, without you even realizing it at first.
+
+We saw earlier that the TER difference between that of direct and regular plan, $$\Delta$$TER, can be thought of as an indicator of regular plan's distribution costs.
+
+Assume that investing in a lumpsum amount of ₹100,000 \(1L INR\), in an asset that generates a long term return of $$15\%$$p.a. Now assume there's a _regular plan_ version of commission-laden offering of this same product, which generates slightly lower returns due to recurring costs.  
+  
+At $$1\%$$ p.a. lower return, this is how the valuation would change over time
+
+![Regular Plan Returns Trailing by 1% - Dark Mode](../../.gitbook/assets/difference-direct-regular-one-percent.dark.png)
+
+![Regular Plan Returns Trailing by 1% - Light Mode](../../.gitbook/assets/difference-direct-regular-one-percent.light.png)
+
+If this changes to $$1.5\%$$ p.a. difference \(we'll see below, these are quite realistic numbers\), these graphs now look like this:
+
+![Regular Plan Returns Trailing by 1.5% - Dark Mode](../../.gitbook/assets/difference-direct-regular-one-point-five.dark.png)
+
+![Regular Plan Returns Trailing by 1.5% - Light Mode](../../.gitbook/assets/difference-direct-regular-one-point-five.light.png)
+
+Eventually, an investor could end up losing $$30\%-40\%$$ of their portfolio to costs over long period of time, due to such setups.
 
 ## Falsehoods and Myths <a id="Falsehoods-and-Myths"></a>
 
@@ -348,7 +437,11 @@ We’d discussed earlier how regular plan can disincentivize financial planners,
   
 Recommending regular plans is a sure-shot way of showing the distributors don't have same financial interests as their clients.
 
+As we saw in the previous section, in last 8 years, **regular plans of large cap funds haven't been able to achieve for the average SIP investor, what direct plan of a low-cost Nifty index fund or a Nifty ETF has generated**. Clearly, the financial advice hasn't been good enough to more than make-up for the cost.
+
 We’ve so many direct plan platforms today, that offer free direct-plans to every investor in the country, that it’s much easier to invest in direct plan & manage your portfolio these days, than it is to invest in regular plan.
+
+One doesn't need to visit an office, or use clunky websites with bugs and errors from the AMC. Plenty of RIA \(**R**egistered **I**nvestment **A**dvisor\) platforms offer ease of portfolio tracking and access to most AMC's funds, in direct plan forms, at no cost to the end user.
 
 In 2018, market regulator SEBI published a notice, basically saying _distributors cannot be advisors_. Under SEBI regulations, a registered advisor cannot take commission on investment assets they recommend.
 
@@ -366,9 +459,13 @@ Most of the mutual fund industry AUM is in regular plan, and not direct plan. [A
 
 Regular plan distributors recommend funds that net them a decent commission, close to 1% of higher. And if they recommend more than one fund for a typical portfolio, usually, the one with higher commission would get higher allocation.
 
-[PayTM Money maintains this page, listing difference in TERs between direct plan and regular plan of mutual funds, in a table](https://www.paytmmoney.com/mutual-funds/direct-vs-regular-plans).
+[PayTM Money maintains this page, listing difference in TERs between direct plan and regular plan of mutual funds, in a table](https://www.paytmmoney.com/mutual-funds/direct-vs-regular-plans) \([archive.org link](https://web.archive.org/web/20210309043717/https://www.paytmmoney.com/mutual-funds/direct-vs-regular-plans) \| [archive.is link](https://archive.is/eapqO)\)
 
-If you haven’t yet, take a look at your portfolio, and see if the word **direct** appears anywhere. Ideally, all your funds should be in direct plan mode, and no fund should be in regular plan mode.
+If you haven’t yet, take a look at your portfolio, and see if the word **direct** appears anywhere. 
+
+{% hint style="success" %}
+Ideally, all your funds should be in direct plan mode, and no fund should be in regular plan mode.
+{% endhint %}
 
 Cross-check your account statements, for name of the funds you hold.
 
