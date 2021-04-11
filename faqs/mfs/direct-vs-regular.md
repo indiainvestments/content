@@ -457,7 +457,9 @@ The real takeaway here, is that recurring costs can affect your investments in a
 * brokerage commission, in percentage terms \(and not fixed\), for equity delivery
 * rebalancing costs
 * frequent selling leading to capital gain tax outgo
-* high asset management fees of exotic products 
+* high asset management fees of exotic products
+
+Some of the above are not always avoidable, unlike regular plans. But do keep the adverse effects of costs from repeatedly doing these in mind, when engaging in, say, rebalancing.
 
 In India, Quantum AMC launched their two flagship funds, Quantum Liquid fund and Quantum Long Term Equity fund as the original direct plans, back in 2006.
 
