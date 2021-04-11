@@ -27,7 +27,9 @@ Following are a few examples of such issues we'd noticed when we were doing this
 
 The Gross Profit Margin on screener.in for all IT companies, including Tata Consultancy Services \(TCS\), is either 100%, or close to 100%.
 
-![](https://i.imgur.com/9m8adUs.png)
+![Gross Profit Margin of IT companies on screener.in - Dark Mode](../../.gitbook/assets/screener-gpm-dark.png)
+
+![Gross Profit Margin of IT companies on screener.in - Light Mode](../../.gitbook/assets/screener-gpm-light.png)
 
 This basically implies that TCS has nearly ₹0 worth of expenses and all their sales is translated into gross profit.
 
@@ -41,10 +43,11 @@ To say that gross profit margin of TCS is 100% is simply incorrect.
 
 ROIC \(**R**eturn **O**n **I**nvested **C**apital\) is also wildly incorrect on screener.in, and MorningStar India.  
   
-Using Abbott India \(NSE: ABBOTINDIA\) as an example, the ROIC of Abbott India on screener.in is mentioned as 22.90%,but in reality, it is closer to 138%.  
+Using Abbott India \(NSE: ABBOTINDIA\) as an example, the ROIC of Abbott India on screener.in is mentioned as 22.90%,but in reality, it is closer to 138%.
 
+![ROIC of Abbott India on screener.in - Dark Mode](../../.gitbook/assets/screener-roic-dark.png)
 
-![](https://i.imgur.com/HY5mBDN.png)
+![ROIC of Abbott India on screener.in - Light Mode](../../.gitbook/assets/screener-roic-light.png)
 
 Note that the ROIC of Sanofi \(NSE: SANOFI\) is mentioned as 31.54% on screener but in reality, it is closer to 41%.
 
@@ -52,11 +55,15 @@ Although Abbott has a much higher ROIC than Sanofi, screener.in paints a differe
 
 Morning Star seems to have made the same mistake.
 
-![](https://i.imgur.com/hVkU2vF.png)
+![ROIC of Abbott India on MorningStar India - Dark Mode](../../.gitbook/assets/morningstar-roic-dark.png)
+
+![ROIC of Abbott India on MorningStar India - Light Mode](../../.gitbook/assets/morningstar-roic-light.png)
 
 On this one aspect, kudos to Tijori Finance for presenting a relatively correct calculation of ROIC for Abbott India.
 
-![](https://i.imgur.com/FLsFMCW.png)
+![ROIC of Abbott India on Tijori Finance - Dark Mode](../../.gitbook/assets/tijori-roic-dark.png)
+
+![ROIC of Abbott India on Tijori Finance - Light Mode](../../.gitbook/assets/tijori-roic-light.png)
 
 ### Some Causes of these inaccuracies
 
@@ -66,9 +73,9 @@ ROIC is also a bit hard to calculate and get right so this may have been another
 
 ## Summary and Wrap-up
 
-Every screener is bound to get inaccuracies whether it is screener.in, MorningStar, Tijori Finance, or some new entrant in this space.
+Every screener is bound to get inaccuracies whether it's screener.in, MorningStar, Tijori Finance, or some new entrant in this space.
 
-Don’t rely on any of the ready-made screeners, don’t trust the numbers you see on a screener that’s been prepared by someone else.
+Don’t rely on any of the ready-made screeners. Don’t trust the numbers you see on a screener that’s been prepared by someone else.
 
 The next time you’re doing due diligence on a company, cross-check all calculations yourself. _****_
 
