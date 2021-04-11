@@ -452,6 +452,13 @@ In 2018, market regulator SEBI published a notice, basically saying _distributor
 
 ## Wrapping Up <a id="Wrapping-Up"></a>
 
+The real takeaway here, is that recurring costs can affect your investments in a really bad way, over the years. As an investor, avoiding regular plans is important. But in the same spirit, we must avoid other recurring costs as well, which add up over the years, such as \(but not limited to\):
+
+* brokerage commission, in percentage terms \(and not fixed\), for equity delivery
+* rebalancing costs
+* frequent selling leading to capital gain tax outgo
+* high asset management fees of exotic products 
+
 In India, Quantum AMC launched their two flagship funds, Quantum Liquid fund and Quantum Long Term Equity fund as the original direct plans, back in 2006.
 
 They chose to not tie up with distributors, rather offer a direct purchase option to the investors via offline mode \(CAMS or KFinTech offices\) or their own website.
