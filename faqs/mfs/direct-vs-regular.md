@@ -162,7 +162,7 @@ Similarly, one has to find relevant link on respective AMC's website for latest 
 
 Total expense deduction in a year, for this fund, can be thought of as akin to:
 
-$$₹35,114.71 \times 0.61\% + ₹25,899.10 \times (1.62\% - 1.01\%) = (₹214.20 + ₹261.58)$$Cr.
+$$₹35,114.71 \times 0.61\% + ₹25,899.10 \times (1.62\% - 0.61\%) = (₹214.20 + ₹261.58)$$Cr.
 
 Out of this, $$₹214.20$$Cr. stays with AMC, which AMC can spend on other items as outlined above. While the $$₹261.58$$Cr. gets distributed among distributors, proportionate to portfolio size of each client of that distributor.
 
