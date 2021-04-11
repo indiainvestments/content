@@ -105,11 +105,11 @@ If someone had invested $$₹100,000$$ \(1L INR\) 5 years ago, on 9th April, 201
 
 On same date, if the purchase transaction was done in Axis Long Term Equity **Regular** Growth, the _regular_ counterpart of this fund, which has a 5Y CAGR of $$16.55\%$$ p.a.; final valuation as on 9th April 2021, would have been $$100,000\times(1+16.55/100)^5=215,060.86$$ INR.
 
-| Fund Type | 5Y CAGR | Final Value \(INR\) |
+| Fund Type | 5Y CAGR | Final Value |
 | :---: | :---: | :--- |
-| Direct Growth | $$17.70\%$$ p.a. | $$100,000\times(1+0.1770)^5=225,882.36$$ |
-| Regular Growth | $$16.55\%$$p.a. | $$100,000\times(1+0.1655)^5=215,060.86$$ |
-|  | **Commission Outflow** | $$10,821.5$$ |
+| Direct Growth | $$17.70\%$$ p.a. | $$₹ 100,000\times(1+0.1770)^5= ₹ 225,882.36$$ |
+| Regular Growth | $$16.55\%$$p.a. | $$₹ 100,000\times(1+0.1655)^5= ₹215,060.86$$ |
+|  | **Commission Outflow** | $$₹ 10,821.5$$ |
 
 The distributor of this plan, has made **~10.8% of original investment as commission in the last 5 years**. And 5 years is a small time period in equity markets.
 
@@ -125,13 +125,13 @@ So, let’s take a different fund, where we do the same comparison, which has lo
 
 Following table is similar, but instead of Axis Long Term Equity, we use **Tata Large Cap** fund’s direct and regular plans.
 
-| Fund Type | 5Y CAGR | Final Value \(INR\) |
+| Fund Type | 5Y CAGR | Final Value |
 | :--- | :--- | :--- |
-| Direct Growth | $$13.82\%$$ p.a. | $$100,000 \times (1 + 0.1382)^5 = 191,026.19$$ |
-| Regular Growth | $$12.40\%$$ p.a. | $$100,000 \times (1 + 0.1240)^5 = 179,403.77$$ |
-|  | **Commission Outflow** | $$11,622.42$$ |
+| Direct Growth | $$13.82\%$$ p.a. | $$₹ 100,000 \times (1 + 0.1382)^5 = ₹ 191,026.19$$ |
+| Regular Growth | $$12.40\%$$ p.a. | $$₹ 100,000 \times (1 + 0.1240)^5 = ₹ 179,403.77$$ |
+|  | **Commission Outflow** | $$₹ 11,622.42$$ |
 
-Returns and nominal profit of the investor has been reduced by a lot. However, the distributor commission has **only increased**!
+Returns and nominal profit of the investor have been reduced by a lot. However, the distributor commission has **only increased**!
 
 Now it’s **~11.6% of original investment**, eroded over 5 years.
 
@@ -151,7 +151,9 @@ AMC would take care of all costs of running the fund, generating revenue, pay re
   
 Similarly, Kotak AMC has been running other funds too, from which it's been collecting expenses, commensurate with those funds' expense ratios.   
   
-Where it gets interesting, is that regular plan of the fund has a different, higher expense ratio. In this case, it's $$1.62\%$$.
+Where it gets interesting, is that regular plan of the fund has a different, higher expense ratio. In this case, it's $$1.62\%$$.  
+  
+We see from disclosure, that this fund has about $$₹25,899.10$$Cr. of its AAUM in regular plan as on March 31st, 2021.
 
 {% hint style="info" %}
 We obtain this data from monthly portfolio and AAUM disclosure by AMC. In this case, [we've used this link on Kotak AMC's website](https://assetmanagement.kotak.com/aaum) \([archive.org link](https://web.archive.org/web/20201125090257/https://assetmanagement.kotak.com/aaum) \| [archive.is link](https://archive.is/zugrU)\).  
@@ -162,7 +164,7 @@ Total expense deduction in a year, for this fund, can be thought of as akin to:
 
 $$₹35,114.71 \times 0.61\% + ₹25,899.10 \times (1.62\% - 1.01\%) = (₹214.20 + ₹261.58)$$Cr.
 
-Out of this, $$₹214.20$$Cr. stays with AMC, which AMC can spend on other items as outlined above. While the $$₹261.58$$Cr. gets distributed among distributors, proportionate to portfolio size of each client.
+Out of this, $$₹214.20$$Cr. stays with AMC, which AMC can spend on other items as outlined above. While the $$₹261.58$$Cr. gets distributed among distributors, proportionate to portfolio size of each client of that distributor.
 
 {% hint style="info" %}
 In mutual fund, TER is yearly average expense deduction. Expenses are deducted everyday, before publishing new NAV of the fund. All returns reported on mutual funds, are after costs have been deducted.  
