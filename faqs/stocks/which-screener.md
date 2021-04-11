@@ -74,6 +74,10 @@ The next time you’re doing due diligence on a company, cross-check all calcula
 
 _**Trust, but verify.**_
 
+To understand how to use a screener, you might want to check this out
+
+{% page-ref page="../../stocks/using-screeners.md" %}
+
 {% hint style="info" %}
 We've reached out to some of the teams behind these screeners and have pointed out these issues. They've assured us that they're looking into this.
 {% endhint %}
