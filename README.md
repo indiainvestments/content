@@ -11,7 +11,7 @@ IndiaInvestments is a community to discuss investments, insurance, finance, econ
 
 If you want to discuss anything on this website with other people, please check out our sub-reddit and discord below.
 
-[![](https://img.shields.io/reddit/subreddit-subscribers/indiainvestments?style=social)](https://reddit.com/r/indiainvestments) [![](https://img.shields.io/discord/546638391127572500)](https://discord.gg/hqBNg4u) [![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors)
+[![](https://img.shields.io/reddit/subreddit-subscribers/indiainvestments?style=social)](https://reddit.com/r/indiainvestments) [![](https://img.shields.io/discord/546638391127572500)](https://discord.gg/hqBNg4u) [![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](./#contributors)
 
 ## Series
 

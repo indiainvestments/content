@@ -7,7 +7,7 @@
 
 * [Mutual Funds & ETFs](faqs/mfs/README.md)
   * [What is the best mutual fund app for investments?](faqs/mfs/best-mutual-fund-app-for-investments.md)
-  * [Why should I invest in Direct plans over Regular plans?](faqs/mfs/direct-vs-regular.md)
+  * [Why should I invest in Direct Plans instead of Regular Plans?](faqs/mfs/direct-vs-regular.md)
   * [What’s the best mutual fund I can invest in?](faqs/mfs/whats-the-best-mutual-fund-i-can-invest-in.md)
   * [Which date\(s\) is/are best for SIP in a month?](faqs/mfs/which-date-s-is-are-best-for-sip-in-a-month.md)
   * [I’ve to invest in ELSS for 80C tax saving. Which fund\(s\) should I pick?](faqs/mfs/ive-to-invest-in-elss-for-80c-tax-saving.-which-fund-s-should-i-pick.md)
