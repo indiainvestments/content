@@ -55,7 +55,7 @@ You’ll feel empowered to build these on your own, from scratch; and maintain o
 
   On Mac OS X and iPhone / iPad, [Apple Numbers app](https://www.apple.com/in/numbers/) should be fine too.  
   
-  In this series on excel, we'd stick to using Google Sheets. There'd be some chapters were we'd explicitly call out how to do something specific, in MS Excel. But most of the series would focus on using one single tool - Google Sheets.  
+  In this series on excel, we'd stick to using Google Sheets. There'd be some chapters where we'd explicitly call out how to do something specific, in MS Excel. But most of the series would focus on using one single tool - Google Sheets.  
 
 * Access to a desktop / laptop / workstation is preferable  
 
