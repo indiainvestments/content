@@ -286,6 +286,14 @@ Let’s start with the latest report, from 2019-20. It’s a PDF that lists the 
 
 As expected, big banks like HDFC, ICICI, Kotak, and SBI are easily making hundreds of crores, just from rent-seeking and not adding any meaningful value to the portfolio of investors. However, relatively small distributors have been doing great as well. Based on that list, it’s not unusual to make over $$₹1$$ crore \(a pretty large milestone in annual income for most Indians\) by selling regular plans of mutual funds.
 
+### But the NAV of Regular Plans are lower than Direct Plans. Shouldn't I buy low and sell high?
+
+The NAV of regular plans is lower because it includes distributor commission and it'll always be lower than the NAV of it's direct plan counterpart. In this case, your purchase price doesn't matter. What matters, is the rate of growth _after_ you purchase.
+
+Let's consider the NAV of Axis Long Term Equity as on 12th April 2021. It was $$₹59.71$$ for the regular plan and for $$₹65.22$$ the direct plan. If we invest $$₹10,000$$ in the regular plan, we'll get $$167.47$$ units in the regular plan, and $$153.32$$ units in the direct plan. Let's assume that we get $$10\%$$ CAGR after 5 years in the regular plan and $$11\%$$ CAGR in the direct plan. The final portfolio value of the regular plan would be $$₹10,000\times(1+0.1)^5=₹16,105.1$$ and that of the direct plan would be $$₹10,000\times(1+0.11)^5=₹16,850.58$$.
+
+As we just saw, the NAV purchase price and the number of units that you get are irrelevant and do not affect the final portfolio value. The CAGR, however, does, and it should be evident that the CAGR of a direct plan will always be higher than its regular plan counterpart.
+
 ### But it’s just a difference of 1%. It won’t have much impact.
 
 As we’ve already shown above, a $$\Delta TER$$ of $$1\%$$ can erode more than $$30\%$$ of your portfolio value over the long term. Even $$10\%$$, let alone $$30\%$$, is a significant loss to your portfolio. Are you okay with losing $$₹10$$ lakh from your corpus of $$₹1$$ crore and end up having $$₹90$$ lakhs? How about losing $$₹30$$ lakhs?
