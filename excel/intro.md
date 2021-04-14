@@ -114,7 +114,11 @@ We've looked into various video hosting providers, and nothing comes close to Yo
 
 All our videos for this chapter are unlisted for the moment, and not easily discoverable. Since our videos are not public, we don't qualify for YouTube monetization.
 
-But you might still get some ads, while watching these videos, based on YouTube's own determination. We recommend getting YouTube Premium subscription, or getting a good ad-blocker, if you choose to bypass ads you find annoying. Or find the right setting in your Google account, that disables personalized ads in YouTube.
+![Ads Disabled on YouTube - Dark Mode](../.gitbook/assets/ad-disabled.dark.png)
+
+![Ads Disabled on YouTube - Light Mode](../.gitbook/assets/ad-disabled.light.png)
+
+But you might still get some ads, while watching these videos, based on YouTube's own determination. We recommend getting YouTube Premium subscription, or getting a good ad-blocker \([uBlock Origin](https://github.com/gorhill/uBlock), for example\), if you choose to bypass ads you find annoying. Or find the right setting in your Google account, that disables personalized ads in YouTube.
 
 ## Disclaimer 
 
