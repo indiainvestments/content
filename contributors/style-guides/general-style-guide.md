@@ -148,3 +148,15 @@ The first link with `www` subdomain, allows readers to open it in their favorite
 
   That alone would help you catch common errors or issues with it, before others even need to review it.
 
+## Wrapping Up
+
+Most of us are pretty average at most things we do. Even if you're exceptional at one thing, chances are that you're average, or below average, at most other things. That's just the nature of life. To become truly great at something, you have to dedicate tons of time and energy to it.
+
+We all have limited time and energy, and most of us choose to devote it to our fields of choice. It is then perfectly understandable a lot of us, most of us, are not good at parts of content writing, like phrasing and structuring sentences, even if we have valuable content to share with others.
+
+When we offer help with these parts, trust us when we say it's not because our intents are to put someone down, or _establish a sense of superiority complex_, it is pure and simple help, because it would be very presumptuous of us to assume all content contributors are good at content writing.
+
+However, this is being built as a free open-source project. If you don't agree with our choices; you can fork the project on GitHub, and maintain your own version of the wiki.
+
+In the next few sections, we cover dedicated guides as to specific series or sections of the wiki.
+
