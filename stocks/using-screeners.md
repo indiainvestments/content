@@ -29,7 +29,7 @@ Fortunately, there are tons of screeners available, that can filter through thes
 
 In India, there are many screeners available to you for free. Some of these screeners stand out with distinct use cases, so it makes sense to use different screeners as per the need of the hour. These are,
 
-* [Tijori](https://www.tijorifinance.com/) differentiates itself from other screeners by providing company's alternate data \(financial or operational information that is typically beyond the scope of a company's stock exchange filings\), such as market share of its products, or number of stores the company operates. It also has some neat features, such as a [macro page](https://www.tijorifinance.com/macro) to track economic indicators, sector indices, and sector-based market data. However, the platform has announced they'll be moving to a paid subscription-based model soon, and we don't know if any or most of what we can access for free now will remain free. Whether it's worth for you is going to be a personal call.
+* [Tijori](https://www.tijorifinance.com/) differentiates itself from other screeners by providing company's alternate data \(financial or operational information that is typically beyond the scope of a company's stock exchange filings\), such as market share of its products, or number of stores the company operates. It also has some neat features, such as a [macro page](https://www.tijorifinance.com/macro) to track economic indicators, sector indices, and sector-based market data. However, the platform has moved to a paid subscription-based model. Whether it's worth for you is going to be a personal call.
 * [Tickertape](https://www.tickertape.in/) has a friendly interface for beginners, and explains relevance of figures presented in financial data. However, this is a double-edged sword, a screener's commentary on figures can eliminate its neutrality as a tool, and induce bias.
 * [Screener](https://www.screener.in/)'s interface/feature set is **mostly** neutral and thus doesn't introduce a lot of bias. The screening itself is more flexible/comprehensive than most other screeners \(maybe barring Tijori\), and allows exporting financial data to an excel sheet \(you can customize the sheet's template!\). However, the interface can be slightly overwhelming for beginners, and some data that is freely available in annual reports, or other screeners is behind a paywall.
 * [Trendlyne](https://trendlyne.com/stock-screeners/) aggregates research reports for a company, and you can usually find audio files of conference calls held by a company about a day after being conducted. However, the actual screening is limiting, and the interface is not the most intuitive of the bunch.
@@ -111,9 +111,7 @@ This section gives you past ten years & trailing twelve months \(ttm\) financial
 
 ![Profit &amp; Loss section of Tata Consultancy Services Ltd&apos;s Screener page](../.gitbook/assets/screener-9.png)
 
-Again, there is an option for paid subscribers to view the revenue, profit, and return on capital breakup based on product or geographical segments, but you can get this data free of cost from the company's annual reports, or other screeners such as Tijori \(free for now, and doesn't show return on capital breakup based on different segments\).
-
-![Overview section of Tata Consultancy Services Ltd&apos;s Tijori Finance page](../.gitbook/assets/screener-10.png)
+Again, there is an option for paid subscribers to view the revenue, profit, and return on capital breakup based on product or geographical segments, but you can get this data free of cost from the company's annual reports.
 
 Below the P&L data table, this section shows you compounded sales, profit, & stock price growth, and average return on equity over the past 3, 5, & 10 years, and the trailing twelve months \(TTM\).
 
@@ -137,9 +135,7 @@ This section gives you past ten years of financial data for cash flows of the co
 
 ![Cash Flows section of Tata Consultancy Services Ltd&apos;s Screener page](../.gitbook/assets/screener-14.png)
 
-Figures for Free Cash Flows \(est.\) are unfortunately missing here, but can be found under a company's Tijori page, or calculate it yourself as shown in [_Financial statements_](https://indiainvestments.gitbook.io/content/wiki/financial-statements) chapter of this series.
-
-![Calculation of Free Cash Flows \(FCF\) under the Financials section of Tata Consultancy Services Ltd&apos;s Tijori page](../.gitbook/assets/screener-15.png)
+Figures for Free Cash Flows \(est.\) are unfortunately missing here, but can be calculated as shown in [_Financial statements_](https://indiainvestments.gitbook.io/content/wiki/financial-statements) chapter of this series.
 
 #### Ratios section
 
