@@ -92,6 +92,30 @@ If you've a multi-monitor setup with external displays, even better.
 
 You don't have to follow this exact setup. Maybe you've other preferences. But we do recommend giving it some thought, that you remove the constant frustration of switching between tabs.
 
+## Images and Videos
+
+As you progress throughout the series, you'd notice we've images and videos, to explain and guide you through each step; in addition to textual steps.  
+  
+For images, we provide both dark and light mode images, for same screenshots.  
+  
+Most blog posts / articles you'd read, would have either dark mode, or light mode images. It's optimized for the author of the piece \(i.e. if author is used to dark mode, you'd get dark mode; and vice versa\).
+
+We provide both, because we believe this should be optimized for consumption. That is, if you prefer reading a piece in light mode, you should be able to zoom in and view the light mode version of the image. And if dark mode is your thing, the dark mode image is the one you can zoom in, to check closely; by clicking on the respective image.
+
+{% hint style="info" %}
+We'd ideally want to make only the right image visible, depending on your screen's theme \(light or dark\), and not both. But our present content hosting service doesn't support dynamically hiding specific set of images, so we'll explore this only in the future.
+{% endhint %}
+
+Regarding videos, we'll be using our own YouTube channel to host these videos.
+
+We've looked into various video hosting providers, and nothing comes close to YouTube in terms of the offerings. YouTube is also optimized for network consumption, and the de-facto video consumption platform that everyone is familiar with.
+
+**We've disabled ads on our YouTube channel**, as we are a non-commercial project, and we've no plans of monetizing this content.
+
+All our videos for this chapter are unlisted for the moment, and not easily discoverable. Since our videos are not public, we don't qualify for YouTube monetization.
+
+But you might still get some ads, while watching these videos, based on YouTube's own determination. We recommend getting YouTube Premium subscription, or getting a good ad-blocker, if you choose to bypass ads you find annoying. Or find the right setting in your Google account, that disables personalized ads in YouTube.
+
 ## Disclaimer 
 
 To be abundantly clear, this is **not a guided tutorial on MS Excel or Google Sheets**. There are plenty of those available, that have much more depth; if you just google or search in YouTube. 
