@@ -110,21 +110,19 @@ Regarding videos, we'll be using our own YouTube channel to host these videos.
 
 We've looked into various video hosting providers, and nothing comes close to YouTube in terms of richness of the offerings. YouTube is also optimized for low network consumption across the planet, and the de-facto video consumption platform that everyone is familiar with.
 
-**We've disabled ads on our YouTube channel**, as we are a non-commercial project, and we've no plans of monetizing this content. 
+**We've disabled interest-based ads, also known as targeted or personalized advertising,** on our YouTube channel as we are a non-commercial project, and we've no plans of monetizing this content. 
 
-All our videos for this chapter are unlisted for the moment, and not easily discoverable through a public search on YouTube. Since our videos are not public, we don't qualify for YouTube monetization.
+All of our videos on YouTube for this series are unlisted at the moment, and not easily discoverable through a public search on YouTube.
 
 ![Ads Disabled on YouTube - Dark Mode](../.gitbook/assets/ad-disabled.dark.png)
 
 ![Ads Disabled on YouTube - Light Mode](../.gitbook/assets/ad-disabled.light.png)
 
 {% hint style="danger" %}
-We've disable interest based ads, also called personalized or targeted advertising, on our channel.  
-  
 Unfortunately, it looks like we cannot disable ads completely on our YouTube channel. This seems to be a limitation of YouTube. YouTube as a platform, reserves all the rights to display ads in our videos hosted on YouTube.
 {% endhint %}
 
-If you still see ads on our YouTube video, we recommend getting YouTube Premium subscription. Or find the right setting in your Google account, that disables personalized ads in YouTube.
+If you don't want to watch personalized ads on YouTube, we recommend changing your privacy settings on your Google Account. If you don't want to watch ads while browsing our videos, you may consider buying a YouTube Premium subscription.
 
 ## Disclaimer 
 
