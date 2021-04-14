@@ -108,7 +108,7 @@ We'd ideally want to make only the right image visible, depending on your screen
 
 Regarding videos, we'll be using our own YouTube channel to host these videos.
 
-We've looked into various video hosting providers, and nothing comes close to YouTube in terms of the offerings. YouTube is also optimized for network consumption, and the de-facto video consumption platform that everyone is familiar with.
+We've looked into various video hosting providers, and nothing comes close to YouTube in terms of richness of the offerings. YouTube is also optimized for low network consumption across the planet, and the de-facto video consumption platform that everyone is familiar with.
 
 **We've disabled ads on our YouTube channel**, as we are a non-commercial project, and we've no plans of monetizing this content.
 
