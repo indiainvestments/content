@@ -277,21 +277,21 @@ Another way to look at it: _keep adding purchase price, until total number of un
 
 An example to illustrate this idea:
 
-Say, an investor is buying 10 units every month, from 2018 January, to 2020 December.
+Say, an investor is buying 10 units every month, from 2018 January, to 2020 December. That's a total 36 month period.
 
-At the end of December 2020, 12 \* 10 = 120 units purchased between January 2018 and December 2018, are eligible for LTCG.
+At the end of December 2020, $$24 \times 10 = 240$$ units purchased between January 2018 and December 2019, are eligible for LTCG.
 
 Now assume that in 2020, at some point, this investor has also sold 54 units.
 
-Then, at that point, they’ve \(120 - 54\) = 66 units available for LTCG-eligible redemption.
+Then, at that point, they’ve $$240 - 54 = 186$$ units available for LTCG-eligible redemption.
 
-What were the purchase price\(s\) for these 46 units?
+What were the purchase price\(s\) for these 186 units?
 
-More importantly, when were _these_ 66 units acquired?
+More importantly, when were _these_ 186 units acquired?
 
 We know that investor purchased 10 units every month, from Jan 2018 to Dec 2020. Investor has also sold 54 units some time in 2020.
 
-Redemption works in a FIFO \(**F**irst **I**n **F**irst **O**ut\) manner in folio. Meaning, earliest purchased units are to be redeemed first.
+Redemption works in a FIFO \(**F**irst **I**n **F**irst **O**ut\) manner in folio. Meaning, **earliest purchased units are to be redeemed first**.
 
 We first need to account for 54 units that were sold. These units were acquired as follows -
 
@@ -304,9 +304,9 @@ We first need to account for 54 units that were sold. These units were acquired 
 | May 2018 | 10 |
 | June 2018 | 4 |
 
-Once we’ve depleted the _earliest-purchased-earliest-sold_ scheme for already redeemed units, we can start to account for remaining 46 units.
+Once we’ve depleted the _earliest-purchased-earliest-sold_ scheme for already redeemed units, we can start to account for remaining 186 units.
 
-These 66 LTCG-eligible units were acquired as follows:
+These 186 LTCG-eligible units were acquired as follows:
 
 | Month of Purchase | Number of units |
 | :--- | :--- |
@@ -317,8 +317,21 @@ These 66 LTCG-eligible units were acquired as follows:
 | October 2018 | 10 |
 | November 2018 | 10 |
 | December 2018 | 10 |
+| January 2019 | 10 |
+| February 2019 | 10 |
+| March 2019 | 10 |
+| April 2019 | 10 |
+| May 2019 | 10 |
+| June 2019 | 10 |
+| July 2019 | 10 |
+| August 2019 | 10 |
+| September 2019 | 10 |
+| October 2019 | 10 |
+| November 2019 | 10 |
+| December 2019 | 10 |
+| **Total** | $$18 \times 10 + 6 = 186$$ |
 
-When computing purchase price for these 66 units, we need to use purchase price from these months; and not purchase price from January 2018.
+When computing purchase price for these 186 units, we need to use purchase price from these months in the table; and not purchase price from January 2018.
 
 In other words, **this is going to be the most complex part of the computation**.
 
