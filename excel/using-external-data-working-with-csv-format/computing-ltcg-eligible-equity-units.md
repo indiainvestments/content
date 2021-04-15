@@ -521,7 +521,7 @@ Next step is to use `UNIQUE()` function, with the range of all funds.
 
 There are total 329 entries in the CSV imported transactions.
 
-In the firt sheet, if the first entry of fund name starts at `B2`, then the last entry would be at \(329 - 2 + 1\) = `B330`.
+In the first sheet, if the first entry of fund name starts at `B2`, then the last entry would be at \(329 - 2 + 1\) = `B330`.
 
 We are referring across sheet, the reference works out as `<name of the sheet>!<cellId>`.
 
