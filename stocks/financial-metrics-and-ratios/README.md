@@ -14,6 +14,14 @@ One of the most popular financial ratios, the price to earnings \(PE\) ratio, is
 
 Of course, this doesn't mean that PE ratio isn't useful, but one should know how and, more importantly, when to use it. That goes for all financial ratios we're going to talk about.
 
+All that being said, financial ratios can become a powerful tool in an investor's repertoire if
+
+* the method of calculation of the ratio in question is accurate
+* the ratio in question is calculated for a period of time \(we suggest looking at, at least, the past 5 years of financial statements\) to create a **trend** of how the company has performed
+* the ratio in question for a company is compared against its peers and an **industry wide analysis** is performed
+
+When we say trend, think of Google Trends. Plotting financial ratio data points on a graph over a period of time would tell us a lot about how a company is evolving. Similarly, comparing these trends in financial ratios data against industry peers helps us gauge whether the evolution of the company is satisfactory and competitive.
+
 In the following sections, we'll take a look at various financial ratios, their implications, and their relevance across different sectors.
 
 {% page-ref page="profitability.md" %}
