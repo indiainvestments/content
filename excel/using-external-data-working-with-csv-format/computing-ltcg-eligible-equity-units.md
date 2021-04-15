@@ -62,7 +62,7 @@ This is a CSV of transactions from one of our community members. We’ve changed
 ,Parag Parikh Flexi Cap Fund - Regular Plan - Growth,11/07/2017,Additional Investment ,5000,20.843,239.889
 ,Parag Parikh Flexi Cap Fund - Regular Plan - Growth,09/08/2017,Additional Investment ,5000,21.0585,237.434
 ,Parag Parikh Flexi Cap Fund - Regular Plan - Growth,11/09/2017,Additional Investment ,10000,21.801,458.695
-,Parag Parikh Flexi Cap Fund - Regular Plan= - Growth,10/10/2017,Additional Investment ,10000,22.2062,450.325
+,Parag Parikh Flexi Cap Fund - Regular Plan - Growth,10/10/2017,Additional Investment ,10000,22.2062,450.325
 ,Parag Parikh Flexi Cap Fund - Regular Plan - Growth,09/11/2017,Additional Investment ,10000,22.6972,440.583
 ,Parag Parikh Flexi Cap Fund - Regular Plan - Growth,11/12/2017,Additional Investment ,10000,23.0909,433.071
 ,Parag Parikh Flexi Cap Fund - Regular Plan - Growth,09/01/2018,Additional Investment ,10000,23.8074,420.037
