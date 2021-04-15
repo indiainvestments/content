@@ -30,9 +30,9 @@ In this section, we’d keep ourselves limited to `GOOGLEFINANCE` function, that
 
 Plenty of economists point out how NASDAQ has stayed below its ATH \(**A**ll **T**ime **H**igh, i.e. a price value in time-series chart that's higher than all past values\) of 2000s, for the next ~15 years, before reaching the same high around 2015-16.
 
-![NASDAQ chart \(dark mode\)](../.gitbook/assets/nasdaq-chart.dark.png)
+![NASDAQ Chart - Dark Mode](../.gitbook/assets/nasdaq-chart.dark.png)
 
-![NASDAQ chart \(light mode\)](../.gitbook/assets/nasdaq-chart.light.png)
+![NASDAQ Chart - Light Mode](../.gitbook/assets/nasdaq-chart.light.png)
 
 In the above chart\(s\) / screenshot\(s\), if you check the horizontal line for 5000, it touches NASDAQ twice - once in 2000, again in 2015.
 
