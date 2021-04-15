@@ -36,11 +36,11 @@ Plenty of economists point out how NASDAQ has stayed below its ATH \(**A**ll **T
 
 In the above chart\(s\) / screenshot\(s\), if you check the horizontal line for 5000, it touches NASDAQ twice - once in 2000, again in 2015.
 
-NASDAQ reached its peak value of approximately 5048.62 \(closing price\), on 10th March 2000; only to re-attain this same previous ATH \(All Time High\) again on 22nd May 2015.
+NASDAQ reached its peak value of approximately 5048.62 \(closing price\), on 10th March 2000; only to re-attain this same previous ATH again on 22nd May 2015.
 
 However, people don’t invest once then wait 15 years for returns to materialize.  
   
-In this section, we’d look at how it’d have been like for the average retail investor, who had been investing with DCA \(**D**ollar **C**ost **A**veraging, similar to SIP or **S**ystematic **I**nvesting **P**lan in Indian context\).
+In this section, we’d look at how it’d have been like for the average retail investor, who had been investing with DCA \(**D**ollar **C**ost **A**veraging, similar to SIP or **S**ystematic **I**nvesting **P**lan, in Indian context\).
 
 {% hint style="info" %}
 This is a reasonable assumption to make. It's common for people to get monthly paychecks, and invest their savings via some automated process through their banks or brokers.
