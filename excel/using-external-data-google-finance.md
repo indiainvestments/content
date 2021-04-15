@@ -145,7 +145,7 @@ Once we’ve entered a valid date and it’s been recognized by Excel to be a va
 
 `=GOOGLEFINANCE(".IXIC", "close", <date>, 1)`  
   
-`".IXIC"` is the indicator / ticket for NASDAQ on Google Finance. You can replace this with other tickers, like `"GOOG"`, or `"MSFT"`, or `"TSLA"`; to fetch data for these tickers.
+`".IXIC"` is the indicator / ticker for NASDAQ on Google Finance. You can replace this with other tickers, like `"GOOG"`, or `"MSFT"`, or `"TSLA"`; to fetch data for these tickers.
 
 `"close"` means closing market price. Other values can be `"low"` \(lowest price of that day\), `"high"` \(highest price of that day\) etc.
 
