@@ -81,11 +81,11 @@ But the problem is this: the name of fund can appear differently in that list, a
 
 Finding fund by matching strings would lead to misses.
 
-A better option would be to find fund the way it’s usually don - by a unique identifier.
+A better option would be to find fund the way it’s usually done - by a unique identifier.
 
 This unique identifier is already present in the AMFI NAV feed URL: **`ISIN`**
 
-ISIN \(**I**nternational **S**ecurities **I**dentification **N**umbers\) is unique across global securities market. Not only can there be no two funds with same ISIN in India; there cannot be no two securities with duplicate ISINs in regulated markets, across the world!
+ISIN \(**I**nternational **S**ecurities **I**dentification **N**umbers\) is unique across global securities market. Not only can there be no two funds with same ISIN in India; there can be no two securities with duplicate ISINs in regulated markets, across the world!
 
 We have to find ISIN for each of the funds in CSV transaction, manually, and add a column in the second sheet, next to each fund, to add its ISIN.
 
