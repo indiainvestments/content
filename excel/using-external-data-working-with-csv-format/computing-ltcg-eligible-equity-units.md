@@ -539,7 +539,7 @@ Final outcome of this process should look like as follows
 
 ### Locking Cell IDs for Dragging Autofills
 
-Before we proceed to compute the total units sold or purchased, a look at autofill drag behavior warranted.
+Before we proceed to compute the total units sold or purchased, a look at autofill drag behavior is warranted.
 
 Say, a formula is `FUNCTION(A2, sheet!C3:sheet!C300)`.
 
