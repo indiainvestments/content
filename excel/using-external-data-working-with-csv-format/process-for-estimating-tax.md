@@ -23,7 +23,7 @@ We need to compute these:
 
 ### How to compute Tax?
 
-Tax is `SUM(selling price of units - purchase price of units)`.
+Tax is computed on _realized gain_, or booked profits. Realized gain, can be written as `SUM(selling price of units - purchase price of units)`.
 
 Say, an investor purchased
 
@@ -33,7 +33,7 @@ Say, an investor purchased
 
 Assume selling price \(NAV on day of selling\) is `P`.
 
-This investor has `(U1 + U2 + U3)` available for selling. Tax is:
+This investor has `(U1 + U2 + U3)` available for selling. Realized gain is:
 
 ```text
 [(U1 * (P - P1) + U2 * (P - P2) + U3 * (P - P3)]
