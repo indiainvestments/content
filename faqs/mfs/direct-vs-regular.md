@@ -318,7 +318,7 @@ At this point, you have the power to make decisions about your own money and swi
   
 If you're not comfortable choosing funds, you can start investing in the direct plans of the same funds offered by your distributor. Even in that case, you'd save on a lot of expenses.
 
-Would you rather be grateful to your distributor for the rest of your investing journey and lose up to $$30\%-40\%$$ of your corpus in the long term; or switch to direct plans and not lose that money?
+Would you rather be grateful to your distributor for the rest of your investing journey and lose up to $$30\%-40\%$$ of your corpus in the long term, or switch to direct plans and not lose that money?
 
 ### But my distributor also gives advice. I don’t know anything about mutual funds. Investing in direct plans is only for advanced investors.
 
