@@ -308,11 +308,27 @@ You could also switch out partially, and not all at once. That’d save you some
 
 In a scenario like this, it’s best to compute the potential values for tax liabilities, project losses in commissions, and make a choice on a case-by-case basis.
 
+### If not for my distributor, I wouldn't have started investing in mutual funds. I'm grateful to him. I can't just switch to direct plans now.
+
+It's your decision to make but we'd advise you to think rationally about this, and keep your emotions aside when making decisions about your money.  
+  
+Your distributor may have introduced you to mutual funds but if he signed you up on regular plans, he probably didn't sign you up because he was thinking of your welfare first.
+
+At this point, you have the power to make decisions about your own money and switch to direct plans to save expense costs. You don't even have to find different funds.  
+  
+If you're not comfortable choosing funds, you can start investing in the direct plans of the same funds offered by your distributor. Even in that case, you'd save on a lot of expenses.
+
+Would you rather be grateful to your distributor for the rest of your investing journey and lose up to $$30\%-40\%$$ of your corpus in the long term; or switch to direct plans and not lose that money?
+
 ### But my distributor also gives advice. I don’t know anything about mutual funds. Investing in direct plans is only for advanced investors.
 
-As we saw in the previous section, in the last 8 years, regular plans of large cap funds haven’t been able to achieve for the average SIP investor, what the direct plan of a low-cost Nifty index fund has generated. Clearly, the so-called financial advice from regular plan distributors hasn’t been good enough to even make-up for the cost.
+As we saw in the previous section, in the last 8 years, regular plans of large cap funds haven’t been able to achieve for the average SIP investor, what the direct plan of a low-cost Nifty index fund has generated.  
+  
+Clearly, the so-called financial advice from regular plan distributors hasn’t been good enough to even make-up for the cost.
 
-Investing in direct plans is a risk-free way of improving returns. A good advisor would recommend direct plans to their clients. Also, when you invest in a mutual fund, the fund manager manages your portfolio. They are responsible for managing the investments in the you’ve invested in and adapt it according to market conditions. Your distributor has no role to play there.
+Investing in direct plans is a risk-free way of improving returns. A good advisor would recommend direct plans to their clients.  
+  
+Also, when you invest in a mutual fund, the fund manager manages your portfolio. They are responsible for managing the investments in the you’ve invested in and adapt it according to market conditions. Your distributor has no role to play there.
 
 SEBI has already issued notices saying that mutual fund distributors cannot be advisors. A person can either sell or advise but not do both.
 
