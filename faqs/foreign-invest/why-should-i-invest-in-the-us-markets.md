@@ -51,10 +51,10 @@ As seen in the table below, US markets have historically, had low price correlat
 
 | 15Y Correlation Matrix | Nifty 50 TRI | Nifty 500 TRI | NASDAQ 100 TRI \(INR\) | S&P500 TRI \(INR\) |
 | :--- | :--- | :--- | :--- | :--- |
-| Nifty 50 TRI | 1.000 | 0.984 | 0.112 | 0.147 |
-| Nifty 500 TRI | 0.984 | 1.000 | 0.102 | 0.135 |
-| NASDAQ 100 TRI \(INR\) | 0.112 | 0.102 | 1.000 | 0.929 |
-| S&P500 TRI \(INR\) | 0.147 | 0.135 | 1.000 | 1.000 |
+| Nifty 50 TRI | $$1.000$$ | $$0.984$$ | $$0.112$$ | $$0.147$$ |
+| Nifty 500 TRI | $$0.984$$ | $$1.000$$ | $$0.102$$ | $$0.135$$ |
+| NASDAQ 100 TRI \(INR\) | $$0.112$$ | $$0.102$$ | $$1.000$$ | $$0.929$$ |
+| S&P500 TRI \(INR\) | $$0.147$$ | $$0.135$$ | $$0.929$$ | $$1.000$$ |
 
 This table based on data provided by Bloomberg, considering prices of these indices between Feb 2005 and Feb 2020.  
   
@@ -74,7 +74,7 @@ Most of these companies are also MNCs \(**M**ulti **N**ational **C**orporation\)
   
 In that sense, taking exposure to US equities can be viewed as getting access to equities growth of companies with global revenue and user-base.
 
-## Reasons Against 👎
+## But Also Consider These 👎
 
 ### Currency Risk
 
