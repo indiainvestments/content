@@ -39,7 +39,11 @@ It is worth noting that the exercise of comparing an individual investor's retur
 
 > "Beating the market matters, but limiting risk matters just as much. Ultimately, investors have to ask themselves whether they are interested in relative or absolute returns. Losing 45 percent while the market drops 50 percent qualifies as market outperformance, but what a pyrrhic victory this would be for most of us."
 
-An argument can be made that another upside to the exercise of stock picking is that if it is done correctly, the comprehension of risks associated with the equity you hold is higher than when investing in a fund — active or passive. The reason is simple: it takes less time and effort to keep track of stocks in the individual investor's concentrated portfolio than stocks in a diversified equity fund.
+An argument can be made that another upside to the exercise of stock picking is that if it is done correctly, the comprehension / understanding of risks associated with the equity you hold is higher than when investing in a fund — active or passive. The reason is simple: it takes less time and effort to keep track of stocks in the individual investor's concentrated portfolio than stocks in a diversified equity fund.
+
+Also, as Seth explains, an investor has to think in terms of both absolute, and relative returns - beating the market matters, but absolute returns are equally important; the inverse of this is also true - one may be able to reach their self-defined goals in terms of returns, but under perform the market in a bull run.
+
+Apart from benchmarking against the market, or self-defined goals, some investors often pick up direct stock picking for much simpler reasons - enjoying the process behind evaluating a business, and acting upon opportunities provided by the market. That is, there's a certain pleasure in _doing it yourself._ 
 
 ## So can you beat the market?
 
