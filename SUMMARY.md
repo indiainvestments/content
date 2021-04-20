@@ -36,6 +36,8 @@
 
 ## How To
 
+* [How to transfer shares from one demat account to another](how-to/how-to-transfer-shares-from-one-demat-account-to-another.md)
+* [How to file SEBI SCORES complaint?](how-to/how-to-file-sebi-scores-complaint.md)
 * [How to Update Nominee Details?](how-to/update-nominee-details.md)
 * [How to rematerialize mutual fund from demat form](how-to/rematerialize-demat-mf.md)
 
