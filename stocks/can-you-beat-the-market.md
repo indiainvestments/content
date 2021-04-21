@@ -28,9 +28,9 @@ So, if an analytical mind is willing to invest time and effort in pursuit of suc
 
 There are several logical, financial and regulatory obstructions that a professional investor has to face, which makes the prospects of individual investors beating them higher. Some are,
 
-* The account size of professional investors is such that any meaningful investment in a midcap or smallcap stock has an impact on its price. And so, they're constrained with a limited universe of companies to pick from.
-* Professional investors are bound by the mandate of the fund they manage, and so any investment that falls outside of this mandate is out of the question, further constraining the universe of companies to invest in.
-* Like an individual investors, the performance of a professional investor is compared to market returns. However, unlike an individual investor, a professional investor can't pragmatically afford to underperform the market for a long duration at the risk of losing their clients. To a professional investor, this is known as _benchmark risk,_ and the only way to keep up for them is to imitate an index once a reasonable alpha is generated. Once this happens, the professional investor generally tends to stop caring about additional returns, and rather focuses on averting losses that could cost them their jobs.
+* The account size of professional investors is such that any meaningful investment in a midcap or smallcap stock has an impact on its price. And so, they're constrained with a limited universe of companies to pick from. 
+* Professional investors are bound by the mandate of the fund they manage, and so any investment that falls outside of this mandate is out of the question, further constraining the universe of companies to invest in. 
+* Like an individual investors, the performance of a professional investor is compared to market returns. However, unlike an individual investor, a professional investor can't pragmatically afford to underperform the market for a long duration at the risk of losing their clients. To a professional investor, this is known as _benchmark risk,_ and the only way to keep up for them is to imitate an index once a reasonable alpha is generated. Once this happens, the professional investor generally tends to stop caring about additional returns, and rather focuses on averting losses that could cost them their jobs. 
 * Most professional investors lean towards having a diversified portfolio as a consequence of avoiding these risks, and thus outperforming the market with such diversification is relatively improbable compared to a curated portfolio maintained by an individual investor.
 
 ### Is beating the market the only goal in stock picking?
@@ -39,10 +39,10 @@ It is worth noting that the exercise of comparing an individual investor's retur
 
 > "Beating the market matters, but limiting risk matters just as much. Ultimately, investors have to ask themselves whether they are interested in relative or absolute returns. Losing 45 percent while the market drops 50 percent qualifies as market outperformance, but what a pyrrhic victory this would be for most of us."
 
-An argument can be made that another upside to the exercise of stock picking is that if it is done correctly, the comprehension / understanding of risks associated with the equity you hold is higher than when investing in a fund — active or passive. The reasons are simple: 
+Another upside to the exercise of stock picking is that if it is done correctly, the comprehension / understanding of risks associated with the equity you hold is higher than when investing in a fund — active or passive. The reasons are simple: 
 
 * The investor is more likely to be doing their own due diligence for the underlying stocks in their direct stock portfolio. 
-* Generally, a retail investor's stock portfolio is more concentrated than an equity fund \(let alone more than one in aggregate, which seems to be the norm\), so it takes less time and effort to keep track of stocks in a retail investor's portfolio than stocks in a diversified equity fund.
+* Generally, a retail investor's stock portfolio is more concentrated than an equity fund \(let alone more than one in aggregate, which seems to be the norm\), so it takes less time and effort to keep track of stocks in a direct stock portfolio than stocks in an equity fund.
 
 Also, as Seth explains, an investor has to think in terms of both absolute, and relative returns - beating the market matters, but absolute returns are equally important; the inverse of this is also true - one may be able to reach their self-defined goals in terms of returns, but under perform the market in a bull run.
 
