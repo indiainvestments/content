@@ -58,9 +58,10 @@ The following table is a comparison-at-a-glance for these discount brokers.
 |   | 5Paisa | Groww | PayTm Money | Upstox | Zerodha |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Good For** | Various trading plan from basic to intra trader pack to cater different customer segments & charges | Single platform for Stocks, direct mutual fund and other asset class investments | Lowest trading charges | Fastest trading platform \(15 Seconds\) | Technical Analysis & Integration with ‘Quant’- for behaviour analysis & fundamental analysis |
-| **Bad For** | User interface is difficult to navigate especially for beginners | No option to currently trade in derivatives \(futures & options\), commodity, and currency segment. | No NRI Trading | No Good Till Triggered \(GTT\) or Good Till Cancel \(GTC\) orders | Only Indian markets are covered |
+| **Bad For** | User interface is difficult to navigate especially for beginners | No option to currently trade in derivatives \(futures & options\), commodity, and currency segment. | No NRI Trading | No Good Till Triggered \(GTT\) or Good Till Cancel \(GTC\) orders | Frequent delays and downtime during high traffic hours |
 | **IPO application Possible?** | Yes | Yes | Yes | Yes | Yes |
-| **Subscription Plan available?** | Yes | No | No | Yes | No |
+| **Invest in US market** | Yes | Yes | No | Yes | No |
+| **Add-on Pack available?\*** | Yes | No | No | Yes | No |
 | Demat Annual Charges | 300 Rs. | Free | 300 Rs. | 300 Rs. | 300 Rs. |
 | Equity Delivery Charges | 20 Rs./Order | Rs. 20 or 0.05%/Order \(whichever is lower\) | Free | Free | Free |
 | Equity Intraday Charges | 20 Rs./Order | Rs. 20 or 0.05%/Order \(whichever is lower\) | Rs. 10 or 0.05%/Order \(whichever is lower\) | Rs. 20 or 0.05%/Order \(whichever is lower\) | Rs. 20 or 0.03%/Order \(whichever is lower\) |
@@ -73,6 +74,8 @@ The following table is a comparison-at-a-glance for these discount brokers.
 | IMPS Time / Feed | 10 Min. / Free | NA | NA | NA | 10 Min. / Free |
 | Cheque Time / Fees | NA | NA | NA | 3-5 Days \(250Rs+tax- For dishonored margin cheque\) | 3-5 Days / 350Rs+tax |
 | **Number of accounts** | 0.25 Million | 1 Million | 6 million | 2 million | 4 million |
+
+\*Add-on pack: Some platforms offer subscriptions plans which will enable to advanced users to get more features, reports, reduced trade fee etc. for a monthly fee
 
 The above table compares some popular discount service brokers, in terms of the following parameters:
 
