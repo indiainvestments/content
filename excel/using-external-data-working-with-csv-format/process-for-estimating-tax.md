@@ -1,6 +1,6 @@
 ---
 description: >-
-  A peak into tax estimation process for redeeming units that are outside STCG
+  A peek into tax estimation process for redeeming units that are outside STCG
   zone
 ---
 
