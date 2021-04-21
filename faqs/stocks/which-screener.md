@@ -9,7 +9,7 @@ description: >-
 
 ## Introduction
 
-Even though screeners are useful in finding out the investment opportunities which suits your criteria, it might not be a good idea to take a screener at its face value.
+Even though screeners are useful in finding out the investment opportunities which suits your criteria and to monitor the existing investment, it might not be a good idea to take a screener at its face value.
 
 You might see an opportunity or a red-flag from these screeners. However, it could easily just be a calculation error, or usage of incorrect formula, or not removing an outlier.
 
@@ -87,5 +87,7 @@ To understand how to use a screener, you might want to check this out
 
 {% hint style="info" %}
 We've reached out to some of the teams behind these screeners and have pointed out these issues. They've assured us that they're looking into this.
+
+Tijori Finance moved to paid subscription model now
 {% endhint %}
 
