@@ -1,6 +1,6 @@
 ---
 description: >-
-  There's no such thing.   It's rare for markets to move up / down so much in a
+  There's no such thing. It's rare for markets to move up / down so much in a
   single month, that a single SIP instalment being on a different date would
   make a sizeable difference in your long term.
 ---
