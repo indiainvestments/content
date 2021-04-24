@@ -1,7 +1,7 @@
 ---
 description: >-
   No one can predict how a mutual fund would perform in the long run. Data also
-  shows consistently chasing best mutual funds result in behaviour gap. Pick one
+  shows consistently chasing best mutual funds result in behavior gap. Pick one
   that you can stay with for long term.
 ---
 
