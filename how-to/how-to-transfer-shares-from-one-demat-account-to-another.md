@@ -56,5 +56,7 @@ Please note that you may have to pay the charges for the DIS slip, and its posta
 
 {% hint style="info" %}
 If you are closing the old account, you can fill the details of the account to which you need to transfer the shares. This will eliminate any transfer fees
+
+To close the account in NSDL, the application form in [Annexure Q](https://nsdl.co.in/downloadables/annex-q.pdf) must be submitted or a separate request on plain paper along with the DIS form to transfer securities, both signed by the account holder and it takes 15 days after that. Refer [this link](https://nsdl.co.in/nsdlnews/newsarchives20.php) for more details
 {% endhint %}
 
