@@ -46,13 +46,13 @@ We’d add one more column to, to add discounted values
 | Date | Cashflow | Discounted Cashflow |
 | :---: | :---: | :---: |
 | $$t_0$$ | $$P_0$$ | $$P_0$$ |
-| $$t_1$$ | $$P_1$$ | $$\frac{P_1}{(1 + r)^{[\frac{(t_1 - t_0)}{\Delta T}]}}$$ |
-| $$t_2$$ | $$P_2$$ | $$\frac{P_2}{(1 + r)^{[\frac{(t_2 - t_0)}{\Delta T}]}}$$ |
-| $$t_3$$ | $$P_3$$ | $$\frac{P_3}{(1 + r)^{[\frac{(t_3 - t_0)}{\Delta T}]}}$$ |
+| $$t_1$$ | $$P_1$$ | $$\displaystyle \frac{P_1}{(1 + r)^{[\frac{(t_1 - t_0)}{\Delta T}]}}$$ |
+| $$t_2$$ | $$P_2$$ | $$\displaystyle\frac{P_2}{(1 + r)^{[\frac{(t_2 - t_0)}{\Delta T}]}}$$ |
+| $$t_3$$ | $$P_3$$ | $$\displaystyle\frac{P_3}{(1 + r)^{[\frac{(t_3 - t_0)}{\Delta T}]}}$$ |
 | ...... | ...... | ...... |
-| $$t_{n−1}$$ | $$P_{n−1}$$ | $$\frac{P{n-1}}{(1 + r)^{[\frac{(t{n-1} - t_0)}{\Delta T}]}}$$ |
+| $$t_{n−1}$$ | $$P_{n−1}$$ | $$\displaystyle\frac{P{n-1}}{(1 + r)^{[\frac{(t{n-1} - t_0)}{\Delta T}]}}$$ |
 
-Third column entries might look a bit cumbersome at first, but we’ve basically expanded on $$(1 + r)^X$$, where $$X$$ is $$\frac{(t - t_0)}{\Delta T}$$.
+Third column entries might look a bit cumbersome at first, but we’ve basically expanded on $$(1 + r)^X$$, where $$X$$ is $$\displaystyle\frac{(t - t_0)}{\Delta T}$$.
 
 This is effectively _normalized time_. Given two dates $$t$$ and $$t_0$$, $$(t - t_0)$$ is equivalent to number of days in between those two dates. And $$\Delta T$$ is a common factor \(commonly, 1 year or 365 days\).
 
@@ -64,17 +64,17 @@ Notice the first row of the above table, it’s just $$P_0$$. Because every disc
 Remember from your school days, that _anything raised to the power of zero, is 1 in value_.
 {% endhint %}
 
-Mathematically, $$\frac{P_0}{(1 + r)^{[\frac{(t_0 - t_0)}{\Delta T}]}} = P_0$$
+Mathematically, $$\displaystyle\frac{P_0}{(1 + r)^{[\frac{(t_0 - t_0)}{\Delta T}]}} = P_0$$
 
 ### Net Present Value
 
 NPV \(**N**et **P**resent **V**alue\) of the above cashflow is sum of all discounted cashflows:
 
-$$NPV = P_0 + \frac{P_1}{(1 + r)^{[\frac{(t_1 - t_0)}{\Delta T}]}} + \frac{P_2}{(1 + r)^{[\frac{(t_2 - t_0)}{\Delta T}]}} + \frac{P_3}{(1 + r)^{[\frac{(t_3 - t_0)}{\Delta T}]}} + ... + \frac{P_{n-1}}{(1 + r)^{[\frac{(t_{n-1} - t_0)}{\Delta T}]}}$$
+$$NPV = P_0 + \displaystyle\frac{P_1}{(1 + r)^{[\frac{(t_1 - t_0)}{\Delta T}]}} + \displaystyle\frac{P_2}{(1 + r)^{[\frac{(t_2 - t_0)}{\Delta T}]}} + \displaystyle\frac{P_3}{(1 + r)^{[\frac{(t_3 - t_0)}{\Delta T}]}} + ... + \displaystyle\frac{P_{n-1}}{(1 + r)^{[\frac{(t_{n-1} - t_0)}{\Delta T}]}}$$
 
 Which can also be written as
 
-$$NPV = \sum_{i = 0}^{n - 1} \frac{P_i}{(1 + r)^{[\frac{(t_i - t_0)}{\Delta T}]}}$$
+$$NPV = \sum_{i = 0}^{n - 1} \displaystyle\frac{P_i}{(1 + r)^{[\frac{(t_i - t_0)}{\Delta T}]}}$$
 
 This formula has _summation_ symbol $$\sum$$ , which allows us to write sum of a series of numbers in a succinct manner.
 
@@ -115,19 +115,19 @@ We fill the table up, mapping cashflow variables to values.
 | $$t_{18}=$$ 1st Jan 2049 | $$P_{18}=$$ 200,000 |
 | $$t_{19}=$$ 1st Jan 2050 | $$P_{19}=$$ 200,000 |
 
-If we use the NPV formula, we’d need to settle the value for power index in the formula, $$\frac{(t - t_0)}{\Delta T}$$, where $$t$$can be $$t_0$$, $$t_1$$, $$t_2$$, $$...$$, $$t_{19}$$.
+If we use the NPV formula, we’d need to settle the value for power index in the formula, $$\displaystyle\frac{(t - t_0)}{\Delta T}$$, where $$t$$can be $$t_0$$, $$t_1$$, $$t_2$$, $$...$$, $$t_{19}$$.
 
 We could reasonably approximate these as whole numbers.
 
 Plugging these in NPV formula, XIRR for this cashflow would be given by this equation:
 
-$$0 = 100000 (-1 - \frac{1}{(1 + r)^1} - \frac{1}{(1 + r)^2} - ... - \frac{1}{(1 + r)^9} + \frac{2}{(1 + r)^{10}} + \frac{2}{(1 + r)^{11}} + ... + \frac{2}{(1 + r)^{19}}) $$
+$$0 = 100000 \times (-1 - \displaystyle\frac{1}{(1 + r)^1} - \frac{1}{(1 + r)^2} - ... - \frac{1}{(1 + r)^9} + \frac{2}{(1 + r)^{10}} + \frac{2}{(1 + r)^{11}} + ... + \frac{2}{(1 + r)^{19}}) $$
 
 Then XIRR is solution for this equation, where $$r$$ is the unknown variable.
 
 We can verify that for XIRR, this equation results in zero.
 
-Another way to think of XIRR, is it’s a value that makes sum of cash inflows, same as sum of discounted inflows.
+Another way to think of XIRR, is it’s a value of rate, that makes sum of discounted cash outflows, same as sum of discounted inflows.
 
 ### Verifying XIRR by Adding up Discounted Cashflows
 
@@ -272,7 +272,7 @@ Then equivalent transactions would be of values $$-V_{initial}$$ and $$V_{final}
 
 Plugging these in the NPV equation for XIRR, we get
 
-$$\frac{V_{final}}{(1 + XIRR)^n} - \frac{V_{initial}}{(1 + XIRR)^0}$$
+$$\displaystyle\frac{V_{final}}{(1 + XIRR)^n} - \frac{V_{initial}}{(1 + XIRR)^0} = 0$$
 
 Rearranging, and keeping in mind that power raised to $$0$$ means $$1$$, we get
 
