@@ -67,13 +67,13 @@ Think of CSV format as an efficient way of representing table-compatible data, i
 
 A CSV dataset can be parsed into a table; assuming it's having some uniformity of entries, and properly indicates where a new row starts.
 
-## Why only a comma? 
+## Why only a comma?
 
 In a CSV, the `,` \(comma\) acts as a _separator_ or split point.
 
-But it need not always be a comma. Some CSV files use other non-alphanumeric separators, such as semicolon \(`;`\), pipe \(`|`\), bang \(`!`\), period \(`.`\), space \( ``\) etc.
+But it need not always be a comma. Some CSV files use other non-alphanumeric separators, such as semicolon \(`;`\), pipe \(`|`\), bang \(`!`\), period \(`.`\), space \( \`\`\) etc.
 
-## Using in Excel 
+## Using in Excel
 
 Importing CSV into Excel or Spreadsheet is straightforward.
 
@@ -96,7 +96,7 @@ But how to get column headers out of this? It’s just text, all mashed into a s
 
 That's where the `SPLIT()` function comes in
 
-## A Perfect SPLIT 
+## A Perfect SPLIT
 
 Spreadsheets provide an in-built function, `SPLIT()`, to split a text based on a separator or delimiter.
 
@@ -132,7 +132,7 @@ Now that we know how to split a line into a row, we can combine with our knowled
 
 Refer to the video belo…**wait a second!**
 
-#### This isn’t going to work 
+### This isn’t going to work
 
 ![Cell Overflow from Pasting all CSV Data - Dark Mode](../../.gitbook/assets/cell-overflow.dark.png)
 
@@ -148,7 +148,7 @@ We want data split into multiple rows, as well as multiple columns.
 
 Enter another in-built function `TRANSPOSE()`.
 
-## Transpose 
+## Transpose
 
 This is the documentation provided by Google Sheets team on `TRANSPOSE()` function
 
@@ -186,9 +186,9 @@ It’d split as follows
 | Direct |
 | Plan |
 
-Then what do we do? 
+Then what do we do?
 
-## Manual Option 
+## Manual Option
 
 It’s easy to visualize where the split point should be, for a new row.
 
@@ -257,8 +257,8 @@ We won't be covering these in any detail here; because the next option is best. 
 
 ## Importing a CSV file : Common Option
 
-Most commonly, you’d find yourself importing content of your CSV file directly into your spreadsheet, using import.  
-  
+Most commonly, you’d find yourself importing content of your CSV file directly into your spreadsheet, using import.
+
 Here's a sample CSV file for you to download
 
 {% file src="../../.gitbook/assets/test.csv" caption="test.csv" %}
@@ -285,13 +285,13 @@ In this case, we should provide separator type as comma
 
 ![After Successful Import - Light Mode](../../.gitbook/assets/csv-file-import-result.light.png)
 
-How’s this even possible?! 
+How’s this even possible?!
 
 We spent so much time struggling with `SPLIT()`, `TRANSPOSE()`; then alluded to some scary regular expression stuff.
 
 And in-built spreadsheet import figured out how to create the table, how to split in rows and columns in matter of seconds!
 
-#### What’s going on here? Why did we not just do this from the beginning?
+### What’s going on here? Why did we not just do this from the beginning?
 
 Well, you see, when you copy-paste a piece of text in a single cell, it loses some information already present in it.
 
@@ -319,13 +319,7 @@ In this chapter, we learned
 
 It might feel as if there was no point to using these functions, when all this time we could have just used in-built import functionality.
 
-Note that a CSV format might not always be a file you import. In a later chapter, we'd have to import CSV data from the web, which cannot be in a file format. `SPLIT()` might come in handy in such situations. 
+Note that a CSV format might not always be a file you import. In a later chapter, we'd have to import CSV data from the web, which cannot be in a file format. `SPLIT()` might come in handy in such situations.
 
 In the next chapter, we'd pick up a real world problem, that's common for most mutual fund investors. CSV format would be at the heart of this problem statement.
-
-
-
-####   <a id="A-Perfect-SPLIT-"></a>
-
-
 

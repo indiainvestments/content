@@ -6,11 +6,9 @@ description: >-
 
 # Corporate Bonds
 
-
-
 In the previous module we learnt about bonds issued by government but governments are not the only entities that raise debt through bonds. Bonds that are issued by private and public corporations are known as corporate bonds. Companies may issue debt to raise money for a variety of purposes for example to raise money for a new plant and these bonds act as a way for people to lend money directly to the company.
 
-### Not all bonds are made equal \(AKA Credit Risk\)
+## Not all bonds are made equal \(AKA Credit Risk\)
 
 If you have compared fixed deposit rates at various banks, you would have noticed the big three \(SBI, HDFC, ICICI\) tend to have lower interest rates on their fixed deposits when compared to smaller players. The other end of the spectrum tends to be small finance banks which tend to offer a good 3-4% over what a major bank would offer. This parity in rates is due to risk and the same applies to bonds issued by companies. Bonds issued by a robust bluechip company has a much lower chance of default than one issued by a shakey unprofitable smallcap.
 
@@ -30,11 +28,11 @@ As the names imply each rating is tailed for the specific type of debt security 
 
 While a useful metric to analyse the overall risk, it is important to note that these ratings are merely a reference and taking these ratings at face value can backfire and history has several examples of this - the meltdown of AAA rated Mortgage Backed Securities \(MBS\) during the 2008 financial crisis.
 
-### Types
+## Types
 
 There are a couple of types of debt based securities that companies can issued and these have different consequences both for the company and the investor.
 
-#### Corporate Fixed Deposits
+### Corporate Fixed Deposits
 
 Corporate Fixed Deposits are _similar but not the same_ as bank deposits in that they are not market based securities. Similar to how you would do in a bank you can deposit a variable amount of money for a duration of your choice provided by the company. Unlike a bond these are not market based, which means liquidity is provided entirely by the company. If you want to exit a traditional bond then you can do that at any time by selling the security in the secondary markets ie the exchanges NSE/BSE through your broker \(though you might end up selling for a discount if there isn't enough liquidity\). This is not possible with a corporate fixed deposit as these are not listed, if you want to get your money back early then you need to go through their early withdrawal process which may have a penalty of 1-2% on the interest.
 
@@ -42,7 +40,7 @@ Furthermore, it is very important to note that corporate fixed deposits are not 
 
 In terms of taxation, these are taxed similarly to bank FDs and tax is deducted at source unless you provide a 15G/H form if you're under the tax slabs.
 
-#### Non Convertible Debentures \(NCDs\)
+### Non Convertible Debentures \(NCDs\)
 
 Non‐Convertible Debenture is a financial instrument issued by Corporates for specified tenure to raise funds through public issue or private placement. The non convertible in the name implies that the debentures are not convertible to equity \(some types of convertible debentures can be swapped for equity shares for example\). These can be issued by Companies, including Non-Banking Finance Companies \(NBFCs\) or any corporate bodies worth more than ₹100 crore that are permitted to issue debt by the Reserve Bank of India. Furthermore, these issuers must be rated by at least one Credit Rating Agency\(CRA\). If they plan to issue ₹1000 crore or more in debt they must be rated by two CRAs. The minimum credit rating must be atleast A3 for issue.
 
@@ -53,7 +51,7 @@ Unlike a fixed deposit these are listed securities and investors can exit their 
 
 In terms of taxation if NCDs are sold within a year or lesser STCG will be applicable as per the income tax slab rate. If the NCDs are sold after a year or more or before the maturity date, LTCG will be applicable at 20% with indexation. For those in higher tax brackets these may be superior to holding FDs.
 
-#### Bonds
+### Bonds
 
 Bonds are a financial instrument issued by Corporates for specified tenure to raise funds. These are most part very similar to Non‐Convertible Debentures however with some key differences
 
