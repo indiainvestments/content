@@ -212,7 +212,7 @@ Or use the code-copy button, to copy it in your clipboard, without having to scr
 
 Then paste it in your spreadsheet, and do the following:
 
-* Use `TRANSPOSE(SPLIT(cellId, " "))` to split the text or string into a set of rows.
+* Use `TRANSPOSE(SPLIT(cellId, "|"))` to split the text or string into a set of rows.
 * Create a set of cells calling `SPLIT(cellId, ",")` on first row
 * Drag and auto-fill for each row created earlier
 
