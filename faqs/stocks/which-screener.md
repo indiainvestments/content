@@ -28,10 +28,10 @@ Correct value:  ~2-5%
 Depends on your judgement on how repeatable these dividends are
 ```
 
-The differences are because of different treatments of interim dividends. While `screener.in` considers all the interim dividends of FY21, the `MoneyControl` considers only FY20's dividends. `MorningStar` considered only one of the two interim dividends (probably assuming the other one as a one time special dividend).
+The differences are because of different treatments of interim dividends. While `screener.in` considers all the interim dividends of FY21, `MoneyControl` considers only FY20's dividends. `MorningStar` considered only one of the two interim dividends (probably assuming the other one as a one time special dividend).
 
 
-Another interesting case is of Majesco. The dividend yield as on 29th April 2021 on various websites is [^archives](#majesco-dividend-yield):
+Another interesting case is that of Majesco. The dividend yield as on 29th April 2021 on various websites is [^archives](#majesco-dividend-yield):
 
 ```
 Screener.in:              1,353 %
@@ -39,10 +39,10 @@ MorningStar.in:           1,351 %
 ValueResearchOnline.com:  1,355 %
 (Yeah, 1000+% in all the cases)
 
-Correct value: ~0%
+Correct value:            ~0-5%
 ```
 
-The company sold off its entire business and distributed all of it as dividend. This is probably a one time dividend and the correct dividend yield should be around 0%.
+The company sold off its US subsidiary and distributed most of the proceeds from the sale. The US subsidiary contributed over 90% of the company's revenues and assets. Thus it is safe to assume it was a one time dividend. The future dividend yield in such a case would be around 0 to 5%.
 
 Relying on *any* screener and buying highest dividend yields shares blindly can make costly errors in such cases.
 
@@ -150,6 +150,7 @@ Tijori Finance moved to paid subscription model now
 - [MorningStar.in](../../.gitbook/assets/britannia-morningstar.png)
 
 #### Majesco dividend yield
+- [Company's sale of its US subsidiary](https://www.business-standard.com/article/markets/majesco-hits-upper-circuit-on-board-nod-to-sell-us-arm-mastek-surges-20-120072100526_1.html)
 - [Company's presentation about dividend](https://www.bseindia.com/xml-data/corpfiling/AttachHis/ff82752d-3368-4413-8c00-7238c5dc17d3.pdf)
 - [Screener.in](https://web.archive.org/web/20210430172013/https://www.screener.in/company/MAJESCO/consolidated/)
 - [MorningStar.in](../../.gitbook/assets/majesco-morningstar.png)
