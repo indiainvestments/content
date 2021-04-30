@@ -1,5 +1,5 @@
 {
-  "contributors": ["crimelabs786"],
+  "contributors": ["crimelabs786", "pratyushmittal"],
   "message": "Thank you for your pull request {{usersWithoutCLA}}, and welcome to India Investments community. However, before we proceed with merging your pull request, we need you to read and accept our [contributor license agreement](https://indiainvestments.gitbook.io/content/contributors/what-is-a-contributor-license-agreement-and-why-are-we-using-it).\n\nYou can comment below, stating that you accept the CLA.\n\nIf you have any query about this, do reach out to us on [Discord](https://discord.gg/hqBNg4u)",
   "label": "cla-signed"
 }
