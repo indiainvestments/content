@@ -28,7 +28,7 @@ Generally, speaking a company issuing debt will get themselves rated by one or m
 
 As the names imply each rating is tailed for the specific type of debt security issued. Each rating agency has their own scale which is publicly available but most ratings go from AAA \(safest\) to D \(default\) with BBB being the lowest possible grade for investment grade debt \(Colloquially, AAA is commonly used but short term debt is usually rated from A1 to D where A1 is the equivalent to AAA\). Any debt with a rating less than that is considered to be junk debt and often will not get investments from pension funds, some mutual funds, etc due to guidelines by their regulators. Colloquially, some bonds are considered to "pseudo SOV rated". These are generally bonds issued by PSUs and PSBs and there is an assumption that the government will recapitalize these entities incase of a default. There is some merit to this argument but it is prudent to assume some risk as there is no guarantee that requirements the government to bail out bond holders.
 
-While a useful metric to analyse the overall risk, it is important to note that these ratings are merely a reference and taking these ratings at face value can backfire and history has several examples of this - the meltdown of AAA rated Morgage Backed Securities \(MBS\) during the 2008 financial crisis.
+While a useful metric to analyse the overall risk, it is important to note that these ratings are merely a reference and taking these ratings at face value can backfire and history has several examples of this - the meltdown of AAA rated Mortgage Backed Securities \(MBS\) during the 2008 financial crisis.
 
 ### Types
 
