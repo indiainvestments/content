@@ -120,13 +120,13 @@ These differences in the methods of calculating ROCE, ROIC, ROA and other return
 
 ## Summary and Wrap-up
 
-The auto-calculated ratios on websites can often be different from manual calculations. Those calculations will often miss sector specific adjustments or "special cases" which are too frequent in finance world. Screening and relying only on auto-calculated ratios can thus be *injurious*.
+The auto-calculated ratios on websites can often be different from manual calculations. Those calculations will often miss sector specific adjustments or "special cases" which are too frequent in the investing world.
 
-Don’t rely on any of the ready-made screeners. Don’t trust the numbers you see on a screener that’s been prepared by someone else.
-
-The next time you’re doing due diligence on a company, cross-check all calculations yourself.
+Don’t rely blindly on any portal or report. Do your own due-diligence.Cross-check the numbers with your calculations.
 
 _**Trust, but verify.**_
+
+Though the websites and portals do their best, there are lots of nuances in the footnotes and schedules which are hard to capture. This mandates the due diligence from the investors and also provides opportunities to them.
 
 To understand how to use a screener, you might want to check this out
 
