@@ -9,15 +9,15 @@ description: >-
 
 ## Introduction
 
-Though stock-screeners calculate a lot of things, you must do you own calculations too. You will miss a lot of good opportunities or make some expensive mistakes if you consider only the pre-calculated values.
+Though stock-screeners calculate a lot of things, you must do your own calculations too. You will miss a lot of good opportunities or make some expensive mistakes if you consider only the pre-calculated values.
 
-The objective of this article is not to demean the websites but to show the importance of your own calculations.
+The objective of this article is to explain the importance of your own calculations. The article provides examples where the screening portals might not give right results. The examples are not to demean any portal but to explain the reasons for the difference in numbers across websites.
 
 ----
 
 ## Examples of dividend yield
 
-Lets consider the dividend yield of Britannia Industries as on 29th April 2021:
+Lets consider the dividend yield of Britannia Industries as on 29th April 2021 [^archives](#britannia-industries-dividend-yield):
 
 ```
 Screener.in:    4.18%
@@ -31,7 +31,7 @@ Depends on your judgement on how repeatable these dividends are
 The differences are because of different treatments of interim dividends. While `screener.in` considers all the interim dividends of FY21, the `MoneyControl` considers only FY20's dividends. `MorningStar` considered only one of the two interim dividends (probably assuming the other one as a one time special dividend).
 
 
-Another interesting case is of Majesco. The dividend yield as on 29th April 2021 on various websites is:
+Another interesting case is of Majesco. The dividend yield as on 29th April 2021 on various websites is [^archives](#majesco-dividend-yield):
 
 ```
 Screener.in:              1,353 %
@@ -50,7 +50,7 @@ Relying on *any* screener and buying highest dividend yields shares blindly can 
 
 ## Examples of PE Ratio
 
-Let's consider PE ratio of ONGC on different websites as on 29th April 2021:
+Let's consider PE ratio of ONGC on different websites as on 29th April 2021 [^archives](#ongc-pe-ratio):
 
 ```
 MorningStar.in:           shows blank
@@ -103,7 +103,7 @@ Screening companies on margins can often yield incorrect results for:
 
 ## Return ratios
 
-In case of Abbott India, the ROIC reported as on 29th April 2021 is:
+In case of Abbott India, the ROIC reported as on 29th April 2021 is [^archives](#abbott-india-roic):
 
 ```
 Screener.in:        22.90%
@@ -137,3 +137,33 @@ We've reached out to some of the teams behind these screeners and have pointed o
 
 Tijori Finance moved to paid subscription model now
 {% endhint %}
+
+
+## Footnotes
+
+### Web-archives for case studies
+
+#### Britannia Industries dividend yield
+- [Company's dividend history](../../.gitbook/assets/britannia-bseindia.png)
+- [Screener.in](https://web.archive.org/web/20210430170137/https://www.screener.in/company/BRITANNIA/consolidated/)
+- [MoneyControl](https://web.archive.org/web/20210430170457/https://www.moneycontrol.com/india/stockpricequote/food-processing/britanniaindustries/BI)
+- [MorningStar.in](../../.gitbook/assets/britannia-morningstar.png)
+
+#### Majesco dividend yield
+- [Company's presentation about dividend](https://www.bseindia.com/xml-data/corpfiling/AttachHis/ff82752d-3368-4413-8c00-7238c5dc17d3.pdf)
+- [Screener.in](https://web.archive.org/web/20210430172013/https://www.screener.in/company/MAJESCO/consolidated/)
+- [MorningStar.in](../../.gitbook/assets/majesco-morningstar.png)
+- [ValueResearchOnline.com](../../.gitbook/assets/majesco-vro.png)
+
+#### ONGC PE Ratio
+- [Company's exceptional losses](https://www.bseindia.com/xml-data/corpfiling/AttachHis/eef5c229-4190-43f2-8ac7-31092008db57.pdf#page=7)
+- [MorningStar.in](../../.gitbook/assets/ongc-morningstar.png)
+- [Screener.in](https://web.archive.org/web/20210430172013/https://www.screener.in/company/MAJESCO/consolidated/)
+- [ValueResearchOnline.com](../../.gitbook/assets/ongc-vro.png)
+- [NseIndia](../../.gitbook/assets/ongc-nseindia.png)
+- [MoneyControl.com](../../.gitbook/assets/ongc-moneycontrol.png)
+
+#### Abbott India ROIC
+- [Screener.in](../../.gitbook/assets/screener-roic-light.png)
+- [MorningStar.in](../../.gitbook/assets/morningstar-roic-light.png)
+- [TijoriFinance.com](../../.gitbook/assets/tijori-roic-light.png)
