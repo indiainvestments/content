@@ -23,7 +23,7 @@
   * [Should I invest in smallcase?](faqs/stocks/is-smallcase-a-good-investment-returns-look-good.md)
   * [What is the best app for buying or trading stocks?](faqs/stocks/what-is-the-best-app-for-buying-or-trading-stocks.md)
   * [Which screener\(s\) should I use?](faqs/stocks/which-screener.md)
-  * [The Stock Market Has Crashed. Which Stocks Should I Buy?](faqs/stocks/the-stock-market-has-crashed.-which-stocks-should-i-buy.md)
+  * [The Stock Market Has Crashed. Which Stocks Should I Buy?](faqs/stocks/stock-market-crash-which-stocks-should-i-buy.md)
 * [Foreign Investing](faqs/foreign-invest/README.md)
   * [Why should I invest in the US markets?](faqs/foreign-invest/why-should-i-invest-in-the-us-markets.md)
   * [How should I invest in US equity?](faqs/foreign-invest/how-should-i-invest-in-us-equity.md)
