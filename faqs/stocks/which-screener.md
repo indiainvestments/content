@@ -9,77 +9,124 @@ description: >-
 
 ## Introduction
 
-Even though screeners are useful in finding out the investment opportunities which suits your criteria and to monitor the existing investment, it might not be a good idea to take a screener at its face value.
+Though stock-screeners calculate a lot of things, you must do your own calculations too. You will miss a lot of good opportunities or make some expensive mistakes if you consider only the pre-calculated values.
 
-You might see an opportunity or a red-flag from these screeners. However, it could easily just be a calculation error, or usage of incorrect formula, or not removing an outlier.
+The objective of this article is to explain the importance of your own calculations. The article provides examples where the screening portals might not give right results. The examples are not to demean any portal but to explain the reasons for the difference in numbers across websites.
 
-This article is to sensitize you that you might have to do more research rather than just going with the presented data from the UI of a screener.
+----
 
-## Examples of incorrect data in screeners
+## Examples of dividend yield
 
-We've come across some incorrect computations and results that are outright wrong. We've also informed the teams behind these screeners. At the time of writing this, these have not been addressed.  
-  
-It's our duty to warn others to be mindful of these, while they embark on their research.
+Lets consider the dividend yield of Britannia Industries as on 29th April 2021 [^archives](#britannia-industries-dividend-yield):
 
-Following are a few examples of such issues we'd noticed when we were doing this research into existing screeners.
+```
+Screener.in:    4.18%
+MoneyControl:   0.95%
+MorningStar.in: 1.78%
 
-### Gross Profit Margin
+Correct value:  ~2-5%
+Depends on your judgement on how repeatable these dividends are
+```
 
-The Gross Profit Margin on screener.in for all IT companies, including Tata Consultancy Services \(TCS\), is either 100%, or close to 100%.
+The differences are because of different treatments of interim dividends. While `screener.in` considers all the interim dividends of FY21, `MoneyControl` considers only FY20's dividends. `MorningStar` considered only one of the two interim dividends (probably assuming the other one as a one time special dividend).
 
-![Gross Profit Margin of IT companies on screener.in - Dark Mode](../../.gitbook/assets/screener-gpm-dark.png)
 
-![Gross Profit Margin of IT companies on screener.in - Light Mode](../../.gitbook/assets/screener-gpm-light.png)
+Another interesting case is that of Majesco. The dividend yield as on 29th April 2021 on various websites is [^archives](#majesco-dividend-yield):
 
-This basically implies that TCS has nearly ₹0 worth of expenses and all their sales is translated into gross profit.
+```
+Screener.in:              1,353 %
+MorningStar.in:           1,351 %
+ValueResearchOnline.com:  1,355 %
+(Yeah, 1000+% in all the cases)
 
-For those who’re unfamiliar, gross profit is the operational sales of a company minus its COGS \(**C**ost **O**f **G**oods **S**old\).
+Correct value:            ~0-5%
+```
 
-Yeah, TCS doesn’t sell goods but it does have significant employee expenses. Since a services company like TCS doesn’t have goods in the traditional sense, we have to use their employee expenses to arrive at a meaningful gross profit margin figure.  
-  
-To say that gross profit margin of TCS is 100% is simply incorrect.
+The company sold off its US subsidiary and distributed most of the proceeds from the sale. The US subsidiary contributed over 90% of the company's revenues and assets. Thus it is safe to assume it was a one time dividend. The future dividend yield in such a case would be around 0 to 5%.
 
-### Return on Capital Invested
+Relying on *any* screener and buying highest dividend yields shares blindly can make costly errors in such cases.
 
-ROIC \(**R**eturn **O**n **I**nvested **C**apital\) is also wildly incorrect on screener.in, and MorningStar India.  
-  
-Using Abbott India \(NSE: ABBOTINDIA\) as an example, the ROIC of Abbott India on screener.in is mentioned as 22.90%,but in reality, it is closer to 138%.
+----
 
-![ROIC of Abbott India on screener.in - Dark Mode](../../.gitbook/assets/screener-roic-dark.png)
+## Examples of PE Ratio
 
-![ROIC of Abbott India on screener.in - Light Mode](../../.gitbook/assets/screener-roic-light.png)
+Let's consider PE ratio of ONGC on different websites as on 29th April 2021 [^archives](#ongc-pe-ratio):
 
-Note that the ROIC of Sanofi \(NSE: SANOFI\) is mentioned as 31.54% on screener but in reality, it is closer to 41%.
+```
+MorningStar.in:           shows blank
+Screener.in:              13
+ValueResearchOnline.com:  144
+NseIndia:                 79
+MoneyControl.com:         146
+```
 
-Although Abbott has a much higher ROIC than Sanofi, screener.in paints a different picture altogether. Calling it misleading wouldn’t be incorrect.
+The company reported:
+```
+Standalone TTM EPS:       ₹ 1.32
+Consolidated TTM EPS:     ₹ 0.73
+The price was:            ₹ 104
+Exceptional losses:     ~ ₹ 7.98 / share
 
-Morning Star seems to have made the same mistake.
+Exception losses were of 4899 Cr pre-tax on an old GST liability.
+```
 
-![ROIC of Abbott India on MorningStar India - Dark Mode](../../.gitbook/assets/morningstar-roic-dark.png)
+The differences across websites is because:
+- `ValueResearchOnline` and `MoneyControl` considered *consolidated* EPS as reported by the company.
+- `Screener.in` considered *consolidated* EPS but added back the exceptional losses.
+- `BseIndia.com` and `NseIndia.com` considered *standalone* EPS. 
 
-![ROIC of Abbott India on MorningStar India - Light Mode](../../.gitbook/assets/morningstar-roic-light.png)
+The correct PE depends on your individual judgement on how you interpret the impact of exceptional items on future earnings.
 
-On this one aspect, kudos to Tijori Finance for presenting a relatively correct calculation of ROIC for Abbott India.
+The PE based on last 5 years average earnings will be 8.29. This is what Benjamin Graham recommends to use in such cases.
 
-![ROIC of Abbott India on Tijori Finance - Dark Mode](../../.gitbook/assets/tijori-roic-dark.png)
+----
 
-![ROIC of Abbott India on Tijori Finance - Light Mode](../../.gitbook/assets/tijori-roic-light.png)
+## Operating margins and gross margins
 
-### Some Causes of these inaccuracies
+The text-book definition of gross profit margin (GPM) is `sales - cogs`.
 
-One of the components in the calculation of ROIC is Capital Invested and it excludes all non-operational assets that a company has. Cash and Cash Equivalents are generally not considered operational assets, but Screener.in and Morning Star don’t seem to consider this factor for some reason. Since they end up including Cash and Cash Equivalents in Capital Invested, ROIC is incorrectly penalized for companies with high amounts of cash on hand.
+`COGS` is cost of goods sold.
 
-ROIC is also a bit hard to calculate and get right so this may have been another factor for inaccuracy. Some screeners don’t even include ROIC for this reason.
+Most websites will show the gross margins on this standard definition. However, this can sometimes be misleading.
+
+Example in case of TCS - `screener.in` shows the GPM as 100%. This is because TCS has no inventory. But the correct metric for `COGS` in this case should be their employee cost.
+
+Similarly in case of banks, most websites (eg `screener.in`), don't consider their interest cost in OPM (operating profit margin) and GPM (gross profit margin). Thus these numbers are shown exceptionally high.
+
+Screening companies on margins can often yield incorrect results for:
+- Insurance companies
+- Banks
+- Finance companies
+- Mining companies
+
+----
+
+## Return ratios
+
+In case of Abbott India, the ROIC reported as on 29th April 2021 is [^archives](#abbott-india-roic):
+
+```
+Screener.in:        22.90%
+MorningStar.in:     21.53%
+TijoriFinance.com:  131%
+Correct value:     ~138%
+```
+
+The company held fixed-deposits (cash equivalents) of ₹ 2,197 Cr in FY20. While `TijoriFinance` excluded these cash-equivalents in the calculation of capital employed, other two websites didn't exclude it.
+
+These differences in the methods of calculating ROCE, ROIC, ROA and other return ratios can yield wildly different results. You can sometimes miss some interesting companies because their calculated return might be much lower than their economic return ratios.
+
+----
 
 ## Summary and Wrap-up
 
-Every screener is bound to get inaccuracies whether it's screener.in, MorningStar, Tijori Finance, or some new entrant in this space.
+The auto-calculated ratios on websites can often be different from manual calculations. Those calculations will often miss sector specific adjustments or "special cases" which are too frequent in the investing world.
 
-Don’t rely on any of the ready-made screeners. Don’t trust the numbers you see on a screener that’s been prepared by someone else.
-
-The next time you’re doing due diligence on a company, cross-check all calculations yourself. _****_
+Don’t rely blindly on any portal or report. Do your own due-diligence.Cross-check the numbers with your calculations.
 
 _**Trust, but verify.**_
+
+Though the websites and portals do their best, there are lots of nuances in the footnotes and schedules which are hard to capture. This mandates the due diligence from the investors and also provides opportunities to them.
 
 To understand how to use a screener, you might want to check this out
 
@@ -91,3 +138,33 @@ We've reached out to some of the teams behind these screeners and have pointed o
 Tijori Finance moved to paid subscription model now
 {% endhint %}
 
+
+## Footnotes
+
+### Web-archives for case studies
+
+#### Britannia Industries dividend yield
+- [Company's dividend history](../../.gitbook/assets/britannia-bseindia.png)
+- [Screener.in](https://web.archive.org/web/20210430170137/https://www.screener.in/company/BRITANNIA/consolidated/)
+- [MoneyControl](https://web.archive.org/web/20210430170457/https://www.moneycontrol.com/india/stockpricequote/food-processing/britanniaindustries/BI)
+- [MorningStar.in](../../.gitbook/assets/britannia-morningstar.png)
+
+#### Majesco dividend yield
+- [Company's sale of its US subsidiary](https://www.business-standard.com/article/markets/majesco-hits-upper-circuit-on-board-nod-to-sell-us-arm-mastek-surges-20-120072100526_1.html)
+- [Company's presentation about dividend](https://www.bseindia.com/xml-data/corpfiling/AttachHis/ff82752d-3368-4413-8c00-7238c5dc17d3.pdf)
+- [Screener.in](https://web.archive.org/web/20210430172013/https://www.screener.in/company/MAJESCO/consolidated/)
+- [MorningStar.in](../../.gitbook/assets/majesco-morningstar.png)
+- [ValueResearchOnline.com](../../.gitbook/assets/majesco-vro.png)
+
+#### ONGC PE Ratio
+- [Company's exceptional losses](https://www.bseindia.com/xml-data/corpfiling/AttachHis/eef5c229-4190-43f2-8ac7-31092008db57.pdf#page=7)
+- [MorningStar.in](../../.gitbook/assets/ongc-morningstar.png)
+- [Screener.in](https://web.archive.org/web/20210430172013/https://www.screener.in/company/MAJESCO/consolidated/)
+- [ValueResearchOnline.com](../../.gitbook/assets/ongc-vro.png)
+- [NseIndia](../../.gitbook/assets/ongc-nseindia.png)
+- [MoneyControl.com](../../.gitbook/assets/ongc-moneycontrol.png)
+
+#### Abbott India ROIC
+- [Screener.in](../../.gitbook/assets/screener-roic-light.png)
+- [MorningStar.in](../../.gitbook/assets/morningstar-roic-light.png)
+- [TijoriFinance.com](../../.gitbook/assets/tijori-roic-light.png)
