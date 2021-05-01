@@ -17,7 +17,7 @@ The objective of this article is to explain the importance of your own calculati
 
 ## Examples of dividend yield
 
-Lets consider the dividend yield of Britannia Industries as on 29th April 2021 [^archives](#britannia-industries-dividend-yield):
+Lets consider the dividend yield of Britannia Industries as on 29th April 2021 [^archives](./#britannia-industries-dividend-yield):
 
 ```
 Screener.in:    4.18%
