@@ -68,7 +68,7 @@ The following table is a comparison-at-a-glance for these discount brokers.
 | Equity Futures | 20 Rs./Order | NA | Rs. 10/Order | Rs. 20 or 0.05%/Order \(whichever is lower\) | Rs. 20 or 0.03%/Order \(whichever is lower\) |
 | Equity Options | 20 Rs./Order | NA | Rs. 10/Order | Rs. 20 / Order | Rs. 20 or 0.03%/Order \(whichever is lower\) |
 | **Fund Transfer Options** | - | - | - | - | - |
-| UPI Transfer Time / Fees | NA | Immediate / Free | Immediate / Free | NA | Immediate / Free |
+| UPI Transfer Time / Fees | NA | Immediate / Free | Immediate / Free | Immediate / Free | Immediate / Free |
 | Instant Payment Gateway Time / Charges | NA | Immediate via Net banking / Free | Immediate via Net banking & Debit Card / Free | 22 banks / 7Rs+tax | 25 banks / 9Rs+tax |
 | NEFT / RTGS Time / Fees | 2-10Hrs / Free | NA | NA | 2-10 Hours / Free | 2-10 Hours / Free |
 | IMPS Time / Feed | 10 Min. / Free | NA | NA | NA | 10 Min. / Free |

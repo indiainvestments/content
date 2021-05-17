@@ -1,3 +1,7 @@
+---
+description: Investing in child plans
+---
+
 # Child Plan
 
 Basic Principles:

@@ -53,7 +53,7 @@ One's fees will vary depending on the bank or service one uses, and tends to get
 | ₹50,000 | ₹750 | ₹49,250 | ₹2500 | ₹46,750 | -6.5% |
 | ₹1,00,000 | ₹900 | ₹99,100 | ₹2500 | ₹96,600 | -3.4% |
 | ₹5,00,000 | ₹1,250 | ₹4,98,750 | ₹2500 | ₹4,96,250 | -0.75% |
-| ₹10,00,000 | ₹1,700 | ₹4,98,300 | ₹2500 | ₹4,95,800 | -0.42% |
+| ₹10,00,000 | ₹1,700 | ₹9,98,300 | ₹2500 | ₹9,95,800 | -0.42% |
 
 {% hint style="warning" %}
 Remittance charges may vary from bank to bank. For simplicity, we’ve used the average of present remittance charges across HDFC, ICICI, and SBI. You may notice a slight difference depending on which bank you use.

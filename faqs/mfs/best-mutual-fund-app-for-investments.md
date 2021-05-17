@@ -60,7 +60,7 @@ Available functionalities or missing features of these platforms are captured be
 | TAX Statements | Yes | Yes | No | For Prime members | Yes | No | No | Yes | Yes |
 | History Tracking | No | Yes | Yes | Yes | Yes | Yes | No | Yes | Yes |
 | Automated Reinvestment | No | No | No | No | No | No | No | Yes | No |
-| Skip an SIP |  | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| Skip an SIP | Yes | Yes | No | Yes | Yes | Yes | Yes | Yes | Yes |
 | NAV Cutoff Time | Before AMC cut-off time |  | Before AMC |  | Same as AMC | Same as AMC |  |  | Same as AMC |
 
 

@@ -1,3 +1,10 @@
+---
+description: >-
+  Decide on a cover for your term insurance that works for you as the one paying
+  premium every year, and works for your dependents who should receive a large
+  sum if something were to happen to you
+---
+
 # How to Evaluate Life Insurance Needs
 
 **Things to ponder over**

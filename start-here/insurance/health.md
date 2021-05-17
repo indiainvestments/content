@@ -1,3 +1,7 @@
+---
+description: All things health insurance
+---
+
 # Health
 
 [How to Buy Health Insurance](http://www.reddit.com/r/IndiaInvestments/comments/2h3r0a/how_to_buy_a_health_insurance_policy_steps_and/) - this includes a pointer regarding Room Sublimits.

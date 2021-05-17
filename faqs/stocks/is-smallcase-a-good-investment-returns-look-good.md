@@ -1,8 +1,8 @@
 ---
 description: >-
-  Smallcase has tools which can aid in managing a stock portfolio better than
-  most brokerage options. But do your own due diligence before you invest in a
-  smallcase because the CAGR looks great.
+  Smallcase has tools which can help managing a stock portfolio better than most
+  platforms. But do your own due diligence, before you invest in a smallcase;
+  and not just because the CAGR looks great.
 ---
 
 # Should I invest in smallcase?
