@@ -151,3 +151,7 @@
   * [Excel Series Style Guide](contributors/style-guides/excel-series-style-guide.md)
   * [Stocks Style Guide](contributors/style-guides/stocks-style-guide.md)
 
+## Discord
+
+* [How to Search the Wiki From Discord](discord/search-wiki-discord.md)
+
