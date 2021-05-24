@@ -4,17 +4,17 @@ description: Different categories and sub-categories of mutual funds explained
 
 # Types of Mutual Funds
 
-### Income Objective
+## Income Objective
 
 You have to opt for dividend option if you want to get the dividend declared to come to your account. Alternatively, you can opt for growth option and ask for a specific amount of money as per needs to get the actual income. This can be automated with SWP or it can be done as per your request.
 
-### Liquid Funds
+## Liquid Funds
 
-These are a type of Money-market funds. These types of mutual funds invest in highly liquid and high credit rated securities with very short maturity time frames \(usually less than 91 days\) like CD \(certificate of deposit which is a big FD\), government securities, commercial papers, and corporate bonds \(AA+ and above, mostly\).  
-  
+These are a type of Money-market funds. These types of mutual funds invest in highly liquid and high credit rated securities with very short maturity time frames \(usually less than 91 days\) like CD \(certificate of deposit which is a big FD\), government securities, commercial papers, and corporate bonds \(AA+ and above, mostly\).
+
 They usually pay higher interest rates than corresponding FD or savings account rates and are extremely safe. The last 1 year average return is around 8.9% and the forward yield is around 8.7%. The 5- year return has been 8.1%. \(Time-End Nov 2014\). Source – Morningstar.in. Reliance MF has an ATM card which you can associate with their funds. [Link](https://www.reliancemutual.com/investor-services/innovative-products/reliance-any-time-money-card). I don’t have personal experience with it.
 
-### Bond Funds \(Debt Funds\)
+## Bond Funds \(Debt Funds\)
 
 Bond funds have the aim to earn more than the liquid funds by investing in a portfolio of bonds and other instruments. Depending upon the underlying specific objective, bond funds can be of the following types:
 
@@ -32,7 +32,7 @@ These use bonds for up to 3-6 months in most cases. They can invest in governmen
 
 These use government \(gilt\) bonds, which have longer maturities. Currently, some of the funds have average maturities of 20-25 years.
 
-### Growth Objective
+## Growth Objective
 
 These funds have the objective of increasing the value of the fund. The equity funds will come under this group.
 
@@ -60,13 +60,13 @@ These funds invest in a particular region / country of the globe.
 
 **Ethical / Socially Responsible Funds** These funds do not invest in companies associated with “sin products” like gambling, cigarette, porn, alcohol, etc. The Shariah related funds come under this.
 
-### GROWTH AND INCOME OBJECTIVE
+## GROWTH AND INCOME OBJECTIVE
 
 **Balanced Funds** These have variable allocation to equity and debt. There are equity-oriented hybrid funds which have &gt;65% equity allocation, while others are debt-oriented hybrid funds which have lesser amounts of equity \(can go to 5-10%\). They have an in-built asset re-allocation based on changes in the values of the securities.
 
 **Asset Allocation funds** These funds use other funds to manage the assets. Many life cycle funds and dynamic ratio funds come under this head.
 
-### ETF
+## ETF
 
 Exchange traded funds are a separate type of mutual fund. These funds can be bought / sold during the trading hours on the Exchange and these track the price of the underlying portfolio. So, a nifty index ETF can have a variable NAV throughout the trading period, while a nifty index mutual fund will only have a single NAV for the day declared at the end of the trading hours.
 

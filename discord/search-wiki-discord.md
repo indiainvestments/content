@@ -8,7 +8,7 @@ description: >-
 
 You can search this wiki from our Discord itself, using India Investments bot's slash command.
 
-{% embed url="https://www.youtube.com/watch?v=aGFfAYaZfy4" %}
+{% embed url="https://www.youtube.com/watch?v=aGFfAYaZfy4" caption="" %}
 
 ## Steps
 
@@ -25,8 +25,8 @@ You can search this wiki from our Discord itself, using India Investments bot's 
 
 ## How it'd look
 
-Depending on your query, bot might return more than one or only a single result.  
-  
+Depending on your query, bot might return more than one or only a single result.
+
 Here's how it'd probably look \(exact content would vary, depending on your query\).
 
 ![Discord Slash Command Search Result for Querying Wiki - Desktop](../.gitbook/assets/discord-slash-command-result-desktop.png)

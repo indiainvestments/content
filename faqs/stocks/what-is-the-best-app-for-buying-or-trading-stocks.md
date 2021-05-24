@@ -8,9 +8,11 @@ description: >-
 
 ## Intro 💫
 
-In India, there are plenty of small and big brokerage platforms available to you, that let you open trading and demat accounts for equity, bonds, ETFs \(Exchange-traded fund\), commodities etc. Read this to get a glimpse of features / functionality of popular brokerage services, and the costs you'd be incurring if you were to go with one of these. 
+In India, there are plenty of small and big brokerage platforms available to you, that let you open trading and demat accounts for equity, bonds, ETFs \(**E**xchange **T**raded **F**und\), commodities etc.  
+  
+Read this to get an overview of features / functionality of popular brokerage services, and the costs you'd be incurring if you were to go with one of these. 
 
-Broadly speaking, there are two types of brokerage services
+Broadly speaking, there are two types of brokerage services in India at present:
 
 * Discount Broker
 * Full Service Broker
@@ -21,23 +23,25 @@ These are the traditional stock brokers, most commonly sharing a parent corporat
 
 * Brokerage reports and analysis
 * Stock advisory
-* Portfolio management / Wealth management services etc.
+* Portfolio management / wealth management services etc.
 
 Typically, these platforms have both online and offline presence to serve you.
 
 Axis Direct, Citibank Securities, HDFC Securities, ICICI Direct, Kotak Securities, Motilal Oswal Financial services, SBI Securities  etc. are examples of full service brokers.
 
-A tell-tale sign of a full service broker, is they charge a percentage of your investment as fee, which means costs scale with investment amount.
+A tell-tale sign of a full service broker, is that they charge a percentage of your investment as brokerage fee, which means costs scale with investment amount.
 
 ## Discount Broker [💻](https://emojipedia.org/laptop/)
 
-After the penetration of internet, it became less and less necessary to have a physical location to cater the customer needs.
+After the penetration of internet, it became less and less necessary to have a physical location to cater to the customers' needs.
 
 So with reduced staff by not having physical customer service locations, discount brokers are offering the trade with discounted rate.
 
-They also don't provide the research / advisory services, portfolio  or wealth management services etc. to keep the operational costs low.
+They also don't provide the research / advisory services, portfolio or wealth management services etc. to keep the operational costs low.
 
-As a result, they can afford to charge lower trading fees. Most discount brokers have zero fee on equity delivery trades, and close-to fixed fee for intraday trading / BTST etc.
+As a result, they can afford to charge lower trading fees. Most discount brokers have zero fee on equity delivery trades, and close-to fixed fee for intraday trading / BTST etc.  
+  
+One also needs to keep in mind _economics at scale_. By offering lower costs, these services are reducing barrier to entry. That means larger number of users, and higher trade volumes. Even if per trade costs are lower, it has the potential to help these discount brokers pocket higher revenue than some of the full service brokers.
 
 Such businesses want the volume, and while they operate on lower revenue margins per trade \(not to confuse with margin provided by a broker\) compared to a full service brokerage; they make bank on volume.
 
@@ -51,9 +55,7 @@ A few popular ones are listed below, in **alphabetical order**.
 
 ## Comparison of Discount Service Brokers
 
-The following table is a comparison-at-a-glance for these discount brokers.
-
-
+The following table is a comparison-at-a-glance for these discount brokers. The information presented in this table maybe out of date at any moment in time. We'll do our best to update this table whenever we come across new information.
 
 |   | 5Paisa | Groww | PayTm Money | Upstox | Zerodha |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -74,8 +76,11 @@ The following table is a comparison-at-a-glance for these discount brokers.
 | IMPS Time / Feed | 10 Min. / Free | NA | NA | NA | 10 Min. / Free |
 | Cheque Time / Fees | NA | NA | NA | 3-5 Days \(250Rs+tax- For dishonored margin cheque\) | 3-5 Days / 350Rs+tax |
 | **Number of accounts** | 0.25 Million | 1 Million | 6 million | 2 million | 4 million |
+| **User Experience \(UX\) and User Interface \(UI\)** |  |  |  | Imposes outdated password length restrictions, doesn't have proper 2FA on their website |  |
 
-\*Add-on pack: Some platforms offer subscriptions plans which will enable to advanced users to get more features, reports, reduced trade fee etc. for a monthly fee
+\*Add-on pack: Some platforms offer subscriptions plans which will enable to advanced users to get more features, reports, reduced trade fee etc. for a monthly fee.  
+  
+\*Number of accounts: It's indicative of trust, as larger user-base might mean more audits & compliance requirements. These numbers change everyday, so exact value is not that important. By the time you're reading it, most likely exact number of accounts on each of these platforms could be higher than what you see in the table above.
 
 The above table compares some popular discount service brokers, in terms of the following parameters:
 
@@ -89,7 +94,7 @@ The above table compares some popular discount service brokers, in terms of the 
 
 Selecting a brokerage service might require some care. Unlike picking a mutual fund app, it's not that easy to migrate between brokers. This is not an easily reversible decision.
 
-Some brokerages make it so easy to trade, that you might end up placing too many orders, and lose big on brokerage charges.
+Some brokerages make it so easy to trade, that you might end up placing too many orders, and lose big on brokerage fees.
 
 Most brokers ideally provide a cost calculator to get an estimate of various fees & charges that might show up against your account, for the volume of trades you'd want to execute.
 
@@ -111,6 +116,4 @@ It doesn't just end at choosing a broker with decent fees and nice UI / UX. You'
 {% hint style="info" %}
 As per SEBI stipulation of BSDA \(**B**asic **S**ervice **D**emat **A**ccount\), there will not be any annual maintenance charges if your portfolio value is less than ₹50,000. However, if it is greater than ₹50,000 but less than ₹2,00,000, a charge of ₹100 will be levied. If the portfolio value exceeds ₹2,00,000, charges will be levied as applicable to a regular non-BSDA demat account.
 {% endhint %}
-
-
 
