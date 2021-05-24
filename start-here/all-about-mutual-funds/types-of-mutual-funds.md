@@ -44,7 +44,7 @@ These funds have the objective of increasing the value of the fund. The equity f
 
 **Flexi cap or Multi-cap funds**
 
-These have flexible mandate to invest in any group of stocks and not limited like the above 3 groups. They may additional restrictions like not investing in very small stocks. The idea is to invest in a particular group according to market conditions – so they can become large cap during one phase and small cap in another phase. Or they can have some money in large cap and some money in mid-small cap phase so as to have benefits of all worlds in a single fund.
+These have flexible mandate to invest in any group of stocks and not limited like the above 3 groups. They may have additional restrictions like not investing in very small stocks. The idea is to invest in a particular group according to market conditions – so they can become large cap during one phase and small cap in another phase. Or they can have some money in large cap and some money in mid-small cap phase so as to have benefits of all worlds in a single fund.
 
 **Sectoral Funds**
 
