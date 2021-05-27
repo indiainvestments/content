@@ -13,6 +13,12 @@ If you want to discuss anything on this website with other people, please check 
 
 [![](https://img.shields.io/reddit/subreddit-subscribers/indiainvestments?style=social)](https://reddit.com/r/indiainvestments) [![](https://img.shields.io/discord/546638391127572500)](https://discord.gg/hqBNg4u) [![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](./#contributors)
 
+## Beginner
+
+If you're just starting out, have never had to think about finances, investments etc., you can start from the link below.
+
+{% page-ref page="start-here/zero-to-investing/getting-started.md" %}
+
 ## Series
 
 {% hint style="info" %}
