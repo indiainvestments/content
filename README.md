@@ -19,6 +19,10 @@ If you're just starting out, have never had to think about finances, investments
 
 {% page-ref page="start-here/zero-to-investing/getting-started.md" %}
 
+## FAQs and How To
+
+You might be here because you've a specific query that just can't wait. Do browse through our common queries sections below, to see if your query already has been answered by us.
+
 ## Series
 
 {% hint style="info" %}
