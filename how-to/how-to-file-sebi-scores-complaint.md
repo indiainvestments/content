@@ -31,11 +31,11 @@ Broadly speaking, SEBI takes up complaints related to
 
 You can file the complaint in the online platform called SCORES provided by SEBI and track its status.
 
-## How to SCORES complaint 👩🏽‍🏫
+## How to register a complaint 👩🏽‍🏫
 
 Below are the steps to raise a complaint provided the issue had happened in the last 3 years
 
-1. Register account in the SCORES portal: [https://scores.gov.in/scores/Welcome.html](https://scores.gov.in/scores/Welcome.html)
+1. Register account in the SCORES portal: [https://scores.gov.in/scores/Welcome.html](https://scores.gov.in/scores/Welcome.html) 
 2. After login, go to Investor Corner -&gt; Complaint Registration 
 3. Provide details like name of entity, nature of complaint and category like Mutual Fund, Broker, Portfolio Manager etc. 
 4. Detail the complaint in less than 1000 words and attach any proof in PDF format if you have. 
