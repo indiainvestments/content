@@ -125,6 +125,7 @@
   * [Why You should not Opt for a Readymade Pension Plan](start-here/retirement/readymade-pension-plan.md)
   * [Studies of Long Term Portfolios and Retirement Withdrawal Rate Suggestions](start-here/retirement/long-term-portfolios-and-withdrawal-rate.md)
   * [Do-It-Yourself Retirement Plan](start-here/retirement/diy-retirement.md)
+* [Personal Finance](start-here/personal-finance.md)
 * [Behavioral Biases](start-here/behavioral-biases.md)
 * [ELI5 Series](start-here/eli5-series/README.md)
   * [Time Value of Money](start-here/eli5-series/time-value-of-money.md)
@@ -133,10 +134,6 @@
   * [ELI5 guide to Selecting an Equity Mutual Fund](start-here/eli5-series/eli5-guide-to-selecting-an-equity-mutual-fund.md)
   * [How do I start investing in mutual funds \[ELI5 series\]](start-here/eli5-series/how-do-i-start-investing-in-mutual-funds-eli5-series.md)
   * [Mis-selling of Insurance Products](start-here/eli5-series/mis-selling-of-insurance-products.md)
-
-## Old Wiki <a id="new-to-investing-and-eli5-series"></a>
-
-* [Personal Finance](new-to-investing-and-eli5-series/personal-finance.md)
 
 ## Contributors Section <a id="contributors"></a>
 
