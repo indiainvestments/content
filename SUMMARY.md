@@ -19,6 +19,7 @@
   * [Up to what age should I take term cover?](faqs/insurance/up-to-what-age-should-i-take-term-cover.md)
   * [Do I need my own health insurance? Employer already has group policy](faqs/insurance/do-i-need-my-own-health-insurance-employer-already-has-group-policy.md)
   * [Should I take top-up policy or super top-up?](faqs/insurance/top-up-vs-super-top-up.md)
+  * [Is it worth paying extra premium for term insurance?](faqs/insurance/extra-premium-term-cover.md)
 * [Stocks](faqs/stocks/README.md)
   * [Should I invest in smallcase?](faqs/stocks/is-smallcase-a-good-investment-returns-look-good.md)
   * [What is the best app for buying or trading stocks?](faqs/stocks/what-is-the-best-app-for-buying-or-trading-stocks.md)
