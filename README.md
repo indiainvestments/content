@@ -39,6 +39,8 @@ Here are some of the topics we presently cover in our wiki, in the form of their
 
 {% page-ref page="excel/s.md" %}
 
+{% page-ref page="bonds/s.md" %}
+
 ## License
 
 All the content here is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
