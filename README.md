@@ -23,6 +23,8 @@ If you're just starting out, have never had to think about finances, investments
 
 You might be here because you've a specific query that just can't wait. Do browse through our common queries sections below, to see if your query already has been answered by us.
 
+{% page-ref page="faqs/s.md" %}
+
 ## Series
 
 {% hint style="info" %}
