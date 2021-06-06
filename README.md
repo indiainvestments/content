@@ -29,7 +29,7 @@ You might be here because you've a specific query that just can't wait. Do brows
 Our wiki is a work-in-progress, constantly being edited, reviewed, and updated. We've done our best to review these, but if you notice spelling errors, or other discrepancies, kindly reach out to us so we can fix these.
 {% endhint %}
 
-Here are some of the topics we presently cover in our wiki
+Here are some of the topics we presently cover in our wiki, in the form of their own dedicated series:
 
 ## License
 
