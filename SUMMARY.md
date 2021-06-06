@@ -39,6 +39,7 @@
 
 ## How To
 
+* [How To](how-to/s.md)
 * [How to transfer shares from one demat account to another](how-to/how-to-transfer-shares-from-one-demat-account-to-another.md)
 * [How to move from one mutual fund platform to another](how-to/how-to-move-from-one-mutual-fund-platform-to-another.md)
 * [How to switch a Mutual Fund from Regular to Direct Plan](how-to/how-to-switch-the-mutual-fund-from-regular-to-direct-plan.md)
