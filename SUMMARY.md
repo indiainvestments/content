@@ -50,7 +50,7 @@
 
 ## STOCKS
 
-* [Stocks](stocks/stocks.md)
+* [Stocks](stocks/s.md)
 * [Introduction to the Stocks Series](stocks/introduction-to-the-stocks-series.md)
 * [Can You Beat the Market?](stocks/can-you-beat-the-market.md)
 * [Reading an Annual Report](stocks/reading-an-annual-report.md)
