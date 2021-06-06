@@ -5,6 +5,7 @@
 
 ## FAQs
 
+* [FAQs](faqs/s.md)
 * [Mutual Funds & ETFs](faqs/mfs/README.md)
   * [What is the best mutual fund app for investments?](faqs/mfs/best-mutual-fund-app-for-investments.md)
   * [Why should I invest in Direct Plans instead of Regular Plans?](faqs/mfs/direct-vs-regular.md)
