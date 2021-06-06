@@ -25,6 +25,8 @@ You might be here because you've a specific query that just can't wait. Do brows
 
 {% page-ref page="faqs/s.md" %}
 
+{% page-ref page="how-to/s.md" %}
+
 ## Series
 
 {% hint style="info" %}
