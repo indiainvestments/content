@@ -237,6 +237,18 @@
         "code",
         "question"
       ]
+    },
+    {
+      "login": "srinivesh",
+      "name": "srinivesh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79801397?v=4",
+      "profile": "https://github.com/srinivesh",
+      "contributions": [
+        "doc",
+        "tutorial",
+        "question",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
