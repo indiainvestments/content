@@ -118,20 +118,19 @@ Follow these steps to validate each price computation row:
   We’d leave the _Total_ column untouched, and keep our computed results from Excel formula in this newly created column.  
 
 * In the first row of this new column, enter the same formula, as you’d done it earlier - start with `=` symbol, then select the two columns and separate the cell IDs with `*`. 
-* Go to the bottom right end of this newly created cell, there’s a small square.  
+* Go to the bottom right end of this newly created cell, there’s a small square. 
+
+![Notice the small blue square bottom-right of highlighted cell - Dark Mode](../.gitbook/assets/excel-drag.dark.png)
+
+![Notice the small blue square bottom-right of highlighted cell - Light Mode](../.gitbook/assets/excel-drag.light.png)
+
+Click on that, and while it remains clicked / pressed, drag it down to cover the other rows. You’d notice how the formula gets copied on the cells in other rows, but somehow magically Excel keeps selecting right cells from that row \(and not from the first row\).  
 
 
-  ![](../.gitbook/assets/excel-drag.dark.png)![](../.gitbook/assets/excel-drag.light.png)
+For example, if your first row’s relationship was `=D4*C4`, then second row would get `=D5*C5`, third row would get `=D6*C6`, and so on and so forth.  
 
 
-
-  Click on that, and while it remains clicked / pressed, drag it down to cover the other rows. You’d notice how the formula gets copied on the cells in other rows, but somehow magically Excel keeps selecting right cells from that row \(and not from the first row\).  
-
-
-  For example, if your first row’s relationship was `=D4*C4`, then second row would get `=D5*C5`, third row would get `=D6*C6`, and so on and so forth.  
-
-
-  Excel would keep incrementing row numbers in cell ID as you drag vertically down.
+Excel would keep incrementing row numbers in cell ID as you drag vertically down.
 
 Here’s a video to help guide you alone with the above steps:  
 
