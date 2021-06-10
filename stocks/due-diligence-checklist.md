@@ -28,7 +28,7 @@ description: A checklist to reference while performing due diligence on a compan
   * [ ] How is the product's market share split between domestic & international players? Which way is the market leaning now?
   * [ ] Who are the key players that set the trend for the sector? _\(in terms of pricing power, product innovation, market practices\)_
   * [ ] Who are the emerging players that could have material impact on the trend for the sector?
-  * [ ] What entry to barrier does the sector enjoy?
+  * [ ] What _barrier to entry_ does the sector enjoy?
 * **Industry Benchmarks / Key metrics**
   * [ ] Industry's preferred benchmark for capacity
   * [ ] Industry's preferred benchmark for utilization
