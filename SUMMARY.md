@@ -5,7 +5,7 @@
 
 ## FAQs
 
-* [FAQs](faqs/s.md)
+* [FAQs](faqs/index.md)
 * [Mutual Funds & ETFs](faqs/mfs/README.md)
   * [What is the best mutual fund app for investments?](faqs/mfs/best-mutual-fund-app-for-investments.md)
   * [Why should I invest in Direct Plans instead of Regular Plans?](faqs/mfs/direct-vs-regular.md)
@@ -39,7 +39,7 @@
 
 ## How To
 
-* [How To](how-to/s.md)
+* [How To](how-to/index.md)
 * [How to transfer shares from one demat account to another](how-to/how-to-transfer-shares-from-one-demat-account-to-another.md)
 * [How to move from one mutual fund platform to another](how-to/how-to-move-from-one-mutual-fund-platform-to-another.md)
 * [How to switch a Mutual Fund from Regular to Direct Plan](how-to/how-to-switch-the-mutual-fund-from-regular-to-direct-plan.md)
@@ -50,7 +50,7 @@
 
 ## STOCKS
 
-* [Stocks](stocks/s.md)
+* [Stocks](stocks/index.md)
 * [Introduction to the Stocks Series](stocks/introduction-to-the-stocks-series.md)
 * [Can You Beat the Market?](stocks/can-you-beat-the-market.md)
 * [Reading an Annual Report](stocks/reading-an-annual-report.md)
@@ -66,7 +66,7 @@
 
 ## EXCEL
 
-* [Excel](excel/s.md)
+* [Excel](excel/index.md)
 * [Excel for Fun and Profit](excel/intro.md)
 * [Reactive UI & Updates](excel/reactivity.md)
 * [Using External Data : Google Finance](excel/using-external-data-google-finance.md)
@@ -81,7 +81,7 @@
 
 ## BONDS
 
-* [Bonds](bonds/s.md)
+* [Bonds](bonds/index.md)
 * [Bond Basics](bonds/bond-basics.md)
 * [Government Securities](bonds/section-2-government-securities.md)
 * [Corporate Bonds](bonds/corporate-bonds.md)

@@ -23,9 +23,9 @@ If you're just starting out, have never had to think about finances, investments
 
 You might be here because you've a specific query that just can't wait. Do browse through our common queries sections below, to see if your query already has been answered by us.
 
-{% page-ref page="faqs/s.md" %}
+{% page-ref page="faqs/index.md" %}
 
-{% page-ref page="how-to/s.md" %}
+{% page-ref page="how-to/index.md" %}
 
 ## Series
 
@@ -35,11 +35,11 @@ Our wiki is a work-in-progress, constantly being edited, reviewed, and updated. 
 
 Here are some of the topics we presently cover in our wiki, in the form of their own dedicated series:
 
-{% page-ref page="stocks/s.md" %}
+{% page-ref page="stocks/index.md" %}
 
-{% page-ref page="excel/s.md" %}
+{% page-ref page="excel/index.md" %}
 
-{% page-ref page="bonds/s.md" %}
+{% page-ref page="bonds/index.md" %}
 
 ## License
 
