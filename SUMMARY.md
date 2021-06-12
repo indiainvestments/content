@@ -140,8 +140,7 @@
 
 ## Contributors Section <a id="contributors"></a>
 
-* [Contributors Section](contributors/index.md)
-* [How can I start contributing?](contributors/how-can-i-start-contributing.md)
+* [How Can I Start Contributing?](contributors/index.md)
 * [What is a Contributor License Agreement and why are we using it?](contributors/what-is-a-contributor-license-agreement-and-why-are-we-using-it/README.md)
   * [Contributor License Agreement](contributors/what-is-a-contributor-license-agreement-and-why-are-we-using-it/contributor-license-agreement.md)
 * [How to link FAQ via bot in Discord](contributors/how-to-link-faq-via-bot-in-discord.md)
