@@ -142,6 +142,7 @@
 
 ## Contributors Section <a id="contributors"></a>
 
+* [Contributors Section](contributors/index.md)
 * [How can I start contributing?](contributors/how-can-i-start-contributing.md)
 * [What is a Contributor License Agreement and why are we using it?](contributors/what-is-a-contributor-license-agreement-and-why-are-we-using-it/README.md)
   * [Contributor License Agreement](contributors/what-is-a-contributor-license-agreement-and-why-are-we-using-it/contributor-license-agreement.md)
@@ -153,8 +154,8 @@
   * [Excel Series Style Guide](contributors/style-guides/excel-series-style-guide.md)
   * [Stocks Style Guide](contributors/style-guides/stocks-style-guide.md)
 
-## Discord
+## Discord and Reddit
 
-* [How to Search the Wiki From Discord](discord/search-wiki-discord.md)
-* [I'm unable to send messages to stocks-fundamentals channel on Discord. Why?](discord/im-unable-to-send-messages-to-stocks-fundamentals-channel-on-discord-why.md)
+* [How to Search the Wiki From Discord](discord-and-reddit/search-wiki-discord.md)
+* [I'm unable to send messages to stocks-fundamentals channel on Discord. Why?](discord-and-reddit/im-unable-to-send-messages-to-stocks-fundamentals-channel-on-discord-why.md)
 

@@ -18,7 +18,7 @@ We've a setup that solves this problem - any active member can invoke the bot wi
 
 We'll explore next how to invoke this bot
 
-## List of tags 📚
+## List of Tags 📚
 
 We use Carl-bot's tag feature at present to achieve this.
 
@@ -70,13 +70,13 @@ Bot would delete your message, and add its own message, tagging `@beginnerinvest
 
 {% embed url="https://youtu.be/Jh9WnK6FPL4" caption="Invoking the bot for FAQ in Discord - Light Mode" %}
 
-## Pre-requisites ✋
+## Prerequisites ✋
 
 We expect you to familiarize yourself with all the FAQs, before starting with this.
 
 You can go through our FAQs using below link
 
+{% page-ref page="../faqs/index.md" %}
+
 If you're using the bot to invoke the FAQ, it's expected that you've yourself at the very least gone through that FAQ first.
-
-
 
