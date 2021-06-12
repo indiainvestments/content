@@ -41,6 +41,10 @@ Here are some of the topics we presently cover in our wiki, in the form of their
 
 {% page-ref page="bonds/index.md" %}
 
+We also have some miscellaneous entries which might be helpful.
+
+{% page-ref page="faqs/misc/" %}
+
 ## License
 
 All the content here is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
