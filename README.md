@@ -7,7 +7,7 @@ description: >-
 
 # Introduction
 
-IndiaInvestments is a community to discuss investments, insurance, finance, economy, and markets in India. This website is a collection of advice and information we have organized as a community.
+India Investments is a community to discuss investments, insurance, finance, economy, and markets in India. This website is a collection of advice and information we have organized as a community.
 
 If you want to discuss anything on this website with other people, please check out our sub-reddit and discord below.
 
@@ -34,6 +34,12 @@ Our wiki is a work-in-progress, constantly being edited, reviewed, and updated. 
 {% endhint %}
 
 Here are some of the topics we presently cover in our wiki, in the form of their own dedicated series:
+
+{% page-ref page="stocks/index.md" %}
+
+{% page-ref page="excel/index.md" %}
+
+{% page-ref page="bonds/index.md" %}
 
 ## License
 
