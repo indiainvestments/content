@@ -18,7 +18,7 @@ Popularly, compounding formula is written as $$P\times(1+r)^t$$.
 
 Instead of $$P\times(1+r)^t$$, where $$(1+r)^t$$ is being multiplied with the value of $$P$$; in _discounting_, we’d do the opposite, to denote **decay over time**.
 
-Discounted value of PP after a time duration $$t$$, can be written as $$\frac{P}{(1 + r)^t}$$
+Discounted value of $$P$$ after a time duration $$t$$, can be written as $$\displaystyle\frac{P}{(1 + r)^t}$$
 
 In case of compounding, with time, the final value increases.
 
