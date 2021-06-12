@@ -70,7 +70,7 @@ Mathematically, $$\displaystyle\frac{P_0}{(1 + r)^{[ \displaystyle\frac{(t_0 - t
 
 NPV \(**N**et **P**resent **V**alue\) of the above cashflow is sum of all discounted cashflows:
 
-$$NPV = P_0 + \displaystyle\frac{P_1}{(1 + r)^{[\frac{(t_1 - t_0)}{\Delta T}]}} + \displaystyle\frac{P_2}{(1 + r)^{[\displaystyle\frac{(t_2 - t_0)}{\Delta T}]}} + \displaystyle\frac{P_3}{(1 + r)^{[\frac{(t_3 - t_0)}{\Delta T}]}} + ... + \displaystyle\frac{P_{n-1}}{(1 + r)^{[\frac{(t_{n-1} - t_0)}{\Delta T}]}}$$
+$$NPV = P_0 + \displaystyle\frac{P_1}{(1 + r)^{[\displaystyle\frac{(t_1 - t_0)}{\Delta T}]}} + \displaystyle\frac{P_2}{(1 + r)^{[\displaystyle\frac{(t_2 - t_0)}{\Delta T}]}} + \displaystyle\frac{P_3}{(1 + r)^{[\displaystyle\frac{(t_3 - t_0)}{\Delta T}]}} + ... + \displaystyle\frac{P_{n-1}}{(1 + r)^{[\displaystyle\frac{(t_{n-1} - t_0)}{\Delta T}]}}$$
 
 Which can also be written as
 
