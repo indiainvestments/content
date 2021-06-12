@@ -28,9 +28,9 @@ No more asking others to share their pre-built excel calculator templates, to tr
 
 You’ll feel empowered to build these on your own, from scratch; and maintain or update the same.
 
-## Pre-requisites 
+## Prerequisites 
 
-* ➕➖ ✖️➗  
+* Familiarity with Basic Math  
 
 
   You don’t need to be a programmer or software developer in your day job.  
@@ -50,12 +50,12 @@ You’ll feel empowered to build these on your own, from scratch; and maintain o
   If you’ve a Google account or G-Suite account; you can use [Google Sheets for free](https://docs.google.com/spreadsheets).  
 
 
-  [LibreOffice](https://www.libreoffice.org/) and [OpenOffice](https://www.openoffice.org/) have their own implementations, called _Calc_. Most likely these would work as well; though we cannot say we’ve tried.  
+  [LibreOffice](https://www.libreoffice.org/) has its own implementation, called Calc. It would most likely work as well but we cannot confirm this.  
 
 
   On Mac OS X and iPhone / iPad, [Apple Numbers app](https://www.apple.com/in/numbers/) should be fine too.  
   
-  In this series on excel, we'd stick to using Google Sheets. There'd be some chapters where we'd explicitly call out how to do something specific, in MS Excel. But most of the series would focus on using one single tool - Google Sheets.  
+  In this series on excel, we'll stick to using Google Sheets. There'll be some chapters where we'll explicitly call out how to do something specific, in MS Excel. But most of the series would focus on using one single tool - Google Sheets.  
 
 * Access to a desktop / laptop / workstation is preferable  
 
