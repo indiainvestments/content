@@ -5,7 +5,7 @@ description: >-
   channel.
 ---
 
-# I cannot send messages to stocks-fundamentals channel on Discord. Why?
+# I'm unable to send messages to stocks-fundamentals channel on Discord. Why?
 
 {% hint style="success" %}
 **NOTE**: As of 1st April, 2021; we've opened this channel up for everyone on our Discord. It's our belief that the community now has enough guard-rails and helpful materials to fall back on, should anyone need help with discussing how to pick stocks.  
@@ -25,4 +25,6 @@ We evaluate these from time to time, and if your comments here on the server mee
 This is a privilege, and you've to earn it.
 
 For more information on how to analyze businesses or sectors, check our this corner of our wiki
+
+{% page-ref page="../stocks/index.md" %}
 

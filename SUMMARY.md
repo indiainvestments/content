@@ -35,7 +35,6 @@
   * [Where can I park money for a few days, a few months, or a few years?](faqs/misc/where-can-i-park-money-for-a-few-days-a-few-months-or-a-few-years.md)
   * [What are chit funds? Should I invest?](faqs/misc/explain-like-i-am-5-eli5-chit-funds.md)
   * [Is Gold a good investment now? It has gone up ~50% this year](faqs/misc/is-gold-a-good-investment-now-it-has-gone-up-50-this-year.md)
-  * [I cannot send messages to stocks-fundamentals channel on Discord. Why?](faqs/misc/i-cannot-send-messages-to-stocks-fundamentals-channel-on-discord.-why.md)
 
 ## How To
 
@@ -157,4 +156,5 @@
 ## Discord
 
 * [How to Search the Wiki From Discord](discord/search-wiki-discord.md)
+* [I'm unable to send messages to stocks-fundamentals channel on Discord. Why?](discord/im-unable-to-send-messages-to-stocks-fundamentals-channel-on-discord-why.md)
 
