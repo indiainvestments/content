@@ -2,5 +2,5 @@
 description: FAQs on all things mutual funds
 ---
 
-# Mutual Funds & ETFs
+# Mutual Funds and ETFs
 
