@@ -35,12 +35,6 @@ Our wiki is a work-in-progress, constantly being edited, reviewed, and updated. 
 
 Here are some of the topics we presently cover in our wiki, in the form of their own dedicated series:
 
-{% page-ref page="stocks/index.md" %}
-
-{% page-ref page="excel/index.md" %}
-
-{% page-ref page="bonds/index.md" %}
-
 ## License
 
 All the content here is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).

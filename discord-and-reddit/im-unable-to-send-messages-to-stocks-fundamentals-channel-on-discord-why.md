@@ -26,5 +26,3 @@ This is a privilege, and you've to earn it.
 
 For more information on how to analyze businesses or sectors, check our this corner of our wiki
 
-{% page-ref page="../stocks/index.md" %}
-

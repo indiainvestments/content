@@ -49,8 +49,7 @@
 
 ## STOCKS
 
-* [Stocks](stocks/index.md)
-* [Introduction to the Stocks Series](stocks/introduction-to-the-stocks-series.md)
+* [Introduction to the Stocks Series](stocks/index.md)
 * [Can You Beat the Market?](stocks/can-you-beat-the-market.md)
 * [Reading an Annual Report](stocks/reading-an-annual-report.md)
 * [Researching a Sector](stocks/researching-a-sector.md)
@@ -65,8 +64,7 @@
 
 ## EXCEL
 
-* [Excel](excel/index.md)
-* [Excel for Fun and Profit](excel/intro.md)
+* [Excel for Fun and Profit](excel/index.md)
 * [Reactive UI & Updates](excel/reactivity.md)
 * [Using External Data : Google Finance](excel/using-external-data-google-finance.md)
 * [Using External Data : Working with CSV Format](excel/using-external-data-working-with-csv-format/README.md)
@@ -80,13 +78,13 @@
 
 ## BONDS
 
-* [Bonds](bonds/index.md)
-* [Bond Basics](bonds/bond-basics.md)
+* [Bond Basics](bonds/index.md)
 * [Government Securities](bonds/section-2-government-securities.md)
 * [Corporate Bonds](bonds/corporate-bonds.md)
 
 ## MISCELLANEOUS <a id="misc"></a>
 
+* [Miscellaneous](misc/miscellaneous.md)
 * [US Investing](misc/us-investing.md)
 * [Recommended Reading](misc/recommended-reading.md)
 
