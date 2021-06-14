@@ -21,7 +21,7 @@ You can search this wiki from our Discord itself, using India Investments bot's 
 
 ![Discord Slash Command for Querying Wiki - Desktop](../.gitbook/assets/discord-slash-command-wiki-search-desktop.png)
 
-![Discord Slash Command for Querying Wiki - Mobile](../.gitbook/assets/discord-slash-command-wiki-search-mobile%20%281%29%20%281%29.jpeg)
+![Discord Slash Command for Querying Wiki - Mobile](../.gitbook/assets/discord-slash-command-wiki-search-mobile%20%281%29%20%281%29%20%281%29.jpeg)
 
 ## How it'd look
 

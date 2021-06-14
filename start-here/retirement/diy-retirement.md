@@ -4,7 +4,11 @@ description: A basic DIY retirement plan that's easy to execute and works for yo
 
 # Do-It-Yourself Retirement Plan
 
-Using concepts outlined in [this](https://indiainvestments.gitbook.io/content/new-to-investing-and-eli5-series/investment-philosophy-and-strategy#basics-of-investment-strategy-plan) and [this](https://indiainvestments.gitbook.io/content/new-to-investing-and-eli5-series/investment-philosophy-and-strategy#a-simple-financial-planning-roadmap).
+Using concepts outlined in following links
+
+{% page-ref page="../investment-philosophy-and-strategy/a-simple-financial-planning-roadmap.md" %}
+
+{% page-ref page="../investment-philosophy-and-strategy/basics-of-investment-strategy-plan.md" %}
 
 **Basket 1**. First ascertain, how much money you need in next 2 years \(2 years expense including discretionary and non-discretionary\). Put this amount partly in Bank account \(obviously with an ATM/debit card\), and rest in short-term / ultra-short term debt mutual funds.
 
