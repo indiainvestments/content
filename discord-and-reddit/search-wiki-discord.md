@@ -8,7 +8,7 @@ description: >-
 
 You can search this wiki from our Discord itself, using India Investments bot's slash command.
 
-{% embed url="https://www.youtube.com/watch?v=aGFfAYaZfy4" caption="" %}
+{% embed url="https://www.youtube.com/watch?v=aGFfAYaZfy4" caption="Wiki Search Slash Command on India Investments Discord" %}
 
 ## Steps
 

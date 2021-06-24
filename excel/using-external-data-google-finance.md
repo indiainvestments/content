@@ -169,9 +169,9 @@ Once you enter these in a cell, link to the date from the other cell; and hit `E
 | :--- | :--- |
 | 03/04/2000 16:00:00 | 4223.68 |
 
-{% embed url="https://youtu.be/zSUmUS7YOKM" %}
+{% embed url="https://youtu.be/zSUmUS7YOKM" caption="Fetching NASDAQ Price with GOOGLEFINANCE\(\) function - Dark Mode" %}
 
-{% embed url="https://youtu.be/ZGNNt4KZGOM" %}
+{% embed url="https://youtu.be/ZGNNt4KZGOM" caption="Fetching NASDAQ Price with GOOGLEFINANCE\(\) function - Light Mode" %}
 
 ### Using INDEX\(\)
 
@@ -222,9 +222,9 @@ Similarly, for the `actual date` column, we use \(2,1\) with `INDEX`:
 
 Also refer to following video
 
-{% embed url="https://youtu.be/l0UkFxQDE-k" %}
+{% embed url="https://youtu.be/l0UkFxQDE-k" caption="Using INDEX\(\) to extract two values - Dark Mode" %}
 
-{% embed url="https://youtu.be/dB0Pn9Vek60" %}
+{% embed url="https://youtu.be/dB0Pn9Vek60" caption="Using INDEX\(\) to extract two values - Light Mode" %}
 
 ### Repeating Patterns
 
@@ -255,9 +255,9 @@ We can add one more entry in the first column, below current row.
 
   Go to first entry in `Actual Date` column, drag the small square till you get to the end of it, so that there’s a `Date` entry for each of the entry in `Actual Date`.
 
-{% embed url="https://youtu.be/0u\_XQvMzfgQ" %}
+{% embed url="https://youtu.be/0u\_XQvMzfgQ" caption="Dragging over dates in spreadsheet for autofill - Dark Mode" %}
 
-{% embed url="https://youtu.be/DoHIGMBXlFM" %}
+{% embed url="https://youtu.be/DoHIGMBXlFM" caption="Dragging over dates in spreadsheet for autofill - Light Mode" %}
 
 {% hint style="warning" %}
 ⚠️ 🚨 Some cells might have `#NA` and say that there’s an error in getting data from Google Finance. This is a quirk of the `GOOGLEFINANCE()` query. This can be fixed easily, but would require some manual intervention.
@@ -291,11 +291,9 @@ Here’s how it could look like now \(a section from the sheet\)
 | 01/07/2005 | 01/07/2005 |  | 2057.37 |  |
 | 01/08/2005 | 01/08/2005 |  | 2195.38 |  |
 
-{% embed url="https://youtu.be/8\_d1vY4dcjQ" %}
+{% embed url="https://youtu.be/8\_d1vY4dcjQ" caption="Fixing Broken Cells in Spreadsheet - Dark Mode" %}
 
-{% embed url="https://youtu.be/Xe5KAqYmS0o" %}
-
-
+{% embed url="https://youtu.be/Xe5KAqYmS0o" caption="Fixing Broken Cells in Spreadsheet - Light Mode" %}
 
 This is a common problem with this spreadsheet function, and others have solved it with different approaches.  
   
