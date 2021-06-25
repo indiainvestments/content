@@ -6,7 +6,7 @@ description: >-
 
 # Disclaimers and Disclosures
 
-The content of this website has been prepared by contributions from multiple authors from the India Investments community on [Reddit](https://www.reddit.com/r/IndiaInvestments/) and [Discord](https://discord.gg/hqBNg4u).
+The content of this website has been prepared by contributions from multiple authors from the India Investments community on [Reddit](https://indiainvestments.wiki/reddit) and [Discord](https://indiainvestments.wiki/discord).
 
 The content on this website, including but not limited to text, images, videos, spreadsheets, hyperlinks, and computer source code; is written and created solely for educational purposes. It is NOT meant to be fiduciary financial advice. When in doubt, a legally registered fiduciary financial advisor may be contacted. In India, a fee-only financial advisor registered with Securities and Exchange Board of India \(SEBI\) may be contacted.
 
