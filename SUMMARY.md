@@ -64,6 +64,7 @@
   * [I’ve to invest in ELSS for 80C tax saving. Which fund\(s\) should I pick?](faqs/mfs/ive-to-invest-in-elss-for-80c-tax-saving.-which-fund-s-should-i-pick.md)
   * [Should I get a Demat Account to buy units in Mutual Funds?](faqs/mfs/should-i-get-a-demat-account-to-buy-units-in-mutual-funds.md)
   * [Lumpsum investment vs SIP/DCA](faqs/mfs/lumpsum-investment-vs-sip-dca.md)
+  * [Why are Index Funds in India not as cheap as Vanguard's Index Funds and ETFs?](faqs/mfs/why-are-index-funds-in-india-not-as-cheap-as-vanguards-index-funds-and-etfs.md)
 * [Insurance](faqs/insurance/README.md)
   * [Should I invest in this LIC policy?](faqs/insurance/should-i-invest-in-this-lic-policy.md)
   * [Opinions on investing in smart wealth plan by bank?](faqs/insurance/opinions-on-investing-in-smart-wealth-plan-by-bank.md)
