@@ -56,13 +56,13 @@ Let's see what happens when we park $$₹1$$ lakh for 3 years. This is where ind
 | Savings Account \[$$2.7\%$$\] | Fixed Deposit \[$$5.3\%$$\] | Money Market Fund \[$$3.9\%$$\] |
 | :--- | :--- | :--- |
 | $$₹8,320$$ | $$₹17,111$$ | $$₹12,162$$ |
-| $$₹8,320$$ | $$₹17,111\times(1-30\%)=₹11,977$$ | $$₹8,433$$ |
+| $$₹8,320$$ | $$₹17,111\times(1-30\%)=₹11,977$$ | $$₹11,230$$ |
 
 We've considered the [Cost of Inflation Index \(CII\) values between FY19 and FY21](https://www.incometaxindia.gov.in/charts%20%20tables/cost-inflation-index.htm), which are 280 and 301, respectively. The indexed cost of investment, at the time of redemption in FY21, becomes
 
 $$(₹1,00,000\times\displaystyle\frac{301}{280})=₹1,07,500$$
 
-The indexed gains are $$₹12,162-₹7,500=₹4,662$$ and this is taxed at $$20\%$$. The taxes payable are $$₹4,662\times(1-20\%)=₹3,729$$. This gives us our actual realized gains of $$₹12,162-₹3,729=₹8,433$$.
+The indexed gains are $$₹12,162-₹7,500=₹4,662$$ and this is taxed at $$20\%$$. The taxes payable are $$₹4,662\times20\%=₹932$$. This gives us our actual realized gains of $$₹12,162-₹932=₹11,230$$.
 
 ### Arbitrage Mutual Funds
 
