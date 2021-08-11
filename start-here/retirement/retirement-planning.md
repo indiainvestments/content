@@ -68,13 +68,13 @@ The PPF is a government backed, long term small savings scheme which was initial
 
 _Features:_
 
-_Interest Rate \(Effective 1st April, 2013\)_: 8.7% p.a. compounded annually
+_Interest Rate \(Effective April, 2020\)_: 7.1% p.a. compounded annually
 
 _Tenure:_ 15 years
 
 _Maturity type?:_ Lumpsum
 
-_Minimum and Maximum Investment:_ The minimum deposit amount is Rs. 500 per annum and the upper ceiling limit is Rs. 1,00,000 per annum.
+_Minimum and Maximum Investment:_ The minimum deposit amount is Rs. 500 per annum and the upper ceiling limit is Rs. 1,50,000 per annum.
 
 _Tax Benefit?_: Yes, Under Section 80C, interest is tax exempt.
 
