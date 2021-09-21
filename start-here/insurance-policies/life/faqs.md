@@ -6,7 +6,7 @@ description: Commonly asked queries on term / life insurance
 
 **Q1. What happens if the company I have bought insurance from goes bust?** Is there any mechanism to protect customers like Deposit insurance corporation?
 
-**A1.** The IRDA regulations mandate that the solvency ratio \(mainly indicates the assets versus liability adequacy\) of the insurance company should have a decent margin of safety. Check this [Link](http://www.indianexpress.com/news/insurance-the-risk-factor/1071108/0) for more details. Currently, all the companies have decent solvency ratios. Hence, we do not need Deposit Insurance corp or any other such fallback for that.
+**A1.** The IRDA regulations mandate that the solvency ratio \(mainly indicates the assets versus liability adequacy\) of the insurance company should have a decent margin of safety. Check this [Link](http://archive.indianexpress.com/news/insurance-the-risk-factor/1071108/0) for more details. Currently, all the companies have decent solvency ratios. Hence, we do not need Deposit Insurance corp or any other such fallback for that.
 
 **Q2. How do insurance companies use funds to pay?** Is it 'pay as you go' OR 'is it that they invest the money and pay accordingly when the claim arises'?
 
