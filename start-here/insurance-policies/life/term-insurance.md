@@ -74,7 +74,7 @@ Why does a term insurance levies same amount of premium for the entire term, whe
 
 Eg, for a 5 year term for a 30 year person will charge, say 10000 per year. For the first year, the applicable mortality charge will be 6000, while the rest of the 4000 will be invested by the company into a debt type of instrument. Similarly for the next year, because of increased age, the mortality charge will be 7000, the rest 300 being invested. At year 4, the mortality charge would be 14000, which will be paid partly by the 10000 of the premium, and rest 4000 from the initally invested part-premium monies. This is just an approximation to give you an idea how the insurance company takes into account a same premium for a term insurance.
 
-Some more detail about [financial structure](http://www.navhindtimes.in/business/financial-structure-term-insurance-plan).
+Some more detail about [financial structure](https://www.navhindtimes.in/2011/09/15/business/business-financial-structure-term-insurance-plan/).
 
 **OTHER TYPES of TERM PLANs:**
 

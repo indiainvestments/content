@@ -4,8 +4,8 @@ A common definition used is 'Risk is the uncertainty that an investment will ear
 
 There are plenty of places in which one can find the various types and details of various types of Risks. References:
 
-1. [Investopedia](http://www.investopedia.com/exam-guide/finra-series-6/evaluation-customers/types-investment-risks.asp)
-2. [Franklin Templeton Investor Education](https://www.franklintempleton.com/retail/pages/generic_content/education/fin_basic/understand_risk.jsf)
+1. [Investopedia](https://www.investopedia.com/terms/r/risk.asp)
+2. [Franklin Templeton Investor Education](https://www.franklintempletonindia.com/article/head-start-8-io04og31/identifying-financial-risks)
 
 I will just mention about the common ones from our perspective.
 
