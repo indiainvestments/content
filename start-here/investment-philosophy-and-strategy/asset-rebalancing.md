@@ -6,7 +6,7 @@
 
 1. In a well-diversified portfolio, the individual investments are expected to generate a certain rate of return based upon their characteristics and risk profiles.
 2. The returns of different asset classes in a short-term cannot be known in advance. And the markets \(both debt and equity\) can have significant volatility so as to throw the investors off track. In other words, the short-term performances of assets are Unknown unknowns.
-3. Over longer periods of time, it has been shown that Regression to the mean occurs for the major asset classes. In Jason Zweig's words - “Periods of above-average performance are inevitably followed by below-average returns, and bad times inevitably set the stage for surprisingly good performance.” [Link](http://blogs.wsj.com/moneybeat/2013/06/28/the-intelligent-investor-saving-investors-from-themselves/).
+3. Over longer periods of time, it has been shown that Regression to the mean occurs for the major asset classes. In Jason Zweig's words - “Periods of above-average performance are inevitably followed by below-average returns, and bad times inevitably set the stage for surprisingly good performance.” [Link](https://www.wsj.com/articles/BL-MBB-3690).
 4. By rebalancing, we are actually selling the asset class which has gone up, while buying the one which has gone down. It is the idea of Buying Low, and Selling High. Although, in practice, it is quite difficult to do for most people.
 
 ### Methods of Rebalancing:

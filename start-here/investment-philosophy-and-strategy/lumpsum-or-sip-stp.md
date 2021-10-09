@@ -24,7 +24,7 @@ You have got 10 lakhs, and your investment horizon is &gt;10 years. So should yo
 
 Since the investment horizon is quite long, it is much better if one chooses option 1 \(whatever be the sensex levels\). Option 3 will give you lesser overall return, because the long term return from the cash component will be quite less than of the diversified equity asset class.
 
-There is one [study](https://institutional.vanguard.com/VGApp/iip/site/institutional/researchcommentary/article/InvResDollarCostAve) released by Vanguard which supports the above. The PDF is linked in that.
+There is one [study](https://investor.vanguard.com/investing/online-trading/invest-lump-sum) released by Vanguard which supports the above.
 
 Eg 2.
 
