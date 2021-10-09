@@ -18,7 +18,7 @@ As individual investors, our primary focus is to,
 
 ### Can't catch 'em all
 
-A prerequisite to finding such a disparity is having a set of companies to work with. Collectively, the market is made up of thousands of companies[^1](https://www.bseindia.com/corporates/List_Scrips.aspx); _it is chaos, an unexplored territory with limitless potential, if you will._
+A prerequisite to finding such a disparity is having a set of companies to work with. Collectively, the market is made up of thousands of companies[^1](https://www.bseindia.com/corporates/List_Scrips.html); _it is chaos, an unexplored territory with limitless potential, if you will._
 
 It would be naive to take a shot at tracking all the listed companies. So, we need a method to _carve out order from this chaos_ so to speak. Intuitively, arranging companies under different buckets based on some basis seems like a good starting point. One such basis is categorizing companies on the basis of the sector/industry under which it conducts business, then further categorizing them based on sub-sectors, and so on.
 
@@ -102,7 +102,7 @@ We evaluate value chain of a company to,
 * Analyse the value chain to see where costs can be reduced, and thus profits can be maximised, and
 * Understand the differentiation of various players which offers them competitive advantage. 
 
-If you think about it, a company's intrinsic value is _some_ function of the **additional** value it exclusively creates in the marketplace, and the **relative** efficiency with which it conducts its business. I feel this is roughly what people mean when they're referring to a company's _competitive edge_, or what Warren Buffett calls _moat_, which Investopedia[^5](https://www.notion.so/%28%3Chttps://www.investopedia.com/terms/e/economicmoat.asp%3E%29) defines as,
+If you think about it, a company's intrinsic value is _some_ function of the **additional** value it exclusively creates in the marketplace, and the **relative** efficiency with which it conducts its business. I feel this is roughly what people mean when they're referring to a company's _competitive edge_, or what Warren Buffett calls _moat_, which Investopedia[^5](https://www.investopedia.com/terms/e/economicmoat.asp) defines as,
 
 > a distinct advantage a company has over its competitors which allows it to protect its market share and profitability.
 
