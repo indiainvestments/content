@@ -74,7 +74,7 @@ There is an option of increasing amounts \(usually 1-3% per year\).
 
 There are some other options like cash refund \(option to buy back\), a fixed term of payments \(like 10 years or so\), etc.
 
-check out [LIC's plan](http://www.licindia.in/jeevan_akshay_plan_009_features.htm) for more ideas.
+check out [LIC's plan](https://licindia.in/Products/Pension-Plans/LIC-s-Jeevan-Akshay-VII) for more ideas.
 
 More details for understanding. [http://money.cnn.com/retirement/guide/annuities\_basics.moneymag/index.htm](http://money.cnn.com/retirement/guide/annuities_basics.moneymag/index.htm)
 

@@ -40,7 +40,7 @@ Another method by the Same guy [here](http://capitalmind.in/2010/06/video-pensio
 
 **Additional advantages of DIY Pension Plan?**
 
-1. The use of SWP in a debt plan is treated in a better manner than other options \(including senior citizen FDs\). Check [this](http://epaper.timesofindia.com/Default/Scripting/ArticleWin.asp?From=Archive&Source=Page&Skin=TOINEW&BaseHref=TOIA/2013/02/12&PageLabel=17&EntityId=Ar01703&ViewMode=HTML).
+1. The use of SWP in a debt plan is treated in a better manner than other options \(including senior citizen FDs\).
 2. The presence of Equities should help in having above inflation returns over a longer time frame.
 3. The entire corpus remains in your name, and it can be transferred to whoever you want \(children, grandchildren, etc\). And not to the insurance company.
 4. Keeps the liquidity and flexibility of your own money in your hands. In case of emergency, you can use your money. 
