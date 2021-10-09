@@ -32,7 +32,7 @@ Presently, every major company has an online policy. If you like govt of India, 
 * If they ask for a medical examination, get it done. 
 * If after the medicals, they load up based on xyz reason, either pay up the higher premium or decrease the cover of this policy \(you can take another policy later on\).
 
-More details are there in [Wiki](https://indiainvestments.gitbook.io/content/new-to-investing-and-eli5-series/insurance), but mostly you would not need it.
+More details are there in [Wiki](https://www.indiainvestments.wiki/start-here/insurance-policies/life), but mostly you would not need it.
 
 This is a Must Read Post @ [Subramoney](http://www.subramoney.com/2014/12/how-to-buy-term-insurance/).
 
