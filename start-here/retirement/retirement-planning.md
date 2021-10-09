@@ -154,15 +154,15 @@ Six designated Pension Fund Managers \(PFMs\) have been appointed who would be r
 
 • UTI Retirement Solutions Limited
 
-Various Points of Presence have been constituted, which act as a customer interface for investors. [Here's a list of PoPs where you can open the account](http://pfrda.org.in/writereaddata/linkimages/POP-SP%20LOCATION575033432.pdf)
+Various Points of Presence have been constituted, which act as a customer interface for investors. [Here's a list of PoPs where you can open the account](https://www.pfrda.org.in/index1.cshtml?lsid=1583)
 
-[Here's an online NPS Calculator](http://www.hdfcpension.com/nps-calculator.html) UPDATE: This calculator sucks. Until a more comprehensive calculator is found, [you can use this](https://www.dropbox.com/s/pi9sxduiwxw6a97/NPS%20Basic.xls)
+[Here's an online NPS Calculator](https://groww.in/calculators/nps-calculator/)
 
-[and here are some FAQs](http://www.kotakpensionfund.com/downloads/NPS-v.pdf)
+[and here are some FAQs](https://www.kotakpensionfund.com/faqs)
 
 #### **C. National Savings Certificate**
 
-National Savings Certificates popularly known as NSC is a saving bond , primarily used for small saving and income tax saving investment in India, part of the Postal savings system of Indian Postal Service. The certificates were heavily promoted by the government after Independence of India in 1950s, to collect funds for ["nation building"](http://i3.kym-cdn.com/photos/images/original/000/594/192/596.gif).
+National Savings Certificates popularly known as NSC is a saving bond , primarily used for small saving and income tax saving investment in India, part of the Postal savings system of Indian Postal Service. The certificates were heavily promoted by the government after Independence of India in 1950s, to collect funds for "nation building".
 
 _Features_
 
