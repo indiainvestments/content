@@ -20,7 +20,7 @@ An annual report is a document that any listed company is required to provide to
 
 ### Where can an investor access annual reports of a company?
 
-As per the Securities and Exchange Board of India \(SEBI\) listing obligations and disclosure requirements[^1](https://www.sebi.gov.in/legal/regulations/sep-2015/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-regulations-2015-last-amended-on-january-08-2021-_37269.html), a listed entity must
+As per the Securities and Exchange Board of India \(SEBI\) listing obligations and disclosure requirements, a listed entity must
 
 * submit its annual report on the stock exchanges, and
 * upload it on the company's official website
@@ -37,7 +37,7 @@ Apart from the stock exchanges and the company's website, annual reports can als
 
 * The **National Stock Exchange of India**'s website can be found at [https://www.nseindia.com/](https://www.nseindia.com/)
 
-  You can simply search for the company's name in corporate filings &gt; [annual reports page](https://www.notion.so/%5B%3Chttps://www.nseindia.com/companies-listing/corporate-filings-annual-reports%3E%5D%28%3Chttps://www.nseindia.com/companies-listing/corporate-filings-annual-reports%3E%29) on NSE's website.
+  You can simply search for the company's name in corporate filings &gt; [annual reports page](https://www.nseindia.com/companies-listing/corporate-filings-annual-reports) on NSE's website.
 
 ![Annual Reports page on Natinal Stock Exchange of India \(NSE\)&apos;s website](../.gitbook/assets/ejzlhmo%20%281%29.png)
 
@@ -124,7 +124,7 @@ Unlike _Management's letters to shareholders_, this section is mandated[^2](http
 
 ![Ruchira Papers Ltd&apos;s Annual Report \(FY20\)](../.gitbook/assets/z0dezct.png)
 
-Apart from these, SEBI regulations[^1](https://www.sebi.gov.in/legal/regulations/sep-2015/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-regulations-2015-last-amended-on-january-08-2021-_37269.html) also make the inclusion of following points mandatory in this section:
+SEBI regulations make the inclusion of following points mandatory in this section:
 
 * Outlook for the business conducted
 * Internal control systems and their adequacy
@@ -221,7 +221,7 @@ Companies are required by law to disclose all transactions \(transfer of resourc
 
 ![Tata Consultancy Services Ltd&apos;s Annual Report \(FY20\)](../.gitbook/assets/ony0odd.png)
 
-We have talked about understanding related party transactions under the [_'Evaluation of management of a company from an investing perspective'_](https://indiainvestments.gitbook.io/content/wiki/evaluation-of-management)  chapter of this series. 
+We have talked about understanding related party transactions under the [_'Evaluation of management of a company from an investing perspective'_](https://www.indiainvestments.wiki/stocks/reading-an-annual-report#related-party-transactions)  chapter of this series. 
 
 ## Some Recommendations
 
@@ -231,5 +231,5 @@ We have talked about understanding related party transactions under the [_'Evalu
 
 ## Conclusion
 
-We've previously mentioned the importance of conducting thorough due diligence while researching a company in the section [_Can you beat the market?_](https://indiainvestments.gitbook.io/content/wiki/can-you-beat-the-market)  chapter of this series. Reading an annual report is essential to get a better understanding of the business a company is engaged in, but sometimes the technical terms used in an annual report may repel the uninitiated, and so we've tried to explain most sections found in an annual report.
+We've previously mentioned the importance of conducting thorough due diligence while researching a company in the section [_Can you beat the market?_](https://www.indiainvestments.wiki/stocks/can-you-beat-the-market)  chapter of this series. Reading an annual report is essential to get a better understanding of the business a company is engaged in, but sometimes the technical terms used in an annual report may repel the uninitiated, and so we've tried to explain most sections found in an annual report.
 

@@ -17,7 +17,7 @@ Don't trust numbers reported on any screener at their face value, always verify 
 
 ## Introduction
 
-As of December 2020, the number of actively traded listed companies are nearly 4200 on the Bombay Stock Exchange \(BSE\)[^1](https://www.bseindia.com/corporates/List_Scrips.aspx), and nearly 1800 on the National Stock Exchange of India \(NSE\)[^2](https://www.nseindia.com/regulations/listing-compliance/nse-market-capitalisation-all-companies). This absolute abundance of companies to choose from makes the task of creating a watchlist challenging.
+As of December 2020, the number of actively traded listed companies are nearly 4200 on the Bombay Stock Exchange \(BSE\)[^1](https://www.bseindia.com/corporates/List_Scrips.html), and nearly 1800 on the National Stock Exchange of India \(NSE\)[^2](https://www.nseindia.com/regulations/listing-compliance/nse-market-capitalisation-all-companies). This absolute abundance of companies to choose from makes the task of creating a watchlist challenging.
 
 Fortunately, there are tons of screeners available, that can filter through these listed securities to build a universe of companies based on constraints set by an investor. These constraints can be,
 
@@ -95,7 +95,7 @@ If you click on either the company's _Sector_ or _Industry_, you can look at the
 
 You can also use the _'Detailed comparison with'_  option to get a head to head comparison of the company with one of its peer if you have a paid subscription.
 
-If you're unsure what to look for, don't worry! We've covered how to compare a company to its peer in _'_[_Researching a sector'_ ](https://indiainvestments.gitbook.io/content/wiki/researching-a-sector) and _'_[_Understanding a business'_ ](https://indiainvestments.gitbook.io/content/wiki/understanding-a-business) chapter of this series.
+If you're unsure what to look for, don't worry! We've covered how to compare a company to its peer in _'_[_Researching a sector'_ ](https://www.indiainvestments.wiki/stocks/researching-a-sector) and _'_[_Reading and Annual Report'_](https://www.indiainvestments.wiki/stocks/reading-an-annual-report) chapter of this series.
 
 #### Quarterly Results section
 
@@ -117,7 +117,7 @@ Below the P&L data table, this section shows you compounded sales, profit, & sto
 
 ![Profit &amp; Loss section of Tata Consultancy Services Ltd&apos;s Screener page](../.gitbook/assets/screener-11.png)
 
-We've covered how to read a profit & loss \(P&L\) statement and related financial data under our [_Financial statements_](https://indiainvestments.gitbook.io/content/wiki/financial-statements) chapter of this series.
+We've covered how to read a profit & loss \(P&L\) statement and related financial data under our [_Financial statements_](https://www.indiainvestments.wiki/stocks/reading-an-annual-report#financial-statements) chapter of this series.
 
 #### Balance Sheet section
 
@@ -135,11 +135,11 @@ This section gives you past ten years of financial data for cash flows of the co
 
 ![Cash Flows section of Tata Consultancy Services Ltd&apos;s Screener page](../.gitbook/assets/screener-14.png)
 
-Figures for Free Cash Flows \(est.\) are unfortunately missing here, but can be calculated as shown in [_Financial statements_](https://indiainvestments.gitbook.io/content/wiki/financial-statements) chapter of this series.
+Figures for Free Cash Flows \(est.\) are unfortunately missing here, but can be calculated as shown in [_Financial statements_](https://www.indiainvestments.wiki/stocks/reading-an-annual-report#financial-statements chapter of this series.
 
 #### Ratios section
 
-You can find return on capital employed \(in %\), debtor days, and inventory turnover of the company for the past few years in this section. This section could be ignored, as it is recommended you calculate these and many other ratios yourself while conducting due diligence for company, as explained in [_Financial ratios_](https://indiainvestments.gitbook.io/content/wiki/financial-ratios) chapter of this series.
+You can find return on capital employed \(in %\), debtor days, and inventory turnover of the company for the past few years in this section. This section could be ignored, as it is recommended you calculate these and many other ratios yourself while conducting due diligence for company, as explained in [_Financial ratios_](https://www.indiainvestments.wiki/stocks/financial-metrics-and-ratios) chapter of this series.
 
 ![Ratios section of Tata Consultancy Services Ltd&apos;s Screener page](../.gitbook/assets/screener-16.png)
 
@@ -206,7 +206,7 @@ More importantly, you can set up a custom template for excel sheets downloaded b
 
 ![Exported excel sheet&apos;s Customization tab as it would appear by default](../.gitbook/assets/screener-26.png)
 
-* Delete everything on this tab. This is now a blank slate to put everything you want to see in your custom template. Use the financial data from other tabs of this excel sheet for calculations done in this tab. For ideas, you can refer to [_Financial statements_](https://indiainvestments.gitbook.io/content/wiki/financial-statements) and [_Financial ratios_](https://indiainvestments.gitbook.io/content/wiki/financial-ratios) chapters in this series and see what is missing on Screener by default. 
+* Delete everything on this tab. This is now a blank slate to put everything you want to see in your custom template. Use the financial data from other tabs of this excel sheet for calculations done in this tab. For ideas, you can refer to [_Financial statements_](https://www.indiainvestments.wiki/stocks/reading-an-annual-report#financial-statements) and [_Financial ratios_](https://www.indiainvestments.wiki/stocks/financial-metrics-and-ratios) chapters in this series and see what is missing on Screener by default. 
 * For illustration purposes, I've used this tab to find estimated free cash flows of a company over the past few years. Free cash flows are calculated as `FCF = Cash flows from Operations - Capital expenditure`. I've used `cash flow from operations` data from the cash-flows tab of this sheet, and calculated `capex` using `fixed assets` and `capital work in progress` from the balance sheet tab & using `depreciation` from the profit and loss \(P&L\) tab of this sheet.
 
 ![This is how my customization tab appears while editing it \(for illustrative purposes\)](../.gitbook/assets/screener-27.png)
