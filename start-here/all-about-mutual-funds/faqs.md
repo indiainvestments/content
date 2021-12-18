@@ -34,7 +34,17 @@ That is a complicated question. Basically, it would depend what are your goals a
 
 A simple basic idea is this. Keep in mind, the returns mentioned are usually simple returns for less than 1 year period and compounded returns for periods over 1 year.
 
-From your data \(using backtracing\). Time Return NAV 10 years back 14% 10 5 years back 24% 12.7 1 year back 3% 35.9 6 months back 12% 33 3 months back 22% 30.3 Today - 37 How will buying at an NAV of 37 behave in next 3 months, 6 months, 1 year, 10 years, we don't know? Past data does not mirror into the future. check more at these links 1\[1\] and 2\[2\] .
+From your data \(using backtracing\). 
+| Time | Return | NAV |
+|------|--------|-----|
+| 10 years back | 14% | 10 |
+| 5 years back | 24% | 12.7 |
+| 1 year back | 3% | 35.9 |
+| 6 months back | 12% | 33 |
+| 3 months back | 22% | 30.3 |
+| Today | - | 37 |
+
+How will buying at an NAV of 37 behave in next 3 months, 6 months, 1 year, 10 years, we don't know? Past data does not mirror into the future. check more at these links 1\[1\] and 2\[2\] .
 
 ### **So Growth option means no dividend? Instead dividend money will be put back into buying units?**
 
