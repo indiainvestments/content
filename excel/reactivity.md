@@ -4,17 +4,17 @@ description: 'Reactive UI : Data Chaining and Updates in Excel with Formula and 
 
 # Reactive UI & Updates
 
-## Intro 
+## Intro
 
 Consider a sample receipt from your local _kirana_ store, that looks like this
 
-| Item | Qty | Price | Total |
-| :--- | :--- | :--- | :--- |
-| Apple | 3 | 20.00 | 60.00 |
-| Egg | 12 | 5.00 | 60.00 |
-| Milk | 2 | 76.00 | 152.00 |
-| Onion | 20 | 7.00 | 140.00 |
-| **Total** |  |  | **412.00** |
+| Item      | Qty | Price | Total      |
+| --------- | --- | ----- | ---------- |
+| Apple     | 3   | 20.00 | 60.00      |
+| Egg       | 12  | 5.00  | 60.00      |
+| Milk      | 2   | 76.00 | 152.00     |
+| Onion     | 20  | 7.00  | 140.00     |
+| **Total** |     |       | **412.00** |
 
 In real stores, they won’t issue receipts with four columns. But for the sake of this discussion; let’s assume they do provide such detailed tabulation.
 
@@ -26,17 +26,16 @@ We can use Excel for this.
 In this chapter, you'd see images / videos in both dark and light theme. Based on your comfort and preference, pick one of these in each case : either dark theme, or light theme.
 {% endhint %}
 
-## Entering the numbers 
+## Entering the numbers
 
-* Take your favorite Excel app \(MS Excel or Google Sheets\), and create a new sheet in it.
+*   Take your favorite Excel app (MS Excel or Google Sheets), and create a new sheet in it.
 
-  Going forward, we’d refer to it as _**sheet**_.  
-
+    Going forward, we’d refer to it as _**sheet**_.
 * Enter these numbers, as you see in the images below.
 
-![Numbers in Excel : Dark Theme](../.gitbook/assets/numbers-in-excel.dark.png)
+![Numbers in Excel : Dark Theme](<../.gitbook/assets/numbers-in-excel.dark (1).png>)
 
-![Numbers in Excel : Light Theme](../.gitbook/assets/numbers-in-excel.light.png)
+![Numbers in Excel : Light Theme](<../.gitbook/assets/numbers-in-excel.light (1).png>)
 
 {% hint style="info" %}
 No need to manually enter these data points one after another. You could simply select the above table with your trackpad / mouse; copy it with `Ctrl + C` / `Cmd + C`, and paste it in your sheet.
@@ -46,7 +45,7 @@ But wait, this is just text in a bunch of grids and cells! Where’s the _magic_
 
 Hold your horses, we’re getting there.
 
-## Formula in Excel 
+## Formula in Excel
 
 Now comes the part, where we sit back and let Excel formulas operate on the numbers, then cross-check the results for us.
 
@@ -64,38 +63,34 @@ In Excel, every cell can have either a static value, or a value derived from ano
 
 So far, we’ve used only the former, when we copy-pasted the table into our sheet. Now it’s time to do the second one.
 
-* Click on the cell in 4th column / 1st row, that has total price for all the apples.
+*   Click on the cell in 4th column / 1st row, that has total price for all the apples.
 
-  In the above image, that’s cell E4 \(column E, row 4\); but can be a different cell in your sheet.  
+    In the above image, that’s cell E4 (column E, row 4); but can be a different cell in your sheet.
+* Hit `delete` or double-click on the cell and use `backspace` to delete the number.
+*   Start by adding an equal-to symbol, or `=`. In Excel, an `=` starts a _formula_ or relationship.
 
-* Hit `delete` or double-click on the cell and use `backspace` to delete the number. 
-* Start by adding an equal-to symbol, or `=`. In Excel, an `=` starts a _formula_ or relationship.
+    You’d notice how the color changes as soon as you type in that `=`.
+* Click on the third column value in the same first row, it should automatically populate the cell ID in the active cell which already had the `=`.
+*   Type `*` in your keyboard. In coding, `*` stands for multiplication, and not `x`.
 
-  You’d notice how the color changes as soon as you type in that `=`.  
+    You should see `=` followed by cell ID of third column in first row (`D4` in our above image), and then `*`.
+*   Now click on the second column, first row.
 
-* Click on the third column value in the same first row, it should automatically populate the cell ID in the active cell which already had the `=`. 
-* Type `*` in your keyboard. In coding, `*` stands for multiplication, and not `x`.
+    It’d also add cell ID of that cell after `*` in the active cell. Based on our above image, it would look like `=D4*C4`.
 
-  You should see `=` followed by cell ID of third column in first row \(`D4` in our above image\), and then `*`.  
+    Exact cell ID might be different for your sheet; but you should see these three things after `=`, in your cell.
 
-* Now click on the second column, first row.
+Here’s a video to guide you along (both in dark and light theme)
 
-  It’d also add cell ID of that cell after `*` in the active cell. Based on our above image, it would look like `=D4*C4`.  
+{% embed url="https://www.youtube.com/watch?v=VNGmwRojwKU&feature=emb:logo" %}
 
-
-  Exact cell ID might be different for your sheet; but you should see these three things after `=`, in your cell.
-
-Here’s a video to guide you along \(both in dark and light theme\)
-
-{% embed url="https://www.youtube.com/watch?v=VNGmwRojwKU&feature=emb\_logo" caption="Excel functions: Dark Theme" %}
-
-{% embed url="https://www.youtube.com/watch?v=-fOUzyMvAm4&feature=emb\_logo" caption="Excel functions: Light theme" %}
+{% embed url="https://www.youtube.com/watch?v=-fOUzyMvAm4&feature=emb:logo" %}
 
 If you’ve done everything as demonstrated / instructed above, you should have same exact value of 60 in that cell, as you’d earlier.
 
 This validates the number was correct, your local _kirana_ store didn’t have a broken calculator or tried to stiff you.
 
-## Collections and Lists 
+## Collections and Lists
 
 So far, you’ve validated that **only one number entry was correct**.
 
@@ -111,37 +106,32 @@ Idea is that if you know what happens to one entry, and you’ve a list, it’s 
 
 Follow these steps to validate each price computation row:
 
-* Hit `Ctrl + Z` / `Cmd + Z` to undo your changes. 
-* Create a column next to the last column _Total_, and name it _Computed_.  
+* Hit `Ctrl + Z` / `Cmd + Z` to undo your changes.
+*   Create a column next to the last column _Total_, and name it _Computed_.
 
+    We’d leave the _Total_ column untouched, and keep our computed results from Excel formula in this newly created column.
+* In the first row of this new column, enter the same formula, as you’d done it earlier - start with `=` symbol, then select the two columns and separate the cell IDs with `*`.
+* Go to the bottom right end of this newly created cell, there’s a small square.
 
-  We’d leave the _Total_ column untouched, and keep our computed results from Excel formula in this newly created column.  
+![Notice the small blue square bottom-right of highlighted cell - Dark Mode](<../.gitbook/assets/excel-drag.dark (1).png>)
 
-* In the first row of this new column, enter the same formula, as you’d done it earlier - start with `=` symbol, then select the two columns and separate the cell IDs with `*`. 
-* Go to the bottom right end of this newly created cell, there’s a small square. 
+![Notice the small blue square bottom-right of highlighted cell - Light Mode](<../.gitbook/assets/excel-drag.light (1).png>)
 
-![Notice the small blue square bottom-right of highlighted cell - Dark Mode](../.gitbook/assets/excel-drag.dark.png)
+Click on that, and while it remains clicked / pressed, drag it down to cover the other rows. You’d notice how the formula gets copied on the cells in other rows, but somehow magically Excel keeps selecting right cells from that row (and not from the first row).
 
-![Notice the small blue square bottom-right of highlighted cell - Light Mode](../.gitbook/assets/excel-drag.light.png)
-
-Click on that, and while it remains clicked / pressed, drag it down to cover the other rows. You’d notice how the formula gets copied on the cells in other rows, but somehow magically Excel keeps selecting right cells from that row \(and not from the first row\).  
-
-
-For example, if your first row’s relationship was `=D4*C4`, then second row would get `=D5*C5`, third row would get `=D6*C6`, and so on and so forth.  
-
+For example, if your first row’s relationship was `=D4*C4`, then second row would get `=D5*C5`, third row would get `=D6*C6`, and so on and so forth.
 
 Excel would keep incrementing row numbers in cell ID as you drag vertically down.
 
-Here’s a video to help guide you alone with the above steps:  
+Here’s a video to help guide you alone with the above steps:
 
+{% embed url="https://www.youtube.com/watch?v=iXcmwxIEdeM&feature=emb:logo" %}
 
-{% embed url="https://www.youtube.com/watch?v=iXcmwxIEdeM&feature=emb\_logo" caption="Excel dragging : Dark theme" %}
+{% embed url="https://www.youtube.com/watch?v=oUmZ:Ir-QVc&feature=emb:logo" %}
 
-{% embed url="https://www.youtube.com/watch?v=oUmZ\_Ir-QVc&feature=emb\_logo" caption="Excel dragging: Light theme" %}
+Assuming you’ve done everything right up to this point; the numbers in the newly created column, for a given row, should be exactly same as the penultimate (last but one) column.
 
-Assuming you’ve done everything right up to this point; the numbers in the newly created column, for a given row, should be exactly same as the penultimate \(last but one\) column.
-
-## In-built formulas 
+## In-built formulas
 
 If you notice, we still haven’t validated the final total - summing up all totals from each of the rows.
 
@@ -159,45 +149,39 @@ We just need to invoke `sum` function and provide it range, it’d process the n
 
 Follow these steps:
 
-* In the _Computed_ column, select the cell next to the cell which has total value of 412. 
-* Enter `=`, then type `sum` and open `(`.  
+* In the _Computed_ column, select the cell next to the cell which has total value of 412.
+*   Enter `=`, then type `sum` and open `(`.
 
+    It’d open up some tooltips that explains what `SUM` (yes, all capitalized, but when you type it in, you can use lower-case, Excel would pick it up) function does.
+*   Select the range (in this case, rows) from the computed column, dragging your mouse / trackpad over that range.
 
-  It’d open up some tooltips that explains what `SUM` \(yes, all capitalized, but when you type it in, you can use lower-case, Excel would pick it up\) function does.  
+    In the above image / videos, that’d be `F4` to `F7`.
 
-* Select the range \(in this case, rows\) from the computed column, dragging your mouse / trackpad over that range.  
+    You could alternatively, manually type these ranges in. It’d be in the format `StartID:EndID`. For example, `=sum(F4:F7)`.
 
+    Since addition is order-independent (that’s a fancy way of saying, 2 + 3 + 4 and 4 + 3 + 2 are same), you can also write it as `sum(F7:F4)`, the order doesn’t matter.
 
-  In the above image / videos, that’d be `F4` to `F7`.  
+    Hit `Enter` or `Return` on your keyboard after you’ve entered the formula.
 
+Here’s a video to help guide you along (available in both dark & light themes)
 
-  You could alternatively, manually type these ranges in. It’d be in the format `StartID:EndID`. For example, `=sum(F4:F7)`.  
+{% embed url="https://www.youtube.com/watch?v=kYlH5pTHn1E&feature=emb:logo" %}
 
-
-  Since addition is order-independent \(that’s a fancy way of saying, 2 + 3 + 4 and 4 + 3 + 2 are same\), you can also write it as `sum(F7:F4)`, the order doesn’t matter.  
-
-
-  Hit `Enter` or `Return` on your keyboard after you’ve entered the formula.
-
-Here’s a video to help guide you along \(available in both dark & light themes\)
-
-{% embed url="https://www.youtube.com/watch?v=kYlH5pTHn1E&feature=emb\_logo" caption="Excel SUM: Dark theme" %}
-
-{% embed url="https://www.youtube.com/watch?v=SQJ58fZrFag&feature=emb\_logo" caption="Excel SUM: Light theme" %}
+{% embed url="https://www.youtube.com/watch?v=SQJ58fZrFag&feature=emb:logo" %}
 
 If you’ve done everything as instructed, up to this point, it should look as shown below
 
-![Excel SUM Function Result : Dark Theme](../.gitbook/assets/excel-sum-function.dark.png)
+![Excel SUM Function Result : Dark Theme](<../.gitbook/assets/excel-sum-function.dark (1).png>)
 
-![Excel SUM function result: Light theme](../.gitbook/assets/excel-sum-function.light.png)
+![Excel SUM function result: Light theme](<../.gitbook/assets/excel-sum-function.light (1).png>)
 
-## Reactive UI 
+## Reactive UI
 
 We started this note with a fancy title, _**Reactive UI**_**.**
 
-Reactive UI means a user interface \(UI\) that _reacts_ to “changes”, and updates itself.
+Reactive UI means a user interface (UI) that _reacts_ to “changes”, and updates itself.
 
-Idea of what Excel does at its core, has been around since Visicalc \(the OG Excel app\) came out in 1969. But in the history of computing, function-driven updates go back to the early days of functional programming / lambda calculus, 1930s.
+Idea of what Excel does at its core, has been around since Visicalc (the OG Excel app) came out in 1969. But in the history of computing, function-driven updates go back to the early days of functional programming / lambda calculus, 1930s.
 
 If these terms scare you, then know that you have no reason to learn these to get efficient with Excel.
 
@@ -207,56 +191,44 @@ Excel is as mainstream as esoteric mathy concepts of functional reactive program
 
 **Excel helps you build apps, with Reactive UI paradigm**.
 
-Yes, you just built a mini invoice application \(AKA app\), without writing any complex pieces of code. You didn't have to boot up your code editor or IDE, run debuggers, compile some pieces of it, fight with error messages - none of these were needed.
+Yes, you just built a mini invoice application (AKA app), without writing any complex pieces of code. You didn't have to boot up your code editor or IDE, run debuggers, compile some pieces of it, fight with error messages - none of these were needed.
 
 To see how it _reacts_, change any of the values in the column:
 
-* Update quantity of Apple, to be `4`.  
+*   Update quantity of Apple, to be `4`.
 
+    Notice that cells containing formula immediately propagates the update to other cells. Total price of all apples change to 80, and total price of all items go up from `412` to `432`.
 
-  Notice that cells containing formula immediately propagates the update to other cells. Total price of all apples change to 80, and total price of all items go up from `412` to `432`.  
+    The total sum does not directly depend on the quantity of apples, it was dependent on total price of apples, but Excel correctly inferred that needs to update as well because of _chaining dependency_.
 
-
-  The total sum does not directly depend on the quantity of apples, it was dependent on total price of apples, but Excel correctly inferred that needs to update as well because of _chaining dependency_.  
-
-
-  Also note, other cells that are not affected by this update won’t change their values.
+    Also note, other cells that are not affected by this update won’t change their values.
 
 Here’s a video to help demonstrate this:
 
-{% embed url="https://www.youtube.com/watch?v=zudUxsaLHoQ&feature=emb\_logo" caption="Excel Reactive-ness: Dark theme" %}
+{% embed url="https://www.youtube.com/watch?v=zudUxsaLHoQ&feature=emb:logo" %}
 
-{% embed url="https://www.youtube.com/watch?v=zdLOMk6VCd0&feature=emb\_logo" caption="Excel Reactiveness: Light theme" %}
+{% embed url="https://www.youtube.com/watch?v=zdLOMk6VCd0&feature=emb:logo" %}
 
-## Recap 
+## Recap
 
 Let’s reflect on what we’ve learned so far, and how to practice more!
 
-* `=` starts a formula or function in Excel, where you can refer to other cells, and describe a relationship.  
+*   `=` starts a formula or function in Excel, where you can refer to other cells, and describe a relationship.
 
+    This lets Excel compute values based on other cells.
 
-  This lets Excel compute values based on other cells.  
+    Due to in-built _reactivity_, when one value changes, all functions or formulas that use that value (or any value that’s derived from that value), would update automatically.
+* In Excel, `*` stands for multiplication. And not `x`.
+*   Dragging allows Excel to infer a pattern and create formulas on-the-fly, to apply on other rows / columns.
 
+    Excel updates row IDs in cell IDs, if dragging is vertical. It updates column IDs in cell IDs, if dragging is horizontal.
 
-  Due to in-built _reactivity_, when one value changes, all functions or formulas that use that value \(or any value that’s derived from that value\), would update automatically.  
+    Since dragging in any direction can be some combination of horizontal and vertical moves, Excel can always deduce the patten and update row / column IDs accordingly in formulas.
+*   Excel has ton of in-built formulas / functions, and would automatically prompt what inputs these functions would accept.
 
-* In Excel, `*` stands for multiplication. And not `x`. 
-* Dragging allows Excel to infer a pattern and create formulas on-the-fly, to apply on other rows / columns.  
+    These can be used in a case-insensitive way.
 
+    `SUM` is one such function, that sums up all values in range.
 
-  Excel updates row IDs in cell IDs, if dragging is vertical. It updates column IDs in cell IDs, if dragging is horizontal.  
-
-
-  Since dragging in any direction can be some combination of horizontal and vertical moves, Excel can always deduce the patten and update row / column IDs accordingly in formulas.  
-
-* Excel has ton of in-built formulas / functions, and would automatically prompt what inputs these functions would accept.  
-
-
-  These can be used in a case-insensitive way.  
-
-
-  `SUM` is one such function, that sums up all values in range.  
-  
-  [List of functions in MS Excel](https://support.microsoft.com/en-us/office/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188)  
-  [List of functions in Google Sheets](https://support.google.com/docs/table/25273?hl=en)
-
+    [List of functions in MS Excel](https://support.microsoft.com/en-us/office/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188)\
+    [List of functions in Google Sheets](https://support.google.com/docs/table/25273?hl=en)

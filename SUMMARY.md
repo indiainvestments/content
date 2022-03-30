@@ -3,7 +3,93 @@
 * [Introduction](README.md)
 * [Disclaimers and Disclosures](disclaimers-and-disclosures.md)
 
-## New to Investing <a id="start-here"></a>
+## FAQs
+
+* [FAQs](faqs/index.md)
+* [Mutual Funds and ETFs](faqs/mfs/README.md)
+  * [What is the best mutual fund app for investments?](faqs/mfs/best-mutual-fund-app-for-investments.md)
+  * [Why should I invest in Direct Plans instead of Regular Plans?](faqs/mfs/direct-vs-regular.md)
+  * [What’s the best mutual fund I can invest in?](faqs/mfs/whats-the-best-mutual-fund-i-can-invest-in.md)
+  * [Which date(s) is/are best for SIP in a month?](faqs/mfs/which-date-s-is-are-best-for-sip-in-a-month.md)
+  * [I’ve to invest in ELSS for 80C tax saving. Which fund(s) should I pick?](faqs/mfs/ive-to-invest-in-elss-for-80c-tax-saving.-which-fund-s-should-i-pick.md)
+  * [Should I get a Demat Account to buy units in Mutual Funds?](faqs/mfs/should-i-get-a-demat-account-to-buy-units-in-mutual-funds.md)
+  * [Lumpsum investment vs SIP/DCA](faqs/mfs/lumpsum-investment-vs-sip-dca.md)
+  * [Why are Index Funds in India not as cheap as Vanguard's Index Funds and ETFs?](faqs/mfs/why-are-index-funds-in-india-not-as-cheap-as-vanguards-index-funds-and-etfs.md)
+* [Insurance](faqs/insurance/README.md)
+  * [Should I invest in this LIC policy?](faqs/insurance/should-i-invest-in-this-lic-policy.md)
+  * [Opinions on investing in smart wealth plan by bank?](faqs/insurance/opinions-on-investing-in-smart-wealth-plan-by-bank.md)
+  * [Up to what age should I take term cover?](faqs/insurance/up-to-what-age-should-i-take-term-cover.md)
+  * [Do I need my own health insurance? Employer already has group policy](faqs/insurance/do-i-need-my-own-health-insurance-employer-already-has-group-policy.md)
+  * [Should I take top-up policy or super top-up?](faqs/insurance/top-up-vs-super-top-up.md)
+  * [Is it worth paying extra premium for term insurance?](faqs/insurance/extra-premium-term-cover.md)
+* [Stocks](faqs/stocks/README.md)
+  * [Should I invest in smallcase?](faqs/stocks/is-smallcase-a-good-investment-returns-look-good.md)
+  * [What is the best app for buying or trading stocks?](faqs/stocks/what-is-the-best-app-for-buying-or-trading-stocks.md)
+  * [Which screener(s) should I use?](faqs/stocks/which-screener.md)
+  * [The Stock Market Has Crashed. Which Stocks Should I Buy?](faqs/stocks/stock-market-crash-which-stocks-should-i-buy.md)
+* [Foreign Investing](faqs/foreign-invest/README.md)
+  * [Why should I invest in the US markets?](faqs/foreign-invest/why-should-i-invest-in-the-us-markets.md)
+  * [How should I invest in US equity?](faqs/foreign-invest/how-should-i-invest-in-us-equity.md)
+* [Tax](faqs/tax/README.md)
+  * [I don't have any tax to pay. Do I still have to file ITR?](faqs/tax/i-dont-have-any-tax-to-pay.-do-i-still-have-to-file-itr.md)
+* [Miscellaneous](faqs/misc/README.md)
+  * [Where can I park money for a few days, a few months, or a few years?](faqs/misc/where-can-i-park-money-for-a-few-days-a-few-months-or-a-few-years.md)
+  * [What are chit funds? Should I invest?](faqs/misc/explain-like-i-am-5-eli5-chit-funds.md)
+  * [Is Gold a good investment now? It has gone up \~50% this year](faqs/misc/is-gold-a-good-investment-now-it-has-gone-up-50-this-year.md)
+
+## How To
+
+* [How To](how-to/index.md)
+* [How to transfer shares from one demat account to another](how-to/how-to-transfer-shares-from-one-demat-account-to-another.md)
+* [How to move from one mutual fund platform to another](how-to/how-to-move-from-one-mutual-fund-platform-to-another.md)
+* [How to switch a Mutual Fund from Regular to Direct Plan](how-to/how-to-switch-the-mutual-fund-from-regular-to-direct-plan.md)
+* [How to file SEBI SCORES complaint?](how-to/how-to-file-sebi-scores-complaint.md)
+* [How to Update Nominee Details?](how-to/update-nominee-details.md)
+* [How to rematerialize mutual fund from demat form](how-to/rematerialize-demat-mf.md)
+* [How to Pay Advance Tax](how-to/how-to-pay-advance-tax.md)
+
+## STOCKS
+
+* [Introduction to the Stocks Series](stocks/index.md)
+* [Can You Beat the Market?](stocks/can-you-beat-the-market.md)
+* [Reading an Annual Report](stocks/reading-an-annual-report.md)
+* [Researching a Sector](stocks/researching-a-sector.md)
+* [Financial Metrics and Ratios](stocks/financial-metrics-and-ratios/README.md)
+  * [Profitability](stocks/financial-metrics-and-ratios/profitability.md)
+* [Using Screeners](stocks/using-screeners.md)
+* [Due-Diligence Checklist](stocks/due-diligence-checklist.md)
+* [Work in Progress](stocks/under-progress/README.md)
+  * [Diving Deeper into Businesses](stocks/under-progress/understanding-the-business-of-a-company.md)
+  * [Efficiency](stocks/under-progress/efficiency.md)
+  * [Liquidity and Solvency](stocks/under-progress/liquidity-and-solvency.md)
+
+## EXCEL
+
+* [Excel for Fun and Profit](excel/index.md)
+* [Reactive UI & Updates](excel/reactivity.md)
+* [Using External Data : Google Finance](excel/using-external-data-google-finance.md)
+* [Using External Data : Working with CSV Format](excel/using-external-data-working-with-csv-format/README.md)
+  * [CSV Format](excel/using-external-data-working-with-csv-format/csv-format.md)
+  * [Computing LTCG Eligible Equity Units](excel/using-external-data-working-with-csv-format/computing-ltcg-eligible-equity-units.md)
+  * [Process for Estimating Tax](excel/using-external-data-working-with-csv-format/process-for-estimating-tax.md)
+* [Quantifying Returns: CAGR and XIRR](excel/quantifying-returns-cagr-and-xirr/README.md)
+  * [CAGR: Point-to-Point Annualized Returns](excel/quantifying-returns-cagr-and-xirr/cagr.md)
+  * [A Gentle Introduction to XIRR](excel/quantifying-returns-cagr-and-xirr/xirr.md)
+  * [A Rigorous Introduction to XIRR](excel/quantifying-returns-cagr-and-xirr/xirr-math.md)
+
+## BONDS
+
+* [Bond Basics](bonds/index.md)
+* [Government Securities](bonds/section-2-government-securities.md)
+* [Corporate Bonds](bonds/corporate-bonds.md)
+
+## MISCELLANEOUS <a href="#misc" id="misc"></a>
+
+* [Miscellaneous](misc/miscellaneous.md)
+* [US Investing](misc/us-investing.md)
+* [Recommended Reading](misc/recommended-reading.md)
+
+## New to Investing <a href="#start-here" id="start-here"></a>
 
 * [Zero to Investing](start-here/zero-to-investing/README.md)
   * [Getting Started](start-here/zero-to-investing/getting-started.md)
@@ -53,93 +139,7 @@
   * [How do I start investing in mutual funds \[ELI5 series\]](start-here/eli5-series/how-do-i-start-investing-in-mutual-funds-eli5-series.md)
   * [Mis-selling of Insurance Products](start-here/eli5-series/mis-selling-of-insurance-products.md)
 
-## FAQs
-
-* [FAQs](faqs/index.md)
-* [Mutual Funds and ETFs](faqs/mfs/README.md)
-  * [What is the best mutual fund app for investments?](faqs/mfs/best-mutual-fund-app-for-investments.md)
-  * [Why should I invest in Direct Plans instead of Regular Plans?](faqs/mfs/direct-vs-regular.md)
-  * [What’s the best mutual fund I can invest in?](faqs/mfs/whats-the-best-mutual-fund-i-can-invest-in.md)
-  * [Which date\(s\) is/are best for SIP in a month?](faqs/mfs/which-date-s-is-are-best-for-sip-in-a-month.md)
-  * [I’ve to invest in ELSS for 80C tax saving. Which fund\(s\) should I pick?](faqs/mfs/ive-to-invest-in-elss-for-80c-tax-saving.-which-fund-s-should-i-pick.md)
-  * [Should I get a Demat Account to buy units in Mutual Funds?](faqs/mfs/should-i-get-a-demat-account-to-buy-units-in-mutual-funds.md)
-  * [Lumpsum investment vs SIP/DCA](faqs/mfs/lumpsum-investment-vs-sip-dca.md)
-  * [Why are Index Funds in India not as cheap as Vanguard's Index Funds and ETFs?](faqs/mfs/why-are-index-funds-in-india-not-as-cheap-as-vanguards-index-funds-and-etfs.md)
-* [Insurance](faqs/insurance/README.md)
-  * [Should I invest in this LIC policy?](faqs/insurance/should-i-invest-in-this-lic-policy.md)
-  * [Opinions on investing in smart wealth plan by bank?](faqs/insurance/opinions-on-investing-in-smart-wealth-plan-by-bank.md)
-  * [Up to what age should I take term cover?](faqs/insurance/up-to-what-age-should-i-take-term-cover.md)
-  * [Do I need my own health insurance? Employer already has group policy](faqs/insurance/do-i-need-my-own-health-insurance-employer-already-has-group-policy.md)
-  * [Should I take top-up policy or super top-up?](faqs/insurance/top-up-vs-super-top-up.md)
-  * [Is it worth paying extra premium for term insurance?](faqs/insurance/extra-premium-term-cover.md)
-* [Stocks](faqs/stocks/README.md)
-  * [Should I invest in smallcase?](faqs/stocks/is-smallcase-a-good-investment-returns-look-good.md)
-  * [What is the best app for buying or trading stocks?](faqs/stocks/what-is-the-best-app-for-buying-or-trading-stocks.md)
-  * [Which screener\(s\) should I use?](faqs/stocks/which-screener.md)
-  * [The Stock Market Has Crashed. Which Stocks Should I Buy?](faqs/stocks/stock-market-crash-which-stocks-should-i-buy.md)
-* [Foreign Investing](faqs/foreign-invest/README.md)
-  * [Why should I invest in the US markets?](faqs/foreign-invest/why-should-i-invest-in-the-us-markets.md)
-  * [How should I invest in US equity?](faqs/foreign-invest/how-should-i-invest-in-us-equity.md)
-* [Tax](faqs/tax/README.md)
-  * [I don't have any tax to pay. Do I still have to file ITR?](faqs/tax/i-dont-have-any-tax-to-pay.-do-i-still-have-to-file-itr.md)
-* [Miscellaneous](faqs/misc/README.md)
-  * [Where can I park money for a few days, a few months, or a few years?](faqs/misc/where-can-i-park-money-for-a-few-days-a-few-months-or-a-few-years.md)
-  * [What are chit funds? Should I invest?](faqs/misc/explain-like-i-am-5-eli5-chit-funds.md)
-  * [Is Gold a good investment now? It has gone up ~50% this year](faqs/misc/is-gold-a-good-investment-now-it-has-gone-up-50-this-year.md)
-
-## How To
-
-* [How To](how-to/index.md)
-* [How to transfer shares from one demat account to another](how-to/how-to-transfer-shares-from-one-demat-account-to-another.md)
-* [How to move from one mutual fund platform to another](how-to/how-to-move-from-one-mutual-fund-platform-to-another.md)
-* [How to switch a Mutual Fund from Regular to Direct Plan](how-to/how-to-switch-the-mutual-fund-from-regular-to-direct-plan.md)
-* [How to file SEBI SCORES complaint?](how-to/how-to-file-sebi-scores-complaint.md)
-* [How to Update Nominee Details?](how-to/update-nominee-details.md)
-* [How to rematerialize mutual fund from demat form](how-to/rematerialize-demat-mf.md)
-* [How to Pay Advance Tax](how-to/how-to-pay-advance-tax.md)
-
-## STOCKS
-
-* [Introduction to the Stocks Series](stocks/index.md)
-* [Can You Beat the Market?](stocks/can-you-beat-the-market.md)
-* [Reading an Annual Report](stocks/reading-an-annual-report.md)
-* [Researching a Sector](stocks/researching-a-sector.md)
-* [Financial Metrics and Ratios](stocks/financial-metrics-and-ratios/README.md)
-  * [Profitability](stocks/financial-metrics-and-ratios/profitability.md)
-* [Using Screeners](stocks/using-screeners.md)
-* [Due-Diligence Checklist](stocks/due-diligence-checklist.md)
-* [Work in Progress](stocks/under-progress/README.md)
-  * [Diving Deeper into Businesses](stocks/under-progress/understanding-the-business-of-a-company.md)
-  * [Efficiency](stocks/under-progress/efficiency.md)
-  * [Liquidity and Solvency](stocks/under-progress/liquidity-and-solvency.md)
-
-## EXCEL
-
-* [Excel for Fun and Profit](excel/index.md)
-* [Reactive UI & Updates](excel/reactivity.md)
-* [Using External Data : Google Finance](excel/using-external-data-google-finance.md)
-* [Using External Data : Working with CSV Format](excel/using-external-data-working-with-csv-format/README.md)
-  * [CSV Format](excel/using-external-data-working-with-csv-format/csv-format.md)
-  * [Computing LTCG Eligible Equity Units](excel/using-external-data-working-with-csv-format/computing-ltcg-eligible-equity-units.md)
-  * [Process for Estimating Tax](excel/using-external-data-working-with-csv-format/process-for-estimating-tax.md)
-* [Quantifying Returns: CAGR and XIRR](excel/quantifying-returns-cagr-and-xirr/README.md)
-  * [CAGR: Point-to-Point Annualized Returns](excel/quantifying-returns-cagr-and-xirr/cagr.md)
-  * [A Gentle Introduction to XIRR](excel/quantifying-returns-cagr-and-xirr/xirr.md)
-  * [A Rigorous Introduction to XIRR](excel/quantifying-returns-cagr-and-xirr/xirr-math.md)
-
-## BONDS
-
-* [Bond Basics](bonds/index.md)
-* [Government Securities](bonds/section-2-government-securities.md)
-* [Corporate Bonds](bonds/corporate-bonds.md)
-
-## MISCELLANEOUS <a id="misc"></a>
-
-* [Miscellaneous](misc/miscellaneous.md)
-* [US Investing](misc/us-investing.md)
-* [Recommended Reading](misc/recommended-reading.md)
-
-## Contributors Section <a id="contributors"></a>
+## Contributors Section <a href="#contributors" id="contributors"></a>
 
 * [How Can I Start Contributing?](contributors/index.md)
 * [What is a Contributor License Agreement and why are we using it?](contributors/what-is-a-contributor-license-agreement-and-why-are-we-using-it/README.md)
@@ -156,4 +156,3 @@
 
 * [How to Search the Wiki From Discord](discord-and-reddit/search-wiki-discord.md)
 * [I'm unable to send messages to stocks-fundamentals channel on Discord. Why?](discord-and-reddit/im-unable-to-send-messages-to-stocks-fundamentals-channel-on-discord-why.md)
-

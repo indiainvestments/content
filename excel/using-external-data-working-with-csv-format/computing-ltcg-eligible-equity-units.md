@@ -10,7 +10,7 @@ description: >-
 
 Now that we’ve seen how to import CSV data, and more importantly, how to _massage_ that data for further use; we need to put this skill to use.
 
-As an investor, you might have a portfolio of equity funds, and you’d want to know how many units you can sell without exceeding **L**ong **T**erm **C**apital **G**ain of ₹100,000 \(1L INR, in colloquial terms\).
+As an investor, you might have a portfolio of equity funds, and you’d want to know how many units you can sell without exceeding **L**ong **T**erm **C**apital **G**ain of ₹100,000 (1L INR, in colloquial terms).
 
 Let’s back up a bit.
 
@@ -18,7 +18,7 @@ When you redeem units in equity-linked assets, you’ve gains or losses, dependi
 
 Here, we’re dealing with equity mutual funds, that invests in equity markets.
 
-If holding period of your equity units exceed 1 year \(365 days\), then it is long term capital gain or loss.
+If holding period of your equity units exceed 1 year (365 days), then it is long term capital gain or loss.
 
 In 2018 Union Budget, the taxation rules were changed in a way, that an investor doesn’t have to pay tax on long term capital gains, up to ₹100,000 or ₹1L.
 
@@ -27,11 +27,11 @@ If an investor is looking to exit some positions by selling some of their holdin
 * how many units are older than 1 year of holding period
 * total number of units older than 1 year, that they can sell
 
-Consider a sample transaction history, plotted against time, for an investor who’s been investing for a few years \(figures not to scale\)
+Consider a sample transaction history, plotted against time, for an investor who’s been investing for a few years (figures not to scale)
 
-![Transaction History Sample - Dark Mode](../../.gitbook/assets/transaction-history.dark.png)
+![Transaction History Sample - Dark Mode](<../../.gitbook/assets/transaction-history.dark (1).png>)
 
-![Transaction History Sample - Light Mode](../../.gitbook/assets/transaction-history.light.png)
+![Transaction History Sample - Light Mode](<../../.gitbook/assets/transaction-history.light (1).png>)
 
 The Y-axis represents units purchased in every transaction. It’s positive for purchase transactions, and negative offshoots are for sell / redemption transactions.
 
@@ -43,20 +43,22 @@ Then any units purchased in last 1 year before that, from 4th July 2020 to 3rd J
 
 And all units purchased on or before 3rd July 2020, are older than 1 year.
 
-![Transaction History with Clear Segregation - Dark Mode](../../.gitbook/assets/transaction-history2.dark.png)
+![Transaction History with Clear Segregation - Dark Mode](<../../.gitbook/assets/transaction-history2.dark (1).png>)
 
-![Transaction History with Clear Segregation - Light Mode](../../.gitbook/assets/transaction-history2.light.png)
+![Transaction History with Clear Segregation - Light Mode](<../../.gitbook/assets/transaction-history2.light (1).png>)
 
 Our task is to use excel / spreadsheet find these two:
 
-* number of units older than 1 year old \(to avoid STCG tax or **S**hort **T**erm **C**apital **G**ain\)
+* number of units older than 1 year old (to avoid STCG tax or **S**hort **T**erm **C**apital **G**ain)
 * number of units, that are older than 1 year old, which has net gain of 100,000 INR or less.
 
-This is a CSV of transactions from one of our community members. We’ve changed around a few data points, and removed PII \(**P**ersonally **I**dentifying **I**nformation\).
+This is a CSV of transactions from one of our community members. We’ve changed around a few data points, and removed PII (**P**ersonally **I**dentifying **I**nformation).
 
-{% file src="../../.gitbook/assets/data.csv" caption="Transaction History in CSV format" %}
+{% file src="../../.gitbook/assets/transaction (1).csv" %}
+Transaction History in CSV format
+{% endfile %}
 
-```text
+```
 ,Scheme Name ,Purchase Date,Transaction Type,Amount (Rs.),Price  (Rs.),Units
 ,Parag Parikh Flexi Cap Fund - Regular Plan - Growth,09/06/2017,New Investment ,5000,20.6793,241.788
 ,Parag Parikh Flexi Cap Fund - Regular Plan - Growth,11/07/2017,Additional Investment ,5000,20.843,239.889
@@ -387,14 +389,11 @@ This is a CSV of transactions from one of our community members. We’ve changed
 ,DSP Tax Saver Fund - Regular Plan - Growth,31/12/2019,Additional Investment ,5000,51.619,96.864
 ,DSP Tax Saver Fund - Regular Plan - Growth,29/01/2020,Additional Investment ,5000,52.606,95.046
 ,DSP Tax Saver Fund - Regular Plan - Growth,02/03/2020,Additional Investment ,5000,48.921,102.206
-
 ```
 
 Take a look at the CSV above, or after downloading the file; we can then begin with planning phase.
 
 ## Planning
-
-
 
 Right off the bat, we notice that unlike our previous sample CSV, this starts each line with a comma.
 
@@ -412,11 +411,11 @@ A sell transaction reduces number of units.
 
 Total number of units outside of 1 year period, is
 
-```text
+```
 SUM(units purchased up to DATE(today - 1y)) - SUM(<units sold>)
 ```
 
-Notice the difference. We’re adding up units purchased only up to a year ago. But we’re subtracting **all units** sold \(and not just units sold up to a year ago\).
+Notice the difference. We’re adding up units purchased only up to a year ago. But we’re subtracting **all units** sold (and not just units sold up to a year ago).
 
 What if this value is negative?
 
@@ -426,17 +425,17 @@ In this case, we might want to wrap the result to be zero.
 
 We can use `MAX()` function for that
 
-```text
+```
 MAX(SUM(units purchased up to DATE(today - 1y)) - SUM(<units sold>), 0)
 ```
 
-[Link to documentation on MAX\(\)](https://support.google.com/docs/answer/3094013?hl=en) \| [archive.org link](https://web.archive.org/web/20210118103052/https://support.google.com/docs/answer/3094013?hl=en) \| [archive.is link](https://archive.is/cD15W)
+[Link to documentation on MAX()](https://support.google.com/docs/answer/3094013?hl=en) | [archive.org link](https://web.archive.org/web/20210118103052/https://support.google.com/docs/answer/3094013?hl=en) | [archive.is link](https://archive.is/cD15W)
 
 However, there remains one more problem: there are more than one fund!
 
 We cannot just add units of two different funds!
 
-In other words, we need a way to present this result \(total units older than 1 year\), for **each** fund.
+In other words, we need a way to present this result (total units older than 1 year), for **each** fund.
 
 But how do we get excel / spreadsheet to extract this _unique_ set of values, then add up values only against each of those?
 
@@ -446,7 +445,7 @@ But in a different CSV file, the grouping might not be there at all. Different f
 
 We can use `UNIQUE()` function from Google Sheets, to get a list of unique fund names, and this would work for the case even when the names are not grouped together.
 
-[Link to documentation of UNIQUE\(\)](https://support.google.com/docs/answer/3093198?hl=en) \| [archive.org link](https://web.archive.org/web/20201214025719/https://support.google.com/docs/answer/3093198?hl=en) \| [archive.is link](https://archive.is/yQEoR)
+[Link to documentation of UNIQUE()](https://support.google.com/docs/answer/3093198?hl=en) | [archive.org link](https://web.archive.org/web/20201214025719/https://support.google.com/docs/answer/3093198?hl=en) | [archive.is link](https://archive.is/yQEoR)
 
 Next task, is to add up transactions for each of the unique fund names that appear.
 
@@ -454,13 +453,13 @@ There are more than one ways to go about it. We could use `FILTER()` function, o
 
 We use `SUMIFS()` to add up all units from purchase transactions **up to a year ago**, and subtract the unit balance for redemption or switch-out transactions.
 
-[Link to documentation of SUMIFS\(\)](https://support.google.com/docs/answer/3238496?hl=en) \| [archive.org link](https://web.archive.org/web/20201203181155/https://support.google.com/docs/answer/3238496?hl=en) \| [archive.is link](https://archive.is/ZdUKy)
+[Link to documentation of SUMIFS()](https://support.google.com/docs/answer/3238496?hl=en) | [archive.org link](https://web.archive.org/web/20201203181155/https://support.google.com/docs/answer/3238496?hl=en) | [archive.is link](https://archive.is/ZdUKy)
 
 This function allows for more than one criteria to search, and sum up, within a range of data.
 
 How do we find _up to a year ago_?
 
-```text
+```
 TODAY() - 1 * 365
 ```
 
@@ -468,7 +467,7 @@ Instead of putting a hardcoded value for date, we can use a dynamically-deduced 
 
 `TODAY()` function gives us today’s date. And subtracting 365, gives date going back a year.
 
-## Remaining Units Older than 1 Year 
+## Remaining Units Older than 1 Year
 
 Now that we’ve chalked out a plan, it’s time to execute this step by step.
 
@@ -477,24 +476,24 @@ Now that we’ve chalked out a plan, it’s time to execute this step by step.
 Follow these steps:
 
 * Open a new empty spreadsheet
-* Download the CSV file \(or copy paste from above into a text file\) in your machine.
-* Go to your spreadsheet and import with these settings
+* Download the CSV file (or copy paste from above into a text file) in your machine.
+*   Go to your spreadsheet and import with these settings
 
-  Select these options:
+    Select these options:
 
-  * Replace current sheet
-  * Detect Automatically
-  * No
+    * Replace current sheet
+    * Detect Automatically
+    * No
 
-![Import Data Settings - Dark Mode](../../.gitbook/assets/import-data.dark.png)
+![Import Data Settings - Dark Mode](<../../.gitbook/assets/import-data.dark (1).png>)
 
-![Import Data Settings - Light Mode](../../.gitbook/assets/import-data.light.png)
+![Import Data Settings - Light Mode](<../../.gitbook/assets/import-data.light (1).png>)
 
 After importing this CSV file into your Spreadsheet, it should look like this
 
-![After Importing Transaction History CSV  - Dark Mode](../../.gitbook/assets/after-import.dark.png)
+![After Importing Transaction History CSV  - Dark Mode](<../../.gitbook/assets/after-import.dark (1).png>)
 
-![After Importing Transaction History CSV - Light Mode](../../.gitbook/assets/after-import.light.png)
+![After Importing Transaction History CSV - Light Mode](<../../.gitbook/assets/after-import.light (1).png>)
 
 ### **Extracting Unique Funds**
 
@@ -504,38 +503,34 @@ And in case you’re wondering, yes, excel / spreadsheet allows you to refer to 
 
 Follow these steps to extract a list of unique funds
 
-* Create a new sheet in your workbook, clicking on the plus sign \(`+`\) at the bottom left of your spreadsheet application.
+* Create a new sheet in your workbook, clicking on the plus sign (`+`) at the bottom left of your spreadsheet application.
 * In this new sheet, add a table header
-
-| Fund Name | Units Purchased \(&gt;1Y\) | Units Sold | Total Available Units |
-| :--- | :--- | :--- | :--- |
-
 
 It should look like this
 
-![Table Headers - Dark Mode](../../.gitbook/assets/table-header.dark.png)
+![Table Headers - Dark Mode](<../../.gitbook/assets/table-header.dark (1).png>)
 
-![Table Headers - Light Mode](../../.gitbook/assets/table-header.light.png)
+![Table Headers - Light Mode](<../../.gitbook/assets/table-header.light (1).png>)
 
 Next step is to use `UNIQUE()` function, with the range of all funds.
 
 There are total 329 entries in the CSV imported transactions.
 
-In the first sheet, if the first entry of fund name starts at `B2`, then the last entry would be at \(329 - 2 + 1\) = `B330`.
+In the first sheet, if the first entry of fund name starts at `B2`, then the last entry would be at (329 - 2 + 1) = `B330`.
 
 We are referring across sheet, the reference works out as `<name of the sheet>!<cellId>`.
 
 Refer to this video for more guidance:
 
-{% embed url="https://www.youtube.com/watch?v=iXOSl-pfrC8" caption="Extracting Unique Fund Names - Dark Mode" %}
+{% embed url="https://www.youtube.com/watch?v=iXOSl-pfrC8" %}
 
-{% embed url="https://www.youtube.com/watch?v=Q8KinGUG\_Ug" caption="Extracting Unique Fund Names - Light Mode" %}
+{% embed url="https://www.youtube.com/watch?v=Q8KinGUG:Ug" %}
 
 Final outcome of this process should look like as follows
 
-![Unique Fund Names - Dark Mode](../../.gitbook/assets/unique-fund-names.dark.png)
+![Unique Fund Names - Dark Mode](<../../.gitbook/assets/unique-fund-names.dark (1).png>)
 
-![Unique Fund Names - Light Mode](../../.gitbook/assets/unique-fund-names.light.png)
+![Unique Fund Names - Light Mode](<../../.gitbook/assets/unique-fund-names.light (1).png>)
 
 ### Locking Cell IDs for Dragging Autofills
 
@@ -547,7 +542,7 @@ In this formula, if we drag it to next row, it’d change as follows: `FUNCTION(
 
 However, we might not want all referred fields to change.
 
-`A2` → `A3` ✅  
+`A2` → `A3` ✅\
 `sheet!C3:sheet!C300` → `sheet!C4:sheet!C301` ❌
 
 The range of data remains same for both functions, and we’d only want a **part of formula to change, while other part of the formula remaining constant**.
@@ -584,44 +579,42 @@ This was to give us more control over how to format these strings.
 Follow these steps:
 
 * In the data sheet where all CSV entries were imported, add a new column next to last column
-* Invoke `VALUE()` function for first entry against number of units.
+*   Invoke `VALUE()` function for first entry against number of units.
 
-  This function takes raw string values of units, and convert those to floating-point numbers. This would help us compare against 0 or other numbers, or add these up.
-
+    This function takes raw string values of units, and convert those to floating-point numbers. This would help us compare against 0 or other numbers, or add these up.
 * Auto-fill all cells in that column, to have numeric values of each raw string of units.
 * Go back to the second sheet, which has unique fund names
-* In the third column, _Units sold_, add this formula:
+*   In the third column, _Units sold_, add this formula:
 
-  ```text
-   SUMIFS(
-     <range of unit value column in data sheet>,
-     <fund name column in data sheet>,
-     name of fund in current row in second sheet,
-     <unit value column in data sheet>,
-     "<0"
-   )
-  ```
+    ```
+     SUMIFS(
+       <range of unit value column in data sheet>,
+       <fund name column in data sheet>,
+       name of fund in current row in second sheet,
+       <unit value column in data sheet>,
+       "<0"
+     )
+    ```
 
-  First argument to `SUMIFS()` is the range on which it’d do the _summing_ or addition.
+    First argument to `SUMIFS()` is the range on which it’d do the _summing_ or addition.
 
-  
-  Next 2 arguments are set of criteria. There are 4 arguments after the first one, in couplets they represent 2 conditions.  
-  
-  2nd and 3rd argument means _find me the rows where the name of the fund is same as it is here_. This should **not** be locked cell.  
-  
-  4th and 5th argument means _now check the unit value column and pick the ones with value less than zero_.
+    Next 2 arguments are set of criteria. There are 4 arguments after the first one, in couplets they represent 2 conditions.
 
-Refer to the following video\(s\)
+    2nd and 3rd argument means _find me the rows where the name of the fund is same as it is here_. This should **not** be locked cell.
 
-{% embed url="https://www.youtube.com/watch?v=Oson6YaYs\_U" caption="Computing Units Sold with SUMIFS\(\) - Dark Mode" %}
+    4th and 5th argument means _now check the unit value column and pick the ones with value less than zero_.
 
-{% embed url="https://www.youtube.com/watch?v=F-gcflvRs50" caption="Computing Units Sold with SUMIFS\(\) - Light Mode" %}
+Refer to the following video(s)
+
+{% embed url="https://www.youtube.com/watch?v=Oson6YaYs:U" %}
+
+{% embed url="https://www.youtube.com/watch?v=F-gcflvRs50" %}
 
 Final result should match this
 
-![Total Units Sold - Dark Mode](../../.gitbook/assets/units-sold-final-result.dark.png)
+![Total Units Sold - Dark Mode](<../../.gitbook/assets/units-sold-final-result.dark (1).png>)
 
-![Total Units Sold - Light Mode](../../.gitbook/assets/units-sold-final-result.light.png)
+![Total Units Sold - Light Mode](<../../.gitbook/assets/units-sold-final-result.light (1).png>)
 
 ### **Normalizing imported dates**
 
@@ -636,18 +629,16 @@ As we had to convert raw strings to their numeric values earlier, we’d have to
 Follow these steps to achieve this:
 
 * Add an extra column next to the units value column, in data sheet.
-* Invoke `DATEVALUE()` function to compute date from raw strings in _Purchase Date_ column.
+*   Invoke `DATEVALUE()` function to compute date from raw strings in _Purchase Date_ column.
 
-  It’d most likely print a number.
+    It’d most likely print a number.
+*   Go to `Format` →`Numbers` → `Date Format`.
 
-* Go to `Format` →`Numbers` → `Date Format`.
-
-  This would change it to a date format.
-
+    This would change it to a date format.
 * Use drag and autofill, to get equivalent date values for each of the transaction dates
 
-[Documentation of DATEVALUE\(\)](https://support.google.com/docs/answer/3093039?hl=en) \| [archive.org link](https://web.archive.org/web/20200806143357/https://support.google.com/docs/answer/3093039?hl=en) \| [archive.is link](https://archive.is/SzVcK)  
-  
+[Documentation of DATEVALUE()](https://support.google.com/docs/answer/3093039?hl=en) | [archive.org link](https://web.archive.org/web/20200806143357/https://support.google.com/docs/answer/3093039?hl=en) | [archive.is link](https://archive.is/SzVcK)
+
 The newly created column should contain similar-looking values, though under the hood, they’ve been converted to date objects.
 
 ### **Units purchased older than 1 year**
@@ -656,59 +647,52 @@ It’s time to put all these together.
 
 The `SUMIFS()` would get one more condition with 2 more arguments - that purchase date / transaction date were before 1 year ago.
 
-* In the second sheet \(not the sheet named `data`\), add a cell, to note down date exactly 1 year ago.
+*   In the second sheet (not the sheet named `data`), add a cell, to note down date exactly 1 year ago.
 
-  It should be written as `TODAY() - 1 * 365`. `TODAY()` is an in-built function that returns today’s date \(we want to compute it, so no matter when someone checks the sheet, it gives correct value based on that date\).
+    It should be written as `TODAY() - 1 * 365`. `TODAY()` is an in-built function that returns today’s date (we want to compute it, so no matter when someone checks the sheet, it gives correct value based on that date).
 
-  By default, subtraction assumes unit as 1 day, therefore subtracting 365 is enough to get the date from exactly a year ago.
+    By default, subtraction assumes unit as 1 day, therefore subtracting 365 is enough to get the date from exactly a year ago.
 
-  Use date formatting if needed.
+    Use date formatting if needed.
+*   In the second column, _Units Purchased (>1Y)_, add this formula:
 
-* In the second column, _Units Purchased \(&gt;1Y\)_, add this formula:
+    ```
+     SUMIFS(
+       <range of unit value column in data sheet>,
+       <fund name column in data sheet>,
+       name of fund in current row in second sheet,
+       <unit value column in data sheet>,
+       ">0",
+       <formatted date column>
+       <less than date from a year ago>
+     )
+    ```
 
-  ```text
-   SUMIFS(
-     <range of unit value column in data sheet>,
-     <fund name column in data sheet>,
-     name of fund in current row in second sheet,
-     <unit value column in data sheet>,
-     ">0",
-     <formatted date column>
-     <less than date from a year ago>
-   )
-  ```
+    First argument to `SUMIFS()` is the range on which it’d do the _summing_ or addition.
 
-  First argument to `SUMIFS()` is the range on which it’d do the _summing_ or addition.
+    Next 2 arguments are set of criteria. There are 4 arguments after the first one, in couplets they represent 2 conditions.
 
-  
-  Next 2 arguments are set of criteria. There are 4 arguments after the first one, in couplets they represent 2 conditions.
+    2nd and 3rd argument means _find me the rows where the name of the fund is same as it is here_. This should **not** be locked cell.
 
-  
-  2nd and 3rd argument means _find me the rows where the name of the fund is same as it is here_. This should **not** be locked cell.
+    4th and 5th argument means _now check the unit value column and pick the ones with value less than zero_.
 
-  
-  4th and 5th argument means _now check the unit value column and pick the ones with value less than zero_.
+    6th argument is pointing to newly added formatted date column from above.
 
-  
-  6th argument is pointing to newly added formatted date column from above.
+    7th argument is a bit interesting. Conditions are wrapped in quotes (`""` or `''`), but if we refer to a cell which has a fixed date in it, we cannot write it as `"<$B$6"`.
 
-  
-  7th argument is a bit interesting. Conditions are wrapped in quotes \(`""` or `''`\), but if we refer to a cell which has a fixed date in it, we cannot write it as `"<$B$6"`.
-
-  
-  We have to use `&` and write it as `"<"&$B$6`. This is a way to use the value in cell `B6` in a conditional.
+    We have to use `&` and write it as `"<"&$B$6`. This is a way to use the value in cell `B6` in a conditional.
 
 Refer to the following video:
 
-{% embed url="https://www.youtube.com/watch?v=3XqMbPsOB00" caption="Computing Units Purchased > 1 Year - Dark Mode" %}
+{% embed url="https://www.youtube.com/watch?v=3XqMbPsOB00" %}
 
-{% embed url="https://www.youtube.com/watch?v=IDuWjJcHjCI" caption="Computing Units Purchased > 1 Year - Light Mode" %}
+{% embed url="https://www.youtube.com/watch?v=IDuWjJcHjCI" %}
 
 Final result should match these
 
-![Units Purchased more than 1Y Ago - Dark Mode](../../.gitbook/assets/units-purchased-one-year-ago.dark.png)
+![Units Purchased more than 1Y Ago - Dark Mode](<../../.gitbook/assets/units-purchased-one-year-ago.dark (1).png>)
 
-![Units Purchased more than 1Y Ago - Light Mode](../../.gitbook/assets/units-purchased-one-year-ago.light%20%281%29%20%281%29%20%281%29%20%281%29.png)
+![Units Purchased more than 1Y Ago - Light Mode](<../../.gitbook/assets/units-purchased-one-year-ago.light (1) (1) (1) (2).png>)
 
 {% hint style="warning" %}
 The numbers might not exactly match, because depending on today's date, you might have a higher value. Above computation is as on 21st March 2021.
@@ -730,9 +714,9 @@ It also shows why keeping _units sold_ in negative was a good idea.
 
 A sample final result can look like this
 
-![Units outside of STCG Taxation - Dark Mode](../../.gitbook/assets/units-outside-stcg.dark.png)
+![Units outside of STCG Taxation - Dark Mode](<../../.gitbook/assets/units-outside-stcg.dark (1).png>)
 
-![Units outside of STCG Taxation - Light Mode](../../.gitbook/assets/units-purchased-one-year-ago.light%20%281%29%20%281%29%20%281%29.png)
+![Units outside of STCG Taxation - Light Mode](<../../.gitbook/assets/units-purchased-one-year-ago.light (1) (1) (1) (1) (1).png>)
 
 ## Wrapping up
 
@@ -753,4 +737,3 @@ This is evident from the `Units Sold` column - investor hasn’t sold any units 
 Over the years, investor has switched their corpus into these above funds.
 
 For the other funds in their portfolio, they’ve completely sold these off, more than a year ago. We can easily verify this, going through the redemption transactions, and see that those were before 21/03/2020, i.e. more than one year ago.
-

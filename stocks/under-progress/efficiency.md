@@ -11,7 +11,7 @@ description: >-
 
 One of the most basic operational aspects of a business is generating sales using its assets. We can measure the efficiency of this operational aspect using the **asset turnover ratio** which can be defined as
 
-```text
+```
 Asset Turnover Ratio = Total Income / Average Assets
 ```
 
@@ -21,15 +21,15 @@ Asset Turnover Ratio is one of the components in the DuPont Identity we used to 
 
 As we’ve mentioned before, it wouldn’t make sense to compare ratios between companies in different sectors. FMCG companies usually enjoy high asset turnover while asset heavy companies and financial institutions don’t.
 
-![      The Profit and Loss Statement of Hindustan Unilever for the financial year 2019](../../.gitbook/assets/hul-pnl.png)
+![The Profit and Loss Statement of Hindustan Unilever for the financial year 2019](<../../.gitbook/assets/hul-pnl (1).png>)
 
-![      Part 1 of the Balance Sheet of Hindustan Unilever for the financial year 2019](../../.gitbook/assets/hul-assets.png)
+![Part 1 of the Balance Sheet of Hindustan Unilever for the financial year 2019](<../../.gitbook/assets/hul-assets (1).png>)
 
 The total income of Hindustan Unilever Ltd for the year 2019 is `₹39,860 crores` and the average total assets are `(₹18,629 + ₹17,862)/2 = ₹18,245.5 crores`. The asset turnover ratio of Hindustan Unilever for the year 2019 is `₹39,860 / ₹18,245 = 2.18`. In contrast, the asset turnover ratio of Nestle India for the year 2019 is `1.66`. If we observe the past 5 year trend, Hindustan Unilever has had an asset turnover ratio of greater than 2 while Nestle India has had an asset turnover ratio of greater than 1 but less than 2. Using this information, we can infer that Hindustan Unilever is _possibly_ more efficient at generating revenue from its assets than Nestle India.
 
 The asset turnover ratio of a company can get skewed due to a number of unusual events such as asset sales, issue of additional shares, investment into assets for long term growth, deliberately increasing inventory to meet demand etc. It’s best if we look at a trend of how asset turnover ratio has been in the past 5 years before jumping to conclusions. Let’s consider the financial statements of Avenue Supermarts for the year 2020.
 
-![      Part 1 of the Balance Sheet of Avenue Supermarts for the financial year 2020](../../.gitbook/assets/dmart-bs%20%281%29.png)
+![Part 1 of the Balance Sheet of Avenue Supermarts for the financial year 2020](<../../.gitbook/assets/dmart-bs (2).png>)
 
 The asset turnover ratio of Avenue Supermarts for the year 2019 is `3.16`. However, due to issue of additional shares and the investment of the capital gained into non-current financial assets, the asset turnover ratio drops to `2.61` in the financial year 2020.
 
@@ -37,7 +37,7 @@ Although we’ve seen what asset turnover ratio is, we can go ahead and refine i
 
 We can define fixed asset turnover ratio as
 
-```text
+```
 Fixed Asset Turnover Ratio = Total Income / Average Non Current Assets
 ```
 
@@ -51,7 +51,7 @@ One of the metrics that can help businesses make better decisions about pricing,
 
 We can define the inventory turnover ratio as
 
-```text
+```
 Inventory Turnover Ratio = Cost of Goods Sold / Average Inventory
 ```
 
@@ -63,29 +63,29 @@ Generally, high inventory turnover ratios indicate that a company is able to sel
 
 Let’s compare the inventory turnover of two supermarket businesses — Avenue Supermarts and V-Mart Retail.
 
-![Current Assets of Avenue Supermarts for the financial year 2020](../../.gitbook/assets/dmart-current-assets.png)
+![Current Assets of Avenue Supermarts for the financial year 2020](<../../.gitbook/assets/dmart-current-assets (1).png>)
 
-![Expenses of Avenue Supermarts for the financial year 2020](../../.gitbook/assets/dmart-expenses.png)
+![Expenses of Avenue Supermarts for the financial year 2020](<../../.gitbook/assets/dmart-expenses (1).png>)
 
 The COGS of Avenue Supermarts for the year 2020 is `₹21,441.68 - ₹338.75 = ₹21,102.93 crores` and its average inventory is `(₹1,947.40 + ₹1,608.65) / 2 = ₹1,778.02 crores`. This gives us an inventory turnover ratio of `₹21,102.93 / ₹1,778.02 = 11.8`.
 
-![Current Assets of V-Mart Retail for the financial year 2020](../../.gitbook/assets/vmart-current-assets.png)
+![Current Assets of V-Mart Retail for the financial year 2020](<../../.gitbook/assets/vmart-current-assets (1).png>)
 
-![Expenses of V-Mart Retail for the financial year 2020](../../.gitbook/assets/vmart-expenses.png)
+![Expenses of V-Mart Retail for the financial year 2020](<../../.gitbook/assets/vmart-expenses (1).png>)
 
 The COGS of V-Mart Retail for the year 2020 is `₹1,275.20 - ₹148.93 + ₹11.47 = ₹1,137.74 crores` and its average inventory is `(₹477.92 + ₹328.98) / 2 = ₹403.45 crores`. This gives us an inventory turnover ratio of `₹1,137.74 / ₹403.45 = 2.82`.
 
 Although both Avenue Supermarts and V-Mart Retail are supermarket businesses, their revenue sources are different. V-Mart Retail derives about 80% of its revenue from apparels while Avenue Supermarts gets less than 27% from apparel. How about we compare Avenue Supermarts’ inventory turnover ratio with Reliance Retail?
 
-![Current Assets of Reliance Retail for the financial year 2020](../../.gitbook/assets/reliance-current-assets.png)
+![Current Assets of Reliance Retail for the financial year 2020](<../../.gitbook/assets/reliance-current-assets (1).png>)
 
-![Expenses of Reliance Retail for the financial year 2020](../../.gitbook/assets/reliance-expenses.png)
+![Expenses of Reliance Retail for the financial year 2020](<../../.gitbook/assets/reliance-expenses (1).png>)
 
 The COGS of Reliance Retail for the year 2020 is `₹2.99 + ₹1,22,745.81 + ₹1,941.48 + ₹135.62 = ₹1,24,825.9 crores` and its average inventory is `(₹9,583.11 + ₹11,493.53) / 2 = ₹10,538.32 crores`. This gives us an inventory turnover ratio of `₹1,24,825.9 / ₹10,538.32 = 11.8`.
 
-Now that we know how to calculate the inventory turnover ratio, we can calculate the average time in days that it takes to turn inventory into sales. This metric is known as **Days Sales of Inventory \(DSI\)**. It is also known as Days Inventory Outstanding \(DIO\). DSI can be calculated using the following formula
+Now that we know how to calculate the inventory turnover ratio, we can calculate the average time in days that it takes to turn inventory into sales. This metric is known as **Days Sales of Inventory (DSI)**. It is also known as Days Inventory Outstanding (DIO). DSI can be calculated using the following formula
 
-```text
+```
 Days Sales of Inventory = 365 / Inventory Turnover Ratio
 ```
 
@@ -100,4 +100,3 @@ Generally speaking, lower the DSI, the more efficient a company is in translatin
 ### Cash Conversion Cycle
 
 ### Working Capital
-
