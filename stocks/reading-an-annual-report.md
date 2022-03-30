@@ -201,8 +201,6 @@ The financial statements section includes standalone and consolidated \(where ap
 
 ![Tata Consultancy Services Ltd&apos;s Annual Report \(FY20\)](../.gitbook/assets/giykexf.png)
 
-We've covered how to understand financial statement under the [_'Financial statements — How to read them & what to look for'_](https://indiainvestments.gitbook.io/content/wiki/financial-statements)  chapter of this series.
-
 ### Notes to Financial Statements
 
 You can refer to detailed calculation or breakup of figures reported in financial statements of the company under the _Notes to Financial Statement_ section to get a better understanding of the business. For instance, you can often find the interest rates at which the company has taken up a loan under the note elaborating borrowings of a company. Figures in financial statements are accompanied by an index consisting of the serial number of the note interlinked with a specific figure. Take this screenshot taken from Tata Consulatancy Services' profit and loss statement.
