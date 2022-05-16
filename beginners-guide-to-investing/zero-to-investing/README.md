@@ -1,6 +1,5 @@
 ---
 description: The four part series of Zero To Investing for Beginners
-layout: editorial
 ---
 
 # Zero To Investing
