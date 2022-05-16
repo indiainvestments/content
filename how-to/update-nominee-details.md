@@ -25,7 +25,7 @@ There are various ways to go about updating nominee details in mutual fund folio
 
 ### Option 1: MFUtility
 
-The easiest and fastest way to update nomination for all mutual fund folios, across fund houses (AMCs) is to update the same via [MFUtility](https://www.mfuindia.com).
+The easiest and fastest way to update nomination for all mutual fund folios, across fund houses (AMCs) is to update the same via [MFUtility](https://www.mfuindia.com/).
 
 {% hint style="info" %}
 💡If you don't have an MFUtility account, this convenience alone is worth it to sign up for one.
@@ -64,7 +64,7 @@ Or, with the RTA forms, one would need to find out which RTA their AMC is using 
 {% hint style="info" %}
 Above links, to nomination forms on websites of RTAs and MFUtility , may change in the future. Always download latest versions of these forms from the official website of the entities as mentioned.
 
-[MFUtility](https://www.mfuindia.com) | [CAMS](https://new.camsonline.com) | [KFinTech](%20https:/www.kfintech.com)
+[MFUtility](https://www.mfuindia.com/) | [CAMS](https://new.camsonline.com/) | [KFinTech](%20https:/www.kfintech.com)
 {% endhint %}
 
 ### Option 3 : Online Update
@@ -103,9 +103,9 @@ For e.g. if the investor wants to update the nominee for demat account with HDFC
 
 “HDFC Securities” AND “Nomination”
 
-![HDFC Securities Demat Nomination Form - Dark Mode](<../.gitbook/assets/hdfc-securities-demat-nomination.dark (1).png>)
+![HDFC Securities Demat Nomination Form - Dark Mode](../.gitbook/assets/hdfc-securities-demat-nomination.dark.png)
 
-![HDFC Securities Demat Nomination Form - Light Mode](<../.gitbook/assets/hdfc-securities-demat-nomination.light (1).png>)
+![HDFC Securities Demat Nomination Form - Light Mode](../.gitbook/assets/hdfc-securities-demat-nomination.light.png)
 
 Visit the link that is from the website of the broker and the form will be available on the page.
 

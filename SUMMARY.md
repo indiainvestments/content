@@ -139,6 +139,11 @@
   * [How do I start investing in mutual funds \[ELI5 series\]](start-here/eli5-series/how-do-i-start-investing-in-mutual-funds-eli5-series.md)
   * [Mis-selling of Insurance Products](start-here/eli5-series/mis-selling-of-insurance-products.md)
 
+## BEGINNER'S GUIDE TO INVESTING
+
+* [Zero To Investing](beginners-guide-to-investing/zero-to-investing/README.md)
+  * [The First Step](beginners-guide-to-investing/zero-to-investing/the-first-step.md)
+
 ## Contributors Section <a href="#contributors" id="contributors"></a>
 
 * [How Can I Start Contributing?](contributors/index.md)

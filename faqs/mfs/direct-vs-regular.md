@@ -177,7 +177,7 @@ We are considering some large-cap funds that have mostly stayed true to their la
 | Regular Plan | $$₹10,00,000$$  | $$₹17,05,182$$ | $$₹7,05,182$$ | $$12.6\%$$    |
 
 {% hint style="info" %}
-We have generated this data using the ‘My Investment’ tool from [Value Research](https://www.valueresearchonline.com).
+We have generated this data using the ‘My Investment’ tool from [Value Research](https://www.valueresearchonline.com/).
 {% endhint %}
 
 As we can see, in the large cap space, equity mutual funds have mostly performed in-line with the index funds over the last 8 years. Most of them have underperfomed, but some of them have outperformed.
@@ -218,15 +218,15 @@ We saw earlier that the difference in TER difference between the direct and regu
 
 Let’s assume that investing a lumpsum amount of $$₹1,00,000$$ in an asset generates a CAGR of $$15\%$$. This asset also has a regular plan variant which generates a CAGR of $$14\%$$. At $$1\%$$ lower CAGR, this is how the valuation would change over time.
 
-![Regular Plan Returns Trailing by 1% - Dark Mode](<../../.gitbook/assets/difference-direct-regular-one-percent.dark (1).png>)
+![Regular Plan Returns Trailing by 1% - Dark Mode](../../.gitbook/assets/difference-direct-regular-one-percent.dark.png)
 
-![Regular Plan Returns Trailing by 1% - Light Mode](<../../.gitbook/assets/difference-direct-regular-one-percent.light (1).png>)
+![Regular Plan Returns Trailing by 1% - Light Mode](../../.gitbook/assets/difference-direct-regular-one-percent.light.png)
 
 If the difference in CAGR is assumed to be $$1.5\%$$, this is how the corpus changes.
 
-![Regular Plan Returns Trailing by 1.5% - Dark Mode](<../../.gitbook/assets/difference-direct-regular-one-point-five.dark (1).png>)
+![Regular Plan Returns Trailing by 1.5% - Dark Mode](../../.gitbook/assets/difference-direct-regular-one-point-five.dark.png)
 
-![Regular Plan Returns Trailing by 1.5% - Light Mode](<../../.gitbook/assets/difference-direct-regular-one-point-five.light (1).png>)
+![Regular Plan Returns Trailing by 1.5% - Light Mode](../../.gitbook/assets/difference-direct-regular-one-point-five.light.png)
 
 Eventually, an investor could end up losing $$30\%-40\%$$ of their portfolio to distributor commissions over a long period of time.
 

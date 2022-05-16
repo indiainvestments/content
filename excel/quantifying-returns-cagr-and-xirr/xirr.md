@@ -114,9 +114,9 @@ Here’s a video to guide you along:
 
 The final results should resemble something like these screenshot(s):
 
-![XIRR for the Endowment Policy - Dark Mode](<../../.gitbook/assets/xirr-moneyback-policy.dark (1).png>)
+![XIRR for the Endowment Policy - Dark Mode](../../.gitbook/assets/xirr-moneyback-policy.dark.png)
 
-![XIRR for the Endowment Policy - Light Mode](<../../.gitbook/assets/xirr-moneyback-policy.light (1).png>)
+![XIRR for the Endowment Policy - Light Mode](../../.gitbook/assets/xirr-moneyback-policy.light.png)
 
 While it might’ve seemed that _initial investment practically doubling means 100% return_, the computation would say otherwise.
 
@@ -180,9 +180,9 @@ Refer to these videos if you need help
 
 When you're done, it should resemble something like these:
 
-![XIRR for moneyback policy with earlier payouts - Dark Mode](<../../.gitbook/assets/moneyback-policy-xirr-earlier-payout.dark (1).png>)
+![XIRR for moneyback policy with earlier payouts - Dark Mode](../../.gitbook/assets/moneyback-policy-xirr-earlier-payout.dark.png)
 
-![XIRR for moneyback policy with earlier payouts - Light Mode](<../../.gitbook/assets/moneyback-policy-xirr-earlier-payout.light (1).png>)
+![XIRR for moneyback policy with earlier payouts - Light Mode](../../.gitbook/assets/moneyback-policy-xirr-earlier-payout.light.png)
 
 We find that moving the payouts ahead of original schedule has an effect on XIRR - **it improves it**.
 

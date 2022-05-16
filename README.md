@@ -97,7 +97,7 @@ We encourage you to take the time, and read through the content in above link at
 
 ## Acknowledgements
 
-Special thanks to [Gitbook](https://www.gitbook.com) for accommodating us in their premium tier, free-of-cost.
+Special thanks to [Gitbook](https://www.gitbook.com/) for accommodating us in their premium tier, free-of-cost.
 
 It's been a fantastic journey working with the great folks over at Gitbook team. They've helped us out every step of the way whenever we've asked for it.
 

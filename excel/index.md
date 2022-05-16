@@ -43,7 +43,7 @@ You’ll feel empowered to build these on your own, from scratch; and maintain o
 
     If you’ve a Google account or G-Suite account; you can use [Google Sheets for free](https://docs.google.com/spreadsheets).
 
-    [LibreOffice](https://www.libreoffice.org) has its own implementation, called Calc. It would most likely work as well but we cannot confirm this.
+    [LibreOffice](https://www.libreoffice.org/) has its own implementation, called Calc. It would most likely work as well but we cannot confirm this.
 
     On Mac OS X and iPhone / iPad, [Apple Numbers app](https://www.apple.com/in/numbers/) should be fine too.
 
@@ -70,9 +70,9 @@ However, we're also mindful of the fact that it'd involve context switch. It's n
 
 Hence we recommend this setup as shown below
 
-![Recommended Setup - Dark Mode](<../.gitbook/assets/excel-setup.dark (1).png>)
+![Recommended Setup - Dark Mode](../.gitbook/assets/excel-setup.dark.png)
 
-![Recommended Setup - Light Mode](<../.gitbook/assets/excel-setup.light (1).png>)
+![Recommended Setup - Light Mode](../.gitbook/assets/excel-setup.light.png)
 
 That is, split your screen in a way that the wiki is on your left, and your spreadsheet or excel window is on your right - both visible and accessible at the same time.
 
@@ -102,9 +102,9 @@ We've looked into various video hosting providers, and nothing comes close to Yo
 
 All of our videos on YouTube for this series are unlisted at the moment, and not easily discoverable through a public search on YouTube.
 
-![Ads Disabled on YouTube - Dark Mode](<../.gitbook/assets/ad-disabled.dark (1).png>)
+![Ads Disabled on YouTube - Dark Mode](../.gitbook/assets/ad-disabled.dark.png)
 
-![Ads Disabled on YouTube - Light Mode](<../.gitbook/assets/ad-disabled.light (1).png>)
+![Ads Disabled on YouTube - Light Mode](../.gitbook/assets/ad-disabled.light.png)
 
 {% hint style="danger" %}
 Unfortunately, it looks like we cannot disable ads completely on our YouTube channel. This seems to be a limitation of YouTube. YouTube as a platform, reserves all the rights to display ads in our videos hosted on YouTube.

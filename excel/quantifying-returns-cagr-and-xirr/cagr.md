@@ -56,9 +56,9 @@ We know that index funds track the index. In rest of this chapter, we'd compute 
 
 From ValueResearch Online, [UTI Nifty Index Fund Direct Growth](https://www.valueresearchonline.com/funds/15830/uti-nifty-index-fund-direct-plan) ([archive.org link](https://web.archive.org/web/20210122010723/https://www.valueresearchonline.com/funds/15830/uti-nifty-index-fund-direct-plan) | [archive.is link](https://archive.is/zSHxj)) has 3Y return of **13.72% p.a.**, as on **26th Mar 2021**. Exact date is important, since this 3Y return value would change with date.
 
-![VRO UTI Nifty Index Direct Growth Returns Table - Dark Mode](<../../.gitbook/assets/vro-uti-nifty-index-return.dark (1).png>)
+![VRO UTI Nifty Index Direct Growth Returns Table - Dark Mode](../../.gitbook/assets/vro-uti-nifty-index-return.dark.png)
 
-![VRO UTI Nifty Index Direct Growth Returns Table - Light Mode](<../../.gitbook/assets/vro-uti-nifty-index-return.light (1).png>)
+![VRO UTI Nifty Index Direct Growth Returns Table - Light Mode](../../.gitbook/assets/vro-uti-nifty-index-return.light.png)
 
 Notice the value under **3-Y** column, noted as **13.72**.
 
@@ -91,17 +91,17 @@ Steps to follow:
     | 26/03/2021 | 96.7892 |
 * Spreadsheet doesn't have an in-built `CAGR()` function, but we can make do with `RRI()` function for now (we'd see better options in a later chapter). [Documentation for RRI function](https://support.google.com/docs/answer/9368238?hl=en) | [archive.org link](https://web.archive.org/web/20200807053259/https://support.google.com/docs/answer/9368238?hl=en) | [archive.is link](https://archive.is/u3SsD) Invoke it as `RRI( 3, <cellID for value from 3 years ago>, <cellID for value as on today> )`
 
-![CAGR 3Y Computed with RRI() - Dark Mode](<../../.gitbook/assets/cagr-3-year.dark (1).png>)
+![CAGR 3Y Computed with RRI() - Dark Mode](../../.gitbook/assets/cagr-3-year.dark.png)
 
-![CAGR 3Y Computed with RRI() - Light Mode](<../../.gitbook/assets/cagr-3-year.light (1).png>)
+![CAGR 3Y Computed with RRI() - Light Mode](../../.gitbook/assets/cagr-3-year.light.png)
 
 But instead of using the `RRI()` function, we could directly use the mathematical formula as we'd discussed above: $$V_{final}$$being the value on given date, $$V_{initial}$$ is the value on given date 3 years ago; and $$t$$ is 3, for 3 years.
 
 We'd get this
 
-![CAGR of 3 Years Computed - Dark Mode](<../../.gitbook/assets/cagr-3y-computed.dark (1).png>)
+![CAGR of 3 Years Computed - Dark Mode](../../.gitbook/assets/cagr-3y-computed.dark.png)
 
-![CAGR of 3 Years Computed - Light Mode](<../../.gitbook/assets/cagr-3y-computed.light (1).png>)
+![CAGR of 3 Years Computed - Light Mode](../../.gitbook/assets/cagr-3y-computed.light.png)
 
 Notice that we've used 0.33 for $$1/t$$, to denote $$t = 3$$. This is **not** correct. We could get more accurate estimation, directly using $$1/3$$ instead of using 0.33.
 
@@ -137,9 +137,9 @@ Once again, we can use `GOOGLEFINANCE()` for getting historic Nifty price data. 
 
 Final results as it can be
 
-![Nifty 3Y CAGR vs UTI Nifty Index Direct Growth 3Y CAGR - Dark Mode](<../../.gitbook/assets/nifty-cagr-vs-uti-nifty-cagr-3y.dark (1).png>)
+![Nifty 3Y CAGR vs UTI Nifty Index Direct Growth 3Y CAGR - Dark Mode](../../.gitbook/assets/nifty-cagr-vs-uti-nifty-cagr-3y.dark.png)
 
-![Nifty 3Y CAGR vs UTI Nifty Index Direct Growth 3Y CAGR - Light Mode](<../../.gitbook/assets/nifty-cagr-vs-uti-nifty-cagr-3y.light (1).png>)
+![Nifty 3Y CAGR vs UTI Nifty Index Direct Growth 3Y CAGR - Light Mode](../../.gitbook/assets/nifty-cagr-vs-uti-nifty-cagr-3y.light.png)
 
 As you can see from this computation, the CAGR numbers of UTI Nifty Index Fund Direct Growth and the CAGR numbers for Nifty itself **do not match**.
 
@@ -181,9 +181,9 @@ We can obtain these from official NSE India website for historic data on TRI: [h
 
 Plugging in values for the two dates manually, and computing as earlier, we get this
 
-![Nifty TRI 3Y CAGR - Dark Mode](<../../.gitbook/assets/nifty-tri-3y-cagr.dark (1).png>)
+![Nifty TRI 3Y CAGR - Dark Mode](../../.gitbook/assets/nifty-tri-3y-cagr.dark.png)
 
-![Nifty TRI 3Y CAGR - Light Mode](<../../.gitbook/assets/nifty-tri-3y-cagr.light (1).png>)
+![Nifty TRI 3Y CAGR - Light Mode](../../.gitbook/assets/nifty-tri-3y-cagr.light.png)
 
 3Y CAGR of Nifty TRI, as on 26th March 2021, stands at **14.09% p.a.**
 
@@ -207,9 +207,9 @@ $$V_{final} = V_{initial}(1 + r/100)^t$$
 
 To build a mental model of what this formula means, in below diagram, we can plot value against time. Value can be price of an asset, based on our context and use-case.
 
-![Compounded Growth and CAGR - Dark Mode](<../../.gitbook/assets/compounded-growth.dark (1).png>)
+![Compounded Growth and CAGR - Dark Mode](../../.gitbook/assets/compounded-growth.dark.png)
 
-![Compounded Growth and CAGR - Light Mode](<../../.gitbook/assets/compounded-growth.light (1).png>)
+![Compounded Growth and CAGR - Light Mode](../../.gitbook/assets/compounded-growth.light.png)
 
 Value can be price of an asset, based on our context and use-case.
 
@@ -260,9 +260,9 @@ This is effectively the straight line equation, similar to $$y = mx + c$$. In th
 
 We can now update our diagram's Y-axis.
 
-![Logarithm of value vs time - Dark Mode](<../../.gitbook/assets/log-compounded-growth.dark (1).png>)
+![Logarithm of value vs time - Dark Mode](../../.gitbook/assets/log-compounded-growth.dark.png)
 
-![Logarithm of value vs time - Light Mode](<../../.gitbook/assets/log-compounded-growth.light (1).png>)
+![Logarithm of value vs time - Light Mode](../../.gitbook/assets/log-compounded-growth.light.png)
 
 We have plotted $$\log$$ of values (Y-axis) versus time (X-axis). Then we've joined the start point and end point with a dotted straight-line.
 
@@ -286,9 +286,9 @@ Refer to this video on how to get this working
 
 {% embed url="https://www.youtube.com/watch?v=eEAseRxyaAk" %}
 
-![Semi-log plot of all datasets - Dark Mode](<../../.gitbook/assets/nifty-3y-cagr-semilog-plot.dark (1).png>)
+![Semi-log plot of all datasets - Dark Mode](../../.gitbook/assets/nifty-3y-cagr-semilog-plot.dark.png)
 
-![Semi-log plot of all datasets - Light Mode](<../../.gitbook/assets/nifty-3y-cagr-semilog-plot.light (1).png>)
+![Semi-log plot of all datasets - Light Mode](../../.gitbook/assets/nifty-3y-cagr-semilog-plot.light.png)
 
 We see from the videos / images above, that once we switch the Y-axis to logarithmic values, the three lines start to look parallel to each other.
 
@@ -310,9 +310,9 @@ The downside of such visualization is unless the difference is stark, or a large
 
 We can use our visualization of CAGR as slope of semi-log plot, to understand maximum and minimum limits of CAGR.
 
-![Various possible tilted lines for different CAGR - Dark Mode](<../../.gitbook/assets/limits-of-cagr.dark (1).png>)
+![Various possible tilted lines for different CAGR - Dark Mode](../../.gitbook/assets/limits-of-cagr.dark.png)
 
-![Various possible tilted lines for different CAGR - Light Mode](<../../.gitbook/assets/limits-of-cagr.light (1).png>)
+![Various possible tilted lines for different CAGR - Light Mode](../../.gitbook/assets/limits-of-cagr.light.png)
 
 In the above image(s), the final value can be any one of $$B1$$, $$B2$$, $$...$$, $$B6$$. There are more possibilities - in fact, there are infinite possibilities between that semi-circle.
 
@@ -334,9 +334,9 @@ A 100% p.a. return denotes price doubling every year. What would slope of this l
 
 If the logarithm base is 10, then the angle of slope is effectively $$\tan^{-1}({\log_{10} 2})$$, or $$16^{\circ}$$. If the base of logarithm is $$e$$, then angle of slope is $$\tan^{-1}(\ln{2})$$, or $$34^{\circ}$$.
 
-![CAGR Realistic Expectation Zone - Dark Mode](<../../.gitbook/assets/cagr-semilog-realistic-expectation.dark (1).png>)
+![CAGR Realistic Expectation Zone - Dark Mode](../../.gitbook/assets/cagr-semilog-realistic-expectation.dark.png)
 
-![CAGR Realistic Expectation Zone - Light Mode](<../../.gitbook/assets/cagr-semilog-realistic-expectation.light (1).png>)
+![CAGR Realistic Expectation Zone - Light Mode](../../.gitbook/assets/cagr-semilog-realistic-expectation.light.png)
 
 In a semi-log plot where prices are logarithm of base-10, the realistic expectation would look like this. Most start and end points would be between the angular area $$A$$ to $$B$$or $$A$$ to $$B'$$, while other areas outside of this region would remain largely unreachable for most common assets.
 
@@ -365,9 +365,9 @@ For instance, the computation above might have painted a rosy picture, that one 
 
 The actual journey of Nifty 50 index between those two dates, can be viewed as this (plotted using real Nifty price data, which can be obtained from Google Finance). This is also a semi-log plot, where the price axis (Y-axis) is consisted of log values of actual asset prices.
 
-![Nifty actual price movement 3Y period - Dark Mode](../../.gitbook/assets/nifty-price-3y-movement.dark.png)
+![Nifty actual price movement 3Y period - Dark Mode](../../.gitbook/assets/nifty-price-3Y-movement.dark.png)
 
-![Nifty actual price movement 3Y period - Light Mode](../../.gitbook/assets/nifty-price-3y-movement.light.png)
+![Nifty actual price movement 3Y period - Light Mode](../../.gitbook/assets/nifty-price-3Y-movement.light.png)
 
 As Nifty TRI and Nifty index fund move closely with Nifty 50 itself, plotting these would lead to similar looking graphs, with lot of volatility.
 
