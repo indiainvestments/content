@@ -142,7 +142,8 @@
 ## BEGINNER'S GUIDE TO INVESTING
 
 * [Zero To Investing](beginners-guide-to-investing/zero-to-investing/README.md)
-  * [The First Step](beginners-guide-to-investing/zero-to-investing/the-first-step.md)
+  * [The First Step - Emergency Fund](beginners-guide-to-investing/zero-to-investing/the-first-step-emergency-fund.md)
+  * [The Final Step - Mutual Funds](beginners-guide-to-investing/zero-to-investing/the-final-step-mutual-funds.md)
 
 ## Contributors Section <a href="#contributors" id="contributors"></a>
 
