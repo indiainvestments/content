@@ -126,8 +126,8 @@
       ]
     },
     {
-      "login": "tulip2mf",
-      "name": "tulip2mf",
+      "login": "Tulip2MF",
+      "name": "Tulip2MF",
       "avatar_url": "https://avatars.githubusercontent.com/u/78700380?v=4",
       "profile": "https://github.com/Tulip2MF",
       "contributions": [
@@ -246,6 +246,96 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "pratyushmittal",
+      "name": "Pratyush Mittal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1546426?v=4",
+      "profile": "http://fully-faltoo.com/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "webholik",
+      "name": "Ankit Saini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/360759?v=4",
+      "profile": "https://github.com/webholik",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "arjitg",
+      "name": "Arjit Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15131095?v=4",
+      "profile": "https://github.com/arjitg",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "phalgun",
+      "name": "Phalgun Guduthur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/915425?v=4",
+      "profile": "http://phalgun.in/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "sggts04",
+      "name": "Shreyas Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20678047?v=4",
+      "profile": "https://shreyasgupta.in/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "suhaga15",
+      "name": "Suhag",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22257346?v=4",
+      "profile": "https://github.com/suhaga15",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Uninspired-sapien",
+      "name": "Uninspired-sapien",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102660286?v=4",
+      "profile": "https://github.com/Uninspired-sapien",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "draco-malfoy",
+      "name": "draco-malfoy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46344490?v=4",
+      "profile": "https://github.com/draco-malfoy",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "srinivesh",
+      "name": "srinivesh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79801397?v=4",
+      "profile": "https://github.com/srinivesh",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "xero08",
+      "name": "xero08",
+      "avatar_url": "https://avatars.githubusercontent.com/u/856525?v=4",
+      "profile": "https://github.com/xero08",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -253,5 +343,6 @@
   "projectOwner": "indiainvestments",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "none"
 }
