@@ -70,9 +70,9 @@ However, we're also mindful of the fact that it'd involve context switch. It's n
 
 Hence we recommend this setup as shown below
 
-![Recommended Setup - Dark Mode](../.gitbook/assets/excel-setup.dark.png)
+![Recommended Setup - Dark Mode](<../.gitbook/assets/excel-setup.dark (1).png>)
 
-![Recommended Setup - Light Mode](../.gitbook/assets/excel-setup.light.png)
+![Recommended Setup - Light Mode](<../.gitbook/assets/excel-setup.light (1).png>)
 
 That is, split your screen in a way that the wiki is on your left, and your spreadsheet or excel window is on your right - both visible and accessible at the same time.
 
@@ -102,9 +102,9 @@ We've looked into various video hosting providers, and nothing comes close to Yo
 
 All of our videos on YouTube for this series are unlisted at the moment, and not easily discoverable through a public search on YouTube.
 
-![Ads Disabled on YouTube - Dark Mode](../.gitbook/assets/ad-disabled.dark.png)
+![Ads Disabled on YouTube - Dark Mode](<../.gitbook/assets/ad-disabled.dark (1).png>)
 
-![Ads Disabled on YouTube - Light Mode](../.gitbook/assets/ad-disabled.light.png)
+![Ads Disabled on YouTube - Light Mode](<../.gitbook/assets/ad-disabled.light (1).png>)
 
 {% hint style="danger" %}
 Unfortunately, it looks like we cannot disable ads completely on our YouTube channel. This seems to be a limitation of YouTube. YouTube as a platform, reserves all the rights to display ads in our videos hosted on YouTube.

@@ -30,9 +30,9 @@ In this section, we’d keep ourselves limited to `GOOGLEFINANCE` function, that
 
 Plenty of economists point out how NASDAQ has stayed below its ATH (**A**ll **T**ime **H**igh, i.e. a price value in time-series chart that's higher than all past values) of 2000s, for the next \~15 years, before reaching the same high around 2015-16.
 
-![NASDAQ Chart - Dark Mode](<../.gitbook/assets/nasdaq chart.dark.png>)
+![NASDAQ Chart - Dark Mode](../.gitbook/assets/nasdaq-chart.dark.png)
 
-![NASDAQ Chart - Light Mode](<../.gitbook/assets/nasdaq chart.light.png>)
+![NASDAQ Chart - Light Mode](../.gitbook/assets/nasdaq-chart.light.png)
 
 In the above chart(s) / screenshot(s), if you check the horizontal line for 5000, it touches NASDAQ twice - once in 2000, again in 2015.
 
@@ -89,9 +89,9 @@ Our approach:
   * `units purchased`
 * Finally, in one last row, we’d invoke the in-built `SUM` formula, to add up all units purchased over the years. Then multiply it by NASDAQ closing price, as on 22nd May 2015, to get corpus value as on that date.
 
-![Planned Table (dark mode)](<../.gitbook/assets/Screen Shot 2021-03-09 at 10.56.40 PM.png>)
+![Planned Table (dark mode)](../.gitbook/assets/screen-shot-2021-03-09-at-10.56.40-pm.png)
 
-![Planned Table (light mode)](<../.gitbook/assets/Screen Shot 2021-03-09 at 10.56.58 PM.png>)
+![Planned Table (light mode)](../.gitbook/assets/screen-shot-2021-03-09-at-10.56.58-pm.png)
 
 ## Implementation
 
@@ -108,9 +108,9 @@ Follow these steps, to execute the plan that we've just made above.
 
     Reason to create an extra date column as the second column, is to also list actual date of investment. It can be 1st of month, or first working day after 1st of month, if 1st of month is a holiday.
 
-![Table Columns (dark mode)](<../.gitbook/assets/table columns.dark.png>)
+![Table Columns (dark mode)](../.gitbook/assets/table-columns.dark.png)
 
-![Table Columns (light mode)](<../.gitbook/assets/table columns.light.png>)
+![Table Columns (light mode)](../.gitbook/assets/table-columns.light.png)
 
 ### Date Formatting
 
@@ -121,9 +121,9 @@ Follow these steps:
 * Try adding a date in your sheet: 1st April, 2000. In this example, we’re writing it as `01/04/2000` (in `DD/MM/YYYY` format). But you’re free to use any format that’s commonly used.
 * Double tap or double-click on this. If the date entry is correct, Google Sheets should realize that it’s pointing to April 1st, 2000.
 
-![Date Format in Spreadsheet (dark mode)](../.gitbook/assets/excel-date.dark.png)
+![Date Format in Spreadsheet (dark mode)](<../.gitbook/assets/excel-date.dark (1).png>)
 
-![Date Format in Spreadsheet (light mode)](../.gitbook/assets/excel-date.light.png)
+![Date Format in Spreadsheet (light mode)](<../.gitbook/assets/excel-date.light (1).png>)
 
 Chances are, it might detect it as 4th January, 2000. Or might not even detect it as a date at all!
 
@@ -206,9 +206,9 @@ INDEX(GOOGLEFINANCE(".IXIC", "close", <date cell>, 1), 2, 2)
 Similarly, for the `actual date` column, we use (2,1) with `INDEX`:\
 `=INDEX(GOOGLEFINANCE(".IXIC", "close", <date cell>, 1), 2, 1)`
 
-![Using INDEX to Extract Value from a Position (Dark Mode)](<../.gitbook/assets/index function.dark.png>)
+![Using INDEX to Extract Value from a Position (Dark Mode)](../.gitbook/assets/index-function.dark.png)
 
-![Using INDEX to Extract Value from a Position (Light Mode)](<../.gitbook/assets/index function.light.png>)
+![Using INDEX to Extract Value from a Position (Light Mode)](../.gitbook/assets/index-function.light.png)
 
 Also refer to following video
 
@@ -371,9 +371,9 @@ Total valuation would be total number of units, multiplied by price as on 22nd M
 
 Refer to below image(s)
 
-![Final Tally - Dark Mode](<../.gitbook/assets/final tally.dark.png>)
+![Final Tally - Dark Mode](../.gitbook/assets/final-tally.dark.png)
 
-![Final Tally - Light Mode](<../.gitbook/assets/final tally.light.png>)
+![Final Tally - Light Mode](../.gitbook/assets/final-tally.light.png)
 
 Overall, total invested amount would’ve been **182,000 USD**. And the valuation of corpus as on 22nd May 2015, would have been **402,095 USD**.
 

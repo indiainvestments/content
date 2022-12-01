@@ -55,7 +55,7 @@ You can find quick access to frequently sought information here such as,
 * an option to export the company's financial data to an excel sheet, and
 * the ability to add the company to your watchlist (more on this later)
 
-![Overview section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-1.png)
+![Overview section of Tata Consultancy Services Ltd's Screener page](<../.gitbook/assets/screener-1 (1).png>)
 
 #### Chart section
 
@@ -63,15 +63,15 @@ You can check financial graphs for a company under different timeframes in this 
 
 * Price line chart with volume and a couple of daily moving averages.
 
-![Chart section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-2.png)
+![Chart section of Tata Consultancy Services Ltd's Screener page](<../.gitbook/assets/screener-2 (1).png>)
 
 * Price to Earnings (P/E) line chart with trailing twelve months (TTM) Earnings per share (EPS), and a line indicating the median P/E for the selected timeframe.
 
-![Chart section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-3.png)
+![Chart section of Tata Consultancy Services Ltd's Screener page](<../.gitbook/assets/screener-3 (1).png>)
 
 * Quarterly sales chart with gross profit margins (GPM), operating margins (OPM), and net profit margins (NPM) for the respective quarters.
 
-![Chart section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-4.png)
+![Chart section of Tata Consultancy Services Ltd's Screener page](<../.gitbook/assets/screener-4 (1).png>)
 
 Though the charts here are good enough to serve their purpose, they are not as customizable, or comprehensive compared to other tools available, such as [TradingView](https://in.tradingview.com/).
 
@@ -79,19 +79,19 @@ Though the charts here are good enough to serve their purpose, they are not as c
 
 This section can safely be ignored, as it lists pros and cons of a company based on some ratios. You might find your unbiased conclusion to be different from conclusions listed here, so shortcuts such as this section in a screener can induce potential bias in your investment decisions.
 
-![Analysis section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-5.png)
+![Analysis section of Tata Consultancy Services Ltd's Screener page](<../.gitbook/assets/screener-5 (1).png>)
 
 #### Peers section
 
 This is where things start to get interesting! You can compare a company to its listed competitors in this section, on the basis of financial data selected by you --- say you want to check how a company's operating margins stack up against that of its peers to determine if its products have pricing power, or say you want to check if the company's quarterly results are in line with the sector --- you can do this here.
 
-![Peers section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-6.png)
+![Peers section of Tata Consultancy Services Ltd's Screener page](<../.gitbook/assets/screener-6 (1).png>)
 
 Don't let the ratios used in the screenshot above overwhelm you. We've covered tons of them under our _Financial Ratios_ section if you haven't checked it out already. You can add, remove, or change the order of ratios shown here by clicking on the _'edit columns'_ button.
 
 If you click on either the company's _Sector_ or _Industry_, you can look at the complete directory of the company's listed competitors (in the peers section, screener only shows you a few).
 
-![IT - Software Industry screen on Screener](../.gitbook/assets/screener-7.png)
+![IT - Software Industry screen on Screener](<../.gitbook/assets/screener-7 (1).png>)
 
 You can also use the _'Detailed comparison with'_ option to get a head to head comparison of the company with one of its peer if you have a paid subscription.
 
@@ -101,7 +101,7 @@ If you're unsure what to look for, don't worry! We've covered how to compare a c
 
 You can find the past few quarters' standalone & consolidated profit and loss (P\&L) data in this section.
 
-![Quarterly Results section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-8.png)
+![Quarterly Results section of Tata Consultancy Services Ltd's Screener page](<../.gitbook/assets/screener-8 (1).png>)
 
 There's an option to view the revenue, profit, and return on capital breakup based on product segments and geographical segments for paid users, but you can get this data free of cost from the company's quarterly earnings reports.
 
@@ -109,13 +109,13 @@ There's an option to view the revenue, profit, and return on capital breakup bas
 
 This section gives you past ten years & trailing twelve months (ttm) financial data from profit & loss (P\&L) statements of the company, in both standalone and consolidated figures, for easy comparison --- for instance, to check the trend of operating margins (OMP) over the past few years, or to check interest on the company's debt it pays each year.
 
-![Profit & Loss section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-9.png)
+![Profit & Loss section of Tata Consultancy Services Ltd's Screener page](<../.gitbook/assets/screener-9 (1).png>)
 
 Again, there is an option for paid subscribers to view the revenue, profit, and return on capital breakup based on product or geographical segments, but you can get this data free of cost from the company's annual reports.
 
 Below the P\&L data table, this section shows you compounded sales, profit, & stock price growth, and average return on equity over the past 3, 5, & 10 years, and the trailing twelve months (TTM).
 
-![Profit & Loss section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-11.png)
+![Profit & Loss section of Tata Consultancy Services Ltd's Screener page](<../.gitbook/assets/screener-11 (1).png>)
 
 We've covered how to read a profit & loss (P\&L) statement and related financial data under our [_Financial statements_](https://www.indiainvestments.wiki/stocks/reading-an-annual-report#financial-statements) chapter of this series.
 
@@ -123,17 +123,17 @@ We've covered how to read a profit & loss (P\&L) statement and related financial
 
 This section gives you the past ten years of financial data from the balance sheets of the company, in both consolidated and standalone figures, for easy comparison --- for instance, you can compare the company's debt over the past few years, or check how much cash the company holds.
 
-![Balance Sheet section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-12.png)
+![Balance Sheet section of Tata Consultancy Services Ltd's Screener page](<../.gitbook/assets/screener-12 (1).png>)
 
 There's also a handy option to check details of past corporate actions (this data goes back up to 2005) taken by the company, such as buybacks, distribution of dividends, allotment of bonus shares, stock splits, mergers, and rights.
 
-![Corporate actions under the Balance Sheet section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-13.png)
+![Corporate actions under the Balance Sheet section of Tata Consultancy Services Ltd's Screener page](<../.gitbook/assets/screener-13 (1).png>)
 
 #### Cash Flow section
 
 This section gives you past ten years of financial data for cash flows of the company, in both consolidated and standalone figures, for easy comparison --- for instance, you can check cash outflows due to distribution of dividends by the company to its shareholders, or compare changes in working capital the past few years.
 
-![Cash Flows section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-14.png)
+![Cash Flows section of Tata Consultancy Services Ltd's Screener page](<../.gitbook/assets/screener-14 (1).png>)
 
 Figures for Free Cash Flows (est.) are unfortunately missing here, but can be calculated as shown in \[_Financial statements_]\(https://www.indiainvestments.wiki/stocks/reading-an-annual-report#financial-statements chapter of this series.
 
@@ -141,23 +141,23 @@ Figures for Free Cash Flows (est.) are unfortunately missing here, but can be ca
 
 You can find return on capital employed (in %), debtor days, and inventory turnover of the company for the past few years in this section. This section could be ignored, as it is recommended you calculate these and many other ratios yourself while conducting due diligence for company, as explained in [_Financial ratios_](https://www.indiainvestments.wiki/stocks/financial-metrics-and-ratios) chapter of this series.
 
-![Ratios section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-16.png)
+![Ratios section of Tata Consultancy Services Ltd's Screener page](<../.gitbook/assets/screener-16 (1).png>)
 
 #### Investors section
 
 You can find the shareholding pattern of a company's promoter entity, and distribution of its shareholders between promoters, foreign institutional investors (FII), domestic institutional investors (DII), government entities, and retail shareholders for the past few quarters here.
 
-![Investors section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-17.png)
+![Investors section of Tata Consultancy Services Ltd's Screener page](<../.gitbook/assets/screener-17 (1).png>)
 
 Screener also allows you to view other listed companies held a shareholders of the company. For example, if you click on _Life Insurance Corporation of India_ in the screenshot above, you'll find a list of other public companies held by LIC.
 
-![Listed companies held by Life Insurance Corporation (LIC) on Screener](../.gitbook/assets/screener-18.png)
+![Listed companies held by Life Insurance Corporation (LIC) on Screener](<../.gitbook/assets/screener-18 (1).png>)
 
 #### Documents section
 
 This section gives you quick access to recent stock exchange filings and annual report of a company. As far as I've observed, they are usually linked to BSE's repository. Apart from stock exchange filings, Screener also provides links to credit rating reports of a company here.
 
-![Documents section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-19.png)
+![Documents section of Tata Consultancy Services Ltd's Screener page](<../.gitbook/assets/screener-19 (1).png>)
 
 Now that we have some understanding of a company's Screener page, let's move on to more interesting things.
 
@@ -167,23 +167,23 @@ As remarked earlier, there are thousands of companies listed on the Bombay Stock
 
 * To screen companies on Screener, click on screens page at the top. You can find your previously saved, and some popular screens here.
 
-![Screens page on Screener](../.gitbook/assets/screener-20.png)
+![Screens page on Screener](<../.gitbook/assets/screener-20 (1).png>)
 
 *   Click on the _Create new screen_ button. Here, you want to start adding your constraints, with the keyword `AND` separating them.
 
     Suppose you want to get a list of companies with fairly large market cap, decent growth in revenue and earnings in the past few years, consistently good return on capital, and low debt. _Syntax_ for this query would look something like this,
 
-![Create a Query dialogue on Screener](../.gitbook/assets/screener-21.png)
+![Create a Query dialogue on Screener](<../.gitbook/assets/screener-21 (1).png>)
 
 * This query gives us a list of public companies and some ratios (customizable using the _edit columns_ button) that match the financial constraints we've put. You have the option to save a query for conveniently running it again (it can be located at the screens page from the top).
 
-![Screen results on Screener](../.gitbook/assets/screener-22.png)
+![Screen results on Screener](<../.gitbook/assets/screener-22 (1).png>)
 
 ### Building custom ratios
 
 If you find a financial ratio missing from the set available by default, Screener allows you to manually create your own [here](https://www.screener.in/ratios/new/). For example, to create a ratio for P/FCF, you can fill in the following information ---
 
-![Create a new ratio dialogue on Screener](../.gitbook/assets/screener-23.png)
+![Create a new ratio dialogue on Screener](<../.gitbook/assets/screener-23 (1).png>)
 
 The ratios you create can be added to _Peers comparison_ section of a company's page, or on results returned by a query.
 
@@ -191,32 +191,32 @@ The ratios you create can be added to _Peers comparison_ section of a company's 
 
 You can add a company to your watchlist by _following_ it from the company's page. There are a couple things you can do with your watchlist. One, you can view it as a query and manage it [here](https://www.screener.in/watchlist/), and two, keep track of the company's filings on Screener's home (feed) page. On the left part of this page, you can see latest filings submitted to stock exchanges by the companies you have in your watchlist. On the right, you can check when the upcoming results of companies you have followed are expected.
 
-![Feed page on Screener](../.gitbook/assets/screener-24.png)
+![Feed page on Screener](<../.gitbook/assets/screener-24 (1).png>)
 
 ### Exporting financial data to an excel sheet
 
 You can export a company's financial data to a spreadsheet using the _'Export to excel'_ option available on the top of any company's Screener page.
 
-![Exported excel sheet's Profit & Loss tab](../.gitbook/assets/screener-25.png)
+![Exported excel sheet's Profit & Loss tab](<../.gitbook/assets/screener-25 (1).png>)
 
 More importantly, you can set up a custom template for excel sheets downloaded by the _'Export to excel'_ option. To do this,
 
 * First use the _'Export to excel'_ option for **any** company -- it doesn't matter which one. Then, open the excel sheet and go to the _'Customization'_ tab. It should look something like this.
 
-![Exported excel sheet's Customization tab as it would appear by default](../.gitbook/assets/screener-26.png)
+![Exported excel sheet's Customization tab as it would appear by default](<../.gitbook/assets/screener-26 (1).png>)
 
 * Delete everything on this tab. This is now a blank slate to put everything you want to see in your custom template. Use the financial data from other tabs of this excel sheet for calculations done in this tab. For ideas, you can refer to [_Financial statements_](https://www.indiainvestments.wiki/stocks/reading-an-annual-report#financial-statements) and [_Financial ratios_](https://www.indiainvestments.wiki/stocks/financial-metrics-and-ratios) chapters in this series and see what is missing on Screener by default.
 * For illustration purposes, I've used this tab to find estimated free cash flows of a company over the past few years. Free cash flows are calculated as `FCF = Cash flows from Operations - Capital expenditure`. I've used `cash flow from operations` data from the cash-flows tab of this sheet, and calculated `capex` using `fixed assets` and `capital work in progress` from the balance sheet tab & using `depreciation` from the profit and loss (P\&L) tab of this sheet.
 
-![This is how my customization tab appears while editing it (for illustrative purposes)](../.gitbook/assets/screener-27.png)
+![This is how my customization tab appears while editing it (for illustrative purposes)](<../.gitbook/assets/screener-27 (1).png>)
 
 * Now, save this excel sheet, and upload it [here](https://www.screener.in/excel/). You can always upload an updated sheet with more customization done later using the same page.
 
-![Upload customized excel file dialogue on Screener](../.gitbook/assets/screener-28.png)
+![Upload customized excel file dialogue on Screener](<../.gitbook/assets/screener-28 (1).png>)
 
 * All done! Try using the _'Export to excel'_ option for a different company -- you will find your custom ratios for this company added in the customization tab automatically.
 
-![Customization tab of an exported excel sheet of another company after previous step](../.gitbook/assets/screener-29.png)
+![Customization tab of an exported excel sheet of another company after previous step](<../.gitbook/assets/screener-29 (1).png>)
 
 ## Popular screens & further reading
 

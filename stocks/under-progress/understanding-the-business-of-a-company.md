@@ -86,9 +86,9 @@ In compliance with [Indian Accounting Standards (Ind AS) 108](http://www.mca.gov
 
 As an example, earning mix and revenue mix of Hindustan Unilever, can be computed from the following figures taken from the company's [FY20 annual report](https://www.bseindia.com/bseplus/AnnualReport/500696/5006960320.pdf#page=109).
 
-![Note 44 to Consolidated Financial Statements, Hindustan Unilever, FY20 AR](../../.gitbook/assets/HUL-Revenue-Mix.png)
+![Note 44 to Consolidated Financial Statements, Hindustan Unilever, FY20 AR](../../.gitbook/assets/hul-revenue-mix.png)
 
-![Note 44 to Consolidated Financial Statements, Hindustan Unilever, FY20 AR](../../.gitbook/assets/HUL-Earnings-Mix.png)
+![Note 44 to Consolidated Financial Statements, Hindustan Unilever, FY20 AR](../../.gitbook/assets/hul-earnings-mix.png)
 
 Studying revenue and earning mix helps us gain a few important insights. One, by bifurcating the total revenue/operating profits into different businesses, we can analyze each business individually.
 
@@ -106,23 +106,23 @@ As we noted in the previous chapter, most sectors can be divided into different 
 
 For example, while Maruti Suzuki India Ltd operates in the automobile sector, roughly 69% of its domestic volumes come from compact and mini four-wheelers, and the rest comes from mid-sized vehicles, utility vehicles, light commercial vehicles, and vans as per its [Q3FY21 Investors Presentation](https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Investor\_Presentation\_Q3FY21\_and\_9MFY21.pdf#page=15). The company, however, is not engaged in selling two-wheeler, or three-wheeler vehicles.
 
-![Maruti Suzuki's Investor Presentation, Q3FY21](../../.gitbook/assets/Maruti-Segments.png)
+![Maruti Suzuki's Investor Presentation, Q3FY21](../../.gitbook/assets/maruti-segments.png)
 
 Alternatively, Hero MotoCorp Ltd, also operates in the automobile sector, but only sells two-wheeler vehicles, and does not operate in three-wheeler, or four-wheeler vehicles, as per its [FY20 annual report](https://www.bseindia.com/bseplus/AnnualReport/500182/5001820320.pdf#page=246).
 
-![Note 27 to Consolidated Financial Statements, Hero MotoCorp's FY20 Annual Report](../../.gitbook/assets/Hero-Segments.png)
+![Note 27 to Consolidated Financial Statements, Hero MotoCorp's FY20 Annual Report](../../.gitbook/assets/hero-segments.png)
 
 Both of the companies, however, are more focused on selling vehicles in the domestic market, instead of selling internationally.
 
 Maruti Suzuki earns just [\~7%](https://www.bseindia.com/bseplus/AnnualReport/532500/5325000320.pdf) of their revenues from exports, whereas Hero MotoCorp earns a similar [\~4.3%](https://www.bseindia.com/bseplus/AnnualReport/500182/5001820320.pdf#page=254) of their revenues from their exports business.
 
-![Note 31.1 to Consolidated Financial Statements, Maruti Suzuki's FY20 Annual Report](../../.gitbook/assets/Maruti-Exports.png)
+![Note 31.1 to Consolidated Financial Statements, Maruti Suzuki's FY20 Annual Report](../../.gitbook/assets/maruti-exports.png)
 
-![Note 37 to Consolidated Financial Statements, Hero MotoCorp's FY20 Annual Report](../../.gitbook/assets/Hero-Exports.png)
+![Note 37 to Consolidated Financial Statements, Hero MotoCorp's FY20 Annual Report](../../.gitbook/assets/hero-exports.png)
 
 On the other hand, Tata Motors Ltd, another automobile manufacturer, relies on exports for [\~82%](https://www.bseindia.com/bseplus/AnnualReport/500570/5005700320.pdf#page=114) of their revenues.
 
-![MD\&A, Tata Motors' FY20 Annual Report](../../.gitbook/assets/Tata-Exports.png)
+![MD\&A, Tata Motors' FY20 Annual Report](../../.gitbook/assets/tata-exports.png)
 
 #### Where does the product fit in the market? What are the target markets?
 
@@ -154,6 +154,6 @@ You'll often find these figures reported in a company's annual report, investor 
 
 For example, in CRISIL's [credit report](https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/Asian\_Paints\_Limited\_June\_30\_2020\_RR.html) of Asian Paints Ltd dated June 30, 2020, the credit rating agency reported Asian Paints having _'a dominant share of over 50% in the organized domestic paints market'._
 
-![Key Rating Drivers & Detailed Description, CRISIL's credit report on Asian Paints Ltd, dated June 30, 2020](../../.gitbook/assets/Asian-Paints-Credit-Report.png)
+![Key Rating Drivers & Detailed Description, CRISIL's credit report on Asian Paints Ltd, dated June 30, 2020](../../.gitbook/assets/asian-paints-credit-report.png)
 
 Note the words _**organised and domestic**_ used in the report while describing the market they've used to benchmark the company's share. It is essential that attention is paid to the adverbs describing the market, to get a complete understanding of company's share in the market.

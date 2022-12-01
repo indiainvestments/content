@@ -12,9 +12,9 @@ We have FAQs on our wiki, for queries such as these, that addresses such queries
 
 We've a setup that solves this problem - any active member can invoke the bot with a specific tag, and the bot would take care of presenting right information to the user.
 
-![Sample invocation of bot against a common query - Dark mode](../.gitbook/assets/sample-bot-invoke.dark.png)
+![Sample invocation of bot against a common query - Dark mode](<../.gitbook/assets/sample-bot-invoke.dark (1).png>)
 
-![Sample invocation of bot against a common query - Light mode](../.gitbook/assets/sample-bot-invoke.light.png)
+![Sample invocation of bot against a common query - Light mode](<../.gitbook/assets/sample-bot-invoke.light (1).png>)
 
 We'll explore next how to invoke this bot
 
@@ -28,9 +28,9 @@ List of all available tag-based triggers can be found by typing `.taglist` in `#
 
 Once this message is typed, Carl-bot would DM you the list of available tags.
 
-![Sample message sent by bot - Dark Mode](../.gitbook/assets/bot-dm-taglist.dark.png)
+![Sample message sent by bot - Dark Mode](<../.gitbook/assets/bot-dm-taglist.dark (1).png>)
 
-![Sample message sent by bot - Light mode](../.gitbook/assets/bot-dm-taglist.light.png)
+![Sample message sent by bot - Light mode](<../.gitbook/assets/bot-dm-taglist.light (1).png>)
 
 Above image(s) are illustrative. Actual list can be different, and change from time to time. For latest updated list, you can use `.taglist` in `#test` channel.
 

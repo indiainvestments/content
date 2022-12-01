@@ -33,9 +33,9 @@ In this chapter, you'd see images / videos in both dark and light theme. Based o
     Going forward, we’d refer to it as _**sheet**_.
 * Enter these numbers, as you see in the images below.
 
-![Numbers in Excel : Dark Theme](../.gitbook/assets/numbers-in-excel.dark.png)
+![Numbers in Excel : Dark Theme](<../.gitbook/assets/numbers-in-excel.dark (1).png>)
 
-![Numbers in Excel : Light Theme](../.gitbook/assets/numbers-in-excel.light.png)
+![Numbers in Excel : Light Theme](<../.gitbook/assets/numbers-in-excel.light (1).png>)
 
 {% hint style="info" %}
 No need to manually enter these data points one after another. You could simply select the above table with your trackpad / mouse; copy it with `Ctrl + C` / `Cmd + C`, and paste it in your sheet.
@@ -113,9 +113,9 @@ Follow these steps to validate each price computation row:
 * In the first row of this new column, enter the same formula, as you’d done it earlier - start with `=` symbol, then select the two columns and separate the cell IDs with `*`.
 * Go to the bottom right end of this newly created cell, there’s a small square.
 
-![Notice the small blue square bottom-right of highlighted cell - Dark Mode](../.gitbook/assets/excel-drag.dark.png)
+![Notice the small blue square bottom-right of highlighted cell - Dark Mode](<../.gitbook/assets/excel-drag.dark (1).png>)
 
-![Notice the small blue square bottom-right of highlighted cell - Light Mode](../.gitbook/assets/excel-drag.light.png)
+![Notice the small blue square bottom-right of highlighted cell - Light Mode](<../.gitbook/assets/excel-drag.light (1).png>)
 
 Click on that, and while it remains clicked / pressed, drag it down to cover the other rows. You’d notice how the formula gets copied on the cells in other rows, but somehow magically Excel keeps selecting right cells from that row (and not from the first row).
 
@@ -171,9 +171,9 @@ Here’s a video to help guide you along (available in both dark & light themes)
 
 If you’ve done everything as instructed, up to this point, it should look as shown below
 
-![Excel SUM Function Result : Dark Theme](../.gitbook/assets/excel-sum-function.dark.png)
+![Excel SUM Function Result : Dark Theme](<../.gitbook/assets/excel-sum-function.dark (1).png>)
 
-![Excel SUM function result: Light theme](../.gitbook/assets/excel-sum-function.light.png)
+![Excel SUM function result: Light theme](<../.gitbook/assets/excel-sum-function.light (1).png>)
 
 ## Reactive UI
 

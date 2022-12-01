@@ -42,11 +42,11 @@ There might be other documentations and guides out there for some financial guid
 
 Here, you'd find [some cards labeled as _beginners_ (green tag)](https://trello.com/b/NPlSa3C7/journey-board?menu=filter\&filter=label:Beginner). These are ripe for picking!
 
-![This is how a Beginner label looks on our Trello board.](<../.gitbook/assets/Screenshot 2021-02-26 at 10.25.07 PM.png>)
+![This is how a Beginner label looks on our Trello board.](../.gitbook/assets/screenshot-2021-02-26-at-10.25.07-pm.png)
 
 Alternatively, find a column that has `Lift off` in its name. It's all the content that's been undergoing review right now.
 
-![Lift-off column](<../.gitbook/assets/Screenshot 2021-02-28 at 12.16.55 PM.png>)
+![Lift-off column](../.gitbook/assets/screenshot-2021-02-28-at-12.16.55-pm.png)
 
 If you've decided on how to contribute - reviewing existing content, or adding new content; head over to next section.
 
@@ -56,7 +56,7 @@ A card represents a unit of task. One of our core-team members would be tagged o
 
 Head over to our [Discord #kb-discussions](https://discord.gg/6FvYcma7Qz) channel, and share the card you wish to work on.
 
-![The kb-discussions channel is the one you need!](<../.gitbook/assets/Screenshot 2021-02-26 at 10.36.50 PM.png>)
+![The kb-discussions channel is the one you need!](../.gitbook/assets/screenshot-2021-02-26-at-10.36.50-pm.png)
 
 Someone there will guide you on what's required to complete that task, what has already been done etc. Once you've full context of all relevant work that has been done, or needs to be done, you'd be in a better position to contribute.
 

@@ -27,7 +27,7 @@ We can also restrict total debt to non-current borrowings and other interest bea
 
 We’ve already defined shareholders equity before as total assets minus total liabilities. It can also be found on the balance sheet in an annual report.
 
-![Part 2 of the Balance Sheet of Larsen & Toubro Ltd for the financial year 2020](../../.gitbook/assets/LT-Balance-sheet.png)
+![Part 2 of the Balance Sheet of Larsen & Toubro Ltd for the financial year 2020](../../.gitbook/assets/lt-balance-sheet.png)
 
 Let’s consider the balance sheet of an infrastructure and construction company — Larsen & Toubro.
 
@@ -43,9 +43,9 @@ Usually, a higher value of debt to equity ratio indicates higher insolvency risk
 
 As we’ve said before, ratios are meaningless when looked at in isolation. Let’s calculate the debt to equity ratio of another construction company, Reliance Infrastructure Ltd.
 
-![Part 2 of the Balance Sheet of Reliance Infrastructure Ltd for the financial year 2020](../../.gitbook/assets/Reliance-Infra-Balance-sheet.png)
+![Part 2 of the Balance Sheet of Reliance Infrastructure Ltd for the financial year 2020](../../.gitbook/assets/reliance-infra-balance-sheet.png)
 
-![Note 11(d) of the financial statements of Reliance Infrastructure for the financial year 2020](../../.gitbook/assets/Reliance-Infra-Other-financial-liabilities.png)
+![Note 11(d) of the financial statements of Reliance Infrastructure for the financial year 2020](../../.gitbook/assets/reliance-infra-other-financial-liabilities.png)
 
 We’ve showcased Note 11(d) from Reliance Infra’s financial statements because it contains figures for the premium payable to National Highways Authority of India (NHAI). According to [this](https://economictimes.indiatimes.com/news/economy/infrastructure/national-highways-authority-of-india-allows-premium-rejig-for-9-highway-developers/articleshow/35520738.cms) ET article, NHAI premiums are payments made by construction companies to NHAI in build, operate, and transfer (BOT) projects. We’re considering NHAI premiums as a component of total debt.
 

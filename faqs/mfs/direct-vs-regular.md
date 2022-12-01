@@ -218,15 +218,15 @@ We saw earlier that the difference in TER difference between the direct and regu
 
 Let’s assume that investing a lumpsum amount of $$₹1,00,000$$ in an asset generates a CAGR of $$15\%$$. This asset also has a regular plan variant which generates a CAGR of $$14\%$$. At $$1\%$$ lower CAGR, this is how the valuation would change over time.
 
-![Regular Plan Returns Trailing by 1% - Dark Mode](../../.gitbook/assets/difference-direct-regular-one-percent.dark.png)
+![Regular Plan Returns Trailing by 1% - Dark Mode](<../../.gitbook/assets/difference-direct-regular-one-percent.dark (1).png>)
 
-![Regular Plan Returns Trailing by 1% - Light Mode](../../.gitbook/assets/difference-direct-regular-one-percent.light.png)
+![Regular Plan Returns Trailing by 1% - Light Mode](<../../.gitbook/assets/difference-direct-regular-one-percent.light (1).png>)
 
 If the difference in CAGR is assumed to be $$1.5\%$$, this is how the corpus changes.
 
-![Regular Plan Returns Trailing by 1.5% - Dark Mode](../../.gitbook/assets/difference-direct-regular-one-point-five.dark.png)
+![Regular Plan Returns Trailing by 1.5% - Dark Mode](<../../.gitbook/assets/difference-direct-regular-one-point-five.dark (1).png>)
 
-![Regular Plan Returns Trailing by 1.5% - Light Mode](../../.gitbook/assets/difference-direct-regular-one-point-five.light.png)
+![Regular Plan Returns Trailing by 1.5% - Light Mode](<../../.gitbook/assets/difference-direct-regular-one-point-five.light (1).png>)
 
 Eventually, an investor could end up losing $$30\%-40\%$$ of their portfolio to distributor commissions over a long period of time.
 

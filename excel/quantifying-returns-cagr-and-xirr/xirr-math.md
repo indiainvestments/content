@@ -159,9 +159,9 @@ This video should help with above steps:
 
 Final result should resemble this:
 
-![Verifying XIRR value from summing up discounted cashflows - Dark Mode](../../.gitbook/assets/verifying-xirr-sum-of-discounted-cashflow.dark.png)
+![Verifying XIRR value from summing up discounted cashflows - Dark Mode](<../../.gitbook/assets/verifying-xirr-sum-of-discounted-cashflow.dark (1).png>)
 
-![Verifying XIRR value from summing up discounted cashflows - Light Mode](../../.gitbook/assets/verifying-xirr-sum-of-discounted-cashflow.light.png)
+![Verifying XIRR value from summing up discounted cashflows - Light Mode](<../../.gitbook/assets/verifying-xirr-sum-of-discounted-cashflow.light (1).png>)
 
 {% hint style="warning" %}
 You would be tempted to manually use 3.52% or 0.0352 instead of relying on output of `xirr()` formula. As you’d see, it would add up to a finite positive or negative value.
@@ -234,15 +234,15 @@ Then XIRR of these transactions can be computed easily, by inserting these numbe
 
 We’d get XIRR as $$17.69\%$$ **p.a.**
 
-![XIRR of only two transactions - Dark Mode](../../.gitbook/assets/xirr-only-two-transactions-hdfc.dark.png)
+![XIRR of only two transactions - Dark Mode](<../../.gitbook/assets/xirr-only-two-transactions-hdfc.dark (1).png>)
 
-![XIRR of only two transactions - Light Mode](../../.gitbook/assets/xirr-only-two-transactions-hdfc.light.png)
+![XIRR of only two transactions - Light Mode](<../../.gitbook/assets/xirr-only-two-transactions-hdfc.light (1).png>)
 
 At the same time, we could obtain CAGR of underlying asset, HDFC shares, over 5 years, which also comes out to be $$17.69\%$$ **p.a.**
 
-![CAGR computed with RRI function - Dark Mode](../../.gitbook/assets/hdfc-5y-cagr.dark.png)
+![CAGR computed with RRI function - Dark Mode](<../../.gitbook/assets/hdfc-5y-cagr.dark (1).png>)
 
-![CAGR computed with RRI function - Light Mode](../../.gitbook/assets/hdc-5y-cagr.light.png)
+![CAGR computed with RRI function - Light Mode](<../../.gitbook/assets/hdc-5y-cagr.light (1).png>)
 
 **They are the same!**
 
@@ -254,9 +254,9 @@ You might have noticed that output of `RRI()` function is slightly different fro
 
 This is why most spreadsheet or excel applications don’t include a dedicated CAGR function \*\*\*\*You only have to invert the sign of first row entry of value!
 
-![Discounted cashflow for only two transactions - Dark Mode](../../.gitbook/assets/xirr-only-two-transactions.dark.png)
+![Discounted cashflow for only two transactions - Dark Mode](<../../.gitbook/assets/xirr-only-two-transactions.dark (1).png>)
 
-![Discounted cashflow for only two transactions - Dark Mode](../../.gitbook/assets/xirr-only-two-transactions.light.png)
+![Discounted cashflow for only two transactions - Dark Mode](<../../.gitbook/assets/xirr-only-two-transactions.light (1).png>)
 
 We can mathematically prove it as well.
 
@@ -300,9 +300,9 @@ This is usually how normal portfolios look like.
 
 Even if one were to make a bank fixed deposit, there can be year-end TDS, resulting in cash outflow from the deposit account; which would end up having multiple transactions in that portfolio.
 
-![Discounting cashflows for XIRR in case of more that two transactions - Dark Mode](../../.gitbook/assets/xirr-multiple-transactions.dark.png)
+![Discounting cashflows for XIRR in case of more that two transactions - Dark Mode](<../../.gitbook/assets/xirr-multiple-transactions.dark (1).png>)
 
-![Discounting cashflows for XIRR in case of more that two transactions - Light Mode](../../.gitbook/assets/xirr-multiple-transactions.light.png)
+![Discounting cashflows for XIRR in case of more that two transactions - Light Mode](<../../.gitbook/assets/xirr-multiple-transactions.light (1).png>)
 
 Dotted line shows actual numeric value, of each transaction’s cashflow.
 
@@ -326,9 +326,9 @@ Here’s a short video to help you out, though it’s quite straight-forward, if
 
 Final plot should look like this:
 
-![Cashflow and Discounted Cashflow vs Years - Dark Mode](../../.gitbook/assets/cashflow-discounted-cashflow-chart.dark.png)
+![Cashflow and Discounted Cashflow vs Years - Dark Mode](<../../.gitbook/assets/cashflow-discounted-cashflow-chart.dark (1).png>)
 
-![Cashflow and Discounted Cashflow vs Years - Light Mode](../../.gitbook/assets/cashflow-discounted-cashflow-chart.light.png)
+![Cashflow and Discounted Cashflow vs Years - Light Mode](<../../.gitbook/assets/cashflow-discounted-cashflow-chart.light (1).png>)
 
 While the blue lines in the above plot are of same heights for positive cashflow values and negative values; the red lines are where we see values being discounted more and more over time.
 

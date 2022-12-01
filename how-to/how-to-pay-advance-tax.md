@@ -55,16 +55,16 @@ The advance tax must be computed and paid based on the tax slab, to which the ta
 * Visit the tax information network portal of the income tax department. Link: [https://www.incometaxindia.gov.in/Pages/tax-services/pay-tax-online.aspx](https://www.incometaxindia.gov.in/Pages/tax-services/pay-tax-online.aspx)
 * Click on Challan No./ITNS 280 section See image(s) below for guidance, and click to zoom in
 
-![Challan number to be selected on the income tax portal - Dark mode](../.gitbook/assets/challan-selection.dark.png)
+![Challan number to be selected on the income tax portal - Dark mode](<../.gitbook/assets/challan-selection.dark (1).png>)
 
-![Challan number to be selected on the income tax portal - Light mode](../.gitbook/assets/challan-selection.light.png)
+![Challan number to be selected on the income tax portal - Light mode](<../.gitbook/assets/challan-selection.light (1).png>)
 
 * Select (0021) Income Tax (Other than companies) under _Tax Applicable_.
 * Select (100) Advance Tax under _Type of Payment_
 
-![Type of Payment - Dark mode](../.gitbook/assets/type-of-payment.dark.png)
+![Type of Payment - Dark mode](<../.gitbook/assets/type-of-payment.dark (1).png>)
 
-![Type of Payment - Light mode](../.gitbook/assets/type-of-payment.light.png)
+![Type of Payment - Light mode](<../.gitbook/assets/type-of-payment.light (1).png>)
 
 * Select the mode of payment, enter your PAN, assessment year and other details. Assessment Year (AY), is usually one year ahead of Financial Year (FY). For example, if it's advance tax for FY20-21, then that should be selected as AY21-22.
 * Make the payment with Netbanking or Debit card or UPI (as applicable), and keep a copy of the tax receipt /challan, which has details such as
@@ -74,9 +74,9 @@ The advance tax must be computed and paid based on the tax slab, to which the ta
 
 See below for a sample counterfoil after advance tax has been paid.
 
-![Tax Payer Counterfoil - Dark mode](../.gitbook/assets/advance-tax-paid-counterfoil.dark.png)
+![Tax Payer Counterfoil - Dark mode](<../.gitbook/assets/advance-tax-paid-counterfoil.dark (1).png>)
 
-![Tax Payer Counterfoil - Light mode](../.gitbook/assets/advance-tax-paid-counterfoil.light.png)
+![Tax Payer Counterfoil - Light mode](<../.gitbook/assets/advance-tax-paid-counterfoil.light (1).png>)
 
 This will be useful at the time of filing of tax returns where details of advance tax paid should be entered.
 
