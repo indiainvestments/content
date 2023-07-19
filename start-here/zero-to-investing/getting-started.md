@@ -78,7 +78,7 @@ I will cut short the other options, because they are as pathetic for someone of 
 Why that thing? Because they are:
 
 * Diversified Basically, Liquid MFs keep money into a large number of different areas, so that if one area goes bad (recent news like IL\&FS, or CoVid crash), then your entire corpus is not in jeopardy all at once. The more diversified the money is kept, better is the protection (this is a general rule, but there are exceptions, which we'd get to later).
-* In general, you can earn more than FD, both as amount of interest as well as with less tax, if you keep the money in there for >3 years.
+* In general, you can earn more than FD, both as amount of interest as well as with less tax, ~if you keep the money in there for >3 years.~ (Update: Starting from 1st April, 2023, debt funds will no longer provide long-term tax benefits if held for >3 years. However, they are still better than FDs as taxes are only accrued on redemption and not annually)
 * Third and most important, the money withdrawal is flexible. You want to redeem only 5,000 INR, you can. You want to take out 1L, you can (of course, you should have more than 1 lakh invested). You want to remove the entire amount and see it in your balance, you can do that as well
 
 {% hint style="warning" %}
