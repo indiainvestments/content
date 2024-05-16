@@ -40,7 +40,13 @@ Here are the NAV graphs of HDFC Liquid fund, the biggest liquid fund in India in
 
 That being said, investments in debt funds don’t incur TDS or taxes until you redeem money from them. Many liquid funds also offer instant redemption up to $$₹50,000$$ at any time of the day although the reliability of the instant redemption depends on the AMC website.
 
-In addition, debt mutual funds enjoy _indexation_ benefits when it comes to taxation if they are held for 3 years or more.
+#### Indexation benefits and taxation
+
+Prior to the 2023 Budget, debt funds used to enjoy _indexation_ benefits when it comes to taxation if they were held for 3 years or more. This is no longer the case for debt fund investments made on or after 1st April, 2023.
+
+{% hint style="danger" %}
+The below example showcases indexation benefits applicable if you had invested in a debt fund prior to 31st March, 2023.
+{% endhint %}
 
 As an example, let's consider $$₹1$$ lakh parked for 1 year in a bank account, a fixed deposit, and a liquid fund. The interest earned and the actual interest earned after taxes, assuming $$30\%$$ tax slab, are mentioned as follows:
 
