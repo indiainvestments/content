@@ -99,7 +99,7 @@ We've made a small video that you can watch, to get a glimpse on how you can cre
 
 You'll have to know how to use:
 
-* Markdown markdown is probably the most widespread markup language used for writing documentation on the Internet and it's [easy to learn](https://commonmark.org/help/)
+* Markdown is probably the most widespread markup language used for writing documentation on the Internet and it's [easy to learn](https://commonmark.org/help/)
 * Git & GitHub you don't need to be proficient at using Git and GitHub, but it's appreciated if you know how to use them and do basic things like forking repositories and raising pull requests
 
 Once you've gone through the above, you'd be ready to help other contributors, especially beginners, _shipping_ their contributions [🎉](https://emojipedia.org/party-popper/)[🥳](https://emojipedia.org/partying-face/)
