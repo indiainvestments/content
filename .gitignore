@@ -1,3 +1,8 @@
-# MAC's folder info files
+# Hugo build output
+public/
+resources/
+.hugo_build.lock
+
+# OS / editor cruft (kept from the original repo)
 .DS_Store
 node_modules/

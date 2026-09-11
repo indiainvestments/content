@@ -1,0 +1,22 @@
+{{/* Freshness banner. rotClass sets the cadence:
+     fast-rot 12 months, slow-drift 24, evergreen 36. */}}
+{{ if and .File .Params.lastReviewed }}
+  {{ $reviewed := .Params.lastReviewed | time }}
+  {{ $class := default "slow-drift" .Params.rotClass }}
+  {{ $months := 24 }}
+  {{ if eq $class "fast-rot" }}{{ $months = 12 }}{{ end }}
+  {{ if eq $class "evergreen" }}{{ $months = 36 }}{{ end }}
+  {{ $stale := gt now ($reviewed.AddDate 0 $months 0) }}
+  <div class="freshness {{ if $stale }}is-stale{{ end }}">
+    <span>
+      {{ if $stale }}
+        <strong>Not reviewed since {{ $reviewed.Format "January 2006" }}.</strong>
+        Tax rates, limits and platform details change often in India — treat specifics
+        here as unverified and check a primary source before acting on them.
+      {{ else }}
+        Last reviewed {{ $reviewed.Format "January 2006" }}.
+      {{ end }}
+    </span>
+    <a href="{{ .Site.Params.repo }}/{{ .Site.Params.editPath }}/{{ .File.Path }}">Fix this page</a>
+  </div>
+{{ end }}

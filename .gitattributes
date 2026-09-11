@@ -1,0 +1,27 @@
+# Normalise everything to LF in the repository and in the working tree.
+# The site is built on Linux CI; nothing here wants CRLF, and pinning it
+# means the repo behaves the same however anyone's git is configured.
+* text=auto eol=lf
+ 
+# GitHub Pages reads this file literally — a stray CR breaks the custom domain.
+static/CNAME    text eol=lf
+ 
+# Build and tooling files that must stay LF
+*.yml           text eol=lf
+*.yaml          text eol=lf
+*.py            text eol=lf
+*.sh            text eol=lf
+*.toml          text eol=lf
+*.json          text eol=lf
+*.js            text eol=lf
+*.css           text eol=lf
+*.html          text eol=lf
+*.md            text eol=lf
+ 
+# Binary — never touch these
+*.png           binary
+*.jpg           binary
+*.jpeg          binary
+*.gif           binary
+*.webp          binary
+*.pdf           binary

@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en" data-theme="auto">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body>
+<a class="skip" href="#content">Skip to content</a>
+
+<header class="topbar">
+  <button class="icon-btn nav-toggle" aria-label="Menu" aria-expanded="false">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+  </button>
+  <a class="brand" href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
+  <div class="topbar-spacer"></div>
+  {{ partial "search.html" . }}
+  {{ partial "theme-toggle.html" . }}
+</header>
+
+<div class="shell">
+  <aside class="sidebar" id="sidebar">
+    {{ partial "sidebar.html" . }}
+  </aside>
+
+  <main id="content">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <aside class="toc-col">
+    {{ block "toc" . }}
+      {{ if and .IsPage (gt (len .TableOfContents) 60) }}
+        <nav class="toc" aria-label="On this page">
+          <p class="toc-head">On this page</p>
+          {{ .TableOfContents }}
+        </nav>
+      {{ end }}
+    {{ end }}
+  </aside>
+</div>
+
+<footer class="footer">
+  <p>
+    Content licensed
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">CC BY-NC-SA 4.0</a>.
+    Educational only — not financial advice. See
+    <a href="{{ "/disclaimers-and-disclosures/" | relURL }}">disclaimers</a>.
+  </p>
+  <p>
+    <a href="{{ .Site.Params.reddit }}">r/IndiaInvestments</a> ·
+    <a href="{{ .Site.Params.repo }}">Source on GitHub</a> ·
+    Plain HTML · No trackers · Built with Hugo
+  </p>
+</footer>
+
+{{ $js := resources.Get "js/site.js" | js.Build (dict "minify" hugo.IsProduction) }}
+<script src="{{ $js.RelPermalink }}" defer></script>
+</body>
+</html>

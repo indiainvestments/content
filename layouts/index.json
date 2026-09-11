@@ -1,0 +1,13 @@
+{{- $out := slice -}}
+{{- range .Site.Pages -}}
+  {{- if and .File (ne .Kind "home") (ne .Params.searchHide true) (gt (len .Plain) 60) -}}
+    {{- $out = $out | append (dict
+        "t" .Title
+        "u" .RelPermalink
+        "s" (index (split (strings.TrimPrefix "/" .RelPermalink) "/") 0)
+        "d" (.Description | plainify)
+        "b" (.Plain | plainify | truncate 1400 "")
+    ) -}}
+  {{- end -}}
+{{- end -}}
+{{- $out | jsonify -}}

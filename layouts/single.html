@@ -1,0 +1,7 @@
+{{ define "main" }}
+<article class="page">
+  {{ partial "freshness.html" . }}
+  {{ .Content }}
+  {{ partial "page-nav.html" . }}
+</article>
+{{ end }}

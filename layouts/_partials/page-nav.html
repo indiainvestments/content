@@ -1,0 +1,6 @@
+{{ if or .PrevInSection .NextInSection }}
+<nav class="page-nav" aria-label="Nearby pages">
+  <div>{{ with .PrevInSection }}<a href="{{ .RelPermalink }}"><span>Previous</span>{{ .Title }}</a>{{ end }}</div>
+  <div class="right">{{ with .NextInSection }}<a href="{{ .RelPermalink }}"><span>Next</span>{{ .Title }}</a>{{ end }}</div>
+</nav>
+{{ end }}

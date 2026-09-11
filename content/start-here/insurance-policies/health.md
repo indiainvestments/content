@@ -1,0 +1,18 @@
+---
+title: "Health"
+description: "All things health insurance"
+weight: 92
+rotClass: slow-drift
+lastUpdated: 2021-10-09
+lastReviewed: 2021-10-09
+---
+# Health
+
+[How to Buy Health Insurance](http://www.reddit.com/r/IndiaInvestments/comments/2h3r0a/how_to_buy_a_health_insurance_policy_steps_and/) - this includes a pointer regarding Room Sublimits.
+
+Varun Dua \(Co-founder of Coverfox.com\) [AMA](http://www.reddit.com/r/IndiaInvestments/comments/2immmu/im_varun_the_cofounder_of_coverfox_insurance_its/)
+
+**Post/Comment Section**
+
+[Health Insurance for Parents](http://www.reddit.com/r/IndiaInvestments/comments/261lax/parents_health_insurance_recommendations/)
+

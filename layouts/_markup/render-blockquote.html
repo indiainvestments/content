@@ -1,0 +1,16 @@
+{{/* GitHub-style alerts: > [!NOTE] / [!TIP] / [!WARNING] / [!CAUTION] / [!IMPORTANT] */}}
+{{ if eq .Type "alert" }}
+  {{ $k := lower .AlertType }}
+  <div class="alert alert-{{ $k }}" role="note">
+    <p class="alert-title">
+      {{- with .AlertTitle }}{{ . }}{{ else -}}
+        {{ if eq $k "note" }}Note{{ else if eq $k "tip" }}Tip
+        {{ else if eq $k "warning" }}Warning{{ else if eq $k "caution" }}Caution
+        {{ else if eq $k "important" }}Important{{ else }}{{ $k | title }}{{ end }}
+      {{- end -}}
+    </p>
+    {{ .Text }}
+  </div>
+{{ else }}
+  <blockquote>{{ .Text }}</blockquote>
+{{ end }}
