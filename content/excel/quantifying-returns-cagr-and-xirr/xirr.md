@@ -2,6 +2,7 @@
 title: "A Gentle Introduction to XIRR"
 description: "What is XIRR? How can I use it to make financial decisions? What affects XIRR in a good way and a bad way? Find answers to these queries here"
 weight: 63
+math: true
 rotClass: evergreen
 lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01

@@ -14,9 +14,9 @@ Income tax is commonly deducted _at source_ by the entity (employer, banks etc.)
 
 This is known as TDS (**T**ax **D**educted at **S**ource) and is generally reflected in Form 26AS every financial year/ assessment year.
 
-For example, if an employer has paid $$₹1,000,000$$ in salary over the year to an employee, then depending on tax saving investments for the employee, the employee might be liable for, say, $$₹80,000$$ in taxes.
+For example, if an employer has paid ₹1,000,000 in salary over the year to an employee, then depending on tax saving investments for the employee, the employee might be liable for, say, ₹80,000 in taxes.
 
-This entire $$₹80,000$$ would have ideally been deducted by the employer, as TDS, and deposited to income tax department. In particular, the TDSPC (**T**DS **P**rocessing **C**ell).
+This entire ₹80,000 would have ideally been deducted by the employer, as TDS, and deposited to income tax department. In particular, the TDSPC (**T**DS **P**rocessing **C**ell).
 
 However, the taxpayer might have other sources of income on which no tax has been deducted. Or, adding up the income from multiple sources would probably put them in a different tax bracket with extra tax liability; that neither entities might know about.
 
@@ -41,14 +41,14 @@ The advance tax must be computed and paid based on the tax slab, to which the ta
 
 | Due Date                    | Tax payable                                    |
 | --------------------------- | ---------------------------------------------- |
-| On or before 15th June      | $$15\%$$ of liability                          |
-| On or before 15th September | $$45\%$$ of liability, minus tax already paid  |
-| On or before 15th December  | $$75\%$$ of liability, minus tax already paid  |
-| On or before 15th March     | $$100\%$$ of liability, minus tax already paid |
+| On or before 15th June      | 15% of liability                          |
+| On or before 15th September | 45% of liability, minus tax already paid  |
+| On or before 15th December  | 75% of liability, minus tax already paid  |
+| On or before 15th March     | 100% of liability, minus tax already paid |
 
 #### Note <a href="#note" id="note"></a>
 
-* For freelancers and other non-salaried professionals, $$100\%$$ of tax must be paid on or before 15th March.
+* For freelancers and other non-salaried professionals, 100% of tax must be paid on or before 15th March.
 * If advance tax is not paid, interest may be charged on the tax liability under sections 234B and 234C of the Income Tax Act.
 * For senior citizen (more than 75 yr old), if only pension and income from bank interest are only the 2 sources of income, the bank will deduct the TDS and no need to file ITR (**I**ncome **T**ax **R**eturn).
 

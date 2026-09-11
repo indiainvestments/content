@@ -2,6 +2,7 @@
 title: "Why should I invest in Direct Plans instead of Regular Plans?"
 description: "Direct plans of mutual funds have no commission, lower fees compared to its Regular plan counterpart. Returns are higher with no extra risk."
 weight: 6
+math: true
 rotClass: fast-rot
 lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
@@ -33,9 +34,9 @@ There are many reasons why regular plans shouldn’t exist.
 
     To prove our point, here’s an example.
 
-    As of February 2021, Mirae Asset Tax Saver had a total expense ratio (TER) of $$1.83\%$$ for its regular plan and $$0.28\%$$ for its direct plan. That’s a difference of $$1.55\%$$ between the regular plan and the direct plan of the same fund. On the other hand, UTI Nifty Index had a total TER of $$0.14\%$$ for its regular plan and $$0.1\%$$ for its direct plan.
+    As of February 2021, Mirae Asset Tax Saver had a total expense ratio (TER) of 1.83% for its regular plan and 0.28% for its direct plan. That’s a difference of 1.55% between the regular plan and the direct plan of the same fund. On the other hand, UTI Nifty Index had a total TER of 0.14% for its regular plan and 0.1% for its direct plan.
 
-    The assets under management (AUM) distribution of these two funds is interesting. Mirae Asset Tax Saver had AUM of $$₹6,332.2$$ crores out of which $$31\%$$ AUM is from the direct plan and the rest is from its regular plan. Meanwhile, UTI Nifty Index had a total AUM of $$₹3,353.11$$ crores but had $$77\%$$ of its AUM from its direct plan.
+    The assets under management (AUM) distribution of these two funds is interesting. Mirae Asset Tax Saver had AUM of ₹6,332.2 crores out of which 31% AUM is from the direct plan and the rest is from its regular plan. Meanwhile, UTI Nifty Index had a total AUM of ₹3,353.11 crores but had 77% of its AUM from its direct plan.
 
     This stark difference in the source of AUM should be enough to highlight where the priorities of regular plan distributors lie.
 
@@ -65,46 +66,46 @@ Although it may not be straightforward to calculate the difference in returns be
 
 ### Lumpsum Purchase in Axis Long Term Equity and Tata Large Cap
 
-As of 9th April 2021, the 5 year return (CAGR) of **Axis Long Term Equity** Direct Growth Plan stands at $$17.70\%$$ and that of the regular plan is $$16.55\%$$. Let’s assume an initial investment of $$₹1$$ lakh on 9th April 2016.
+As of 9th April 2021, the 5 year return (CAGR) of **Axis Long Term Equity** Direct Growth Plan stands at 17.70% and that of the regular plan is 16.55%. Let’s assume an initial investment of ₹1 lakh on 9th April 2016.
 
 |    Fund Type   |         5Y CAGR        | Final Value                                     |
 | :------------: | :--------------------: | ----------------------------------------------- |
-|  Direct Growth |       $$17.70\%$$      | $$₹ 1,00,000\times(1+0.1770)^5= ₹ 2,25,882.36$$ |
-| Regular Growth |       $$16.55\%$$      | $$₹ 1,00,000\times(1+0.1655)^5= ₹2,15,060.86$$  |
-|                | **Commission Outflow** | $$₹ 10,821.5$$                                  |
+|  Direct Growth |       17.70%      | $$₹ 1,00,000\times(1+0.1770)^5= ₹ 2,25,882.36$$ |
+| Regular Growth |       16.55%      | $$₹ 1,00,000\times(1+0.1655)^5= ₹2,15,060.86$$  |
+|                | **Commission Outflow** | ₹ 10,821.5                                  |
 
-The distributor of this plan has made approximately $$10.8\%$$ of the original investment as commission in the last 5 years. And 5 years is a small time period in equity markets. Of course, this commission will only increase with time. However, this cost could’ve been easily avoided, just by investing in the direct plan of the same fund, 5 years ago.
+The distributor of this plan has made approximately 10.8% of the original investment as commission in the last 5 years. And 5 years is a small time period in equity markets. Of course, this commission will only increase with time. However, this cost could’ve been easily avoided, just by investing in the direct plan of the same fund, 5 years ago.
 
-One might say that the commission looks high only because the returns are high enough to more than double the original investment. After all, $$16\%−17\%$$ annualized returns over 5 year periods aren’t common.
+One might say that the commission looks high only because the returns are high enough to more than double the original investment. After all, 16%−17% annualized returns over 5 year periods aren’t common.
 
-Keeping this in mind, let’s take a different fund with a lower 5Y CAGR, where we do the same comparison, and see if losses to commission really goes down with the returns. As of 9th April 2021, the 5 year return (CAGR) of **Tata Large Cap** Direct Growth Plan stands at $$13.82\%$$ and that of the regular plan is $$12.40\%$$.
+Keeping this in mind, let’s take a different fund with a lower 5Y CAGR, where we do the same comparison, and see if losses to commission really goes down with the returns. As of 9th April 2021, the 5 year return (CAGR) of **Tata Large Cap** Direct Growth Plan stands at 13.82% and that of the regular plan is 12.40%.
 
 | Fund Type      | 5Y CAGR                | Final Value                                          |
 | -------------- | ---------------------- | ---------------------------------------------------- |
-| Direct Growth  | $$13.82\%$$            | $$₹ 1,00,000 \times (1 + 0.1382)^5 = ₹ 1,91,026.19$$ |
-| Regular Growth | $$12.40\%$$            | $$₹ 1,00,000 \times (1 + 0.1240)^5 = ₹ 1,79,403.77$$ |
-|                | **Commission Outflow** | $$₹ 11,622.42$$                                      |
+| Direct Growth  | 13.82%            | $$₹ 1,00,000 \times (1 + 0.1382)^5 = ₹ 1,91,026.19$$ |
+| Regular Growth | 12.40%            | $$₹ 1,00,000 \times (1 + 0.1240)^5 = ₹ 1,79,403.77$$ |
+|                | **Commission Outflow** | ₹ 11,622.42                                      |
 
-Although the returns and nominal profit of the investor have been reduced by a lot, the distributor commission has increased! In this case, it’s approximately $$11.6\%$$ of original investment, eroded over 5 years. Your distributor would make bank, whether your returns are higher or lower. They’d make even more, if your portfolio does well.
+Although the returns and nominal profit of the investor have been reduced by a lot, the distributor commission has increased! In this case, it’s approximately 11.6% of original investment, eroded over 5 years. Your distributor would make bank, whether your returns are higher or lower. They’d make even more, if your portfolio does well.
 
 Next time, when a distributor tells you to keep your SIPs going, you have to wonder whether it’s because they don’t want to see their income disrupted, which is tied to total portfolio value.
 
 ### Total Expense Ratio from an AMC’s Perspective
 
-Let’s consider Kotak Standard Flexi Cap, one of the largest (in terms of AUM) equity mutual fund in India with an average AUM of $$₹35,114.71$$ crore at the end of March 2021. Its direct plan had a TER of $$0.61\%$$ and the regular plan had a TER of $$1.62\%$$. From the average AUM disclosure provided by Kotak AMC for the month of March 2021, we know that Kotak Standard Flexi Cap had $$₹25,899.10$$ crores from its regular plan and $$₹9,215.61$$crores from its direct plan.
+Let’s consider Kotak Standard Flexi Cap, one of the largest (in terms of AUM) equity mutual fund in India with an average AUM of ₹35,114.71 crore at the end of March 2021. Its direct plan had a TER of 0.61% and the regular plan had a TER of 1.62%. From the average AUM disclosure provided by Kotak AMC for the month of March 2021, we know that Kotak Standard Flexi Cap had ₹25,899.10 crores from its regular plan and ₹9,215.61 crores from its direct plan.
 
 We can use this data to get some insights about the expenses generated by this fund.
 
 |               |                       |                                                    |
 | ------------- | --------------------- | -------------------------------------------------- |
 | **Fund Type** | **AAUM**              | **Expenses Deducted**                              |
-| Direct Plan   | $$₹9,215.61$$         | $$₹35,114.71\times0.61\%=₹214.19$$ crores          |
-| Regular Plan  | $$₹25,899.10$$        | $$₹25,899.10\times(1.62\%-0.61\%)=₹261.58$$ crores |
-|               | $$₹35,114.71$$ crores | **Total Expenses:** $$₹475.77$$ crores             |
+| Direct Plan   | ₹9,215.61         | ₹35,114.71×0.61%=₹214.19 crores          |
+| Regular Plan  | ₹25,899.10        | ₹25,899.10×(1.62%-0.61%)=₹261.58 crores |
+|               | ₹35,114.71 crores | **Total Expenses:** ₹475.77 crores             |
 
-Kotak AMC gets to keep $$₹35,114.71\times0.61\%=₹214.19$$ crores from both the regular and direct plan. Since distributors get $$1.62\%−0.61\%=1.01\%$$ on the regular plan, their commission comes out to be $$₹25,899.10\times1.01\%=₹261.58$$ crores.
+Kotak AMC gets to keep ₹35,114.71×0.61%=₹214.19 crores from both the regular and direct plan. Since distributors get 1.62%−0.61%=1.01% on the regular plan, their commission comes out to be ₹25,899.10×1.01%=₹261.58 crores.
 
-In a mutual fund with over $$₹35,114$$ crores in AUM, $$73\%$$ of its AUM comes from regular plans and mutual fund distributors end up taking away $$22\%$$ more expense income than the AMC of the fund itself even though the fund manager does the job of managing the mutual fund portfolio while your distributor does nothing except earn commissions and help the AMC inflate its AUM.
+In a mutual fund with over ₹35,114 crores in AUM, 73% of its AUM comes from regular plans and mutual fund distributors end up taking away 22% more expense income than the AMC of the fund itself even though the fund manager does the job of managing the mutual fund portfolio while your distributor does nothing except earn commissions and help the AMC inflate its AUM.
 
 > [!NOTE]
 > We’ve got the data about AUM distribution from [this](https://assetmanagement.kotak.com/documents/19/555dfead-2a88-4e98-8d1b-853678294e51) link on [this](https://assetmanagement.kotak.com/aaum) page.
@@ -118,7 +119,7 @@ In a mutual fund with over $$₹35,114$$ crores in AUM, $$73\%$$ of its AUM come
 
 As on 9th April 2021, the direct plan of mutual funds have had more than 8 years of history since they were started back in January 2013.
 
-We’ll simulate a SIP of $$₹10,000$$ per month, in the direct and regular plan of some funds, starting from 2nd January 2013.
+We’ll simulate a SIP of ₹10,000 per month, in the direct and regular plan of some funds, starting from 2nd January 2013.
 
 We are considering some large-cap funds that have mostly stayed true to their large-cap stock selection mandate, i.e., mostly having bluechip stocks in portfolio of the fund. Mirae Asset Large Cap fund has been excluded, as it was operated as a multi-cap fund throughout most of this time period (2013-2018) that’s being considered.
 
@@ -126,57 +127,57 @@ We are considering some large-cap funds that have mostly stayed true to their la
 
 | Fund Type    | Invested Amount | Current Value  | Total Gain    | Return (p.a.) |
 | ------------ | --------------- | -------------- | ------------- | ------------- |
-| Direct Plan  | $$₹10,00,000$$  | $$₹17,71,612$$ | $$₹7,71,612$$ | $$13.5\%$$    |
-| Regular Plan | $$₹10,00,000$$  | $$₹17,64,606$$ | $$₹7,64,606$$ | $$13.4\%$$    |
+| Direct Plan  | ₹10,00,000  | ₹17,71,612 | ₹7,71,612 | 13.5%    |
+| Regular Plan | ₹10,00,000  | ₹17,64,606 | ₹7,64,606 | 13.4%    |
 
 #### HDFC Top 100
 
 | Fund Type    | Invested Amount | Current Value  | Total Gain    | Return (p.a.) |
 | ------------ | --------------- | -------------- | ------------- | ------------- |
-| Direct Plan  | $$₹10,00,000$$  | $$₹16,94,408$$ | $$₹6,94,408$$ | $$12.5\%$$    |
-| Regular Plan | $$₹10,00,000$$  | $$₹16,42,630$$ | $$₹6,42,630$$ | $$11.8\%$$    |
+| Direct Plan  | ₹10,00,000  | ₹16,94,408 | ₹6,94,408 | 12.5%    |
+| Regular Plan | ₹10,00,000  | ₹16,42,630 | ₹6,42,630 | 11.8%    |
 
 #### Franklin Bluechip
 
 | Fund Type    | Invested Amount | Current Value  | Total Gain    | Return (p.a.) |
 | ------------ | --------------- | -------------- | ------------- | ------------- |
-| Direct Plan  | $$₹10,00,000$$  | $$₹17,33,671$$ | $$₹7,33,671$$ | $$13.0\%$$    |
-| Regular Plan | $$₹10,00,000$$  | $$₹16,68,038$$ | $$₹6,68,038$$ | $$12.1\%$$    |
+| Direct Plan  | ₹10,00,000  | ₹17,33,671 | ₹7,33,671 | 13.0%    |
+| Regular Plan | ₹10,00,000  | ₹16,68,038 | ₹6,68,038 | 12.1%    |
 
 #### ABSL Frontline Equity
 
 | Fund Type    | Invested Amount | Current Value  | Total Gain    | Return (p.a.) |
 | ------------ | --------------- | -------------- | ------------- | ------------- |
-| Direct Plan  | $$₹10,00,000$$  | $$₹17,86,176$$ | $$₹7,86,176$$ | $$13.7\%$$    |
-| Regular Plan | $$₹10,00,000$$  | $$₹17,14,436$$ | $$₹7,14,436$$ | $$12.8\%$$    |
+| Direct Plan  | ₹10,00,000  | ₹17,86,176 | ₹7,86,176 | 13.7%    |
+| Regular Plan | ₹10,00,000  | ₹17,14,436 | ₹7,14,436 | 12.8%    |
 
 #### SBI Bluechip
 
 | Fund Type    | Invested Amount | Current Value  | Total Gain    | Return (p.a.) |
 | ------------ | --------------- | -------------- | ------------- | ------------- |
-| Direct Plan  | $$₹10,00,000$$  | $$₹19,05,761$$ | $$₹9,05,761$$ | $$15.2\%$$    |
-| Regular Plan | $$₹10,00,000$$  | $$₹18,23,117$$ | $$₹8,23,117$$ | $$14.2\%$$    |
+| Direct Plan  | ₹10,00,000  | ₹19,05,761 | ₹9,05,761 | 15.2%    |
+| Regular Plan | ₹10,00,000  | ₹18,23,117 | ₹8,23,117 | 14.2%    |
 
 #### DSP Top 100
 
 | Fund Type    | Invested Amount | Current Value  | Total Gain    | Return (p.a.) |
 | ------------ | --------------- | -------------- | ------------- | ------------- |
-| Direct Plan  | $$₹10,00,000$$  | $$₹16,40,187$$ | $$₹6,40,187$$ | $$11.7\%$$    |
-| Regular Plan | $$₹10,00,000$$  | $$₹15,87,479$$ | $$₹5,87,479$$ | $$11.0\%$$    |
+| Direct Plan  | ₹10,00,000  | ₹16,40,187 | ₹6,40,187 | 11.7%    |
+| Regular Plan | ₹10,00,000  | ₹15,87,479 | ₹5,87,479 | 11.0%    |
 
 #### ICICI Prudential Bluechip
 
 | Fund Type    | Invested Amount | Current Value  | Total Gain    | Return (p.a.) |
 | ------------ | --------------- | -------------- | ------------- | ------------- |
-| Direct Plan  | $$₹10,00,000$$  | $$₹18,34,300$$ | $$₹8,34,300$$ | $$14.3\%$$    |
-| Regular Plan | $$₹10,00,000$$  | $$₹17,63,591$$ | $$₹7,63,591$$ | $$13.4\%$$    |
+| Direct Plan  | ₹10,00,000  | ₹18,34,300 | ₹8,34,300 | 14.3%    |
+| Regular Plan | ₹10,00,000  | ₹17,63,591 | ₹7,63,591 | 13.4%    |
 
 #### Nippon Large Cap
 
 | Fund Type    | Invested Amount | Current Value  | Total Gain    | Return (p.a.) |
 | ------------ | --------------- | -------------- | ------------- | ------------- |
-| Direct Plan  | $$₹10,00,000$$  | $$₹17,83,845$$ | $$₹7,83,845$$ | $$13.7\%$$    |
-| Regular Plan | $$₹10,00,000$$  | $$₹17,05,182$$ | $$₹7,05,182$$ | $$12.6\%$$    |
+| Direct Plan  | ₹10,00,000  | ₹17,83,845 | ₹7,83,845 | 13.7%    |
+| Regular Plan | ₹10,00,000  | ₹17,05,182 | ₹7,05,182 | 12.6%    |
 
 > [!NOTE]
 > We have generated this data using the ‘My Investment’ tool from [Value Research](https://www.valueresearchonline.com/).
@@ -189,20 +190,20 @@ Let’s look at the data presented above from a different perspective. We’ll f
 |                    |                   |                  |                    |                       |                                        |
 | ------------------ | :---------------: | :--------------: | :----------------: | --------------------: | -------------------------------------- |
 | **Fund Name**      | **TER (Regular)** | **TER (Direct)** | $$\Delta$$ **TER** | **Commission Losses** | **Commission (% of total investment)** |
-| UTI Nifty Index    |     $$0.14\%$$    |    $$0.10\%$$    |     $$0.04\%$$     |            $$₹7,006$$ | $$0.07\%$$                             |
-| HDFC Top 100       |     $$1.85\%$$    |    $$1.23\%$$    |     $$0.62\%$$     |           $$₹51,778$$ | $$5.17\%$$                             |
-| Franklin Bluechip  |     $$1.91\%$$    |    $$1.18\%$$    |     $$0.73\%$$     |           $$₹65,633$$ | $$6.56\%$$                             |
-| ABSL Frontline     |     $$1.70\%$$    |    $$1.08\%$$    |     $$0.62\%$$     |           $$₹71,740$$ | $$7.17\%$$                             |
-| SBI Bluechip       |     $$1.75\%$$    |    $$1.00\%$$    |     $$0.75\%$$     |           $$₹82,644$$ | $$8.26\%$$                             |
-| DSP Top 100        |     $$2.09\%$$    |    $$1.32\%$$    |     $$0.77\%$$     |           $$₹52.708$$ | $$5.27\%$$                             |
-| ICICI Pru Bluechip |     $$1.72\%$$    |    $$1.21\%$$    |     $$0.51\%$$     |           $$₹70,709$$ | $$7.07\%$$                             |
-| Nippon Large Cap   |     $$1.88\%$$    |    $$1.18\%$$    |     $$0.70\%$$     |           $$₹78,663$$ | $$7.86\%$$                             |
+| UTI Nifty Index    |     0.14%    |    0.10%    |     0.04%     |            ₹7,006 | 0.07%                             |
+| HDFC Top 100       |     1.85%    |    1.23%    |     0.62%     |           ₹51,778 | 5.17%                             |
+| Franklin Bluechip  |     1.91%    |    1.18%    |     0.73%     |           ₹65,633 | 6.56%                             |
+| ABSL Frontline     |     1.70%    |    1.08%    |     0.62%     |           ₹71,740 | 7.17%                             |
+| SBI Bluechip       |     1.75%    |    1.00%    |     0.75%     |           ₹82,644 | 8.26%                             |
+| DSP Top 100        |     2.09%    |    1.32%    |     0.77%     |           ₹52.708 | 5.27%                             |
+| ICICI Pru Bluechip |     1.72%    |    1.21%    |     0.51%     |           ₹70,709 | 7.07%                             |
+| Nippon Large Cap   |     1.88%    |    1.18%    |     0.70%     |           ₹78,663 | 7.86%                             |
 
 > [!NOTE]
 > In the above tables, we’re using the TER data available as on 9th April 2021. TER changes from time to time, and the latest TER differences won’t reveal historical performance.
 
 
-Besides SBI Bluechip’s regular plan, no large-cap fund from our list has managed to generate higher corpus in its regular plan than UTI Nifty Index fund direct growth plan has done over the last 8+ years for a simple $$₹10k$$ / month SIP.
+Besides SBI Bluechip’s regular plan, no large-cap fund from our list has managed to generate higher corpus in its regular plan than UTI Nifty Index fund direct growth plan has done over the last 8+ years for a simple ₹10k / month SIP.
 
 As you can imagine, no popular distributor was publicly recommending UTI Nifty Index fund’s direct plan, back in 2013-14. This isn’t surprising considering the fact that for a regular plan distributor, recommending UTI Nifty Index fund’s regular plan would’ve been the least profitable.
 
@@ -218,17 +219,17 @@ The recurring cost model of regular plans can unleash this mythical tyranny righ
 
 We saw earlier that the difference in TER difference between the direct and regular plan of a mutual fund, or $$\Delta TER$$, can be thought of as an indicator of regular plan’s distribution costs.
 
-Let’s assume that investing a lumpsum amount of $$₹1,00,000$$ in an asset generates a CAGR of $$15\%$$. This asset also has a regular plan variant which generates a CAGR of $$14\%$$. At $$1\%$$ lower CAGR, this is how the valuation would change over time.
+Let’s assume that investing a lumpsum amount of ₹1,00,000 in an asset generates a CAGR of 15%. This asset also has a regular plan variant which generates a CAGR of 14%. At 1% lower CAGR, this is how the valuation would change over time.
 
 
 ![Regular Plan Returns Trailing by 1% - Light Mode](/images/difference-direct-regular-one-percent.light%20%281%29.png)
 
-If the difference in CAGR is assumed to be $$1.5\%$$, this is how the corpus changes.
+If the difference in CAGR is assumed to be 1.5%, this is how the corpus changes.
 
 
 ![Regular Plan Returns Trailing by 1.5% - Light Mode](/images/difference-direct-regular-one-point-five.light%20%281%29.png)
 
-Eventually, an investor could end up losing $$30\%-40\%$$ of their portfolio to distributor commissions over a long period of time.
+Eventually, an investor could end up losing 30%-40% of their portfolio to distributor commissions over a long period of time.
 
 ## Falsehoods and Myths about Regular Plans
 
@@ -249,16 +250,16 @@ As on 9th April 2021, this is how the TERs look like for flagship funds from Mir
 |                               |               |              |                |
 | ----------------------------- | ------------- | ------------ | -------------- |
 | Fund Name                     | TER (Regular) | TER (Direct) | $$\Delta$$ TER |
-| Mirae Asset Emerging Bluechip | $$1.81\%$$    | $$0.70\%$$   | $$1.11\%$$     |
-| Mirae Asset Large Cap         | $$1.64\%$$    | $$0.54\%$$   | $$1.10\%$$     |
-| Mirae Asset Tax Saver         | $$2.00\%$$    | $$0.29\%$$   | $$1.71\%$$     |
-| Mirae Asset Healthcare        | $$2.16\%$$    | $$0.59\%$$   | $$1.57\%$$     |
-| Mirae Asset Focused Equity    | $$1.94\%$$    | $$0.32\%$$   | $$1.62\%$$     |
-| Mirae Asset Hybrid Equity     | $$1.88\%$$    | $$0.39\%$$   | $$1.49\%$$     |
+| Mirae Asset Emerging Bluechip | 1.81%    | 0.70%   | 1.11%     |
+| Mirae Asset Large Cap         | 1.64%    | 0.54%   | 1.10%     |
+| Mirae Asset Tax Saver         | 2.00%    | 0.29%   | 1.71%     |
+| Mirae Asset Healthcare        | 2.16%    | 0.59%   | 1.57%     |
+| Mirae Asset Focused Equity    | 1.94%    | 0.32%   | 1.62%     |
+| Mirae Asset Hybrid Equity     | 1.88%    | 0.39%   | 1.49%     |
 
 Of course, Mirae Asset isn’t the only AMC which is doing this. You might come across unsustainably low TERs in direct plans of other AMCs, with reasonably high TER in the regular plan of the same fund.
 
-From our previous calculations, it should be clear that $$1.5\%-1.8\%$$ additional expenses would erode the corpus of an investor significantly in the long run.
+From our previous calculations, it should be clear that 1.5%-1.8% additional expenses would erode the corpus of an investor significantly in the long run.
 
 ### But why would my distributor recommend such funds? He’s our family friend / relative and has our best interests at heart.
 
@@ -270,21 +271,21 @@ To understand how deep this nexus is, take a look at AMFI disclosure reports on 
 
 [Link to commission disclosure](https://www.amfiindia.com/commission-disclosure)
 
-Let’s start with the latest report, from 2019-20. It’s a PDF that lists the names of distributors and the gross amount paid in multiples of $$₹1,00,000$$.
+Let’s start with the latest report, from 2019-20. It’s a PDF that lists the names of distributors and the gross amount paid in multiples of ₹1,00,000.
 
-As expected, big banks like HDFC, ICICI, Kotak, and SBI are easily making hundreds of crores, just from rent-seeking and not adding any meaningful value to the portfolio of investors. However, relatively small distributors have been doing great as well. Based on that list, it’s not unusual to make over $$₹1$$ crore (a pretty large milestone in annual income for most Indians) by selling regular plans of mutual funds.
+As expected, big banks like HDFC, ICICI, Kotak, and SBI are easily making hundreds of crores, just from rent-seeking and not adding any meaningful value to the portfolio of investors. However, relatively small distributors have been doing great as well. Based on that list, it’s not unusual to make over ₹1 crore (a pretty large milestone in annual income for most Indians) by selling regular plans of mutual funds.
 
 ### But the NAV of Regular Plans are lower than Direct Plans. Shouldn't I buy low and sell high?
 
 The NAV of regular plans is lower because it includes distributor commission and it'll always be lower than the NAV of its direct plan counterpart. In this case, your purchase price doesn't matter. What matters, is the rate of growth _after_ you purchase.
 
-Let's consider the NAV of Axis Long Term Equity as on 12th April 2021. It was $$₹59.71$$ for the regular plan and for $$₹65.22$$ the direct plan. If we invest $$₹10,000$$ in the regular plan, we'll get $$167.47$$ units in the regular plan, and $$153.32$$ units in the direct plan. Let's assume that we get $$10\%$$ CAGR after 5 years in the regular plan and $$11\%$$ CAGR in the direct plan. The final portfolio value of the regular plan would be $$₹10,000\times(1+0.1)^5=₹16,105.1$$ and that of the direct plan would be $$₹10,000\times(1+0.11)^5=₹16,850.58$$.
+Let's consider the NAV of Axis Long Term Equity as on 12th April 2021. It was ₹59.71 for the regular plan and for ₹65.22 the direct plan. If we invest ₹10,000 in the regular plan, we'll get 167.47 units in the regular plan, and 153.32 units in the direct plan. Let's assume that we get 10% CAGR after 5 years in the regular plan and 11% CAGR in the direct plan. The final portfolio value of the regular plan would be $$₹10,000\times(1+0.1)^5=₹16,105.1$$ and that of the direct plan would be $$₹10,000\times(1+0.11)^5=₹16,850.58$$.
 
 As we just saw, the NAV purchase price and the number of units that you get are irrelevant and do not affect the final portfolio value. The CAGR, however, does, and it should be evident that the CAGR of a direct plan will always be higher than its regular plan counterpart.
 
 ### But it’s just a difference of 1%. It won’t have much impact.
 
-As we’ve already shown above, a $$\Delta TER$$ of $$1\%$$ can erode more than $$30\%$$ of your portfolio value over the long term. Even $$10\%$$, let alone $$30\%$$, is a significant loss to your portfolio. Are you okay with losing $$₹10$$ lakh from your corpus of $$₹1$$ crore and end up having $$₹90$$ lakhs? How about losing $$₹30$$ lakhs?
+As we’ve already shown above, a $$\Delta TER$$ of 1% can erode more than 30% of your portfolio value over the long term. Even 10%, let alone 30%, is a significant loss to your portfolio. Are you okay with losing ₹10 lakh from your corpus of ₹1 crore and end up having ₹90 lakhs? How about losing ₹30 lakhs?
 
 ### I know regular plans are bad but if I switch, I'd have to pay taxes. I don't want to pay taxes unnecessarily.
 
@@ -306,7 +307,7 @@ At this point, you have the power to make decisions about your own money and swi
 
 If you're not comfortable choosing funds, you can start investing in the direct plans of the same funds offered by your distributor. Even in that case, you'd save on a lot of expenses.
 
-Would you rather be grateful to your distributor for the rest of your investing journey and lose up to $$30\%-40\%$$ of your corpus in the long term, or switch to direct plans and not lose that money?
+Would you rather be grateful to your distributor for the rest of your investing journey and lose up to 30%-40% of your corpus in the long term, or switch to direct plans and not lose that money?
 
 ### But my distributor also gives advice. I don’t know anything about mutual funds. Investing in direct plans is only for advanced investors.
 
@@ -349,7 +350,7 @@ Quantum AMC started offering direct plans of their flagship funds, Quantum Liqui
 
 Since January 2013, SEBI regulations have forced all AMCs to launch direct plans for each and every mutual fund that they had and would come up with in the future.
 
-However, despite the ease of access, most retail and HNI (High Net-worth Individual) investors still invest in regular plans. This is evident by the fact that most of the mutual fund industry AUM is still in regular plans, and not direct plans. [According to this news article from The Hindu](https://www.thehindu.com/business/Industry/direct-plan-vs-regular-plan-know-which-one-is-better/article32121374.ece) ([archive.org link](https://web.archive.org/web/20210208172051/https://www.thehindu.com/business/Industry/direct-plan-vs-regular-plan-know-which-one-is-better/article32121374.ece) | [archive.is link](https://archive.is/c2oxb)), only $$19\%$$ of the industry AUM is in direct plans, while rest of it are in regular plans.
+However, despite the ease of access, most retail and HNI (High Net-worth Individual) investors still invest in regular plans. This is evident by the fact that most of the mutual fund industry AUM is still in regular plans, and not direct plans. [According to this news article from The Hindu](https://www.thehindu.com/business/Industry/direct-plan-vs-regular-plan-know-which-one-is-better/article32121374.ece) ([archive.org link](https://web.archive.org/web/20210208172051/https://www.thehindu.com/business/Industry/direct-plan-vs-regular-plan-know-which-one-is-better/article32121374.ece) | [archive.is link](https://archive.is/c2oxb)), only 19% of the industry AUM is in direct plans, while rest of it are in regular plans.
 
 PayTM Money maintains [this page](https://www.paytmmoney.com/mutual-funds/direct-vs-regular-plans) listing difference in TER between direct plan and regular plan of mutual funds.
 

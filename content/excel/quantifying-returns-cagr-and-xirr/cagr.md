@@ -2,6 +2,7 @@
 title: "CAGR: Point-to-Point Annualized Returns"
 description: "We'll take a look at what CAGR is, how it works, and how we can compute CAGR of various listed assets."
 weight: 62
+math: true
 rotClass: evergreen
 lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
@@ -22,20 +23,20 @@ Learning about CAGR is only the first step towards that.
 
 CAGR (**C**ompound **A**nnual **G**rowth **R**ate) is a measure of how _fast_ a value has been growing, assuming this value is probably a result of a compounding process.
 
-Let's assume value at the beginning of a time period was $$V_{initial}$$, and if it changed to $$V_{final}$$ over a period of time $$t$$, then CAGR or the rate of this growth, can be formulated as:
+Let's assume value at the beginning of a time period was $$V_{initial}$$, and if it changed to $$V_{final}$$ over a period of time *t*, then CAGR or the rate of this growth, can be formulated as:
 
 $$V_{final} = V_{initial}(1 + r/100)^t$$
 
-Where, $$r$$ is the **annualized rate of growth** or CAGR.
+Where, *r* is the **annualized rate of growth** or CAGR.
 
 This is a well known formula for calculating compound interest and we've been taught this back in school.
 
-Rearranging this equation for $$r$$, we get
+Rearranging this equation for *r*, we get
 
 $$r = 100((\frac{V_{final}}{V_{initial}})^{1/t} - 1)$$
 
 > [!NOTE]
-> In the above formula, $$r$$is greater than 1. If we want the value of $$r$$ to be between 0 and 1 (and not 0 and 100 as is usually expressed in percentage notation), we can remove multiplication by 100 from the formula. Either choice is fine.
+> In the above formula, *r* is greater than 1. If we want the value of *r* to be between 0 and 1 (and not 0 and 100 as is usually expressed in percentage notation), we can remove multiplication by 100 from the formula. Either choice is fine.
 
 
 Let's see how we can use this in the real world of investments.
@@ -95,14 +96,14 @@ Steps to follow:
 
 ![CAGR 3Y Computed with RRI() - Light Mode](/images/cagr-3-year.light%20%281%29.png)
 
-But instead of using the `RRI()` function, we could directly use the mathematical formula as we'd discussed above: $$V_{final}$$being the value on given date, $$V_{initial}$$ is the value on given date 3 years ago; and $$t$$ is 3, for 3 years.
+But instead of using the `RRI()` function, we could directly use the mathematical formula as we'd discussed above: $$V_{final}$$being the value on given date, $$V_{initial}$$ is the value on given date 3 years ago; and *t* is 3, for 3 years.
 
 We'd get this
 
 
 ![CAGR of 3 Years Computed - Light Mode](/images/cagr-3y-computed.light%20%281%29.png)
 
-Notice that we've used 0.33 for $$1/t$$, to denote $$t = 3$$. This is **not** correct. We could get more accurate estimation, directly using $$1/3$$ instead of using 0.33.
+Notice that we've used 0.33 for 1/t, to denote t = 3. This is **not** correct. We could get more accurate estimation, directly using 1/3 instead of using 0.33.
 
 However, the number of days between any two arbitrary dates cannot always be expressed as whole number of years. It might have leap-years, for example.
 
@@ -222,7 +223,7 @@ In fact, either of these two points in the Y-axis could be smaller / bigger than
 
 **The mathematical formula above poses no restrictions on that front**.
 
-However, in the above graph, we’ve no way of visualizing or placing $$r$$, the rate of growth (CAGR).
+However, in the above graph, we’ve no way of visualizing or placing *r*, the rate of growth (CAGR).
 
 It’s a power-law formula.
 
@@ -252,7 +253,7 @@ $$
 t \log{(1 + \frac{r}{100})} = [\log {V_{final}} - \log {V_{initial}}]
 $$
 
-This is effectively the straight line equation, similar to $$y = mx + c$$. In this scenario, $$t$$is effectively the X-axis, while Y-axis is $$\log{V}$$.
+This is effectively the straight line equation, similar to y = mx + c. In this scenario, *t* is effectively the X-axis, while Y-axis is $$\log{V}$$.
 
 We can now update our diagram's Y-axis.
 
@@ -261,11 +262,11 @@ We can now update our diagram's Y-axis.
 
 We have plotted $$\log$$ of values (Y-axis) versus time (X-axis). Then we've joined the start point and end point with a dotted straight-line.
 
-The _slope_ of a straight line joining those two points $$A$$ and $$B$$, is $$\log{(1 + \frac{r}{100})}$$, and can be used to compute $$r$$.
+The _slope_ of a straight line joining those two points *A* and *B*, is $$\log{(1 + \frac{r}{100})}$$, and can be used to compute *r*.
 
-CAGR directly relates to slope or tilt of a straight line joining two points, in a semi-log plot of asset prices. If slope is known, $$r$$can be computed; and vice-versa.
+CAGR directly relates to slope or tilt of a straight line joining two points, in a semi-log plot of asset prices. If slope is known, *r* can be computed; and vice-versa.
 
-Also, higher and lower slope of the joining straight line correspond to higher and lower values of $$r$$, respectively.
+Also, higher and lower slope of the joining straight line correspond to higher and lower values of *r*, respectively.
 
 We shall now plot these price points in a graph where price values are logarithmic, and try to validate that our visual idea about CAGR holds true.
 
@@ -307,30 +308,30 @@ We can use our visualization of CAGR as slope of semi-log plot, to understand ma
 
 ![Various possible tilted lines for different CAGR - Light Mode](/images/limits-of-cagr.light%20%281%29.png)
 
-In the above image(s), the final value can be any one of $$B1$$, $$B2$$, $$...$$, $$B6$$. There are more possibilities - in fact, there are infinite possibilities between that semi-circle.
+In the above image(s), the final value can be any one of B1, B2, ..., B6. There are more possibilities - in fact, there are infinite possibilities between that semi-circle.
 
-Can it go backwards? No. As in, the $$B$$point cannot have a lower X-axis value than $$A$$, since X-axis is time, and we cannot go back in time for final value of the asset.
+Can it go backwards? No. As in, the *B* point cannot have a lower X-axis value than *A*, since X-axis is time, and we cannot go back in time for final value of the asset.
 
-**Best case scenario** is depicted by the line starting at $$A$$and ending at $$B1$$. This line has a slope or tilt of $$\infty$$(positive infinity).
+**Best case scenario** is depicted by the line starting at *A* and ending at B1. This line has a slope or tilt of $$\infty$$(positive infinity).
 
-Plugging this in our formula, we get $$\log{(1 + \frac{r}{100})} = \infty$$. Which resolves to $$r$$ being an infinitely large positive value.
+Plugging this in our formula, we get $$\log{(1 + \frac{r}{100})} = \infty$$. Which resolves to *r* being an infinitely large positive value.
 
-**Worst case scenario** is depicted by the line starting at $$A$$ and ending at $$B6$$. This line has a slope or tilt of $$-\infty$$(negative infinity). Similarly, plugging this in the equation, we get $$r$$ to be a very large negative value, approaching negative infinity.
+**Worst case scenario** is depicted by the line starting at *A* and ending at B6. This line has a slope or tilt of $$-\infty$$(negative infinity). Similarly, plugging this in the equation, we get *r* to be a very large negative value, approaching negative infinity.
 
 Theoretical limits of CAGR can be any value between $$-\infty$$and $$\infty$$. Most of us wrongly assume, that annual compounded growth rate cannot be higher than 100% p.a. or -100% p.a. As we just saw, it can be any real number.
 
-What if the slope of the line is zero? A straight line in the semi-log plot, that's parallel to X-axis or the axis of time. In this case, $$r$$ would also be zero. In other words, if there's no net growth over a certain period of time (starting and final value in Y-axis is same), then CAGR of that asset price is zero over that period of time.
+What if the slope of the line is zero? A straight line in the semi-log plot, that's parallel to X-axis or the axis of time. In this case, *r* would also be zero. In other words, if there's no net growth over a certain period of time (starting and final value in Y-axis is same), then CAGR of that asset price is zero over that period of time.
 
 We can build on this.
 
-A 100% p.a. return denotes price doubling every year. What would slope of this line even look like for a 100% p.a. CAGR? Plugging $$r = 100$$ in our above formula, we get slope to be $$\log{2}$$.
+A 100% p.a. return denotes price doubling every year. What would slope of this line even look like for a 100% p.a. CAGR? Plugging r = 100 in our above formula, we get slope to be $$\log{2}$$.
 
-If the logarithm base is 10, then the angle of slope is effectively $$\tan^{-1}({\log_{10} 2})$$, or $$16^{\circ}$$. If the base of logarithm is $$e$$, then angle of slope is $$\tan^{-1}(\ln{2})$$, or $$34^{\circ}$$.
+If the logarithm base is 10, then the angle of slope is effectively $$\tan^{-1}({\log_{10} 2})$$, or $$16^{\circ}$$. If the base of logarithm is *e*, then angle of slope is $$\tan^{-1}(\ln{2})$$, or $$34^{\circ}$$.
 
 
 ![CAGR Realistic Expectation Zone - Light Mode](/images/cagr-semilog-realistic-expectation.light%20%281%29.png)
 
-In a semi-log plot where prices are logarithm of base-10, the realistic expectation would look like this. Most start and end points would be between the angular area $$A$$ to $$B$$or $$A$$ to $$B'$$, while other areas outside of this region would remain largely unreachable for most common assets.
+In a semi-log plot where prices are logarithm of base-10, the realistic expectation would look like this. Most start and end points would be between the angular area *A* to *B* or *A* to B', while other areas outside of this region would remain largely unreachable for most common assets.
 
 ## Recap and Wrapping Up
 

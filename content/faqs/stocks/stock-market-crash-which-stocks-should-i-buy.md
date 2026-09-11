@@ -24,7 +24,7 @@ A market correction should **never** be the only reason for buying stocks, unles
 
 It might sound surprising but the price of a stock is one of the least important things about a stock. At any point in time, the price of a stock may, or may not, reflect the underlying business fundamentals of the company in question.
 
-Let’s assume that you didn’t do any due diligence on the stocks you bought during an ongoing market correction after asking for stock recommendations. What would you do if the price of a stock you bought falls by more than $$50\%$$? Would you sell it or hold it? What would be your reason for taking either of those actions?
+Let’s assume that you didn’t do any due diligence on the stocks you bought during an ongoing market correction after asking for stock recommendations. What would you do if the price of a stock you bought falls by more than 50%? Would you sell it or hold it? What would be your reason for taking either of those actions?
 
 Even if we assume that the stock recommendation comes from a person or an entity which apparently knows what they’re doing, you shouldn’t be willing to bet your hard earned money on borrowed conviction. They might find a better opportunity and sell the stock suggested earlier to buy another stock. Would they keep you updated every step of the way? They can also simply be wrong.
 

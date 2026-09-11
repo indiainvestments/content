@@ -2,6 +2,7 @@
 title: "Profitability"
 description: "Profitability Ratios, also known as Performance Ratios, help investors evaluate the ability of a business to generate profit considering its sales, assets, and shareholder's equity."
 weight: 47
+math: true
 rotClass: slow-drift
 lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
@@ -42,11 +43,11 @@ In this case, we'll consider COGS as
 COGS = Cost of Materials Consumed + Purchase of Stock-in-Trade + Changes in Inventories of Finished Goods, Work-in-Progress, and Stock-in-Trade
 ```
 
-This gives us $$₹35,547+₹710+₹14.5=₹36,271.5$$ crores.
+This gives us ₹35,547+₹710+₹14.5=₹36,271.5 crores.
 
 ![A section of the Profit & Loss Statement of TCS for the financial year 2020](/images/tcs-pnl%20%281%29.png)
 
-Since TCS is a services company, it doesn't deal with or manufacture any raw materials or tangible goods. TCS' tangible material is its software licenses and employees who provide services worldwide. In this case, the COGS would be $$₹85,952+₹1,905=₹87,857$$ crores.
+Since TCS is a services company, it doesn't deal with or manufacture any raw materials or tangible goods. TCS' tangible material is its software licenses and employees who provide services worldwide. In this case, the COGS would be ₹85,952+₹1,905=₹87,857 crores.
 
 Now that we know how to calculate COGS, we can calculate the gross profit.
 
@@ -54,7 +55,7 @@ Now that we know how to calculate COGS, we can calculate the gross profit.
 Gross Profit = Revenue from Operations - COGS
 ```
 
-Motherson Sumi's gross profit for the financial year 2020 was $$₹63,536.8-₹36,271.5=₹27,265.3$$ crores. Similarly, TCS' gross profit for the year 2020 was $$₹1,56,949-₹87,857=₹69,092$$ crores.
+Motherson Sumi's gross profit for the financial year 2020 was ₹63,536.8-₹36,271.5=₹27,265.3 crores. Similarly, TCS' gross profit for the year 2020 was ₹1,56,949-₹87,857=₹69,092 crores.
 
 The **Gross Profit Margin** of Motherson Sumi and TCS for the year 2020 are as follows
 
@@ -72,7 +73,7 @@ $$\displaystyle \frac{₹69,092}{₹1,56,949}=44\%$$
 
 ![The Profit & Loss statement of Abbott India for the financial year 2020](/images/abbott-pnl%20%281%29.png)
 
-The revenue from operations for the year ended March 2020 was $$₹4,093.14$$ crores. We won't consider other income here because it isn't generated from operations. The total expenses excluding taxes are $$₹3,404.83$$ crores. If we exclude finance costs (interest) of $$₹8.53$$ crores from the total expenses, it gives us operational expenses of $$₹3,396.3$$ crores. Thus, the EBIT in this case turns out to be $$₹4,093.14-₹3,396.3=₹696.84$$ crores.
+The revenue from operations for the year ended March 2020 was ₹4,093.14 crores. We won't consider other income here because it isn't generated from operations. The total expenses excluding taxes are ₹3,404.83 crores. If we exclude finance costs (interest) of ₹8.53 crores from the total expenses, it gives us operational expenses of ₹3,396.3 crores. Thus, the EBIT in this case turns out to be ₹4,093.14-₹3,396.3=₹696.84 crores.
 
 You can use the following formula to calculate EBIT.
 
@@ -86,13 +87,13 @@ To calculate the EBITDA, we can simply exclude the depreciation and amortization
 EBITDA = EBIT + Depreciation and Amortization Expense
 ```
 
-In this case, the EBITDA is $$₹696.84+₹59.60=₹756.44$$ crores.
+In this case, the EBITDA is ₹696.84+₹59.60=₹756.44 crores.
 
 Why is the EBIT and EBITDA of a company relevant?
 
 EBIT and EBITDA present us with an ideal view of the companies' core operational performance by excluding non-operational expenses like interests and taxes. While the net profit might be skewed by variables like taxes, EBIT and EBITDA will present the true picture of how much the company actually earned from its operations.
 
-EBIT and EBITDA are influenced by the ability of the company to earn revenue and the operational expenses it incurs. The **EBIT margin** (EBIT in terms of % of revenue) or the **Operating Profit Margin** of Abbott India for the financial year 2020 was $$17.02\%$$ while that of Pfizer India for the same period was $$21.81\%$$. Using these numbers, we can infer that Pfizer India was operationally more profitable than Abbott India during the financial year 2020. Again, keep in mind that this is just one of many data points.
+EBIT and EBITDA are influenced by the ability of the company to earn revenue and the operational expenses it incurs. The **EBIT margin** (EBIT in terms of % of revenue) or the **Operating Profit Margin** of Abbott India for the financial year 2020 was 17.02% while that of Pfizer India for the same period was 21.81%. Using these numbers, we can infer that Pfizer India was operationally more profitable than Abbott India during the financial year 2020. Again, keep in mind that this is just one of many data points.
 
 Like most financial ratios and metrics, EBIT and EBITDA are best used for comparison of companies in the same sector. Comparing the EBIT margin of a MNC pharmaceutical company with that of a capital intensive auto ancillary company doesn't make sense.
 
@@ -106,7 +107,7 @@ Here's what Charlie Munger has to say about EBITDA.
 
 ### Profit Before Tax (PBT) and Profit After Tax (PAT)
 
-As the name implies, **Profit Before Tax (PBT)** is the amount of profit a company earns before subtracting the taxes it has to pay. Although PBT doesn't get the same amount of focus as gross profit, operating profit, and net profit do, it can still be useful in its own right. Corporate taxation laws can change and this can end up skewing the net profit that a company earns in a financial year. For example, [India slashed its corporate tax rates](https://economictimes.indiatimes.com/news/economy/sitharamans-tax-cut-move-why-it-matters-so-much-for-india-inc-economy-and-modi-govt/articleshow/71228078.cms) ([archive.org link](https://web.archive.org/web/20200730053904/https://economictimes.indiatimes.com/news/economy/sitharamans-tax-cut-move-why-it-matters-so-much-for-india-inc-economy-and-modi-govt/articleshow/71228078.cms) | [archive.is link](https://archive.is/ezWq1)) for domestic companies from $$30\%$$ to $$22\%$$ in September 2019. Some companies in certain sectors might also enjoy tax incentives from the government for a specific period of time. In such cases, focusing on PBT might be a good idea.
+As the name implies, **Profit Before Tax (PBT)** is the amount of profit a company earns before subtracting the taxes it has to pay. Although PBT doesn't get the same amount of focus as gross profit, operating profit, and net profit do, it can still be useful in its own right. Corporate taxation laws can change and this can end up skewing the net profit that a company earns in a financial year. For example, [India slashed its corporate tax rates](https://economictimes.indiatimes.com/news/economy/sitharamans-tax-cut-move-why-it-matters-so-much-for-india-inc-economy-and-modi-govt/articleshow/71228078.cms) ([archive.org link](https://web.archive.org/web/20200730053904/https://economictimes.indiatimes.com/news/economy/sitharamans-tax-cut-move-why-it-matters-so-much-for-india-inc-economy-and-modi-govt/articleshow/71228078.cms) | [archive.is link](https://archive.is/ezWq1)) for domestic companies from 30% to 22% in September 2019. Some companies in certain sectors might also enjoy tax incentives from the government for a specific period of time. In such cases, focusing on PBT might be a good idea.
 
 You should be able to find PBT in the profit and loss statement in an annual report.
 
@@ -150,7 +151,7 @@ One might ask — why consider the average of shareholders equity and not the to
 
 ![Note 17 of the financial statements of Avenue Supermarts for the financial year 2020](/images/dmart-note-17%20%281%29.png)
 
-Avenue Supermarts issued additional shares in the financial year 2020 to comply with SEBI regulations of bringing down the promoter holding below $$75\%$$ within 3 years of IPO. This is a one-off event which won't happen regularly. To avoid presenting skewed ROE numbers, we'll consider the _average_ shareholders equity rather than the total shareholders equity. This gives us $$\frac{₹11,080.20+₹5,588.01}{2}=₹8,334.10$$ crores. The PAT for the year 2020 was $$₹1,300.98$$. This gives us an ROE of $$\frac{₹1,300.98}{₹8,334.10}=15.61\%$$.
+Avenue Supermarts issued additional shares in the financial year 2020 to comply with SEBI regulations of bringing down the promoter holding below 75% within 3 years of IPO. This is a one-off event which won't happen regularly. To avoid presenting skewed ROE numbers, we'll consider the _average_ shareholders equity rather than the total shareholders equity. This gives us $$\frac{₹11,080.20+₹5,588.01}{2}=₹8,334.10$$ crores. The PAT for the year 2020 was ₹1,300.98. This gives us an ROE of $$\frac{₹1,300.98}{₹8,334.10}=15.61\%$$.
 
 Of course, if the difference between shareholders equity in successive financial years isn't driven by one-off events like buybacks or additional issue of share capital, considering the _average_ shareholders equity may not be needed.
 
@@ -162,11 +163,11 @@ Return on Assets = Profit after Taxes / Total Assets
 
 Just like ROE, we can use _average total assets_ instead of just _total assets_ when needed to calculate ROA.
 
-The ROE of Avenue Supermarts for the year 2020 is $$15.6\%$$ and the ROA is
+The ROE of Avenue Supermarts for the year 2020 is 15.6% and the ROA is
 
 $$\displaystyle \frac{₹1,300.98}{\displaystyle \frac{₹12,076.45+₹7,005.72}{2}}=13.6\%$$
 
-Even though ROE is a popular metric, it's important to understand its quirks and limitations. Bombay Dyeing & Manufacturing Company Ltd, one of India's largest producers of textiles, had a ROE of $$-124\%$$ in the year 2017,$$7.2\%$$ in 2018, $$299\%$$ in 2019, and $$269\%$$ in 2020. As you might have suspected, these ROE figures are misleading (but not incorrect). We'll attempt to showcase the limitations of ROE as a financial ratio and why it should be used with caution in cases where the net profit is negative or when the company is in significant debt.
+Even though ROE is a popular metric, it's important to understand its quirks and limitations. Bombay Dyeing & Manufacturing Company Ltd, one of India's largest producers of textiles, had a ROE of -124% in the year 2017,7.2% in 2018, 299% in 2019, and 269% in 2020. As you might have suspected, these ROE figures are misleading (but not incorrect). We'll attempt to showcase the limitations of ROE as a financial ratio and why it should be used with caution in cases where the net profit is negative or when the company is in significant debt.
 
 Besides the definition that we shared above, ROE and ROA can be expressed using the **DuPont Identity**, also known as the DuPont Method, which breaks down ROE and ROA into several ratios and presents us with a detailed and an alternative view.
 
@@ -192,13 +193,13 @@ Efficiency Ratio = $$\displaystyle \frac{₹4,469.98}{\displaystyle \frac{₹5,1
 
 Leverage Ratio = $$\displaystyle \frac{\displaystyle \frac{₹5,180.65+₹4,146.81}{2}}{\displaystyle \frac{₹182.47+₹636.88}{2}}=11.38$$
 
-Return on Equity = $$0.27\times 0.95\times 11.38=291\%$$
+Return on Equity = 0.27× 0.95× 11.38=291%
 
-The difference of $$8\%$$ may be ignored because ratios were rounded to 2 decimal places.
+The difference of 8% may be ignored because ratios were rounded to 2 decimal places.
 
 Although the profitability ratio and efficiency ratio (also known as **asset turnover ratio**) are decent, what ends up inflating ROE is the leverage ratio (also known as **equity multiplier**) which indicates that Bombay Dyeing's assets are mostly funded through debt rather than equity which is a point of concern.
 
-Let's assume a hypothetical company called A Ltd. Its accounting equation looks like $$10=8+2$$ where assets are 10, equity is 8, and liabilities are 2. Its leverage ratio is $$\frac{10}{8}=1.25$$. A Ltd decides to take on $$20$$ units of loan to finance its operations. The equation now looks like $$30=8+22$$. The financial leverage now becomes $$\frac{30}{8}=3.75$$. This would end up inflating the ROE of A Ltd but that doesn't necessarily mean that its a good thing. Taking on a lot of debt may or may not pay off. If, however, the profitability ratio and efficiency ratio increase in the subsequent financial years, taking on debt could be considered a worthwhile decision.
+Let's assume a hypothetical company called A Ltd. Its accounting equation looks like 10=8+2 where assets are 10, equity is 8, and liabilities are 2. Its leverage ratio is $$\frac{10}{8}=1.25$$. A Ltd decides to take on 20 units of loan to finance its operations. The equation now looks like 30=8+22. The financial leverage now becomes $$\frac{30}{8}=3.75$$. This would end up inflating the ROE of A Ltd but that doesn't necessarily mean that its a good thing. Taking on a lot of debt may or may not pay off. If, however, the profitability ratio and efficiency ratio increase in the subsequent financial years, taking on debt could be considered a worthwhile decision.
 
 The DuPont formula for ROE ends up revealing ROA as well when we multiply the Profitability Ratio with the Efficiency Ratio. This means that ROA is a function of a firm's profitability and its asset turnover capability.
 
@@ -210,19 +211,19 @@ Besides the highlighted limitations in this section, the usual caveats apply. RO
 
 After reading that definition, one might think, how do we calculate the "amount of money invested in a company for the long term"?
 
-Let's say you decide to buy a house worth $$₹50$$ lakh. In addition to this cost, you need another $$₹5$$ lakh rupees for repair and renovation which means you need $$₹55$$ lakh. However, you only have $$₹20$$ lakh for down payment. You decide to borrow $$₹30$$ lakh from your nearby bank as a long term loan and $$₹5$$ lakh from an elder sibling for completing repair and renovations. The acquisition, repair, and renovation process takes about 6 months and you're able to pay back the $$₹5$$ lakh loan you took from your sibling within an year.
+Let's say you decide to buy a house worth ₹50 lakh. In addition to this cost, you need another ₹5 lakh rupees for repair and renovation which means you need ₹55 lakh. However, you only have ₹20 lakh for down payment. You decide to borrow ₹30 lakh from your nearby bank as a long term loan and ₹5 lakh from an elder sibling for completing repair and renovations. The acquisition, repair, and renovation process takes about 6 months and you're able to pay back the ₹5 lakh loan you took from your sibling within an year.
 
 If we use the accounting equation in this case, we can say that
 
-Assets = $$₹55$$ lakh (the house)
+Assets = ₹55 lakh (the house)
 
-Shareholders Equity = $$₹20$$ lakh (the downpayment you made)
+Shareholders Equity = ₹20 lakh (the downpayment you made)
 
-Non-current Liabilities = $$₹30$$ lakh (the long term bank loan)
+Non-current Liabilities = ₹30 lakh (the long term bank loan)
 
-Current Liabilities = $$₹5$$ lakh (the money borrowed from your sibling)
+Current Liabilities = ₹5 lakh (the money borrowed from your sibling)
 
-The long term investment in this company (the house) seems to be $$₹50$$ lakh — the sum of shareholders equity (your contribution) and non-current liabilities (the bank loan). This is what we call **Capital Employed**. It's the amount of money _employed_ by a business to fund its assets and, ultimately, generate profits.
+The long term investment in this company (the house) seems to be ₹50 lakh — the sum of shareholders equity (your contribution) and non-current liabilities (the bank loan). This is what we call **Capital Employed**. It's the amount of money _employed_ by a business to fund its assets and, ultimately, generate profits.
 
 We can define ROCE using the following formula
 
@@ -240,7 +241,7 @@ One might find Capital Employed defined as `Total Assets - Current Liabilities` 
 
 The ROCE of Bombay Dyeing for the year 2019 is
 
-EBIT = $$₹4,429.76-(₹3,238.08-₹489.7)=₹1,681.38$$ crores
+EBIT = ₹4,429.76-(₹3,238.08-₹489.7)=₹1,681.38 crores
 
 Average Shareholders Equity = $$\displaystyle \frac{₹182.47+₹636.88}{2}=₹409.675$$ crores
 
@@ -248,13 +249,13 @@ Average Non-current Liabilities = $$\displaystyle \frac{₹3,399.12+₹2,343.83}
 
 ROCE = $$\displaystyle \frac{₹1,681.38}{₹409.675+₹2,871.475}=51.2\%$$
 
-and $$8.42\%$$ for the year 2020 as opposed to its ROE of $$299\%$$ and $$269\%$$ for the years 2019 and 2020 respectively.
+and 8.42% for the year 2020 as opposed to its ROE of 299% and 269% for the years 2019 and 2020 respectively.
 
-Abbott India's ROCE for the year 2020 is $$29.4\%$$ as opposed to its ROE which is $$26.7\%$$. Avenue Supermarts' ROCE for the year 2020 is $$20.4\%$$ and its ROE is $$15.6\%$$.
+Abbott India's ROCE for the year 2020 is 29.4% as opposed to its ROE which is 26.7%. Avenue Supermarts' ROCE for the year 2020 is 20.4% and its ROE is 15.6%.
 
 It should be apparent that ROCE is a "better" profitability ratio to use compared to ROE, especially in capital intensive sectors like telecom and auto where assets being funded by significant debt isn't unusual.
 
-However, ROCE isn't free from limitations. Even though retained earnings is being counted as part of capital employed, it may not be employed for any financial activities. A company with high amounts of cash reserves would be negatively affected when calculating ROCE. This should be apparent in the case of Abbott India. If we exclude the retained earnings, we'll get a ROCE of $$113\%$$ for the year 2020.
+However, ROCE isn't free from limitations. Even though retained earnings is being counted as part of capital employed, it may not be employed for any financial activities. A company with high amounts of cash reserves would be negatively affected when calculating ROCE. This should be apparent in the case of Abbott India. If we exclude the retained earnings, we'll get a ROCE of 113% for the year 2020.
 
 ![Note 16 of the financial statements of Abbott India for the financial year 2020](/images/abbott-note-16%20%281%29.png)
 
@@ -299,29 +300,29 @@ ROIC = NOPAT / Capital Invested
 
 There's another caveat we should keep in mind when calculating ROIC. The NOPAT generated at the end of a financial year won't be because of capital invested at the end of the same financial year. To account for this timing difference, the amount of capital invested used in calculating ROIC will be as it was at the end of the preceding financial year.
 
-Let's start with Abbott India. The EBIT for the year 2020 was $$₹696.8$$ crores. The tax rate can be considered as $$25.17\%$$ as mentioned in Note 18 of the financial statements. This gives us a NOPAT of
+Let's start with Abbott India. The EBIT for the year 2020 was ₹696.8 crores. The tax rate can be considered as 25.17% as mentioned in Note 18 of the financial statements. This gives us a NOPAT of
 
-NOPAT = $$₹696.8\times (1-25.17\%)=₹521.4$$ crores
+NOPAT = ₹696.8× (1-25.17%)=₹521.4 crores
 
 ![Note 18 of the financial statements of Abbott India for the financial year 2020](/images/abbott-note-18%20%281%29.png)
 
 The capital invested of Abbott India for the year 2019 is
 
-Cash and Cash Equivalents (Note 10) = $$₹137$$ crores
+Cash and Cash Equivalents (Note 10) = ₹137 crores
 
-Term Deposits (Note 11) = $$₹1,542.07$$ crores
+Term Deposits (Note 11) = ₹1,542.07 crores
 
-Interest on Bank Deposits (Note 13) = $$₹27.13$$ crores
+Interest on Bank Deposits (Note 13) = ₹27.13 crores
 
-Non-operational Assets = $$₹137+₹1,542.07+₹27.13=₹1,706.2$$ crores
+Non-operational Assets = ₹137+₹1,542.07+₹27.13=₹1,706.2 crores
 
-Capital Invested = $$₹2,940.91-₹856.89-₹1,706.2=₹377.82$$ crores
+Capital Invested = ₹2,940.91-₹856.89-₹1,706.2=₹377.82 crores
 
 ![Notes 10, 11, and 13 for the financial statements of Abbott India for the financial year 2020](/images/abbott-note-10-11-13%20%281%29.png)
 
 This gives us a ROIC of $$\frac{₹521.4}{₹377.8}=138\%$$. The ROIC of Pfizer India for the year 2020 is $$\frac{₹351.1}{₹603.8}=58.1\%$$.
 
-Motherson Sumi, an auto ancillary company which is significantly more capital intensive, has a ROIC of $$9.82\%$$ for the year 2020. Of course, this doesn't mean we can compare Motherson's ROIC with Abbott's. An appropriate comparison would be with a company like Minda Corporation which is also a capital intensive auto ancillary company. It's ROIC for the year 2020 was $$\frac{₹98.7}{₹761.7}=12.9\%$$. One may notice that although Minda Corporation had a negative PAT for the year 2020, its operational profit was positive. The reason for the negative PAT seems to an exceptional event which is not considered when calculating ROIC.
+Motherson Sumi, an auto ancillary company which is significantly more capital intensive, has a ROIC of 9.82% for the year 2020. Of course, this doesn't mean we can compare Motherson's ROIC with Abbott's. An appropriate comparison would be with a company like Minda Corporation which is also a capital intensive auto ancillary company. It's ROIC for the year 2020 was $$\frac{₹98.7}{₹761.7}=12.9\%$$. One may notice that although Minda Corporation had a negative PAT for the year 2020, its operational profit was positive. The reason for the negative PAT seems to an exceptional event which is not considered when calculating ROIC.
 
 ![The Profit & Loss statement of Minda Corporation for the financial year 2020](/images/minda-pnl%20%281%29.png)
 

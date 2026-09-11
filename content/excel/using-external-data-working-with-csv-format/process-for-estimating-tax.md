@@ -269,11 +269,11 @@ An example to illustrate this idea:
 
 Say, an investor is buying 10 units every month, from 2018 January, to 2020 December. That's a total 36 month period.
 
-At the end of December 2020, $$24 \times 10 = 240$$ units purchased between January 2018 and December 2019, are eligible for LTCG.
+At the end of December 2020, 24 × 10 = 240 units purchased between January 2018 and December 2019, are eligible for LTCG.
 
 Now assume that in 2020, at some point, this investor has also sold 54 units.
 
-Then, at that point, they’ve $$240 - 54 = 186$$ units available for LTCG-eligible redemption.
+Then, at that point, they’ve 240 - 54 = 186 units available for LTCG-eligible redemption.
 
 What were the purchase price(s) for these 186 units?
 
@@ -319,7 +319,7 @@ These 186 LTCG-eligible units were acquired as follows:
 | October 2019      | 10                         |
 | November 2019     | 10                         |
 | December 2019     | 10                         |
-| **Total**         | $$18 \times 10 + 6 = 186$$ |
+| **Total**         | 18 × 10 + 6 = 186 |
 
 When computing purchase price for these 186 units, we need to use purchase price from these months in the table; and not purchase price from January 2018.
 
