@@ -1,0 +1,60 @@
+baseURL = 'https://www.indiainvestments.wiki/'
+title = 'r/IndiaInvestments Wiki'
+locale = 'en-in'
+enableGitInfo = true
+enableRobotsTXT = true
+
+# GitBook served /faqs/mfs/direct-vs-regular ; Hugo serves /faqs/mfs/direct-vs-regular/
+# GitHub Pages redirects the former to the latter, so every old URL resolves.
+disablePathToLower = true
+
+# Images stay where GitBook put them (.gitbook/assets, already in git history)
+# and are served at /images/ — no 87 MB duplicate committed to the repo.
+[[module.mounts]]
+  source = "content"
+  target = "content"
+[[module.mounts]]
+  source = "static"
+  target = "static"
+[[module.mounts]]
+  source = ".gitbook/assets"
+  target = "static/images"
+[[module.mounts]]
+  source = "assets"
+  target = "assets"
+[[module.mounts]]
+  source = "layouts"
+  target = "layouts"
+
+[outputs]
+  home = ['html', 'rss', 'json']
+
+[pagination]
+  pagerSize = 100
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+  [markup.highlight]
+    style = 'github'
+    noClasses = false
+
+[params]
+  description = 'A community-maintained wiki on investing, insurance, tax and personal finance in India, from r/IndiaInvestments.'
+  repo = 'https://github.com/indiainvestments/content'
+  editPath = 'edit/main/content'
+  reddit = 'https://www.reddit.com/r/IndiaInvestments/'
+
+
+
+# Syntax highlighting uses CSS classes so it can follow the gruvbox theme.

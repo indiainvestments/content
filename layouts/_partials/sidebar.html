@@ -1,0 +1,34 @@
+{{/* Collapsible sidebar built from the content tree.
+     Sections default to collapsed unless they contain the current page. */}}
+<nav class="nav" aria-label="Wiki sections">
+  <a class="nav-home {{ if .IsHome }}active{{ end }}" href="{{ "/" | relURL }}">Introduction</a>
+  {{ template "branch" (dict "section" .Site.Home "current" .) }}
+</nav>
+
+{{ define "branch" }}
+  {{ $current := .current }}
+  <ul>
+    {{ range .section.Pages }}
+      {{ if .Params.navHide }}{{ continue }}{{ end }}
+      {{ $open := or (eq $current .) (.IsAncestor $current) }}
+      {{ if .IsSection }}
+        <li class="has-children {{ if $open }}open{{ end }}">
+          <div class="row">
+            <a href="{{ .RelPermalink }}" class="{{ if eq $current . }}active{{ end }}">{{ .Title }}</a>
+            <button class="disclose" aria-expanded="{{ if $open }}true{{ else }}false{{ end }}"
+                    aria-label="Toggle {{ .Title }}">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg>
+            </button>
+          </div>
+          {{ template "branch" (dict "section" . "current" $current) }}
+        </li>
+      {{ else }}
+        <li>
+          <div class="row">
+            <a href="{{ .RelPermalink }}" class="{{ if eq $current . }}active{{ end }}">{{ .Title }}</a>
+          </div>
+        </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+{{ end }}
