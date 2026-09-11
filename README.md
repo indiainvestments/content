@@ -1,110 +1,55 @@
----
-description: >-
-  IndiaInvestments is a community to discuss investments, insurance, finance,
-  economy, and markets in India. This website is a collection of advice and
-  information we have organized as a community.
----
+# r/IndiaInvestments Wiki
 
-# Introduction
+The source for **[www.indiainvestments.wiki](https://www.indiainvestments.wiki)** — a
+community-written reference on investing, insurance, tax and personal finance in India,
+grown out of posts on [r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/).
 
-India Investments is a community to discuss investments, insurance, finance, economy, and markets in India. This website is a collection of advice and information we have organized as a community.
+This repository *is* the site. Pages are plain Markdown in `content/`; every push to
+`main` rebuilds and republishes automatically via GitHub Actions. There is no CMS and
+no separate publishing step.
 
-If you want to discuss anything on this website with other people, please check out our sub-reddit and discord below.
+## Found something wrong?
 
-[![](https://img.shields.io/reddit/subreddit-subscribers/indiainvestments?style=social)](https://reddit.com/r/indiainvestments) [![](https://img.shields.io/discord/546638391127572500)](https://discord.gg/hqBNg4u)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-31-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+Every page on the site carries a **Fix this page** link that opens the right file in
+GitHub's editor. Edit, commit, done — the correction is live in a couple of minutes.
 
-## Beginner
+For anything larger, or if you would rather just report it,
+[open an issue](https://github.com/indiainvestments/content/issues/new).
 
-If you're just starting out, have never had to think about finances, investments etc., you can start from the link below.
+## Editing and running it
 
-{% content-ref url="start-here/zero-to-investing/getting-started.md" %}
-[getting-started.md](start-here/zero-to-investing/getting-started.md)
-{% endcontent-ref %}
+See **[CONTRIBUTING-hugo.md](CONTRIBUTING-hugo.md)** — front matter reference, writing
+conventions, and how the review-date system works.
 
-## FAQs and How To
+```
+content/          the pages — the tree mirrors the site's URLs exactly
+.gitbook/assets/  images, served at /images/<filename>
+layouts/          every template (no theme)
+assets/           one plain-CSS stylesheet, one vanilla-JS file
+scripts/          the CI checks
+```
 
-You might be here because you've a specific query that just can't wait. Do browse through our common queries sections below, to see if your query already has been answered by us.
+Running it locally is optional: `hugo server -D` with Hugo v0.158 or newer. No
+`extended` build, no submodules, no npm, no Sass.
 
-{% content-ref url="faqs/index.md" %}
-[index.md](faqs/index.md)
-{% endcontent-ref %}
+## A note on freshness
 
-{% content-ref url="how-to/index.md" %}
-[index.md](how-to/index.md)
-{% endcontent-ref %}
+Indian tax law and regulation change every year, and this wiki was largely written in
+2021. Every page shows when a human last *verified* it, and warns you when that was too
+long ago. Treat any specific rate, limit or threshold as unverified until the banner
+says otherwise, and check a primary source before acting on it.
 
-## Series
-
-{% hint style="info" %}
-Our wiki is a work-in-progress, constantly being edited, reviewed, and updated. We've done our best to review these, but if you notice spelling errors, or other discrepancies, kindly reach out to us so we can fix these.
-{% endhint %}
-
-Here are some of the topics we presently cover in our wiki, in the form of their own dedicated series:
-
-{% content-ref url="stocks/index.md" %}
-[index.md](stocks/index.md)
-{% endcontent-ref %}
-
-{% content-ref url="excel/index.md" %}
-[index.md](excel/index.md)
-{% endcontent-ref %}
-
-{% content-ref url="bonds/index.md" %}
-[index.md](bonds/index.md)
-{% endcontent-ref %}
-
-We also have some miscellaneous entries which might be helpful.
-
-{% content-ref url="faqs/misc/" %}
-[misc](faqs/misc/)
-{% endcontent-ref %}
+Pages are classified by how fast they decay — `fast-rot` (rates, limits, platforms),
+`slow-drift` (product structures), `evergreen` (principles and maths) — which sets how
+often each needs re-checking. The annual pass happens in April, after the Finance Act
+is enacted.
 
 ## License
 
-All the content here is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
-
-You are free to:
-
-**Share** — copy and redistribute the material in any medium or format
-
-**Adapt** — remix, transform, and build upon the material
-
-The licensor cannot revoke these freedoms as long as you follow the license terms.
-
-Under the following terms:
-
-**Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-
-**NonCommercial** — You may not use the material for commercial purposes.
-
-**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-## Disclaimers and Disclosures
-
-Content on this website is meant only to be educational. It is not meant to be financial advice. If you need help with your finances, or if you have any query regarding what you read on this website; you should consult a registered financial advisor in your jurisdiction.
-
-If you're an Indian reading this, please consult a SEBI-registered, fee-only financial advisor.
-
-Contributors to this project cannot be held liable if you follow instructions presented here, and incur financial losses in the securities markets.
-
-For detailed list of comprehensive set of disclaimers & disclosures, refer to this page below
-
-{% content-ref url="disclaimers-and-disclosures.md" %}
-[disclaimers-and-disclosures.md](disclaimers-and-disclosures.md)
-{% endcontent-ref %}
-
-We encourage you to take the time, and read through the content in above link at least once.
-
-## Acknowledgements
-
-Special thanks to [Gitbook](https://www.gitbook.com/) for accommodating us in their premium tier, free-of-cost.
-
-It's been a fantastic journey working with the great folks over at Gitbook team. They've helped us out every step of the way whenever we've asked for it.
-
-Wishing them all the best in continued success of this amazing product.
+Content is licensed under
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). It is
+educational material, not financial advice — see
+[the full disclaimers](https://www.indiainvestments.wiki/disclaimers-and-disclosures/).
 
 ## Contributors ✨
 
@@ -161,4 +106,4 @@ Our heartiest gratitude, to these wonderful people ([emoji key](https://allcontr
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! [Start here](contributors/index.md)
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! [Start here](contributors/)
