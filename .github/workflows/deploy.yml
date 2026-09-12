@@ -40,6 +40,12 @@ jobs:
       - name: Verify legacy URLs still resolve
         run: python3 scripts/check_urls.py
 
+      - name: Verify internal links and images
+        run: python3 scripts/check_links.py
+
+      - name: Verify Previous/Next ordering
+        run: python3 scripts/check_pagenav.py
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./public

@@ -1,6 +1,13 @@
-{{ if or .PrevInSection .NextInSection }}
+{{/* Hugo's .NextInSection / .PrevInSection are named relative to the page
+     COLLECTION, not to reading order: .Next walks toward the START of the
+     collection. With weight-ascending docs that makes .Next the *earlier*
+     page. So they are deliberately swapped here.
+     Verified by scripts/check_pagenav.py — do not "fix" this back. */}}
+{{ $earlier := .NextInSection }}
+{{ $later   := .PrevInSection }}
+{{ if or $earlier $later }}
 <nav class="page-nav" aria-label="Nearby pages">
-  <div>{{ with .PrevInSection }}<a href="{{ .RelPermalink }}"><span>Previous</span>{{ .Title }}</a>{{ end }}</div>
-  <div class="right">{{ with .NextInSection }}<a href="{{ .RelPermalink }}"><span>Next</span>{{ .Title }}</a>{{ end }}</div>
+  <div>{{ with $earlier }}<a href="{{ .RelPermalink }}"><span>Previous</span>{{ .Title }}</a>{{ end }}</div>
+  <div class="right">{{ with $later }}<a href="{{ .RelPermalink }}"><span>Next</span>{{ .Title }}</a>{{ end }}</div>
 </nav>
 {{ end }}

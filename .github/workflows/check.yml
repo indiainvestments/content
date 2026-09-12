@@ -29,3 +29,6 @@ jobs:
 
       - name: Internal link and image check
         run: python3 scripts/check_links.py
+
+      - name: Previous/Next ordering check
+        run: python3 scripts/check_pagenav.py
