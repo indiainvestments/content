@@ -25,7 +25,7 @@
   --aqua:   #427b58;
   --orange: #af3a03;
 
-  --link:   #076678;
+  --link:   #1076a0;
   --accent: #af3a03;
 
   --sidebar-w: 17.5rem;
@@ -59,7 +59,7 @@
   --aqua:   #8ec07c;
   --orange: #fe8019;
 
-  --link:   #83a598;
+  --link:   #8fb8cf;
   --accent: #fe8019;
 
   color-scheme: dark;
@@ -110,6 +110,32 @@ body {
 
 a { color: var(--link); text-decoration-thickness: 1px; text-underline-offset: 2px; }
 a:hover { color: var(--accent); }
+
+/* Links pass contrast against the background but not against near-black body
+   text (2.2:1 where WCAG wants 3:1), and no colour in this palette satisfies
+   both — body text sits at 13:1, leaving no room. So prose links are
+   distinguished by a real underline rather than by hue alone. Sidebar, TOC and
+   footer links are excluded: position already marks them as links. */
+.page p a,
+.page li a,
+.page td a,
+.page th a,
+.page blockquote a,
+.page dd a {
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, var(--link) 55%, transparent);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  font-weight: 500;
+}
+.page p a:hover,
+.page li a:hover,
+.page td a:hover,
+.page th a:hover,
+.page blockquote a:hover,
+.page dd a:hover {
+  text-decoration-color: var(--accent);
+}
 
 svg {
   width: 1.1rem; height: 1.1rem;
@@ -278,9 +304,10 @@ main { min-width: 0; padding: 1.6rem 2.4rem 4rem; }
 .page h1, .page h2, .page h3, .page h4, .page h5, .page h6 {
   line-height: 1.25; font-weight: 650; color: var(--fg); scroll-margin-top: 4.5rem;
 }
-.page h1 { font-size: 1.9rem; margin: 0 0 1.1rem; letter-spacing: -.012em; }
-.page h2 { font-size: 1.32rem; margin: 2.4rem 0 .7rem; padding-bottom: .3rem; border-bottom: 1px solid var(--line-soft); }
-.page h3 { font-size: 1.09rem; margin: 1.9rem 0 .5rem; }
+.page h1 { font-size: 2rem; margin: 0 0 1.1rem; letter-spacing: -.015em; text-wrap: balance; }
+.page h2 { font-size: 1.5rem; font-weight: 680; margin: 2.6rem 0 .75rem; padding-bottom: .35rem;
+           border-bottom: 2px solid var(--line); letter-spacing: -.011em; }
+.page h3 { font-size: 1.14rem; font-weight: 680; margin: 1.9rem 0 .5rem; letter-spacing: -.006em; }
 .page h4 { font-size: .97rem; margin: 1.5rem 0 .4rem; color: var(--fg-soft); }
 
 .page p, .page ul, .page ol, .page table, .page pre, .page blockquote { margin: 0 0 1.05rem; }
@@ -329,13 +356,15 @@ main { min-width: 0; padding: 1.6rem 2.4rem 4rem; }
   color: var(--fg-mute);
 }
 .freshness a { white-space: nowrap; }
-.freshness.is-stale {
+.freshness.is-calm  { border-style: dashed; }
+.freshness.is-mid   { border-left: 3px solid var(--line); }
+.freshness.is-hot {
   color: var(--fg-soft);
   border-color: var(--orange);
   border-left: 3px solid var(--orange);
   background: color-mix(in srgb, var(--orange) 8%, transparent);
 }
-.freshness.is-stale strong { color: var(--orange); }
+.freshness.is-hot strong { color: var(--orange); }
 
 /* ----------------------------------------------------------------- alerts */
 

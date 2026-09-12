@@ -1,5 +1,10 @@
-{{/* Freshness banner. rotClass sets the cadence:
-     fast-rot 12 months, slow-drift 24, evergreen 36. */}}
+{{/* Freshness banner.
+
+     rotClass sets both the review cadence and — once a page is overdue — how
+     loudly the banner speaks. A single wording for every stale page made the
+     warning meaningless: "not reviewed since 2021" is alarming on an advance-tax
+     page and nearly irrelevant on one about behavioural biases. Keeping the
+     evergreen pages quiet is what makes the loud variant credible. */}}
 {{ if and .File .Params.lastReviewed }}
   {{ $reviewed := .Params.lastReviewed | time }}
   {{ $class := default "slow-drift" .Params.rotClass }}
@@ -7,15 +12,27 @@
   {{ if eq $class "fast-rot" }}{{ $months = 12 }}{{ end }}
   {{ if eq $class "evergreen" }}{{ $months = 36 }}{{ end }}
   {{ $stale := gt now ($reviewed.AddDate 0 $months 0) }}
-  <div class="freshness {{ if $stale }}is-stale{{ end }}">
+  {{ $when := $reviewed.Format "January 2006" }}
+
+  {{ $tone := "" }}
+  {{ if $stale }}
+    {{ $tone = cond (eq $class "fast-rot") "is-hot" (cond (eq $class "evergreen") "is-calm" "is-mid") }}
+  {{ end }}
+
+  <div class="freshness {{ $tone }}">
     <span>
-      {{ if $stale }}
-        <strong>Not reviewed since {{ $reviewed.Format "January 2006" }}.</strong>
-        Tax rates, limits and platform details change often in India — treat specifics
-        here as unverified and check a primary source before acting on them.
-      {{ else }}
-        Last reviewed {{ $reviewed.Format "January 2006" }}.
-      {{ end }}
+      {{- if not $stale -}}
+        Last reviewed {{ $when }}.
+      {{- else if eq $class "evergreen" -}}
+        Last reviewed {{ $when }}. The ideas on this page don't go out of date.
+      {{- else if eq $class "fast-rot" -}}
+        <strong>Not reviewed since {{ $when }}.</strong>
+        Rates, limits, thresholds and platform details in India change often — treat
+        the specifics here as unverified and check a primary source before acting.
+      {{- else -}}
+        Last reviewed {{ $when }}. Product structures and categories may have changed
+        since — worth a sanity check against a current source.
+      {{- end -}}
     </span>
     <a href="{{ .Site.Params.repo }}/{{ .Site.Params.editPath }}/{{ .File.Path }}">Fix this page</a>
   </div>
