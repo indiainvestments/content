@@ -7,6 +7,8 @@ Add an `aliases:` entry in a page's front matter when a page legitimately moves.
 """
 import os, sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 PUBLIC = os.path.join(ROOT, "public")
 URLS = os.path.join(os.path.dirname(__file__), "legacy-urls.txt")
