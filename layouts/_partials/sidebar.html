@@ -1,7 +1,7 @@
 {{/* Collapsible sidebar built from the content tree.
      Sections default to collapsed unless they contain the current page. */}}
 <nav class="nav" aria-label="Wiki sections">
-  <a class="nav-home {{ if .IsHome }}active{{ end }}" href="{{ "/" | relURL }}">Introduction</a>
+  <a class="nav-home {{ if .IsHome }}active{{ end }}" href="{{ .Site.Home.RelPermalink }}">Introduction</a>
   {{ template "branch" (dict "section" .Site.Home "current" .) }}
 </nav>
 

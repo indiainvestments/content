@@ -1,0 +1,10 @@
+{{/* Markdown writes site-absolute image paths (/images/foo.png). Hugo does NOT
+     rewrite those, so on a project page served under /content/ the browser asks
+     for /images/foo.png and gets a 404. relURL only prepends the baseURL path
+     for paths WITHOUT a leading slash, hence the TrimPrefix. */}}
+{{- $src := .Destination -}}
+{{- if hasPrefix $src "/" -}}
+  {{- $src = strings.TrimPrefix "/" $src | relURL -}}
+{{- end -}}
+<img src="{{ $src | safeURL }}" alt="{{ .PlainText }}"
+     {{- with .Title }} title="{{ . }}"{{ end }} loading="lazy">

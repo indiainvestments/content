@@ -84,7 +84,7 @@ If you're comfortable with Markdown and can handle more tech oriented tools, you
 
 Use any of the above tools, as per your convenience, to create and share an early draft with us. Use the Discord channel mentioned above for sharing this. The owner of the card / task would take care of entering it into our repository, and you'd receive public credit for this work.
 
-It would help if you can create an account on [GitHub](https://github.com/) and share your GitHub profile name with us (we highly recommend creating one, although it's not mandatory), so that we can [give you recognition for your contributions to our wiki](https://www.indiainvestments.wiki/#contributors).
+It would help if you can create an account on [GitHub](https://github.com/) and share your GitHub profile name with us (we highly recommend creating one, although it's not mandatory), so that we can [give you recognition for your contributions to our wiki](/#contributors).
 
 Your first few contributions would have to be merged to our wiki following this process. When your content is being reviewed, you'd receive comments with suggestions for improvements, if any. If your contributions meet the bar, and you seem engaged enough, we'll send you an invite to join our team and work with us directly on writing the wiki.
 

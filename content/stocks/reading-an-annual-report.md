@@ -223,7 +223,7 @@ Companies are required by law to disclose all transactions (transfer of resource
 
 ![Tata Consultancy Services Ltd's Annual Report (FY20)](/images/ony0odd.png)
 
-We have talked about understanding related party transactions under the [_'Evaluation of management of a company from an investing perspective'_](https://www.indiainvestments.wiki/stocks/reading-an-annual-report#related-party-transactions) chapter of this series.
+We have talked about understanding related party transactions under the [_'Evaluation of management of a company from an investing perspective'_](/stocks/reading-an-annual-report/#related-party-transactions) chapter of this series.
 
 ## Some Recommendations
 
@@ -233,4 +233,4 @@ We have talked about understanding related party transactions under the [_'Evalu
 
 ## Conclusion
 
-We've previously mentioned the importance of conducting thorough due diligence while researching a company in the section [_Can you beat the market?_](https://www.indiainvestments.wiki/stocks/can-you-beat-the-market) chapter of this series. Reading an annual report is essential to get a better understanding of the business a company is engaged in, but sometimes the technical terms used in an annual report may repel the uninitiated, and so we've tried to explain most sections found in an annual report.
+We've previously mentioned the importance of conducting thorough due diligence while researching a company in the section [_Can you beat the market?_](/stocks/can-you-beat-the-market/) chapter of this series. Reading an annual report is essential to get a better understanding of the business a company is engaged in, but sometimes the technical terms used in an annual report may repel the uninitiated, and so we've tried to explain most sections found in an annual report.

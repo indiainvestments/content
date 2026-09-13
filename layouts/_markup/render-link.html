@@ -1,0 +1,14 @@
+{{/* Same problem as images: site-absolute links in markdown must carry the
+     baseURL path, or they escape the site on a project page. External links,
+     anchors and mailto are passed through untouched. */}}
+{{- $d := .Destination -}}
+{{- if hasPrefix $d "/" -}}
+  {{- $frag := "" -}}
+  {{- if strings.Contains $d "#" -}}
+    {{- $parts := split $d "#" -}}
+    {{- $d = index $parts 0 -}}
+    {{- $frag = printf "#%s" (index $parts 1) -}}
+  {{- end -}}
+  {{- $d = printf "%s%s" (strings.TrimPrefix "/" $d | relURL) $frag -}}
+{{- end -}}
+<a href="{{ $d | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text }}</a>
