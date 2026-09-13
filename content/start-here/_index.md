@@ -1,6 +1,6 @@
 ---
 title: "New to Investing"
-weight: 70
+weight: 06
 rotClass: slow-drift
 bookCollapseSection: true
 bookFlatSection: true
