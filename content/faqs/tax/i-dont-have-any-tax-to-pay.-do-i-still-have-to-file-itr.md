@@ -2,7 +2,7 @@
 title: "I don't have any tax to pay. Do I still have to file ITR?"
 description: "File a return, it is an important piece of paperwork that can come in handy later. Even if you have no tax to pay. It would take 5-10 mins at worst."
 weight: 29
-rotClass: fast-rot
+rotClass: evergreen
 lastUpdated: 2021-04-04
 lastReviewed: 2021-04-04
 ---

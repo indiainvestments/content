@@ -2,7 +2,7 @@
 title: "What’s the best mutual fund I can invest in?"
 description: "No one can predict how a mutual fund would perform in the long run. Data also shows consistently chasing best mutual funds result in behavior gap. Pick one that you can stay with for long term."
 weight: 7
-rotClass: fast-rot
+rotClass: evergreen
 lastUpdated: 2021-04-24
 lastReviewed: 2021-04-24
 ---

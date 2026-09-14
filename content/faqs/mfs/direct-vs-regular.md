@@ -3,7 +3,7 @@ title: "Why should I invest in Direct Plans instead of Regular Plans?"
 description: "Direct plans of mutual funds have no commission, lower fees compared to its Regular plan counterpart. Returns are higher with no extra risk."
 weight: 6
 math: true
-rotClass: fast-rot
+rotClass: slow-drift
 lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---

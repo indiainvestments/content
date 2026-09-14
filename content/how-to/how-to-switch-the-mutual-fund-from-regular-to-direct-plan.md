@@ -2,7 +2,7 @@
 title: "How to switch a Mutual Fund from Regular to Direct Plan"
 description: "If your email ID is linked to the folio, you need to login to the portal of the fund house and select the switch option. If not, you will have to visit the office of the fund house"
 weight: 37
-rotClass: fast-rot
+rotClass: evergreen
 lastUpdated: 2021-05-17
 lastReviewed: 2021-05-17
 ---

@@ -3,7 +3,7 @@ title: "Where can I park money for a few days, a few months, or a few years?"
 description: "For shorter durations, few days to few months; Overnight funds / Liquid funds / Money Market funds are alright. High Yield Savings Account (HYSA) are ok. If large amount, consider registered advisor."
 weight: 31
 math: true
-rotClass: fast-rot
+rotClass: slow-drift
 lastUpdated: 2024-05-18
 lastReviewed: 2024-05-18
 ---
