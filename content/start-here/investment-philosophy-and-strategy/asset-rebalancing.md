@@ -2,7 +2,6 @@
 title: "Asset Rebalancing"
 weight: 83
 rotClass: evergreen
-lastUpdated: 2021-10-09
 lastReviewed: 2021-10-09
 ---
 # Asset Rebalancing

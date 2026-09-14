@@ -3,7 +3,6 @@ title: "ELI5 Series"
 weight: 111
 rotClass: evergreen
 bookCollapseSection: true
-lastUpdated: 2022-03-30
 lastReviewed: 2022-03-30
 ---
 # ELI5 Series

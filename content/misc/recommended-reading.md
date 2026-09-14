@@ -3,7 +3,6 @@ title: "Recommended Reading"
 description: "List of recommended reading material."
 weight: 70
 rotClass: slow-drift
-lastUpdated: 2021-03-14
 lastReviewed: 2021-03-14
 ---
 # Recommended Reading

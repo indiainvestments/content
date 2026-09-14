@@ -3,7 +3,6 @@ title: "FAQ Style Guide"
 description: "Guidelines for how to write content for FAQ section"
 weight: 127
 rotClass: slow-drift
-lastUpdated: 2021-03-18
 lastReviewed: 2021-03-18
 ---
 # FAQ Style Guide

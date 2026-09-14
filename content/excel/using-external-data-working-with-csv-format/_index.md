@@ -4,7 +4,6 @@ description: "A close look at how to parse CSV data dumps and process the same i
 weight: 57
 rotClass: evergreen
 bookCollapseSection: true
-lastUpdated: 2021-03-27
 lastReviewed: 2021-03-27
 ---
 # Using External Data : Working with CSV Format

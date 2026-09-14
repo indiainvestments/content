@@ -3,7 +3,6 @@ title: "Should I invest in this LIC policy?"
 description: "Avoid. LIC and the agent would take most of it. You'd be left with peanuts. It's one of the most opaque form of investments, and there's no guarantee. Govt. backs LIC, not your financial future."
 weight: 14
 rotClass: slow-drift
-lastUpdated: 2021-04-04
 lastReviewed: 2021-04-04
 ---
 # Should I invest in this LIC policy?

@@ -3,7 +3,6 @@ title: "Behavioral Biases"
 description: "Links to Reddit Posts and Articles/Books"
 weight: 110
 rotClass: evergreen
-lastUpdated: 2022-03-30
 lastReviewed: 2022-03-30
 ---
 # Behavioral Biases

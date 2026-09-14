@@ -2,7 +2,6 @@
 title: "Personal Finance"
 weight: 109
 rotClass: slow-drift
-lastUpdated: 2022-03-30
 lastReviewed: 2022-03-30
 ---
 # Personal Finance

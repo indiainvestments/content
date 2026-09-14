@@ -3,7 +3,6 @@ title: "Liquidity and Solvency"
 description: "Solvency Ratios help investors evaluate the competence of a company to meet its long term debt obligations. Liquidity Ratios are used to evaluate the ability to pay off short term debt obligations."
 weight: 53
 rotClass: slow-drift
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # Liquidity and Solvency

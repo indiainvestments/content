@@ -2,7 +2,6 @@
 title: "Inflation"
 weight: 113
 rotClass: evergreen
-lastUpdated: 2021-03-14
 lastReviewed: 2021-03-14
 ---
 # Inflation

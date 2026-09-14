@@ -3,7 +3,6 @@ title: "What are chit funds? Should I invest?"
 description: "Closed system, where someone's gain is another person's loss. Does not scale with corpus size. Has little to no regulatory oversight. Stay away. Also called as chit, kitty, chitty, kuri, etc."
 weight: 32
 rotClass: evergreen
-lastUpdated: 2021-04-04
 lastReviewed: 2021-04-04
 ---
 # What are chit funds? Should I invest?

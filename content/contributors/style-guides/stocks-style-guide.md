@@ -3,7 +3,6 @@ title: "Stocks Style Guide"
 description: "A style guide on how to contribute to the stocks section of our wiki"
 weight: 130
 rotClass: slow-drift
-lastUpdated: 2021-03-23
 lastReviewed: 2021-03-23
 ---
 # Stocks Style Guide

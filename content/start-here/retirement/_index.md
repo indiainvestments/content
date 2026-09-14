@@ -4,7 +4,6 @@ description: "Discussions on basic retirement planning and various strategies"
 weight: 104
 rotClass: slow-drift
 bookCollapseSection: true
-lastUpdated: 2022-03-30
 lastReviewed: 2022-03-30
 ---
 # Retirement

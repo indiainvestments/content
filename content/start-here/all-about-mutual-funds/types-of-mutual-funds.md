@@ -3,7 +3,6 @@ title: "Types of Mutual Funds"
 description: "Different categories and sub-categories of mutual funds explained"
 weight: 97
 rotClass: slow-drift
-lastUpdated: 2021-05-24
 lastReviewed: 2021-05-24
 ---
 # Types of Mutual Funds

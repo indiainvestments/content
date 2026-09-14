@@ -3,7 +3,6 @@ title: "General Style Guide"
 description: "A common guideline on how to contribute content to wiki."
 weight: 126
 rotClass: slow-drift
-lastUpdated: 2021-04-14
 lastReviewed: 2021-04-14
 ---
 # General Style Guide

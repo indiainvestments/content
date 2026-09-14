@@ -3,7 +3,6 @@ title: "How should I invest in US equity?"
 description: "Invest in a cost-effective manner. For smaller corpus, it makes sense to invest via India-domiciled mutual funds that invest overseas, while with a larger corpus it could be cheaper to invest directly"
 weight: 27
 rotClass: fast-rot
-lastUpdated: 2021-05-17
 lastReviewed: 2021-05-17
 ---
 # How should I invest in US equity?

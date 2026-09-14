@@ -3,7 +3,6 @@ title: "US Investing"
 description: "Overview of US indices."
 weight: 69
 rotClass: fast-rot
-lastUpdated: 2021-03-14
 lastReviewed: 2021-03-14
 ---
 # US Investing

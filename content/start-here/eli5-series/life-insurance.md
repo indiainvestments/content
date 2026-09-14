@@ -2,7 +2,6 @@
 title: "Life Insurance"
 weight: 114
 rotClass: evergreen
-lastUpdated: 2021-10-09
 lastReviewed: 2021-10-09
 ---
 # Life Insurance

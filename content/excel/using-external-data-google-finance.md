@@ -3,7 +3,6 @@ title: "Using External Data : Google Finance"
 description: "Fetching data for ticker(s) using GOOGLEFINANCE() function in Google Spreadsheet"
 weight: 56
 rotClass: slow-drift
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # Using External Data : Google Finance

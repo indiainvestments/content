@@ -3,7 +3,6 @@ title: "Disclaimers and Disclosures"
 description: "Disclaimers and disclosures that you should read and understand before reading this wiki"
 weight: 2
 rotClass: slow-drift
-lastUpdated: 2021-06-25
 lastReviewed: 2021-06-25
 ---
 # Disclaimers and Disclosures

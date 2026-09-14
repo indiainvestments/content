@@ -2,7 +2,6 @@
 title: "Various types of Risks in Investments"
 weight: 79
 rotClass: evergreen
-lastUpdated: 2021-10-09
 lastReviewed: 2021-10-09
 ---
 # Various types of Risks in Investments

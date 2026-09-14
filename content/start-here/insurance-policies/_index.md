@@ -4,7 +4,6 @@ description: "Severe medical emergencies or sudden loss of income can be pretty 
 weight: 85
 rotClass: slow-drift
 bookCollapseSection: true
-lastUpdated: 2022-03-30
 lastReviewed: 2022-03-30
 ---
 # Insurance

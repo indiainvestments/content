@@ -3,7 +3,6 @@ title: "I’ve to invest in ELSS for 80C tax saving. Which fund(s) should I pick
 description: "Pick a fund that you like. No point having more than one ELSS fund. But know why you're investing in ELSS in the first place, because it's equity, and you should give it longer than 3 years to perform"
 weight: 9
 rotClass: fast-rot
-lastUpdated: 2021-04-04
 lastReviewed: 2021-04-04
 ---
 # I’ve to invest in ELSS for 80C tax saving. Which fund\(s\) should I pick?

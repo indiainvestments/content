@@ -2,7 +2,6 @@
 title: "Part Four - How to Invest"
 weight: 75
 rotClass: slow-drift
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # Part Four - How to Invest

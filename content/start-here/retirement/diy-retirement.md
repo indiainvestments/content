@@ -3,7 +3,6 @@ title: "Do-It-Yourself Retirement Plan"
 description: "A basic DIY retirement plan that's easy to execute and works for you"
 weight: 108
 rotClass: slow-drift
-lastUpdated: 2021-10-09
 lastReviewed: 2021-10-09
 ---
 # Do-It-Yourself Retirement Plan

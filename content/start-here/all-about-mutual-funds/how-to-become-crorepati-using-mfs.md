@@ -3,7 +3,6 @@ title: "How to Become Crorepati using Mutual Funds"
 description: "How to use mutual funds and disciplined investing over the years, to let compounding generate wealth over long term"
 weight: 102
 rotClass: slow-drift
-lastUpdated: 2021-05-17
 lastReviewed: 2021-05-17
 ---
 # How to Become Crorepati using Mutual Funds

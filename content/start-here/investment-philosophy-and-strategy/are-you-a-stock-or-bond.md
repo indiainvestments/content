@@ -3,7 +3,6 @@ title: "Are you a Stock or Bond?"
 description: "Evaluate yourself as having income like a stock or bond or somewhere mixed and then accordingly plan out your asset allocation on a personal level."
 weight: 80
 rotClass: evergreen
-lastUpdated: 2021-03-14
 lastReviewed: 2021-03-14
 ---
 # Are you a Stock or Bond?

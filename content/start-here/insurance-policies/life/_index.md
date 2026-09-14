@@ -4,7 +4,6 @@ description: "Life insurance and various forms of it. From ULIP to term insuranc
 weight: 86
 rotClass: slow-drift
 bookCollapseSection: true
-lastUpdated: 2021-06-13
 lastReviewed: 2021-06-13
 ---
 # Life

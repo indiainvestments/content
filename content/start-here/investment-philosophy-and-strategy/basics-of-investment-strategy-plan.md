@@ -2,7 +2,6 @@
 title: "Basics of Investment Strategy Plan"
 weight: 77
 rotClass: evergreen
-lastUpdated: 2021-03-14
 lastReviewed: 2021-03-14
 ---
 # Basics of Investment Strategy Plan

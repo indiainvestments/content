@@ -3,7 +3,6 @@ title: "Life Insurance: What it is exactly?"
 description: "Term cover or life cover, that replaces your income in the event of demise; to help protect your dependents. Read along to understand what factors to keep in mind when buying a term cover."
 weight: 87
 rotClass: slow-drift
-lastUpdated: 2021-10-09
 lastReviewed: 2021-10-09
 ---
 # Life Insurance: What it is exactly?

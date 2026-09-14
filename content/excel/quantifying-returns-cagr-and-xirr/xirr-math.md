@@ -4,7 +4,6 @@ description: "Mathematical formulation of XIRR, discounted cashflows, NPV, and d
 weight: 64
 math: true
 rotClass: evergreen
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # A Rigorous Introduction to XIRR

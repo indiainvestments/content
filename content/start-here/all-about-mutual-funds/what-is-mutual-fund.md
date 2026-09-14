@@ -3,7 +3,6 @@ title: "What is a Mutual Fund?"
 description: "Basics of everything mutual fund. NAV, underlying portfolio, expense ratio, dividend vs growth, NFO, and why one should invest in mutual funds."
 weight: 96
 rotClass: slow-drift
-lastUpdated: 2021-05-17
 lastReviewed: 2021-05-17
 ---
 # What is a Mutual Fund?

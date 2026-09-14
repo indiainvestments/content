@@ -3,7 +3,6 @@ title: "I'm unable to send messages to stocks-fundamentals channel on Discord. W
 description: "This is done to cull low-effort speculative queries on stocks. Share your thesis in the popular channels. You'd be able to earn the role to post in that channel."
 weight: 132
 rotClass: slow-drift
-lastUpdated: 2021-06-12
 lastReviewed: 2021-06-12
 ---
 # I'm unable to send messages to stocks-fundamentals channel on Discord. Why?

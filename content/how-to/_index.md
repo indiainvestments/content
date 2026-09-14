@@ -6,7 +6,6 @@ rotClass: slow-drift
 bookCollapseSection: true
 aliases:
   - "/how-to/index"
-lastUpdated: 2021-06-12
 lastReviewed: 2021-06-12
 ---
 # How To

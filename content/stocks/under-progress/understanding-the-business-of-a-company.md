@@ -3,7 +3,6 @@ title: "Diving Deeper into Businesses"
 description: "We'll learn how to dive deep and analyze businesses"
 weight: 51
 rotClass: slow-drift
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # Diving Deeper into Businesses

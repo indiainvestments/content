@@ -6,7 +6,6 @@ rotClass: slow-drift
 bookCollapseSection: true
 aliases:
   - "/bonds/index"
-lastUpdated: 2021-06-12
 lastReviewed: 2021-06-12
 ---
 # Bond Basics

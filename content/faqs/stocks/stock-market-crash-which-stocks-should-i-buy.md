@@ -3,7 +3,6 @@ title: "The Stock Market Has Crashed. Which Stocks Should I Buy?"
 description: "Corrections in the stock market aren't unusual. Do your own due diligence before buying stocks."
 weight: 24
 rotClass: evergreen
-lastUpdated: 2021-05-17
 lastReviewed: 2021-05-17
 ---
 # The Stock Market Has Crashed. Which Stocks Should I Buy?

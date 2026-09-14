@@ -4,7 +4,6 @@ description: "IndiaInvestments is a community to discuss investments, insurance,
 weight: 1
 rotClass: slow-drift
 bookCollapseSection: false
-lastUpdated: 2022-06-15
 lastReviewed: 2022-06-15
 ---
 # Introduction

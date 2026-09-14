@@ -2,7 +2,6 @@
 title: "Part Three - Spending Pattern"
 weight: 74
 rotClass: slow-drift
-lastUpdated: 2021-03-14
 lastReviewed: 2021-03-14
 ---
 # Part Three - Spending Pattern

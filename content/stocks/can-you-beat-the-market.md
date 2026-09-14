@@ -3,7 +3,6 @@ title: "Can You Beat the Market?"
 description: "An individual investor needs to invest time and effort, have a capability to think on a higher level than the consensus view, adapt to changes in market dynamics, and have patience and conviction."
 weight: 43
 rotClass: evergreen
-lastUpdated: 2021-04-21
 lastReviewed: 2021-04-21
 ---
 # Can You Beat the Market?

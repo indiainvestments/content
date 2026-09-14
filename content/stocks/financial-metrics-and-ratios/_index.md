@@ -4,7 +4,6 @@ description: "Financial metrics and ratios are numbers which can help investors 
 weight: 46
 rotClass: slow-drift
 bookCollapseSection: true
-lastUpdated: 2021-04-15
 lastReviewed: 2021-04-15
 ---
 # Financial Metrics and Ratios

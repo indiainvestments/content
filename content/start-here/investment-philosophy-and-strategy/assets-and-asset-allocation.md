@@ -2,7 +2,6 @@
 title: "Assets and Asset Allocation"
 weight: 81
 rotClass: evergreen
-lastUpdated: 2021-03-14
 lastReviewed: 2021-03-14
 ---
 # Assets and Asset Allocation

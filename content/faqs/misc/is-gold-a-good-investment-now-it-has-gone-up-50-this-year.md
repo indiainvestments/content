@@ -3,7 +3,6 @@ title: "Is Gold a good investment now? It has gone up ~50% this year"
 description: "If that is indeed true, best time to buy gold was a year ago. It can be a great investment, but one cannot judge good or bad investment only the basis of recent returns."
 weight: 33
 rotClass: fast-rot
-lastUpdated: 2021-04-04
 lastReviewed: 2021-04-04
 ---
 # Is Gold a good investment now? It has gone up ~50% this year

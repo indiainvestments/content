@@ -3,7 +3,6 @@ title: "Up to what age should I take term cover?"
 description: "Till the age someone is financially dependent on your income. Ideally 60-65, no more."
 weight: 16
 rotClass: slow-drift
-lastUpdated: 2021-04-04
 lastReviewed: 2021-04-04
 ---
 # Up to what age should I take term cover?

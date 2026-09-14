@@ -2,7 +2,6 @@
 title: "Part Two - Defensive Setup"
 weight: 73
 rotClass: slow-drift
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # Part Two - Defensive Setup

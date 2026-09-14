@@ -3,7 +3,6 @@ title: "Some FAQs on Life Insurance"
 description: "Commonly asked queries on term / life insurance"
 weight: 90
 rotClass: slow-drift
-lastUpdated: 2021-09-22
 lastReviewed: 2021-09-22
 ---
 # Some FAQs on Life Insurance

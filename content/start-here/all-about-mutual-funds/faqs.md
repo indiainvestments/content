@@ -3,7 +3,6 @@ title: "FAQs for Mutual Funds"
 description: "'Commonly asked queries on mutual funds, and answers to those'"
 weight: 100
 rotClass: slow-drift
-lastUpdated: 2021-12-18
 lastReviewed: 2021-12-18
 ---
 # FAQs for Mutual Funds

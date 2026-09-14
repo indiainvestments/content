@@ -4,7 +4,6 @@ description: "How to do returns in excel or spreadsheet? Read along to find out"
 weight: 61
 rotClass: evergreen
 bookCollapseSection: true
-lastUpdated: 2021-04-03
 lastReviewed: 2021-04-03
 ---
 # Quantifying Returns: CAGR and XIRR

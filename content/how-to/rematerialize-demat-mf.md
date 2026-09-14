@@ -3,7 +3,6 @@ title: "How to rematerialize mutual fund from demat form"
 description: "Step-by-step guide on how to re-materialize demat units of mutual fund."
 weight: 40
 rotClass: evergreen
-lastUpdated: 2021-04-04
 lastReviewed: 2021-04-04
 ---
 # How to rematerialize mutual fund from demat form

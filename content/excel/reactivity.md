@@ -3,7 +3,6 @@ title: "Reactive UI & Updates"
 description: "'Reactive UI : Data Chaining and Updates in Excel with Formula and Functions'"
 weight: 55
 rotClass: evergreen
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # Reactive UI & Updates

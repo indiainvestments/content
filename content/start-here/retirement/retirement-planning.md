@@ -3,7 +3,6 @@ title: "Primer on Retirement Planning"
 description: "What is retirement planning? How to begin estimating how much you need as corpus when you retire? Read more here"
 weight: 105
 rotClass: slow-drift
-lastUpdated: 2021-10-09
 lastReviewed: 2021-10-09
 ---
 # Primer on Retirement Planning

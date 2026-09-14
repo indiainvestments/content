@@ -3,7 +3,6 @@ title: "Computing LTCG Eligible Equity Units"
 description: "Step-by-step guide on how to compute equity units eligible for LTCG taxation, if redeemed, using Spreadsheet"
 weight: 59
 rotClass: fast-rot
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # Computing LTCG Eligible Equity Units

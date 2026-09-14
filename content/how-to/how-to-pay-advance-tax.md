@@ -3,7 +3,6 @@ title: "How to Pay Advance Tax"
 description: "Introduction to what advance tax means, and if you owe advance tax, how to pay it to IT department"
 weight: 41
 rotClass: fast-rot
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # How to Pay Advance Tax

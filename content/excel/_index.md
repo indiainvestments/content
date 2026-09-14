@@ -6,7 +6,6 @@ rotClass: slow-drift
 bookCollapseSection: true
 aliases:
   - "/excel/index"
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # Excel for Fun and Profit

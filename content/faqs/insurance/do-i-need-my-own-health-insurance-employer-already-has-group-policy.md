@@ -3,7 +3,6 @@ title: "Do I need my own health insurance? Employer already has group policy"
 description: "Yes, you should. Employer provided group policy might have lower cover, or co-pay, or a cap on room-rent. You should get one on your own, to decouple your insurance from your employer"
 weight: 17
 rotClass: slow-drift
-lastUpdated: 2021-04-04
 lastReviewed: 2021-04-04
 ---
 # Do I need my own health insurance? Employer already has group policy

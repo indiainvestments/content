@@ -4,7 +4,6 @@ description: "Beginner-oriented simple guide for all things mutual funds"
 weight: 95
 rotClass: slow-drift
 bookCollapseSection: true
-lastUpdated: 2022-03-30
 lastReviewed: 2022-03-30
 ---
 # All About Mutual Funds

@@ -3,7 +3,6 @@ title: "Getting Started"
 description: "Part one of Zero to Investing series : for absolute beginners starting out with investing"
 weight: 72
 rotClass: slow-drift
-lastUpdated: 2024-05-18
 lastReviewed: 2024-05-18
 ---
 # Getting Started

@@ -3,7 +3,6 @@ title: "What is the best mutual fund app for investments?"
 description: "Pick one you're comfortable with, as long as the platform allows buying direct plan, growth scheme; free of cost. Beyond this, your specific choice of app won't affect your returns."
 weight: 5
 rotClass: fast-rot
-lastUpdated: 2022-04-13
 lastReviewed: 2022-04-13
 ---
 # What is the best mutual fund app for investments?

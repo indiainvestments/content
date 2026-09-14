@@ -3,7 +3,6 @@ title: "Should I get a Demat Account to buy units in Mutual Funds?"
 description: "No! You do not need demat account / trading account, to invest in mutual funds."
 weight: 10
 rotClass: fast-rot
-lastUpdated: 2021-05-17
 lastReviewed: 2021-05-17
 ---
 # Should I get a Demat Account to buy units in Mutual Funds?

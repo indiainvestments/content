@@ -3,7 +3,6 @@ title: "Health"
 description: "All things health insurance"
 weight: 92
 rotClass: slow-drift
-lastUpdated: 2021-10-09
 lastReviewed: 2021-10-09
 ---
 # Health

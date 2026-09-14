@@ -3,7 +3,6 @@ title: "How To Style Guide"
 description: "A style guide for How To section of our wiki"
 weight: 128
 rotClass: slow-drift
-lastUpdated: 2021-03-18
 lastReviewed: 2021-03-18
 ---
 # How To Style Guide

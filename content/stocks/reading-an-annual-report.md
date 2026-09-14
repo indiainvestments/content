@@ -3,7 +3,6 @@ title: "Reading an Annual Report"
 description: "Reading an Annual Report — in the Indian context"
 weight: 44
 rotClass: evergreen
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # Reading an Annual Report

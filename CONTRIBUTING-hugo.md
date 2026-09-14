@@ -44,7 +44,6 @@ description: "One line, used for search results and link previews."
 weight: 12              # position in the sidebar within its section
 rotClass: fast-rot      # fast-rot | slow-drift | evergreen
 lastReviewed: 2026-04-12
-lastUpdated: 2026-04-12
 ---
 ```
 

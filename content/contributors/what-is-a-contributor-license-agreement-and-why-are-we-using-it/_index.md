@@ -4,7 +4,6 @@ description: "The reasons why we're using a contributor license agreement, promi
 weight: 122
 rotClass: slow-drift
 bookCollapseSection: true
-lastUpdated: 2021-04-07
 lastReviewed: 2021-04-07
 ---
 # What is a Contributor License Agreement and why are we using it?

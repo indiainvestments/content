@@ -3,7 +3,6 @@ title: "What is the best app for buying or trading stocks?"
 description: "Pick a discount broker you're comfortable with, as per your investment style and functionality requirements"
 weight: 22
 rotClass: fast-rot
-lastUpdated: 2021-05-24
 lastReviewed: 2021-05-24
 ---
 # What is the best app for buying or trading stocks?

@@ -4,7 +4,6 @@ description: "Profitability Ratios, also known as Performance Ratios, help inves
 weight: 47
 math: true
 rotClass: slow-drift
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # Profitability

@@ -3,7 +3,6 @@ title: "How to Search the Wiki From Discord"
 description: "Search the wiki using slash command /wiki, offered by India Investments bot on Discord"
 weight: 131
 rotClass: slow-drift
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # How to Search the Wiki From Discord

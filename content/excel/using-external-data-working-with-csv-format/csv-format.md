@@ -3,7 +3,6 @@ title: "CSV Format"
 description: "Closer look at CSV format, and how to operate on these to display in a table format, using SPLIT() and TRANSPOSE() functions"
 weight: 58
 rotClass: evergreen
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # CSV Format

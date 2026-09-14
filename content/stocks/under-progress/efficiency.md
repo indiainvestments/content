@@ -3,7 +3,6 @@ title: "Efficiency"
 description: "Efficiency Ratios, also known as Activity Ratios, help investors evaluate the efficiency with which a business is able to use its assets to generate revenue."
 weight: 52
 rotClass: slow-drift
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # Efficiency

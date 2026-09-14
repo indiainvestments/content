@@ -3,7 +3,6 @@ title: "Excel Series Style Guide"
 description: "A set of guiding principles on how to write an entry for the excel series"
 weight: 129
 rotClass: slow-drift
-lastUpdated: 2021-03-18
 lastReviewed: 2021-03-18
 ---
 # Excel Series Style Guide

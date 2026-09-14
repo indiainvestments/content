@@ -3,7 +3,6 @@ title: "Opinions on investing in smart wealth plan by bank?"
 description: "Avoid. Insurance company and bank RM would make gains; but you could do much better not mixing insurance with investments. Insurance cover is inadequate, returns from ULIPs are lower than bank deposit"
 weight: 15
 rotClass: slow-drift
-lastUpdated: 2021-04-04
 lastReviewed: 2021-04-04
 ---
 # Opinions on investing in smart wealth plan by bank?

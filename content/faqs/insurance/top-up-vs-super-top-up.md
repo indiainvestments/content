@@ -3,7 +3,6 @@ title: "Should I take top-up policy or super top-up?"
 description: "Super top-up is better, as the limit is reset on every claim. While for top-up, it's per policy year"
 weight: 18
 rotClass: slow-drift
-lastUpdated: 2021-04-04
 lastReviewed: 2021-04-04
 ---
 # Should I take top-up policy or super top-up?

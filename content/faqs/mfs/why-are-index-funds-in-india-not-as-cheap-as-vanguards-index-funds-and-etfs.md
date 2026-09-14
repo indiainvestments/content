@@ -3,7 +3,6 @@ title: "Why are Index Funds in India not as cheap as Vanguard's Index Funds and 
 description: "It doesn't make sense to compare the expenses of Indian Index Funds and ETFs with Vanguard's Index Funds and ETFs. Vanguard's S&P 500 fund has more AUM than the entire Indian mutual fund industry AUM."
 weight: 12
 rotClass: slow-drift
-lastUpdated: 2022-03-30
 lastReviewed: 2022-03-30
 ---
 # Why are Index Funds in India not as cheap as Vanguard's Index Funds and ETFs?

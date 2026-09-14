@@ -2,7 +2,6 @@
 title: "How do I start investing in mutual funds [ELI5 series]"
 weight: 116
 rotClass: evergreen
-lastUpdated: 2021-03-14
 lastReviewed: 2021-03-14
 ---
 # How do I start investing in mutual funds \[ELI5 series\]

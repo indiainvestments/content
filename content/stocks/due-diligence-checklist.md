@@ -3,7 +3,6 @@ title: "Due-Diligence Checklist"
 description: "A checklist to reference while performing due diligence on a company."
 weight: 49
 rotClass: slow-drift
-lastUpdated: 2021-06-10
 lastReviewed: 2021-06-10
 ---
 # Due-Diligence Checklist

@@ -3,7 +3,6 @@ title: "Child Plan"
 description: "Investing in child plans"
 weight: 94
 rotClass: slow-drift
-lastUpdated: 2021-06-13
 lastReviewed: 2021-06-13
 ---
 # Child Plan

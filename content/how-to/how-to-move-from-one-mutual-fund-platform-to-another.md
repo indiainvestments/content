@@ -3,7 +3,6 @@ title: "How to move from one mutual fund platform to another"
 description: "You just need to stop the existing SIP, import the CAS statement to the new platform and restart the SIP there under the same folio number"
 weight: 36
 rotClass: fast-rot
-lastUpdated: 2021-05-17
 lastReviewed: 2021-05-17
 ---
 # How to move from one mutual fund platform to another

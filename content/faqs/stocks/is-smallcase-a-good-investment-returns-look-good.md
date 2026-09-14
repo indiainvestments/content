@@ -3,7 +3,6 @@ title: "Should I invest in smallcase?"
 description: "Smallcase has tools which can help managing a stock portfolio better than most platforms. But do your own due diligence, before you invest in a smallcase; and not just because the CAGR looks great."
 weight: 21
 rotClass: fast-rot
-lastUpdated: 2021-05-17
 lastReviewed: 2021-05-17
 ---
 # Should I invest in smallcase?

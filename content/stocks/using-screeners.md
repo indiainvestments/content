@@ -3,7 +3,6 @@ title: "Using Screeners"
 description: "How can we use various screener websites to our advantage and analyze stocks"
 weight: 48
 rotClass: fast-rot
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # Using Screeners

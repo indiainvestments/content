@@ -3,7 +3,6 @@ title: "Corporate Bonds"
 description: "Bonds that are issued by private and public corporations are known as corporate bonds."
 weight: 67
 rotClass: fast-rot
-lastUpdated: 2021-04-30
 lastReviewed: 2021-04-30
 ---
 # Corporate Bonds

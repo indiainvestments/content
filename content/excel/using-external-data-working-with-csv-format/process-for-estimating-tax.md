@@ -3,7 +3,6 @@ title: "Process for Estimating Tax"
 description: "A peek into tax estimation process for redeeming units that are outside STCG zone"
 weight: 60
 rotClass: fast-rot
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # Process for Estimating Tax

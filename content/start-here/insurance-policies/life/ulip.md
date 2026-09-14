@@ -3,7 +3,6 @@ title: "ULIP - Unit Linked Insurance Plan"
 description: "An opaque form of investment, that's costly for you, and doesn't adequately cover you. More importantly, you cannot exit if you choose to, not until maturity."
 weight: 89
 rotClass: slow-drift
-lastUpdated: 2021-06-13
 lastReviewed: 2021-06-13
 ---
 # ULIP - Unit Linked Insurance Plan

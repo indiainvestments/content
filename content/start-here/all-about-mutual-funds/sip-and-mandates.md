@@ -3,7 +3,6 @@ title: "SIP and Mandates"
 description: "Different ways of setting up your SIP, and various types of mandates to enable automatic debit from bank account"
 weight: 101
 rotClass: slow-drift
-lastUpdated: 2021-05-17
 lastReviewed: 2021-05-17
 ---
 # SIP and Mandates

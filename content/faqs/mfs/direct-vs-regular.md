@@ -4,7 +4,6 @@ description: "Direct plans of mutual funds have no commission, lower fees compar
 weight: 6
 math: true
 rotClass: slow-drift
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # Why should I invest in Direct Plans instead of Regular Plans?

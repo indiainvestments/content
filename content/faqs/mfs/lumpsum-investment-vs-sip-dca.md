@@ -3,7 +3,6 @@ title: "Lumpsum investment vs SIP/DCA"
 description: "If you're investing for the long term, time in the market beats timing the market. Invest the entire amount all at once, irrespective of market levels. Invest regularly if don't have lumpsum."
 weight: 11
 rotClass: slow-drift
-lastUpdated: 2021-04-04
 lastReviewed: 2021-04-04
 ---
 # Lumpsum investment vs SIP/DCA

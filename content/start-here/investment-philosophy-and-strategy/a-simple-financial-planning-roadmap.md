@@ -2,7 +2,6 @@
 title: "A simple Financial Planning Roadmap"
 weight: 78
 rotClass: evergreen
-lastUpdated: 2021-03-14
 lastReviewed: 2021-03-14
 ---
 # A simple Financial Planning Roadmap

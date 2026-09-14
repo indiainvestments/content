@@ -3,7 +3,6 @@ title: "Is it worth paying extra premium for term insurance?"
 description: "With various regulations in place for insurers by IRDA; there are not many advantages of paying a premium to larger, and otherwise reputed, companies for their term insurance cover."
 weight: 19
 rotClass: slow-drift
-lastUpdated: 2021-06-05
 lastReviewed: 2021-06-05
 ---
 # Is it worth paying extra premium for term insurance?

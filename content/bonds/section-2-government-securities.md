@@ -3,7 +3,6 @@ title: "Government Securities"
 description: "A government security is a type of bond issued by the Central Government or the State Governments"
 weight: 66
 rotClass: fast-rot
-lastUpdated: 2021-02-27
 lastReviewed: 2021-02-27
 ---
 # Government Securities

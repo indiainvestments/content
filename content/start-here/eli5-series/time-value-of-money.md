@@ -3,7 +3,6 @@ title: "Time Value of Money"
 description: "Time value of money implies that rupees paid or received in the future are different from the rupees paid or received today."
 weight: 112
 rotClass: evergreen
-lastUpdated: 2021-03-14
 lastReviewed: 2021-03-14
 ---
 # Time Value of Money

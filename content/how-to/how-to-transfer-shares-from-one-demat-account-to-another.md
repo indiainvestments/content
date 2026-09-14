@@ -3,7 +3,6 @@ title: "How to transfer shares from one demat account to another"
 description: "If depository of both to and from DP is same, use Easiest for CDSL and Speed-e for NSDL. Otherwise, submit DIS physically"
 weight: 35
 rotClass: slow-drift
-lastUpdated: 2021-04-24
 lastReviewed: 2021-04-24
 ---
 # How to transfer shares from one demat account to another

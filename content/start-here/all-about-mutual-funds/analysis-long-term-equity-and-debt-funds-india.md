@@ -3,7 +3,6 @@ title: "Analysis using long term equity and debt funds in India"
 description: "Long term equity and debt portfolio, with different asset allocation tilts, and their outcomes"
 weight: 103
 rotClass: slow-drift
-lastUpdated: 2021-05-17
 lastReviewed: 2021-05-17
 ---
 # Analysis using long term equity and debt funds in India

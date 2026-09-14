@@ -3,7 +3,6 @@ title: "Which screener(s) should I use?"
 description: "Pick a screener which doesn't bias you for or against a stock. But you should compute the ratios yourself, from ARs, to understand the assumptions behind those computations."
 weight: 23
 rotClass: fast-rot
-lastUpdated: 2021-05-17
 lastReviewed: 2021-05-17
 ---
 # Which screener\(s\) should I use?

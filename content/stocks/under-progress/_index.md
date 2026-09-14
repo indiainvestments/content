@@ -4,7 +4,6 @@ description: "These are chapters in progress that may or may not be reviewed yet
 weight: 50
 rotClass: slow-drift
 bookCollapseSection: true
-lastUpdated: 2021-03-15
 lastReviewed: 2021-03-15
 ---
 # Work in Progress

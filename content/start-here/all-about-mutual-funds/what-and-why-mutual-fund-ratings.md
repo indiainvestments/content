@@ -3,7 +3,6 @@ title: "What and Why of Mutual Fund Ratings"
 description: "Star ratings are, at best, a lagging indicator. It can measure what has happened, and that might be very different from what will happen after you invest."
 weight: 98
 rotClass: slow-drift
-lastUpdated: 2021-05-17
 lastReviewed: 2021-05-17
 ---
 # What and Why of Mutual Fund Ratings

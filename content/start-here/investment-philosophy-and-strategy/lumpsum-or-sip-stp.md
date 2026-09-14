@@ -2,7 +2,6 @@
 title: "Lumpsum or SIP/STP"
 weight: 84
 rotClass: evergreen
-lastUpdated: 2021-10-09
 lastReviewed: 2021-10-09
 ---
 # Lumpsum or SIP/STP

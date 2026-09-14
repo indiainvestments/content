@@ -3,7 +3,6 @@ title: "Why You should not Opt for a Readymade Pension Plan"
 description: "'Perils of pension or annuity plans, or retirement plan mutual funds.'"
 weight: 106
 rotClass: slow-drift
-lastUpdated: 2021-10-09
 lastReviewed: 2021-10-09
 ---
 # Why You should not Opt for a Readymade Pension Plan

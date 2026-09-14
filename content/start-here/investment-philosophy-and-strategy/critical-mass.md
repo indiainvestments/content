@@ -3,7 +3,6 @@ title: "Critical Mass"
 description: "Critical Mass is a place in which individuals enjoy their own personal financial nirvana. Differentiation between earned income and assets is a fundamental lesson to learn when thinking in terms of it"
 weight: 82
 rotClass: evergreen
-lastUpdated: 2021-03-14
 lastReviewed: 2021-03-14
 ---
 # Critical Mass

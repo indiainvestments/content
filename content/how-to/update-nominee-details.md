@@ -3,7 +3,6 @@ title: "How to Update Nominee Details?"
 description: "Step-by-step detailed guide on how to update nominees in your mutual fund investments, or securities holdings in Demat account, or even across your bank accounts."
 weight: 39
 rotClass: fast-rot
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # How to Update Nominee Details?

@@ -4,7 +4,6 @@ description: "We'll take a look at what CAGR is, how it works, and how we can co
 weight: 62
 math: true
 rotClass: evergreen
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # CAGR: Point-to-Point Annualized Returns

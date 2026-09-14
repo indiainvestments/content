@@ -3,7 +3,6 @@ title: "How to link FAQ via bot in Discord"
 description: "Step-by-step guide on how you can use bot to link to existing FAQ entries"
 weight: 124
 rotClass: slow-drift
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # How to link FAQ via bot in Discord

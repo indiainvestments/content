@@ -3,7 +3,6 @@ title: "Why should I invest in the US markets?"
 description: "US equities give diversification and exposure to global growth in the most stable currency. Invest in US equities, if you can find a cost-effective way to do it."
 weight: 26
 rotClass: fast-rot
-lastUpdated: 2021-04-17
 lastReviewed: 2021-04-17
 ---
 # Why should I invest in the US markets?

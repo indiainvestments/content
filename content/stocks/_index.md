@@ -6,7 +6,6 @@ rotClass: slow-drift
 bookCollapseSection: true
 aliases:
   - "/stocks/index"
-lastUpdated: 2021-06-12
 lastReviewed: 2021-06-12
 ---
 # Introduction to the Stocks Series

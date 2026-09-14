@@ -4,7 +4,6 @@ description: "What is XIRR? How can I use it to make financial decisions? What a
 weight: 63
 math: true
 rotClass: evergreen
-lastUpdated: 2022-12-01
 lastReviewed: 2022-12-01
 ---
 # A Gentle Introduction to XIRR

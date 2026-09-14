@@ -3,7 +3,6 @@ title: "Researching a Sector"
 description: "How do we research a sector — in the Indian context"
 weight: 45
 rotClass: slow-drift
-lastUpdated: 2021-10-12
 lastReviewed: 2021-10-12
 ---
 # Researching a Sector

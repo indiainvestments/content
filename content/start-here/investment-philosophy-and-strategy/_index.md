@@ -4,7 +4,6 @@ description: "Basics of Investment Strategy Plan"
 weight: 76
 rotClass: evergreen
 bookCollapseSection: true
-lastUpdated: 2022-03-30
 lastReviewed: 2022-03-30
 ---
 # Investment Philosophy and Strategy

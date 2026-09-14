@@ -3,7 +3,6 @@ title: "Contributor License Agreement"
 description: "Agreement between contributors to the wiki and how their content would be used by India Investments"
 weight: 123
 rotClass: slow-drift
-lastUpdated: 2021-04-07
 lastReviewed: 2021-04-07
 ---
 # Contributor License Agreement

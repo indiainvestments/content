@@ -3,7 +3,6 @@ title: "How to file SEBI SCORES complaint?"
 description: "For any issue related to the securities market, file complaint in scores.gov.in website"
 weight: 38
 rotClass: slow-drift
-lastUpdated: 2021-05-31
 lastReviewed: 2021-05-31
 ---
 # How to file SEBI SCORES complaint?
