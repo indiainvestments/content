@@ -31,7 +31,7 @@ Why anonymous? Because we (well, some of us) value our privacy, and don't have a
 
 We aren't registered with any regulatory body, like SEBI, or even AMFI. We don't represent any financial institution. In fact, you should assume, unless explicitly stated otherwise, none of us have any formal financial background.
 
-Most of the time, we hang out in [r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/), or its [Discord server](https://discord.gg/6FvYcma7Qz).
+Most of the time, we hang out in [r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/), or its [Discord server](https://discord.gg/hqBNg4u).
 
 If these all seem vague details, keep in mind that our hands aren't tied by business interests. This project is being built as a non-profit open-source project, because we feel that most for-profit businesses would intentionally omit information that could be important for making financial decisions.
 
@@ -61,7 +61,7 @@ If you've decided on how to contribute - reviewing existing content, or adding n
 
 A card represents a unit of task. One of our core-team members would be tagged on that card, with display name / profile pic visible on it. This is the contact person for that card or the underlying task. If the card doesn't have any owner yet, no worries!
 
-Head over to our [Discord #kb-discussions](https://discord.gg/6FvYcma7Qz) channel, and share the card you wish to work on.
+Head over to our [Discord #kb-discussions](https://discord.gg/hqBNg4u) channel, and share the card you wish to work on.
 
 ![The kb-discussions channel is the one you need!](/images/screenshot-2021-02-26-at-10.36.50-pm.png)
 
