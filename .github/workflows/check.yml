@@ -32,3 +32,6 @@ jobs:
 
       - name: Previous/Next ordering check
         run: python3 scripts/check_pagenav.py
+
+      - name: Check markdown to keep it standard 
+        run: python3 scripts/check_markdown.py
