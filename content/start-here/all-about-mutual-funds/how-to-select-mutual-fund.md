@@ -2,8 +2,8 @@
 title: "How to Select a Mutual Fund"
 description: "With too many categories and thousands of mutual funds, it can get confusing when selecting mutual funds. Various selection strategies for mutual funds explained here"
 weight: 99
-rotClass: slow-drift
-lastReviewed: 2021-05-17
+rotClass: evergreen
+lastReviewed: 2026-09-17
 ---
 # How to Select a Mutual Fund
 

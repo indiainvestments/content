@@ -2,7 +2,7 @@
 title: "ELI5 guide to Selecting an Equity Mutual Fund"
 weight: 115
 rotClass: evergreen
-lastReviewed: 2021-03-14
+lastReviewed: 2026-09-18
 ---
 # ELI5 guide to Selecting an Equity Mutual Fund
 
