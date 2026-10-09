@@ -1,0 +1,29 @@
+{{/* Standalone off-site redirect. No baseof: this template defines no blocks,
+     so Hugo renders it as the whole document.
+
+     Hugo's `aliases` can only redirect to another page on this site, so the
+     vanity links that used to live on GitBook (/discord, /reddit) need their
+     own one-line pages. Front matter carries the destination in `target`. */}}
+{{- $to := .Params.target -}}
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Redirecting to {{ $to }}</title>
+<link rel="canonical" href="{{ $to }}">
+<meta name="robots" content="noindex, follow">
+<meta http-equiv="refresh" content="0; url={{ $to | safeURL }}">
+<style>
+  body { font: 16px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif;
+         margin: 4rem auto; max-width: 32rem; padding: 0 1rem;
+         color: #36322e; background: #fbf4ec; }
+  a { color: #175f87; }
+  @media (prefers-color-scheme: dark) { body { color: #d8dce8; background: #0f111a; }
+                                        a { color: #6aa9ff; } }
+</style>
+</head>
+<body>
+<p>Redirecting to <a href="{{ $to | safeURL }}">{{ $to }}</a>.</p>
+<p>If nothing happens, follow the link above.</p>
+</body>
+</html>

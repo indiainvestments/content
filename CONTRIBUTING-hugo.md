@@ -44,6 +44,7 @@ description: "One line, used for search results and link previews."
 weight: 12              # position in the sidebar within its section
 rotClass: fast-rot      # fast-rot | slow-drift | evergreen
 lastReviewed: 2026-04-12
+lastUpdated: 2026-04-12
 ---
 ```
 
@@ -97,6 +98,79 @@ takes effect 1 April. **April is the real review month.** Work through every
 changed, and bump `lastReviewed`. A lighter February pass can flag announced but
 not-yet-enacted changes.
 
+
+## Short links and redirects
+
+Two kinds of link point *into* this wiki from places that cannot easily be
+edited — Carl-bot's tag database inside Discord, and a decade of Reddit
+comments. Both are handled here, in the repo, so that nothing outside ever
+needs changing again.
+
+**`/go/<tag>` — the Discord bot's links.** Each Carl-bot tag points at
+`indiainvestments.wiki/go/<tag>` rather than a deep page URL. The destination is
+an `aliases` entry in that page's front matter:
+
+```yaml
+aliases:
+  - "/go/direct"
+```
+
+Move the page and the alias moves with it; the bot never notices.
+`scripts/golinks.py` regenerates these from the tag table in
+`content/contributors/how-to-link-faq-via-bot-in-discord.md`:
+
+```bash
+python3 scripts/golinks.py            # show what would change
+python3 scripts/golinks.py --apply    # write the aliases
+python3 scripts/golinks.py --commands # the .tag edit lines for Discord
+```
+
+**`/discord`, `/reddit` — vanity links to other sites.** Hugo's `aliases` can
+only redirect within this site, so an off-site destination needs its own page
+using the `redirect` layout:
+
+```yaml
+---
+title: "IndiaInvestments Discord"
+layout: redirect
+target: "https://discord.gg/hqBNg4u"
+navHide: true
+searchHide: true
+build:
+  list: never
+---
+```
+
+No body. `build: list: never` keeps it out of the sidebar, the search index, the
+sitemap and the Previous/Next chain. To add another, copy `content/discord.md`
+and change `title` and `target`. To change where an existing one points — a
+rotated Discord invite, say — edit that one `target:` line.
+
+**Every short link is in `scripts/legacy-urls.txt`**, which means a check fails if
+one stops resolving. Add the new path there whenever you add a short link, or it
+is not actually protected.
+
+## The checks
+
+All of these run on every pull request and on every push to `main`. They also run
+locally, and they are quick.
+
+| | |
+|---|---|
+| `check_urls.py` | every URL the old GitBook site served, plus every short link, still resolves |
+| `check_links.py` | no broken internal link, no missing image |
+| `check_pagenav.py` | Previous/Next point the right way (see the comment in `page-nav.html` — the swap is deliberate) |
+| `check_markdown.py` | nothing but CommonMark + GFM: no GitBook tags, no Obsidian syntax, no unknown shortcodes, no `$$` without `math: true` |
+
+Two more are tools rather than gates, and do not run in CI:
+
+| | |
+|---|---|
+| `inventory.py` | every page with its size and its count of expiring facts — the triage list for the April sweep |
+| `reviewed.py` | bump `lastReviewed` on pages you have actually verified; `--check` lists edited pages you forgot |
+
+Each check exits non-zero when it finds nothing to check. A check that silently
+stops checking is worse than no check — that has happened here before.
 
 ## Look and feel
 
